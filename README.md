@@ -1,2 +1,2 @@
-# DevManuals
-Developer manuals in Russian
+# Developer manuals in Russian
+
