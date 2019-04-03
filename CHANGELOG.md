@@ -2,11 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.16] - 2019-04-03
+## [0.0.17] - 2019-04-03
 ### Added
 - Android:
   - Android.txt
+- Books:
+  - 2019. Чистая архитектура.txt
 - Programs developing:
+  - Entity Component System.txt
   - Principles of OOP.txt
   - SOLID.txt
 
