@@ -1,0 +1,38 @@
+----------------------------------------------------------------------------------------------------
+Develop
+----------------------------------------------------------------------------------------------------
+MonoDevelop
+https://www.monodevelop.com/download/#fndtn-download-lin-ubuntu
+Ubuntu 18.04 (i386, amd64, armhf)
+$ sudo apt install apt-transport-https dirmngr
+$ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+$ echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
+$ sudo apt update
+$ sudo apt-get install monodevelop
+----------------------------------------------------------------------------------------------------
+$ sudo apt install gtk-sharp2
+$ sudo apt install glib-sharp     -- Unable to locate package
+$ sudo apt install pango-sharp    -- Unable to locate package
+$ sudo apt install atk-sharp      -- Unable to locate package
+$ sudo apt install gdk-sharp      -- Unable to locate package
+$ sudo apt install glade-sharp    -- Unable to locate package
+$ sudo apt install art-sharp      -- Unable to locate package
+$ sudo apt install rsvg-sharp     -- Unable to locate package
+$ sudo apt install gtk-dotnet     -- Unable to locate package
+$ sudo apt install gnome-sharp    -- Unable to locate package
+$ sudo apt install gnomevfs-sharp -- Unable to locate package
+$ sudo apt install vte-sharp      -- Unable to locate package
+$ sudo apt install gconf-sharp    -- Unable to locate package
+$ sudo apt install gtkhtml-sharp  -- Unable to locate package
+$ sudo apt-get install glade
+$ sudo apt-get install libglade2.0-cil libglade2.0-cil-dev
+$ sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
+----------------------------------------------------------------------------------------------------
+Lazarus
+http://www.lazarus-ide.org/
+$ cd /home/Develop/Lazarus-ide.org/
+$ sudo dpkg -i fpc-laz_3.0.4-1_amd64.deb
+$ sudo dpkg -i fpc-src_3.0.4-2_amd64.deb
+$ sudo dpkg -i lazarus-project_2.0.0-0_amd64.deb
+$ gksudo lazarus-ide
+----------------------------------------------------------------------------------------------------
