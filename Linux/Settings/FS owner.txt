@@ -1,0 +1,3 @@
+$ sudo chown -hR username /home/Develop/
+$ sudo chown -hR username /usr/lib/doublecmd/
+
