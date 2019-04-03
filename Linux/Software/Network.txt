@@ -1,0 +1,37 @@
+----------------------------------------------------------------------------------------------------
+Network
+----------------------------------------------------------------------------------------------------
+Google Chrome
+-------------
+$ wget -O ~/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+$ sudo dpkg -i ~/chrome.deb
+$ google-chrome
+----------------------------------------------------------------------------------------------------
+Yandex disk
+https://yandex.ru/support/disk/cli-clients.html
+$ sudo dpkg -i yandex-disk_latest_amd64.deb
+Импорт GPG-ключа для пакета .deb
+$ wget -O YANDEX-DISK-KEY.GPG http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG
+$ sudo apt-key add YANDEX-DISK-KEY.GPG
+Мастер начальной настройки
+$ yandex-disk setup
+получить ключ авторизации (OAuth-токен) 
+$ yandex-disk token [-p, --password=PASSWORD] [OPTION] USERNAME [FILE]
+запустить демон и синхронизировать все папки, кроме указанных в списке исключений exclude-dirs.
+$ yandex-disk start [OPTION]
+отобразить статус работы демона
+$ yandex-disk status [OPTION]
+остановить работу демона
+$ yandex-disk stop [OPTION]
+синхронизировать все папки, кроме указанных в списке исключений exclude-dirs
+$ yandex-disk sync [OPTION]
+получить публичную ссылку на указанный файл или папку (FILE)
+$ yandex-disk publish [OPTION] FILE
+отменить публикацию для указанного файла или папки (FILE)
+$ yandex-disk unpublish FILE
+Примеры использования команд
+$ yandex-disk start -c ~/ydconfig/newconfig.cfg # запустить демон и синхронизацию с указанным файлом конфигурации 
+$ yandex-disk start --exclude-dirs=Foto # не синхронизировать папку Foto
+$ yandex-disk sync --read-only # синхронизировать папки в режиме read-only
+$ yandex-disk publish Foto # получить публичную ссылку на папку Foto
+----------------------------------------------------------------------------------------------------

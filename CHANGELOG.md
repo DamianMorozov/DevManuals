@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Backup.txt
     - Desktop.txt
     - Develop.txt
+    - Network.txt
 
 ## [0.0.14] - 2019-04-02
 ### Added
