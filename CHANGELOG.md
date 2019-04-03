@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.17] - 2019-04-03
+## [0.0.18] - 2019-04-03
 ### Added
 - Android:
   - Android.txt
@@ -12,6 +12,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Entity Component System.txt
   - Principles of OOP.txt
   - SOLID.txt
+- Linux:
+  - Hardware
+  - Settings
+  - Software
 
 ## [0.0.14] - 2019-04-02
 ### Added
