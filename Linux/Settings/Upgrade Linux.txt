@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------
+https://linuxconfig.org/how-to-upgrade-to-ubuntu-18-04-lts-bionic-beaver
+----------------------------------------------------------------------------------------------------
+Run your Ubuntu Update
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt dist-upgrade
+$ sudo apt autoremove
+----------------------------------------------------------------------------------------------------
+How to Upgrade Ubuntu The Ubuntu Way
+$ sudo apt install update-manager-core
+$ sudo do-release-upgrade
+$ sudo do-release-upgrade -d
+----------------------------------------------------------------------------------------------------
+No new release found
+$ sudo do-release-upgrade
+----------------------------------------------------------------------------------------------------
+Ubuntu Update and Ubuntu Upgrade
+$ sudo apt update && sudo apt -y dist-upgrade
+----------------------------------------------------------------------------------------------------
+

@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.29] - 2019-04-03
+## [0.0.30] - 2019-04-03
 ### Added
 - Android:
   - Android.txt
@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - FS permission.txt
     - Hosts.txt
     - Ubuntu Tweak Tool.txt
+    - Upgrade Linux.txt
   - Software
     - Backup.txt
     - Desktop.txt
