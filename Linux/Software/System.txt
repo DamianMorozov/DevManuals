@@ -1,0 +1,61 @@
+----------------------------------------------------------------------------------------------------
+System
+$ sudo apt --fix-broken install
+----------------------------------------------------------------------------------------------------
+Stacer
+https://github.com/oguzhaninan/Stacer
+$ sudo add-apt-repository ppa:oguzhaninan/stacer -y
+$ sudo apt-get update
+$ sudo apt-get install stacer -y
+----------------------------------------------------------------------------------------------------
+Doublecmd
+https://github.com/jangson/doublecmd/blob/master/doc/INSTALL.RUS.txt
+$ cd /usr/lib/doublecmd/
+$ chmod +x install.sh
+$ sudo bash install.sh
+----------------------------------------------------------------------------------------------------
+Gnome Commander
+https://packages.ubuntu.com/hu/bionic/gnome-commander
+$ sudo apt-get install gnome-commander-data
+$ sudo apt-get install libc6
+$ sudo apt-get install libexiv2-14
+$ sudo apt-get install libgcc1
+$ sudo apt-get install libgdk-pixbuf2.0-0
+$ sudo apt-get install libglib2.0-0
+$ sudo apt-get install libgnome-2-0
+$ sudo apt-get install libgnomeui-0
+$ sudo apt-get install libgnomevfs2-0
+$ sudo apt-get install libgtk2.0-0
+$ sudo apt-get install libpango-1.0-0
+$ sudo apt-get install libpoppler-glib8
+$ sudo apt-get install libpython2.7 
+$ sudo apt-get install libstdc++6
+$ sudo apt-get install libtag1v5
+$ sudo apt-get install libunique-1.0-0
+$ sudo apt-get install libgnomevfs2-extra
+$ sudo apt-get install meld
+$ sudo apt-get install gnome-commander
+$ gksudo gnome-commander
+----------------------------------------------------------------------------------------------------
+Gnome Commander
+https://gcmd.github.io/download.html
+$ tar -xf gnome-commander-1.10.0.tar.xz
+$ cd gnome-commander-1.10.0
+$ chmod +x configure
+$ sudo apt-get build-dep gnome-commander
+$ sudo apt-get install itstool
+$ ./configure && make && make install
+$ ./configure
+$ make
+$ make install
+----------------------------------------------------------------------------------------------------
+Gedit Restore Tabs
+https://github.com/raelgc/gedit-restore-tabs
+$ mkdir -p ~/.local/share/gedit/plugins
+$ cp restoretabs.* ~/.local/share/gedit/plugins/
+$ sudo cp org.gnome.gedit.plugins.restoretabs.gschema.xml /usr/share/glib-2.0/schemas/
+$ sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
+Restart Gedit.
+Activate the plugin: go to Edit > Preferences, select Plugins tab and check Restore Tabs entry.
+----------------------------------------------------------------------------------------------------
+
