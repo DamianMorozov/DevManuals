@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.35] - 2019-04-04
+## [0.0.36] - 2019-04-04
 ### Added
 - Windows:
   - Settings
@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Hotkeys.txt
     - Mklink.txt
     - netsh interface portproxy.txt
+    - Pagefile.sys.txt
 
 ## [0.0.30] - 2019-04-03
 ### Added
