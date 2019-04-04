@@ -2,8 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.37] - 2019-04-04
+## [0.0.38] - 2019-04-04
 ### Added
+- Books
+  - Head First.txt
 - Windows
   - Cmd
     - Hybrid *.cmd
