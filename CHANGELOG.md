@@ -2,9 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.36] - 2019-04-04
+## [0.0.37] - 2019-04-04
 ### Added
-- Windows:
+- Windows
+  - Cmd
+    - Hybrid *.cmd
+    - Shutdown *.cmd
   - Settings
     - Credential Manager.txt
     - Hiberfil.sys.txt
@@ -15,15 +18,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.0.30] - 2019-04-03
 ### Added
-- Android:
+- Android
   - Android.txt
-- Books:
+- Books
   - 2019. Чистая архитектура.txt
-- Programs developing:
+- Programs developing
   - Entity Component System.txt
   - Principles of OOP.txt
   - SOLID.txt
-- Linux:
+- Linux
   - Hardware
     - Videocard.txt
   - Settings
@@ -44,7 +47,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.0.14] - 2019-04-02
 ### Added
-- Programs developing:
+- Programs developing
   - Changelog.txt
   - Docker.txt
   - Git.txt

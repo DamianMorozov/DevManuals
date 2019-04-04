@@ -1,0 +1,1 @@
+shutdown /s /hybrid /t 3600
