@@ -2,11 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.33] - 2019-04-04
+## [0.0.34] - 2019-04-04
 ### Added
 - Windows:
   - Settings
     - Credential Manager.txt
+    - Hotkeys.txt
     - Mklink.txt
     - netsh interface portproxy.txt
 
