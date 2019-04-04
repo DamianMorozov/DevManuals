@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.31] - 2019-04-04
+### Added
+- Windows:
+  - Settings
+    - netsh interface portproxy.txt
+
 ## [0.0.30] - 2019-04-03
 ### Added
 - Android:
