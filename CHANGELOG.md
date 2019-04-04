@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.39] - 2019-04-04
+## [0.0.40] - 2019-04-04
 ### Added
 - Books
   - Head First.txt
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Programs developing
     - C#
       - Access modifiers.txt
+      - AsyncCallback.txt
   - Settings
     - Credential Manager.txt
     - Hiberfil.sys.txt
