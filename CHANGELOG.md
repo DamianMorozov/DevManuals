@@ -2,10 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.41] - 2019-04-05
+## [0.0.42] - 2019-04-05
 ### Added
-- Books
-  - Head First.txt
+- Programs developing
+  - 2018. C# 7. Карманный справочник.txt
 ### Moved
 - Books -> Programs developing
 
