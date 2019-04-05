@@ -1,0 +1,23 @@
+====================================================================================================
+How to test non-public methods in .NET
+Как тестировать не-публичные методы в .NET
+https://habr.com/post/224733/
+====================================================================================================
+1. Публичный метод (private -> public).
+2. Внутренний метод (private -> internal).
+[InternalsVisibleToAttribute("...")] - типы, видимые только в пределах текущей сборки, являются видимыми для заданной сборки
+3. Защищенный метод (private -> protected).
+В тестирующей сборке нужно будет делать наследника от тестируемого класса – доступ к методу получен.
+4. PrivateObject.
+Этот класс предоставляет Visual Studio Unit Testing Framework, так что если в проекте используется NUnit или еще что-то, то этот способ не подойдет. 
+5. Рефлексия.
+  // Получить экземпляр класса
+  var obj = new SomeClass(SomeArgs args);
+  Type t = typeof(SomeClass);
+  // Изменить значение поля
+  FieldInfo fi = t.GetField("SomeField", BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public);
+  fi.SetValue(obj, someValue);
+  // Вызвать метод
+  t.InvokeMember("SomeMethod", BindingFlags.InvokeMethod | BindingFlags.NonPublic |
+      BindingFlags.Public | BindingFlags.Instance, null, obj, new object[] { SomeMethod });
+----------------------------------------------------------------------------------------------------

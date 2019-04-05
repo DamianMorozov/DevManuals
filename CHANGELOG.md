@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.50] - 2019-04-05
+## [0.0.51] - 2019-04-05
 ### Added
 - Programs developing
   - C#
@@ -17,6 +17,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - ValueTuple.txt
   - SQL
     - 13 вопросов перед внесением изменений в работу SQL Server.txt
+  - Testing
+    - How to test non-public methods in .NET.txt
 ### Moved
 - Books -> Programs developing
 
