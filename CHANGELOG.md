@@ -2,11 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.45] - 2019-04-05
+## [0.0.46] - 2019-04-05
 ### Added
 - Programs developing
   - C#
     - 2018. C# 7. Карманный справочник.txt
+    - C# versions.txt
     - Data types.txt
     - Foreach enum.txt
     - Stopwatch.txt
