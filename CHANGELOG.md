@@ -2,10 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.42] - 2019-04-05
+## [0.0.43] - 2019-04-05
 ### Added
 - Programs developing
-  - 2018. C# 7. Карманный справочник.txt
+  - C#
+    - 2018. C# 7. Карманный справочник.txt
+    - Data types.txt
 ### Moved
 - Books -> Programs developing
 
