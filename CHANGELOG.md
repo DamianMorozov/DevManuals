@@ -2,12 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.43] - 2019-04-05
+## [0.0.44] - 2019-04-05
 ### Added
 - Programs developing
   - C#
     - 2018. C# 7. Карманный справочник.txt
     - Data types.txt
+    - Foreach enum.txt
 ### Moved
 - Books -> Programs developing
 
