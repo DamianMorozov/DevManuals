@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.49] - 2019-04-05
+## [0.0.50] - 2019-04-05
 ### Added
 - Programs developing
   - C#
@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Nuget
     - Ninject.txt
     - NUnit.txt
+    - ValueTuple.txt
   - SQL
     - 13 вопросов перед внесением изменений в работу SQL Server.txt
 ### Moved
