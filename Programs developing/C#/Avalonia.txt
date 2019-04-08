@@ -1,0 +1,30 @@
+====================================================================================================
+http://avaloniaui.net/docs/quickstart/create-new-project
+https://github.com/AvaloniaUI/avalonia-dotnet-templates
+====================================================================================================
+Clone the repository
+$ git clone https://github.com/AvaloniaUI/avalonia-dotnet-templates.git
+Installing the templates
+$ cd avalonia-dotnet-templates/
+  $ dotnet new --install [path-to-repository]
+$ sudo dotnet new --install app
+  $ dotnet new --install avalonia.app
+$ sudo dotnet new --install app-mvvm
+  $ dotnet new --install avalonia.mvvm
+$ sudo dotnet new --install usercontrol
+  $ dotnet new --install avalonia.usercontrol
+$ sudo dotnet new --install window
+  $ dotnet new --install avalonia.window
+List of installed templates
+$ dotnet new --list
+----------------------------------------------------------------------------------------------------
+Creating a new MVVM Application
+$ dotnet new avalonia.mvvm -o MyApp
+Creating a new Application
+$ dotnet new avalonia.app -o MyApp
+Creating a new Window
+$ dotnet new avalonia.window -na MyApp -n MyNewWindow
+Creating a new UserControl
+$ dotnet new avalonia.window -na MyApp -n MyNewView
+----------------------------------------------------------------------------------------------------
+
