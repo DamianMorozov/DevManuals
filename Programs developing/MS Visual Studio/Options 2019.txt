@@ -1,0 +1,39 @@
+====================================================================================================
+Options for Visual Studio 2019
+https://habr.com/ru/company/microsoft/blog/447124/
+====================================================================================================
+Clean Solution
+--------------
+Projects and Solutions > General
+✓ Reopen documents on solution load
+✓ Restore Solution Explorer project hierarchy on solution load
+----------------------------------------------------------------------------------------------------
+Code Cleanup
+------------
+Configure Code Cleanup - Ctrl+K, Ctrl+Q
+Available fixers move to Included fixers.
+Run Code Cleanup - Ctrl+K, Ctrl+E
+----------------------------------------------------------------------------------------------------
+IntelliCode
+-----------
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode
+----------------------------------------------------------------------------------------------------
+Clipboard Ring
+--------------
+Ctrl+Shift+V
+----------------------------------------------------------------------------------------------------
+Refactoring C#
+--------------
+https://devblogs.microsoft.com/dotnet/visual-studio-2019-net-productivity/
+----------------------------------------------------------------------------------------------------
+Git pull
+--------
+Environment > Keyboard
+Team.Git.Pull - Ctrl+Shift+P
+https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitPull
+----------------------------------------------------------------------------------------------------
+Git stash
+---------
+Team Explorer - Ctrl+\, Ct+M
+Changes - Stash
+----------------------------------------------------------------------------------------------------
