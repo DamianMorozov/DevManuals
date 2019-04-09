@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.61] - 2019-04-09
+## [0.0.62] - 2019-04-09
 ### Added
 - Programs developing
   - MS Visual Studio
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Entity Framework.txt
     - Garbage Collector.txt
     - Hotkeys ReSharper.txt
+    - Hotkeys Visual Studio.txt
 ### Moved
 - Android -> Programs developing\Android
 
