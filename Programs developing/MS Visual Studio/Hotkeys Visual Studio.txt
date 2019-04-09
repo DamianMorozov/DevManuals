@@ -60,8 +60,12 @@ SurroundSelectionWith.Braces   | Ctrl + K, 9
 Visual Studio 2019
 -------------------------------+--------------------------------------------------------------------
 Team.Git.Pull                  | Ctrl+Shift+P
+Git pull for Solution          | Ctrl+K, Ctrl+Z
 Configure Code Cleanup         | Ctrl+K, Ctrl+Q
 Run Code Cleanup               | Ctrl+K, Ctrl+E
 Clipboard Ring                 | Ctrl+Shift+V
 View.TfsTeamExplorer           | Ctrl+\, Ct+M
+Go To Next Issue in File       | Alt+PgDn
+Go To Previous Issue in File   | Alt+PgUp
+Find All References            | Shift+F12
 -------------------------------+--------------------------------------------------------------------
