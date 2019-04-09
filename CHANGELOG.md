@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.54] - 2019-04-09
+### Moved
+- Android -> Programs developing\Android
+
 ## [0.0.53] - 2019-04-08
 ### Added
 - Programs developing
