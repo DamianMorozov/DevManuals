@@ -2,12 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.56] - 2019-04-09
+## [0.0.57] - 2019-04-09
 ### Added
 - Programs developing
   - MS Visual Studio
     - Attributes.txt
     - Debug.txt
+    - Debug VBScript.txt
 ### Moved
 - Android -> Programs developing\Android
 
