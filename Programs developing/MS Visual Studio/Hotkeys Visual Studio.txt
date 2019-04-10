@@ -1,19 +1,21 @@
 ====================================================================================================
 Hotkeys Visual Studio
+Environment > Keyboard
 https://msdn.microsoft.com/ru-ru/library/da5kh0wa.aspx
-Tools - Code Snippets Manager / Средства - Диспетчер фрагментов кода
+Tools > Code Snippets Manager
 https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2017
 ====================================================================================================
 
-Обозреватель решений           | Ctrl + Alt + L
-
-Intelli Sence
+View
 -------------------------------+--------------------------------------------------------------------
-Tools -> Options: Environment - Keyboard | Средства -> Параметры: Окружение - Клавиатура
-                               | 
-Сдвинуть блок                  | Alt + Up/Down
-Свернуть блок                  | Ctrl + M + H / Ctrl + M + U
-Комментировать блок            | Ctrl + K + C / Ctrl + K + U
+View.SolutionExplorer          | Ctrl+Alt+L
+===============================+====================================================================
+
+Text Editor
+-------------------------------+--------------------------------------------------------------------
+Edit.HideSelection             | Ctrl+M, Ctrl+H
+Edit.StopHidingCurrent         | Ctrl+M, Ctrl+U
+Комментировать блок            | Ctrl+K,C / Ctrl+K,U
 Окно объявления                | Alt + F12
 Навигация назад/вперёд         | Ctrl + – / Ctrl+Shift + –
 Team Explorer                  | Ctrl + 0, H
@@ -27,14 +29,14 @@ Team Explorer                  | Ctrl + 0, H
 Переход к следующей проблеме   | Alt + PgUp / PgDown
 Извлечение метода              | Ctrl + R, M / Ctrl + . -> Извлечение метода
 Форматирование документа       | Ctrl + K, Ctrl + D
-Edit.MoveSelectedLinesUp       | Alt + Up   | 
-Edit.MoveSelectedLinesDown     | Alt + Down | 
+Edit.MoveSelectedLinesUp       | Alt+Up
+Edit.MoveSelectedLinesDown     | Alt+Down
 View.ViewDesigner              | Shift + F7 | 
-====================================================================================================
+===============================+====================================================================
 
 Обозреватель тестов
 -------------------------------+--------------------------------------------------------------------
-Окно обозревателя тестов       | Ctrl + E, T
+Окно обозревателя тестов       | Ctrl+E, Ctrl+T
 Развернуть все тесты           | Ctrl + Стрелка вправо
 Свернуть все тесты             | Ctrl + Стрелка влево
 ====================================================================================================
