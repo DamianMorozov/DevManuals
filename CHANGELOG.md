@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.69] - 2019-04-15
+## [0.0.70] - 2019-04-15
 ### Updated
 - Programs developing
   - 2019. Чистая архитектура.txt
