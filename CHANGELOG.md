@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.71] - 2019-04-16
+### Updated
+- Programs developing
+  - C#
+    - Avalonia.txt
+
 ## [0.0.70] - 2019-04-15
 ### Updated
 - Programs developing
