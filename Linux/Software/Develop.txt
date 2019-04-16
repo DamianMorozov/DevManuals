@@ -36,3 +36,19 @@ $ sudo dpkg -i fpc-src_3.0.4-2_amd64.deb
 $ sudo dpkg -i lazarus-project_2.0.0-0_amd64.deb
 $ gksudo lazarus-ide
 ----------------------------------------------------------------------------------------------------
+Anaconda
+https://www.anaconda.com/distribution/
+$ bash Anaconda3-2019.03-Linux-x86_64.sh
+Update conda
+$ conda update -n base -c defaults conda
+----------------------------------------------------------------------------------------------------
+DeOldify
+https://github.com/jantic/DeOldify
+$ git clone https://github.com/jantic/DeOldify.git
+$ cd DeOldify
+$ conda env create -f environment.yml
+Then start running with these commands:
+$ source activate deoldify
+$ jupyter lab
+----------------------------------------------------------------------------------------------------
+
