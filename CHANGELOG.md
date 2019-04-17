@@ -2,10 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.85] - 2019-04-17
+## [0.0.86] - 2019-04-17
 ### Added
 - Programs developing
   - C#
+    - 2016. Библия C#.txt
     - 2018. C# и платформы .NET и .NET Core.txt
     - 2018. XAML.txt
     - C# 2 what news.txt
