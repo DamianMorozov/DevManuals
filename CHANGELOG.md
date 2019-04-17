@@ -2,6 +2,17 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.73] - 2019-04-17
+### Added
+- Programs developing
+  - C#
+    - C# 2 what news.txt
+    - C# 3 what news.txt
+    - C# 4 what news.txt
+    - C# 5 what news.txt
+    - C# 6 what news.txt
+    - C# 7 what news.txt
+
 ## [0.0.72] - 2019-04-16
 ### Updated
 - Linux
