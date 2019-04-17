@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.81] - 2019-04-17
+## [0.0.82] - 2019-04-17
 ### Added
 - Programs developing
   - C#
@@ -19,6 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Interface.txt
     - Performance.txt
     - SemaphoreSlim.txt
+    - WPF Access controls from threads.txt
   - MS Visual Studio
     - Toolbox reset.txt
 
