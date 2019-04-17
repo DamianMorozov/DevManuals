@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.84] - 2019-04-17
+## [0.0.85] - 2019-04-17
 ### Added
 - Programs developing
   - C#
@@ -22,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - WPF Access controls from threads.txt
     - WPF metanit.txt
     - WPF professorweb.txt
+    - WPF XAML Enum.txt
   - MS Visual Studio
     - Toolbox reset.txt
 

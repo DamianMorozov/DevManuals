@@ -1,0 +1,20 @@
+====================================================================================================
+WPF. XAML. ENUM
+====================================================================================================
+Вариант 1 - XAML
+----------------
+https://stackoverflow.com/questions/6145888/how-to-bind-an-enum-to-a-combobox-control-in-wpf
+xmlns:CoreEnums="clr-namespace:Platform.ControlCenter.Core.DataModels.Enums"
+...
+ControlType="{Binding 
+	Source=CoreEnums:EnumToItemsSource {x:Type CoreEnums:AvalonTextEditControlType}, 
+	Path=SourcePlatform}"
+----------------------------------------------------------------------------------------------------
+Вариант 2 - XAML
+----------------
+ControlType="{Binding EchangeControlTypeTableSegmentation, Mode=TwoWay}"
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+VaD - View as DataTemplate (просмотр как шаблон данных)
+VaW - View as Window (просмотр как окно)
+====================================================================================================
