@@ -1,0 +1,77 @@
+====================================================================================================
+Соглашения о стиле кодирования в C#
+https://docs.microsoft.com/ru-ru/dotnet/standard/design-guidelines/naming-guidelines
+https://docs.microsoft.com/ru-ru/dotnet/standard/design-guidelines/names-of-type-members
+https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md
+https://jetbrains.com/help/resharper/Coding_Assistance__Naming_Style.html
+====================================================================================================
+Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries, 2nd Edition
+https://www.informit.com/store/framework-design-guidelines-conventions-idioms-and-9780321545619
+http://sergeyteplyakov.blogspot.com/2009/06/framework-design-guidelines-2nd-edition.html
+Инфраструктура программных проектов: соглашения, идиомы и шаблоны для многократно используемых библиотек .NET
+http://www.williamspublishing.com/Books/978-5-8459-1692-1.html
+Соглашения о стиле кодирования в C# - стр. 347
+====================================================================================================
+-----------
+Именование.
+-----------
+  PascalCasing.
+    Для всех идентификаторов, за исключением имен параметров, первая буква каждого слова: PropertyDescriptor, HtmlTag.
+    Особый случай выполняется для двухбуквенный акронимов, в которых заданы обе буквы: IOStream.
+    ✓ Использовать PascalCasing для всех открытых элементов, типов и пространств имён, состоящих из нескольких слов.
+  camelCasing.
+    Для имен параметров, первая буква каждого слова, кроме первого: propertyDescriptor, ioStream, htmlTag.
+    ✓ Использовать camelCasing для имен параметров.
+------------
+Комментарии.
+------------
++ Комментарий размещается на отдельной строке, а не в конце строки кода.
++ Текст комментария начинается с заглавной буквы.
+? Текст комментария завершается точкой.
+  Между разделителем комментария "//" и текстом комментария вставляется один пробел.
+  // The following declaration creates a query. It does not run
+  // the query.
+--------------------------------
+Рекомендации по работе с языком.
+--------------------------------
+  ...
+----------
+Табуляция.
+----------
+  Tools => Options: Text Editor => C# => Tabs.
+    Indenting: Smart. 
+    Tab size: 4. 
+    Indent size: 4. 
+    Keep tabs.
+------------------------------
+Использование фигурных скобок.
+------------------------------
+? Помещать { в конце предыдущего оператора.
+? Выравнивать } на начало строки с {.
+? Помещать } в начале новой строки.
+  if (someExpression) {
+    SomeMethod();
+  }
++ Блоки из 1 оператора, у которых есть { }, начинать и заканчивать на одной строке.
+  public int Foo { 
+    get {return foo; } 
+    set { foo = value; } 
+  }
++ Отдельное средство доступа к свойству располагать на одной строке.
+  public int Foo { get { return foo; } }
+? Помещать } в её собственную строку, если после следует оператор else, else if, while.
+  if (someExpression) {
+    do {
+      SomeMethod();
+    } while (someOtherCondition);
+  }
+? Не рекомендуется опускать скобки, даже если язык позволяет это.
+  for (int i = 0; i < 100; i++) { SomeMethod(); }
+  Исключение, случаи прерывания кода.
+    if (someExpression) throw new Exception(...);
+  Исключение, оператор выбора.
+    case 0:
+      SomeMethod();
+    break;
+----------------------------------------------------------------------------------------------------
