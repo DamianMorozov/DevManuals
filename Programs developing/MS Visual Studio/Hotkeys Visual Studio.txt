@@ -7,67 +7,61 @@ https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-sn
 ====================================================================================================
 
 View
--------------------------------+--------------------------------------------------------------------
-View.SolutionExplorer          | Ctrl+Alt+L
-===============================+====================================================================
-
+------------------------------------------------------+---------------------------------------------
+View.SolutionExplorer                                 | Ctrl+Alt+L
+------------------------------------------------------+---------------------------------------------
 Text Editor
--------------------------------+--------------------------------------------------------------------
-Edit.HideSelection             | Ctrl+M, Ctrl+H
-Edit.StopHidingCurrent         | Ctrl+M, Ctrl+U
-Комментировать блок            | Ctrl+K,C / Ctrl+K,U
-Окно объявления                | Alt + F12
-Навигация назад/вперёд         | Ctrl + – / Ctrl+Shift + –
-Team Explorer                  | Ctrl + 0, H
-Закладки                       | Ctrl + K, W
-Список членов                  | Ctrl + J
-Сведения о параметрах          | Ctrl + Shift + Space
-Дублировать блок               | Ctrl + E, V
-Собрать решение                | Ctrl + Shift + B
-Сохранить все                  | Ctrl + Shift + S
-Переход к все                  | Ctrl + ,
-Переход к следующей проблеме   | Alt + PgUp / PgDown
-Извлечение метода              | Ctrl + R, M / Ctrl + . -> Извлечение метода
-Форматирование документа       | Ctrl + K, Ctrl + D
-Edit.MoveSelectedLinesUp       | Alt+Up
-Edit.MoveSelectedLinesDown     | Alt+Down
-View.ViewDesigner              | Shift + F7 | 
-===============================+====================================================================
+------------------------------------------------------+---------------------------------------------
+Edit.HideSelection                                    | Ctrl+M, Ctrl+H
+Edit.StopHidingCurrent                                | Ctrl+M, Ctrl+U
+Комментировать блок                                   | Ctrl+K,C / Ctrl+K,U
+Окно объявления                                       | Alt+F12
+Навигация назад/вперёд                                | Ctrl+– / Ctrl+Shift + –
+Team Explorer                                         | Ctrl+0, H
+Закладки                                              | Ctrl+K, W
+Список членов                                         | Ctrl+J
+Сведения о параметрах                                 | Ctrl+Shift+Space
+Дублировать блок                                      | Ctrl+E, V
+Собрать решение                                       | Ctrl+Shift+B
+Сохранить все                                         | Ctrl+Shift+S
+Переход к все                                         | Ctrl+,
+Извлечение метода                                     | Ctrl+R, M / Ctrl+.
+Форматирование документа                              | Ctrl+K, Ctrl+D
+Edit.MoveSelectedLinesUp                              | Alt+Up
+Edit.MoveSelectedLinesDown                            | Alt+Down
+View.ViewDesigner                                     | Shift + F7
+------------------------------------------------------+---------------------------------------------
+TestExplorer
+------------------------------------------------------+---------------------------------------------
+Окно обозревателя тестов                              | Ctrl+E, Ctrl+T
+Развернуть все тесты                                  | Ctrl + Стрелка вправо
+Свернуть все тесты                                    | Ctrl + Стрелка влево
+------------------------------------------------------+---------------------------------------------
 
-Обозреватель тестов
--------------------------------+--------------------------------------------------------------------
-Окно обозревателя тестов       | Ctrl+E, Ctrl+T
-Развернуть все тесты           | Ctrl + Стрелка вправо
-Свернуть все тесты             | Ctrl + Стрелка влево
-====================================================================================================
-
-Assignable Keyboard Shortcuts (Назначаемые комбинации клавиш)
--------------------------------+--------------------------------------------------------------------
-OtherContextMenus.EasyMDIToolWindow.CloseAllButPinned  | Ctrl + Shift + P
-Window.CloseAllDocuments       | Ctrl + Shift + X
-Окно.Закрытьвседокументы       | Ctrl + Shift + X
-Build.RebuildSolution          | Alt + B
-Сборка.Пересобратьрешение      | Alt + B
-Build.CleanSolution            | Alt + C
-Сборка.Очиститьрешение         | Alt + C
-Тест.Выполнитьтестыпослесборки | Alt + V
-====================================================================================================
+Assignable Keyboard Shortcuts
+------------------------------------------------------+---------------------------------------------
+OtherContextMenus.EasyMDIToolWindow.CloseAllButPinned | Ctrl+Shift+P
+Window.CloseAllDocuments                              | Ctrl+Shift+X
+Build.RebuildSolution                                 | Alt+B
+Build.CleanSolution                                   | Alt+C
+TestExplorer.ToggleRunTestsAfterBuild                 | Alt+V
+------------------------------------------------------+---------------------------------------------
 
 Surround Selection v1.0.12.vsix
--------------------------------+--------------------------------------------------------------------
-SurroundSelectionWith.Braces   | Ctrl + K, 9
-====================================================================================================
+------------------------------------------------------+---------------------------------------------
+SurroundSelectionWith.Braces                          | Ctrl+K, 9
+------------------------------------------------------+---------------------------------------------
 
--------------------------------+--------------------------------------------------------------------
+------------------------------------------------------+---------------------------------------------
 Visual Studio 2019
--------------------------------+--------------------------------------------------------------------
-Team.Git.Pull                  | Ctrl+Shift+P
-Git pull for Solution          | Ctrl+K, Ctrl+Z
-Configure Code Cleanup         | Ctrl+K, Ctrl+Q
-Run Code Cleanup               | Ctrl+K, Ctrl+E
-Clipboard Ring                 | Ctrl+Shift+V
-View.TfsTeamExplorer           | Ctrl+\, Ct+M
-Go To Next Issue in File       | Alt+PgDn
-Go To Previous Issue in File   | Alt+PgUp
-Find All References            | Shift+F12
--------------------------------+--------------------------------------------------------------------
+------------------------------------------------------+---------------------------------------------
+Team.Git.Pull                                         | Ctrl+Shift+P
+Git pull for Solution                                 | Ctrl+K, Ctrl+Z
+Configure Code Cleanup                                | Ctrl+K, Ctrl+Q
+Run Code Cleanup                                      | Ctrl+K, Ctrl+E
+Clipboard Ring                                        | Ctrl+Shift+V
+View.TfsTeamExplorer                                  | Ctrl+\, Ct+M
+Go To Next Issue in File                              | Alt+PgDn
+Go To Previous Issue in File                          | Alt+PgUp
+Find All References                                   | Shift+F12
+------------------------------------------------------+---------------------------------------------
