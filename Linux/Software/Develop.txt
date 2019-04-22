@@ -1,6 +1,46 @@
 ----------------------------------------------------------------------------------------------------
 Develop
 ----------------------------------------------------------------------------------------------------
+.NET Core for Ubuntu 18.04
+https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-2.1.301
+$ wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb
+$ sudo dpkg -i packages-microsoft-prod.deb
+Install the .NET SDK
+$ sudo add-apt-repository universe
+$ sudo apt-get install apt-transport-https
+$ sudo apt-get update
+$ sudo apt-get install dotnet-sdk-2.1
+If you receive an error message similar to Unable to locate package dotnet-sdk-2.1, run the following commands.
+$ sudo dpkg --purge packages-microsoft-prod && sudo dpkg -i packages-microsoft-prod.deb
+$ sudo apt-get update
+$ sudo apt-get install dotnet-sdk-2.1
+If that doesn't work, you can run a manual install with the following commands
+$ sudo apt-get install -y gpg
+$ wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.asc.gpg
+$ sudo mv microsoft.asc.gpg /etc/apt/trusted.gpg.d/
+$ wget -q https://packages.microsoft.com/config/ubuntu/18.04/prod.list
+$ sudo mv prod.list /etc/apt/sources.list.d/microsoft-prod.list
+$ sudo chown root:root /etc/apt/trusted.gpg.d/microsoft.asc.gpg
+$ sudo chown root:root /etc/apt/sources.list.d/microsoft-prod.list
+$ sudo apt-get install -y apt-transport-https
+$ sudo apt-get update
+$ sudo apt-get install dotnet-sdk-2.1
+----------------------------------------------------------------------------------------------------
+.NET Core for Ubuntu 18.10
+https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-10/sdk-2.1.301
+$ wget -q https://packages.microsoft.com/config/ubuntu/18.10/packages-microsoft-prod.deb
+$ sudo dpkg -i packages-microsoft-prod.deb
+Install the .NET SDK
+$ sudo apt-get install apt-transport-https
+$ sudo apt-get update
+$ sudo apt-get install dotnet-sdk-2.1
+----------------------------------------------------------------------------------------------------
+Dotnet commands
+$ dotnet --help            Display help.
+$ dotnet --info            Display .NET Core information.
+$ dotnet --list-sdks       Display the installed SDKs.
+$ dotnet --list-runtimes   Display the installed runtimes.
+----------------------------------------------------------------------------------------------------
 MonoDevelop
 https://www.monodevelop.com/download/#fndtn-download-lin-ubuntu
 Ubuntu 18.04 (i386, amd64, armhf)
@@ -41,6 +81,12 @@ https://www.anaconda.com/distribution/
 $ bash Anaconda3-2019.03-Linux-x86_64.sh
 Update conda
 $ conda update -n base -c defaults conda
+To activate this environment, use
+$ conda activate deoldify
+To deactivate an active environment, use
+$ conda deactivate
+Environments
+$ conda info --envs
 ----------------------------------------------------------------------------------------------------
 DeOldify
 https://github.com/jantic/DeOldify
@@ -50,5 +96,23 @@ $ conda env create -f environment.yml
 Then start running with these commands:
 $ source activate deoldify
 $ jupyter lab
+http://localhost:8888/lab
+$ conda install -c conda-forge jupyterlab
+$ conda install -c anaconda tensorflow-gpu
+Pretrained Weights
+https://www.dropbox.com/s/7r2wu0af6okv280/colorize_gen_192.h5
+Then open the ColorizeVisualization.ipynb in Jupyter Lab
+https://github.com/jantic/DeOldify/blob/master/ColorizeVisualization.ipynb
+Colorizing Your Own Photos
+vis.plot_transformed_image("test_images/old-moscow-photos.jpg")
+vis.plot_transformed_image("test_images/Chief.jpg", render_factor=17)
+----------------------------------------------------------------------------------------------------
+CUDA Toolkit 10.1 Download
+https://www.pugetsystems.com/labs/hpc/How-to-install-CUDA-9-2-on-Ubuntu-18-04-1184/#step-2-get-the-right-nvidia-driver-installed
+https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=debnetwork
+$ sudo dpkg -i cuda-repo-ubuntu1804_10.1.105-1_amd64.deb
+$ sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
+$ sudo apt-get update
+$ sudo apt-get install cuda
 ----------------------------------------------------------------------------------------------------
 
