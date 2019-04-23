@@ -35,12 +35,6 @@ $ sudo apt-get install apt-transport-https
 $ sudo apt-get update
 $ sudo apt-get install dotnet-sdk-2.1
 ----------------------------------------------------------------------------------------------------
-Dotnet commands
-$ dotnet --help            Display help.
-$ dotnet --info            Display .NET Core information.
-$ dotnet --list-sdks       Display the installed SDKs.
-$ dotnet --list-runtimes   Display the installed runtimes.
-----------------------------------------------------------------------------------------------------
 MonoDevelop
 https://www.monodevelop.com/download/#fndtn-download-lin-ubuntu
 Ubuntu 18.04 (i386, amd64, armhf)
