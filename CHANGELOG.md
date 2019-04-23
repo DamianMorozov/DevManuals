@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.91] - 2019-04-23
+## [0.0.92] - 2019-04-23
 ### Added
 - Programs developing
   - Develop.txt
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Programs developing
   - C#
     - Avalonia.txt
+  - Git.txt
 
 ## [0.0.89] - 2019-04-22
 ### Added
