@@ -14,11 +14,11 @@ List of installed templates
 $ dotnet new --list
 ----------------------------------------------------------------------------------------------------
 Creating a new MVVM Application
-$ dotnet new avalonia.mvvm -o MyApp
+$ dotnet new avalonia.mvvm -o Avalonia.Example.MvvmApp
 Creating a new Application
-$ dotnet new avalonia.app -o MyApp
+$ dotnet new avalonia.app -o Avalonia.Example.App
 Creating a new Window
-$ dotnet new avalonia.window -na MyApp -n MyNewWindow
+$ dotnet new avalonia.window -na MyApp -n Avalonia.Example.Window
 Creating a new UserControl
-$ dotnet new avalonia.window -na MyApp -n MyNewView
+$ dotnet new avalonia.window -na MyApp -n Avalonia.Example.UserControl
 ----------------------------------------------------------------------------------------------------
