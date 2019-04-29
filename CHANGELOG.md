@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.95] - 2019-04-29
+### Updated
+- Programs developing
+  - MS Visual Studio
+    - Hotkeys Visual Studio.txt
+
 ## [0.0.94] - 2019-04-24
 ### Updated
 - Programs developing

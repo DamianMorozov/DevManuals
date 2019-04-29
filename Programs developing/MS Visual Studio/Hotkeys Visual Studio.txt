@@ -29,7 +29,8 @@ Team Explorer                                         | Ctrl+0, H
 Форматирование документа                              | Ctrl+K, Ctrl+D
 Edit.MoveSelectedLinesUp                              | Alt+Up
 Edit.MoveSelectedLinesDown                            | Alt+Down
-View.ViewDesigner                                     | Shift + F7
+View.ViewDesigner                                     | Shift+F7
+View.Fullscreen                                       | Shift+Alt+Enter
 ------------------------------------------------------+---------------------------------------------
 TestExplorer
 ------------------------------------------------------+---------------------------------------------
