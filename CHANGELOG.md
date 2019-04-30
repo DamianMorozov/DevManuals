@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.0.96] - 2019-04-30
+### Added
+- Programs developing
+  - MS VB
+    - Last cell.txt
+
 ## [0.0.95] - 2019-04-29
 ### Updated
 - Programs developing
