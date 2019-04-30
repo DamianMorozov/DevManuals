@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.01] - 2019-04-30
+## [0.1.02] - 2019-04-30
 ### Added
 - Programs developing
   - C#
@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Excel options.txt
   - MS VB
     - Last cell.txt
+  - SQL
+    - ConnectionString.txt
   - 2014. Искусство автономного тестирования.txt
   - Design patterns.txt
 
