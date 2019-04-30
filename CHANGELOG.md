@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.97] - 2019-04-30
+## [0.0.98] - 2019-04-30
 ### Added
 - Programs developing
   - MS Excel
@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Excel options.txt
   - MS VB
     - Last cell.txt
+  - Design patterns.txt
 
 ## [0.0.95] - 2019-04-29
 ### Updated
