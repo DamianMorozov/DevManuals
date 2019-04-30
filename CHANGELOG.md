@@ -2,9 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.96] - 2019-04-30
+## [0.0.97] - 2019-04-30
 ### Added
 - Programs developing
+  - MS Excel
+    - Excel constants.txt
   - MS VB
     - Last cell.txt
 
