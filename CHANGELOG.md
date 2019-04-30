@@ -2,9 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.0.99] - 2019-04-30
+## [0.1.01] - 2019-04-30
 ### Added
 - Programs developing
+  - C#
+    - Plugins.txt
   - MS Excel
     - Excel constants.txt
     - Excel options.txt
