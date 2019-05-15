@@ -2,10 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.07] - 2019-05-15
+## [0.1.08] - 2019-05-15
 ### Added
 - Programs developing
   - SQL
+    - Setup versions.txt
     - MS SQL 2005. Библия пользователя.txt
 ### Updated
 - Programs developing
