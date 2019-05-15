@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.10] - 2019-05-15
+## [0.1.11] - 2019-05-15
 ### Added
 - Programs developing
   - SQL
@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Setup versions.txt
 ### Updated
 - Programs developing
+  - Git.txt
   - Правила разработчика.txt
 
 ## [0.1.05] - 2019-05-13
