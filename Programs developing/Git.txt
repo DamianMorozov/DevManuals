@@ -58,7 +58,8 @@ git config --global alias.ci commit               --- создать псевд�
 git config --global alias.br branch               --- создать псевдоним команде branch
 git config --global alias.st status               --- создать псевдоним команде status
 git config --global alias.unstage "reset HEAD --" --- создать псевдоним unstage команде reset HEAD -- (отмена индексирования)
-git config --global alias.hist "log --oneline --decorate --graph --all" 
+git config --global alias.hist "log --oneline --decorate --graph --all"
+git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
 git unstage fileName                              --- эквивалент команде git reset HEAD fileName
 git config --global alias.last "log -1 HEAD"      --- создать псевдоним команде вывода последних коммитов
 git config --global alias.visual "!gitk"          --- создать псевдоним команде вызова внешнего инструмента
