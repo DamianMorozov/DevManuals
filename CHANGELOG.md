@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.11] - 2019-05-15
+## [0.1.12] - 2019-05-15
 ### Added
 - Programs developing
   - SQL
@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Data types.txt
     - MS SQL 2005. Библия пользователя.txt
     - Setup versions.txt
+- Windows
+  - PID.txt
 ### Updated
 - Programs developing
   - Git.txt
