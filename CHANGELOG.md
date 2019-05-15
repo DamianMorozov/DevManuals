@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.06] - 2019-05-15
+### Updated
+- Programs developing
+  - Правила разработчика.txt
+
 ## [0.1.05] - 2019-05-13
 ### Added
 - Programs developing
