@@ -4,3 +4,18 @@ Visual Studio Extensions
 CodeMaid
 https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid
 ----------------------------------------------------------------------------------------------------
+GitHub Extension for Visual Studio
+https://visualstudio.github.com/
+----------------------------------------------------------------------------------------------------
+NUnit  VS Templates
+https://github.com/nunit/nunit-vs-templates
+----------------------------------------------------------------------------------------------------
+Test Generator NUnut extension
+https://github.com/nunit/nunit-vs-testgenerator
+----------------------------------------------------------------------------------------------------
+NUnit 3 Test Adapter
+https://github.com/nunit/docs/wiki/Visual-Studio-Test-Adapter
+----------------------------------------------------------------------------------------------------
+VSColorOutput
+http://mike-ward.net/vscoloroutput
+----------------------------------------------------------------------------------------------------

@@ -2,14 +2,20 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.16] - 2019-05-22
+### Updated
+- Programs developing
+  - MS Visual Studio
+    - Extensions.txt
+
 ## [0.1.15] - 2019-05-21
 ### Added
 - Linux
   - Software
     - Security.txt
-  - Programs developing
-    - MS Visual Studio
-      - Extensions.txt
+- Programs developing
+  - MS Visual Studio
+    - Extensions.txt
 
 ## [0.1.13] - 2019-05-15
 ### Added
