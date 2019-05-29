@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.17] - 2019-05-29
+### Updated
+- Windows
+  - Settings
+    - Hiberfil.sys.txt
+
 ## [0.1.16] - 2019-05-22
 ### Updated
 - Programs developing

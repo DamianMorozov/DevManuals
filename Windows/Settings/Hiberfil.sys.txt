@@ -1,5 +1,5 @@
 powercfg.exe /hibernate on
-powercfg -h off
+powercfg -h on
 
 powercfg.exe /hibernate off
-powercfg -h on
+powercfg -h off
