@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.19] - 2019-06-18
+### Updated
+- Programs developing
+  - MS Visual Studio
+    - Extensions.txt
+
 ## [0.1.18] - 2019-05-31
 ### Added
 - Programs developing
