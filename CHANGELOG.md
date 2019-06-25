@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.20] - 2019-06-25
+### Added
+- Linux
+  - Hardware
+    - HDD.txt
+
 ## [0.1.19] - 2019-06-18
 ### Updated
 - Programs developing
