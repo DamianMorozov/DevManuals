@@ -2,11 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.23] - 2019-06-28
+## [0.1.24] - 2019-06-28
 ### Added
 - Programs developing
   - SQL
     - MS SQL versions.txt
+### Updated
+- Programs developing
+  - SQL
+    - MS SQL download.txt
 
 ## [0.1.22] - 2019-06-27
 ### Added
