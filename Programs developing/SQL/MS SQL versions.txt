@@ -1,0 +1,6 @@
+Microsoft® SQL Server® 2008 R2 с пакетом обновления 2 (SP2) Express Edition
+http://www.microsoft.com/ru-RU/download/details.aspx?id=30438
+10.50.4000.0 - 26.07.2012
+
+Microsoft® SQL Server® 2008 R2 с пакетом обновления 3 (SP3)
+http://www.microsoft.com/ru-ru/download/details.aspx?id=44271
