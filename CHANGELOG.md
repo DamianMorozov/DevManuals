@@ -2,10 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.24] - 2019-06-28
+## [0.1.25] - 2019-06-28
 ### Added
 - Programs developing
   - SQL
+    - Error Невозможно привести Com-объект типа System.__ComObject.txt
     - MS SQL versions.txt
 ### Updated
 - Programs developing
