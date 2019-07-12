@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.28] - 2019-07-12
+### Added
+- Windows
+  - Software
+    - Network.txt
+
 ## [0.1.27] - 2019-07-10
 ### Added
 - Windows
