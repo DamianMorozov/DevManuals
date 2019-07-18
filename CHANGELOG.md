@@ -2,13 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.33] - 2019-07-18
+## [0.1.34] - 2019-07-18
 ### Added
 - Programs developing
   - Nuget
     - MSTest.TestAdapter.txt
   - Developer rules.txt
 ### Updated
+- README.md
 - Programs developing
   - Developer rules.txt-ru
   - 2014. The Art of Unit Testing (with examples in C#).txt-ru

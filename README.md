@@ -1,2 +1,2 @@
-# Developer manuals in Russian
+# Developer manuals in English & Russian languages
 
