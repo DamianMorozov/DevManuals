@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.29] - 2019-07-18
+### Added
+- Programs developing
+  - Nuget
+    - MSTest.TestAdapter.txt
+
 ## [0.1.28] - 2019-07-12
 ### Added
 - Windows
