@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.30] - 2019-07-18
+## [0.1.31] - 2019-07-18
 ### Added
 - Programs developing
   - Nuget
@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Updated
 - Programs developing
   - Developer rules.txt-ru
+  - 2019. Clean architecture.txt-ru
 
 ## [0.1.28] - 2019-07-12
 ### Added
