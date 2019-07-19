@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.35] - 2019-07-19
+### Added
+- Programs developing
+  - 2006. Say it with charts complete toolkit.txt-ru
+
 ## [0.1.34] - 2019-07-18
 ### Added
 - Programs developing
