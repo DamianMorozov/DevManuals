@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.37] - 2019-07-22
+### Updated
+- Linux
+  - Software
+    - Games.txt
+
 ## [0.1.36] - 2019-07-19
 ### Added
 - Programs developing
