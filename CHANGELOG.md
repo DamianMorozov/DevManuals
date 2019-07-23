@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.39] - 2019-07-23
+### Updated
+- Programs developing
+  - Git.txt-ru
+
 ## [0.1.38] - 2019-07-22
 ### Added
 - Linux
