@@ -14,16 +14,16 @@ Text Editor
 ------------------------------------------------------+---------------------------------------------
 Edit.HideSelection                                    | Ctrl+M, Ctrl+H
 Edit.StopHidingCurrent                                | Ctrl+M, Ctrl+U
-Комментировать блок                                   | Ctrl+K,C / Ctrl+K,U
+Comment code block                                    | Ctrl+K,C / Ctrl+K,U
 Окно объявления                                       | Alt+F12
 Навигация назад/вперёд                                | Ctrl+– / Ctrl+Shift + –
 Team Explorer                                         | Ctrl+0, H
-Закладки                                              | Ctrl+K, W
+Bookmarks                                             | Ctrl+K, W
 Список членов                                         | Ctrl+J
 Сведения о параметрах                                 | Ctrl+Shift+Space
 Дублировать блок                                      | Ctrl+E, V
 Собрать решение                                       | Ctrl+Shift+B
-Сохранить все                                         | Ctrl+Shift+S
+Save all                                              | Ctrl+Shift+S
 Переход к все                                         | Ctrl+,
 Извлечение метода                                     | Ctrl+R, M / Ctrl+.
 Форматирование документа                              | Ctrl+K, Ctrl+D
@@ -65,4 +65,16 @@ View.TfsTeamExplorer                                  | Ctrl+\, Ct+M
 Go To Next Issue in File                              | Alt+PgDn
 Go To Previous Issue in File                          | Alt+PgUp
 Find All References                                   | Shift+F12
+------------------------------------------------------+---------------------------------------------
+
+------------------------------------------------------+---------------------------------------------
+IntelliSense
+------------------------------------------------------+---------------------------------------------
+List members                                          | Ctrl+J
+Parameter info                                        | Ctrl+Shift+Space
+Quick info                                            | Ctrl+K, Ctrl+I
+Complete word                                         | Ctrl+Space
+Toggle completion mode                                | Ctrl+Alt+Space
+Surround with                                         | Ctrl+K, Ctrl+S
+Insert snippet                                        | Ctrl+K, Ctrl+X
 ------------------------------------------------------+---------------------------------------------
