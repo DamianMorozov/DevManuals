@@ -1,2 +1,2 @@
-$ chmod +x file-name.run
+chmod +x file-name.run
 
