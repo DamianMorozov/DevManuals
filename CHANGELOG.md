@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.46] - 2019-08-08
+## [0.1.47] - 2019-08-08
 ### Updated
 - Linux
   - Settings
@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - FS owner.txt
     - FS permission.txt
     - Hosts.txt
+    - OS version.txt
 
 ## [0.1.42] - 2019-08-07
 ### Updated

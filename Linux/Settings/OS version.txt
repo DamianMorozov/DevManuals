@@ -1,9 +1,9 @@
-Linux distribution name, version and codename in use along with the currently loaded Linux kernel version
-$ hostnamectl
-How to check Ubuntu version
-$ cat /etc/issue
-How to check system architecture and Linux kernel versions
-$ uname -a
-How to check CPU architecture
-$ lscpu
+# Linux distribution name, version and codename in use along with the currently loaded Linux kernel version
+hostnamectl
+# How to check Ubuntu version
+cat /etc/issue
+# How to check system architecture and Linux kernel versions
+uname -a
+# How to check CPU architecture
+lscpu
 
