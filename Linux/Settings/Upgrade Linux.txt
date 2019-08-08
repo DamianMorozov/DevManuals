@@ -1,21 +1,24 @@
-----------------------------------------------------------------------------------------------------
-https://linuxconfig.org/how-to-upgrade-to-ubuntu-18-04-lts-bionic-beaver
-----------------------------------------------------------------------------------------------------
-Run your Ubuntu Update
-$ sudo apt update
-$ sudo apt upgrade
-$ sudo apt dist-upgrade
-$ sudo apt autoremove
-----------------------------------------------------------------------------------------------------
-How to Upgrade Ubuntu The Ubuntu Way
-$ sudo apt install update-manager-core
-$ sudo do-release-upgrade
-$ sudo do-release-upgrade -d
-----------------------------------------------------------------------------------------------------
-No new release found
-$ sudo do-release-upgrade
-----------------------------------------------------------------------------------------------------
-Ubuntu Update and Ubuntu Upgrade
-$ sudo apt update && sudo apt -y dist-upgrade
-----------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------
+# https://linuxconfig.org/how-to-upgrade-to-ubuntu-18-04-lts-bionic-beaver
+# https://linuxconfig.org/how-to-upgrade-ubuntu-to-19-10-eoan-ermine
+# ----------------------------------------------------------------------------------------------------
+# 1. Fully update and upgrade your current Ubuntu 19.04 Linux system.
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
+# 2. Remove all no longer required packages:
+sudo apt autoremove
+# 3. Configure the release upgrader. Open and edit the /etc/update-manager/release-upgrades file 
+# and ensure that the Prompt variable is set to normal.
+# 4. Begin the Ubuntu 19.10 upgrade process by executing the following command:
+sudo do-release-upgrade
+# 5. Reboot your Ubuntu system.
+# ----------------------------------------------------------------------------------------------------
+# How to Upgrade Ubuntu The Ubuntu Way
+sudo apt install update-manager-core
+sudo do-release-upgrade
+sudo do-release-upgrade -d
+# ----------------------------------------------------------------------------------------------------
+# Ubuntu Update and Ubuntu Upgrade
+sudo apt update && sudo apt -y dist-upgrade
+# ----------------------------------------------------------------------------------------------------
+
 
