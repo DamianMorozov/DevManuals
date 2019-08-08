@@ -2,13 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.45] - 2019-08-08
+## [0.1.46] - 2019-08-08
 ### Updated
 - Linux
   - Settings
     - Dock launcher as root.txt
     - FS owner.txt
     - FS permission.txt
+    - Hosts.txt
 
 ## [0.1.42] - 2019-08-07
 ### Updated
