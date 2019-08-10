@@ -1,0 +1,119 @@
+# ----------------------------------------------------------------------------------------------------
+# Commands for working with files:
+pwd - show the current directory (the directory where the user is located)
+ls - list files and directories
+ls -al - formatted list with hidden directories and files
+cd /etc - change the directory to / etc
+cd - change to home directory
+mkdir mydir - create mydir directory
+rm file.txt - delete file.txt
+rm -r mydir - delete mydir directory recursively
+rm -f file.txt - delete force file.txt
+rm -rf mydir - delete a forced directory with subdirectories mydir
+cp file1 file2.txt - copy file1 to file2.txt
+cp -r dir mydir - copy dir to mydir; will create the mydir directory if it does not exist
+mv file2.txt file2 - rename or move file2.txt to file2.
+If file2 is an existing directory - moves file2.txt to the file2 directory
+ln -s file filelink - create a symbolic link filelink to file file
+touch myfile - create myfile
+cat> file.txt - direct standard input to file.txt
+cat file.txt - print the contents of file.txt
+more file.txt - display the contents of file.txt
+head file.txt - print the first 10 lines of file.txt to the console
+tail file.txt - print the last 10 lines of file.txt to the console
+tail -f file.txt - display the contents of file.txt as it grows, starts from the last 10 lines
+> - Redirection from one place to another, for example:
+We will output the last 10 lines from the test file and insert them into the oktest file, to do this, run the following command:
+tail test> oktest.
+If the oktest file did not exist, then it will be created.
+# ----------------------------------------------------------------------------------------------------
+# Process Management in BusyBox:
+ps - display current user active processes
+top - show all running processes and brief information about system resources
+kill pid - kill the process id of which pid
+killall proces - kill all processes named proces
+bg - list of stopped and background tasks; continue execution of a stopped task in the background
+fg - brings to the forefront the latest tasks
+fg n - bring task n to the fore
+# ----------------------------------------------------------------------------------------------------
+File permissions in BusyBox:
+chmod 640 file - replaces file file permissions with 640. Rights are assigned separately for the user,
+groups and for all others addition:
+4 - reading (r)
+2 - record (w)
+1 - execution (x)
+Chmod examples:
+chmod 777 - read, write, execute for all users
+chmod 751 - read, write, execute for the owner; reading, performance for the group;
+and only execution for other users.
+Additional options can be viewed by typing the command:
+man chmod.
+# ----------------------------------------------------------------------------------------------------
+# Using SSH in BusyBox:
+ssh user @ host - connect to host as user user
+ssh -p port user @ host - connect to host host on port port as user user
+ssh-copy-id user @ host - add your key to the host node for user user to enable login without password and by keys
+# ----------------------------------------------------------------------------------------------------
+# How to search in BusyBox:
+grep pattern files - search for pattern in files
+grep -r pattern dir - search recursively for pattern in dir directory
+command | grep pattern - search for pattern in command output
+locate file - find all files named file
+# ----------------------------------------------------------------------------------------------------
+# System Information in BusyBox:
+date - display the current date and time of the router
+cal - display the calendar for the current month
+uptime - show the current uptime (the system’s operating time since its loading)
+w - show users online
+whoami - the name under which you are logged in
+finger user - show user information user
+uname -a - show kernel information
+cat / proc / cpuinfo - processor information
+cat / proc / meminfo - memory information
+man command - show manual for command command
+df - show disk usage information
+du dir – print the “weight” of the dir directory
+free - memory usage and swap
+whereis app - possible location of the app program
+which app - which app will be launched by default
+# ----------------------------------------------------------------------------------------------------
+# Archiving processes when tar and gzip packages are installed in BusyBox:
+tar cf file1.tar files1 - create a tar archive named file1.tar containing the file files1
+tar xf file1.tar - unzip the file1.tar archive
+tar czf file1.tar.gz files1 - create file1.tar.gz archive with gzip compression
+tar xzf file1.tar.gz - unzip tar archive with gzip compression
+tar cjf file1.tar.bz2 - create file1.tar.bz2 archive with Bzip2 compression
+tar xjf file1.tar.bz2 - unzip the tar archive with Bzip2 compression
+gzip file1 - compress file1 and rename to file1.gz
+gzip -d file1.gz - decompress file1.gz to file1
+# ----------------------------------------------------------------------------------------------------
+# Network setup in BusyBox:
+ifconfig - show settings for found network interfaces
+ping host - ping the host node and print the result
+whois domain - get whois information for domain
+dig domain - get DNS information for domain domain
+dig -x host - reverse look up DNS information about host
+wget file - download file file
+wget -c file - continue paused or broken file download
+# ----------------------------------------------------------------------------------------------------
+# Installation \ removal of programs from packages in BusyBox:
+/ opt / bin / ipkg-opt install program / package name (installation)
+/ opt / bin / ipkg-opt remove program / package name (removal)
+dpkg -i pkg.deb - install the package (Debian)
+rpm -Uvh pkg.rpm - install the package (RPM)
+# ----------------------------------------------------------------------------------------------------
+# Installation from source:
+cd application-1.0.2
+./configure
+make
+make install
+# ----------------------------------------------------------------------------------------------------
+# Keyboard shortcuts:
+Ctrl + C - complete the current command
+Ctrl + Z - stop the current command, continue with fg in the foreground or bg in the background
+Ctrl + D - log off, same as exit
+Ctrl + W - delete one word in the current line
+Ctrl + U - delete line
+!! - repeat the last command
+exit - log out
+# ----------------------------------------------------------------------------------------------------

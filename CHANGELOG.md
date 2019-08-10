@@ -2,6 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.51] - 2019-08-10
+### Added
+- Linux
+  - Settings
+    - BusyBox.txt
+    - BusyBox.txt-ru
+
 ## [0.1.50] - 2019-08-08
 ### Updated
 - Linux
