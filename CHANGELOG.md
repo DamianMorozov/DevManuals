@@ -2,11 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.64] - 2019-08-12
+## [0.1.65] - 2019-08-12
 ### Updated
   - Windows
     - Settings
       - Credential Manager.txt-ru
+      - Mklink.txt-ru
 ### Added
 - Linux
   - Settings
