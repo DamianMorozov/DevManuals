@@ -2,25 +2,29 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.63] - 2019-08-12
+## [0.1.64] - 2019-08-12
+### Updated
+  - Windows
+    - Settings
+      - Credential Manager.txt-ru
 ### Added
 - Linux
   - Settings
     - Screen resolution.txt
   - Programs developing
     - Agile Manifesto.txt-ru
-  - Windows
-    - Cmd
-      - Clear temp.cmd
-      - ipv4 install.cmd
-      - Scan system files.cmd
-    - Settings
-      - Console.txt-ru
-      - Command description.txt-ru
-      - Diskpart.txt-ru
-      - Icon cache.txt
-      - Route.txt-ru
-      - Shutdown.txt-ru
+- Windows
+  - Cmd
+    - Clear temp.cmd
+    - ipv4 install.cmd
+    - Scan system files.cmd
+  - Settings
+    - Console.txt-ru
+    - Command description.txt-ru
+    - Diskpart.txt-ru
+    - Icon cache.txt
+    - Route.txt-ru
+    - Shutdown.txt-ru
 
 ## [0.1.52] - 2019-08-11
 ### Added
