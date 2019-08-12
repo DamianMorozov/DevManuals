@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.58] - 2019-08-12
+## [0.1.59] - 2019-08-12
 ### Added
 - Linux
   - Settings
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Cmd
       - Clear temp.cmd
       - ipv4 install.cmd
+      - Scan system files.cmd
     - Settings
       - Icon cache.txt
       - Shutdown.txt-ru
