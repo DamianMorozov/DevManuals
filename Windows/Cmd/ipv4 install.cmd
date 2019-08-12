@@ -1,0 +1,1 @@
+netsh interface ipv4 install
