@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.65] - 2019-08-12
+## [0.1.66] - 2019-08-12
 ### Updated
   - Windows
     - Settings
@@ -26,6 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Icon cache.txt
     - Route.txt-ru
     - Shutdown.txt-ru
+    - Vhd compressing using Diskpart.txt
 
 ## [0.1.52] - 2019-08-11
 ### Added
