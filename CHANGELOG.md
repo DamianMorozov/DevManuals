@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.61] - 2019-08-12
+## [0.1.62] - 2019-08-12
 ### Added
 - Linux
   - Settings
@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
       - Scan system files.cmd
     - Settings
       - Console.txt-ru
+      - Diskpart.txt-ru
       - Icon cache.txt
       - Route.txt-ru
       - Shutdown.txt-ru
