@@ -1,6 +1,6 @@
-----------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------
 # Network
-----------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------
 # Google Chrome
 # -------------
 wget -O ~/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -57,5 +57,25 @@ echo "deb https://apt.syncthing.net/ syncthing candidate" | sudo tee /etc/apt/so
 # Update and install syncthing:
 sudo apt-get update
 sudo apt-get install syncthing
-----------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------
+# Skypeforlinux
+# -------------
+# Download Skype
+wget https://go.skype.com/skypeforlinux-64.deb
+# Install Skype
+sudo apt install ./skypeforlinux-64.deb
+# Start Skype
+skypeforlinux
+# Updating Skype
+cat /etc/apt/sources.list.d/skype-stable.list
+# ----------------------------------------------------------------------------------------------------
+# Skype
+# -----
+# Remove old version
+sudo apt-get purge skype && sudo apt-get autoremove
+# Updating Skype
+sudo apt-get update && sudo apt-get install skype
+# Install new version
+sudo apt-get update && sudo apt-get install skype -y
+# ----------------------------------------------------------------------------------------------------
 
