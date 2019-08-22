@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.69] - 2019-08-22
+### Added
+- Programs developing
+  - SQL
+    - MS SQL Dark Theme.txt
+
 ## [0.1.68] - 2019-08-20
 ### Updated
   - Windows
