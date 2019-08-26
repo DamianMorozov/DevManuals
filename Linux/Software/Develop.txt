@@ -53,14 +53,6 @@ $ sudo apt-get install glade
 $ sudo apt-get install libglade2.0-cil libglade2.0-cil-dev
 $ sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
 ----------------------------------------------------------------------------------------------------
-Lazarus
-http://www.lazarus-ide.org/
-$ cd /home/Develop/Lazarus-ide.org/
-$ sudo dpkg -i fpc-laz_3.0.4-1_amd64.deb
-$ sudo dpkg -i fpc-src_3.0.4-2_amd64.deb
-$ sudo dpkg -i lazarus-project_2.0.0-0_amd64.deb
-$ gksudo lazarus-ide
-----------------------------------------------------------------------------------------------------
 DeOldify
 https://github.com/jantic/DeOldify
 $ git clone https://github.com/jantic/DeOldify.git
