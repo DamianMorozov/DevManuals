@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.74] - 2019-08-26
+## [0.1.75] - 2019-08-26
 ### Added
 - Linux
   - Software
@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
       - DeOldify.txt
       - Lazarus.txt
       - MonoDevelop.txt
+      - SquirrelSQL.txt
 
 ## [0.1.69] - 2019-08-22
 ### Added
