@@ -2,13 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.71] - 2019-08-26
+## [0.1.72] - 2019-08-26
 ### Added
 - Linux
   - Software
     - Develop
       - Anaconda.txt
       - CUDA Toolkit.txt
+      - MonoDevelop.txt
 
 ## [0.1.69] - 2019-08-22
 ### Added
