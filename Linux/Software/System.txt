@@ -2,12 +2,6 @@
 System
 $ sudo apt --fix-broken install
 ----------------------------------------------------------------------------------------------------
-Doublecmd
-https://github.com/jangson/doublecmd/blob/master/doc/INSTALL.RUS.txt
-$ cd /usr/lib/doublecmd/
-$ chmod +x install.sh
-$ sudo bash install.sh
-----------------------------------------------------------------------------------------------------
 Gnome Commander
 https://packages.ubuntu.com/hu/bionic/gnome-commander
 $ sudo apt-get install gnome-commander-data
