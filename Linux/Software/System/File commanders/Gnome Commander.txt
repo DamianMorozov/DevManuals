@@ -29,5 +29,5 @@ tar -xf [filename]
 cd [dirname]
 chmod +x configure
 sudo apt-get install itstool
-./configure && make && make install
+./configure && make && sudo make install
 
