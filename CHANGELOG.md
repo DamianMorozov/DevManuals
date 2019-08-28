@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.78] - 2019-08-28
+## [0.1.79] - 2019-08-28
 ### Added
 - Linux
   - Hardware
@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - System
       - File commanders
         - Doublecmd.txt
+        - Gnome Commander.txt
       - Process explorers
         - Stacer.txt
 
