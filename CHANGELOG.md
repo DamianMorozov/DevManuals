@@ -2,11 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.76] - 2019-08-28
+## [0.1.77] - 2019-08-28
 ### Added
 - Linux
   - Hardware
     - Hardware.txt
+  - Software
+    - System
+      - Process explorers
+        - Stacer.txt
 
 ## [0.1.75] - 2019-08-26
 ### Added

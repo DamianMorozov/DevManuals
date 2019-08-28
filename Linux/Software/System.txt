@@ -2,12 +2,6 @@
 System
 $ sudo apt --fix-broken install
 ----------------------------------------------------------------------------------------------------
-Stacer
-https://github.com/oguzhaninan/Stacer
-$ sudo add-apt-repository ppa:oguzhaninan/stacer -y
-$ sudo apt-get update
-$ sudo apt-get install stacer -y
-----------------------------------------------------------------------------------------------------
 Doublecmd
 https://github.com/jangson/doublecmd/blob/master/doc/INSTALL.RUS.txt
 $ cd /usr/lib/doublecmd/
