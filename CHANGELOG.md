@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.81] - 2019-08-29
+### Added
+- Linux
+  - Settings
+    - Memory.txt
+
 ## [0.1.80] - 2019-08-28
 ### Added
 - Linux
