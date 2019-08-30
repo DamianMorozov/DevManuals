@@ -78,3 +78,30 @@ Toggle completion mode                                | Ctrl+Alt+Space
 Surround with                                         | Ctrl+K, Ctrl+S
 Insert snippet                                        | Ctrl+K, Ctrl+X
 ------------------------------------------------------+---------------------------------------------
+
+------------------------------------------------------+---------------------------------------------
+Debug
+------------------------------------------------------+---------------------------------------------
+AddWatch                                              | Shift+Alt+F9
+ApplyCodeChanges                                      | Alt+F10
+AttachtoProcess                                       | Ctrl+Alt+P
+Autos                                                 | Ctrl+Alt+V, A
+Autos.Search                                          | Ctrl+E
+BreakAll                                              | Ctrl+Alt+Break
+Breakpoints                                           | Ctrl+Alt+B
+Callstack                                             | Ctrl+Alt+C
+DeleteAllBreakpoints                                  | Ctrl+Shift+F9
+DiagnosticsHub.Launch                                 | Alt+F2
+DiagnosticsHub.StopCollection                         | Ctrl+Shift+F2
+DiagnosticTools.Show                                  | Ctrl+Alt+F2
+Disassembly                                           | Ctrl+Alt+D
+EnableBreakpoint                                      | Ctrl+F9
+ExceptionSettings                                     | Ctrl+Alt+E
+FunctionBreakpoint                                    | Ctrl+K, B
+GoToDisassembly                                       | Alt+G
+Immediate                                             | Ctrl+Alt+I
+Locals                                                | Ctrl+Alt+V, L
+Locals.Search                                         | Ctrl+E
+Modules                                               | Ctrl+Alt+U
+QuickWatch                                            | Shift+F9
+------------------------------------------------------+---------------------------------------------
