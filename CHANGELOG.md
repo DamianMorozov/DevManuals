@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.84] - 2019-09-06
+### Updated
+- Programs developing
+  - 2016. Grokking Algorithms.txt-ru
+
 ## [0.1.83] - 2019-08-30
 ### Added
 - Programs developing
