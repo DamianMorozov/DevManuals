@@ -2,7 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.84] - 2019-09-06
+## [0.1.85] - 2019-09-06
+### Added
+- Programs developing
+  - Dotnet new project.txt
 ### Updated
 - Programs developing
   - 2016. Grokking Algorithms.txt-ru
