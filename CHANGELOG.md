@@ -2,9 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.85] - 2019-09-17
+## [0.1.87] - 2019-09-17
 ### Updated
 - Programs developing
+  - 2006. Say it with charts complete toolkit.txt-ru
   - 2016. Grokking Algorithms.txt-ru
 
 ## [0.1.85] - 2019-09-06
