@@ -13,6 +13,7 @@ rm -rf mydir - delete a forced directory with subdirectories mydir
 cp file1 file2.txt - copy file1 to file2.txt
 cp -r dir mydir - copy dir to mydir; will create the mydir directory if it does not exist
 mv file2.txt file2 - rename or move file2.txt to file2.
+mv * ../../FOLDER_1/FOLDER_2/ - move files to folder
 If file2 is an existing directory - moves file2.txt to the file2 directory
 ln -s file filelink - create a symbolic link filelink to file file
 touch myfile - create myfile
