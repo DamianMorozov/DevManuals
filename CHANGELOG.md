@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.91] - 2019-11-18
+### Renamed
+- Programs developing
+  - C#
+    - Data types.txt -> Data types.txt-ru
+
 ## [0.1.90] - 2019-10-13
 ### Updated
 - Linux
