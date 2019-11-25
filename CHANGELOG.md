@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.94] - 2019-11-25
+### Added
+- Programs developing
+  - MS Visual Studio
+    - XAML Features in VS 2019 16.4 preview 3.txt
+
 ## [0.1.93] - 2019-11-21
 ### Updated
 - Programs developing
