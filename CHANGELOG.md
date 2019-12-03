@@ -2,11 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.95] - 2019-12-03
+## [0.1.96] - 2019-12-03
 ### Updated
 - Windows
   - Settings
     - Hiberfil.txt
+- Programs developing
+  - Dev app creating manual.txt
 
 ## [0.1.94] - 2019-11-25
 ### Added
