@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.97] - 2019-12-09
+### Added
+- Programs developing
+  - SQL
+    - MS SQL setup guide.txt-ru
+
 ## [0.1.96] - 2019-12-03
 ### Updated
 - Windows
