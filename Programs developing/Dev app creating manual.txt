@@ -1,9 +1,9 @@
  1. Create new git repository with description on https://github.com & https://gitlab.com.
  2. clone https://github.com/NickName/NewRepo.git
  3. git remote add gitlab http://gitlab.com/NickName/NewRepo.git
- 4. git push -u gitlab master.
- 5. git push -u origin master.
- 6. Add LICENSE & commit it.
+ 4. Add LICENSE & commit it.
+ 5. git push -u gitlab master.
+ 6. git push -u origin master.
  7. Add README.md & commit it.
  8. Add CHANGELOG.md & commit it.
  9. Create new solution / project & commit it.
