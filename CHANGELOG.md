@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.1.98] - 2019-12-20
+## [0.1.99] - 2019-12-20
 ### Updated
 - Programs developing
   - Dev app creating manual.txt

@@ -7,6 +7,8 @@
  7. Add README.md & commit it.
  8. Add CHANGELOG.md & commit it.
  9. Create new solution / project & commit it.
-10. Add Helpers, Classes, ViewModel.
-11. Add Helpers.Tests, Classes.Tests, ViewModel.Tests.
-12. Add PVS-Studio comments for analyzing.
+10. Add and update .gitattributes.
+11. Add and update .gitignore.
+12. Add Helpers, Classes, ViewModel.
+13. Add Helpers.Tests, Classes.Tests, ViewModel.Tests.
+14. Add PVS-Studio comments for analyzing.
