@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.1.100] - 2019-12-23
+### Updated and renamed
+- Windows
+  - Settings
+	- Mklink.txt
+
 ## [0.1.99] - 2019-12-20
 ### Updated
 - Programs developing
