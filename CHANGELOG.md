@@ -2,10 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.02] - 2020-01-15
+## [0.2.03] - 2020-01-15
 ### Updated and renamed
 - Programs developing
   - 2019. Clean architecture.txt-ru
+### Added
+- Windows
+  - Settings
+    - W32tm.txt
 
 ## [0.2.01] - 2019-12-23
 ### Updated and renamed
