@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.04] - 2020-01-17
+### Updated and renamed
+- Programs developing
+  - 2019. Clean architecture.txt-ru
+
 ## [0.2.03] - 2020-01-15
 ### Updated and renamed
 - Programs developing

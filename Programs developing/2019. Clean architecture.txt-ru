@@ -35,7 +35,9 @@ if/then/else и do/while.
 Edsger Wybe Dijkstra (Эдсгер Вайб Дейкстра). 1968. Go To Statement Considered Harmful (О вреде оператора Go To).
 http://hosting.vspu.ac.ru/~chul/dijkstra/goto/goto.htm
 http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html
-2. ООП.
+Тестирование показывает присутствие ошибок, а не их отсутствие.
+Функциональная декомпозиция.
+2. ООП. стр 55
 Накладывает ограничение на косвенную передачу управления (указатель на функции).
 Инкапсуляция.
 Наследование.
