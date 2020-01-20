@@ -2,10 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.05] - 2020-01-20
+## [0.2.06] - 2020-01-20
 ### Updated
 - Programs developing
   - Dev app creating manual.txt
+### Renamed
+- Programs developing
+  - Design patterns.txt -> Design patterns.txt-ru
 
 ## [0.2.04] - 2020-01-17
 ### Updated and renamed
