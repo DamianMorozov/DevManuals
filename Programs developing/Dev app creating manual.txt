@@ -5,10 +5,10 @@
  5. git push -u gitlab master.
  6. git push -u origin master.
  7. Add README.md & commit it.
- 8. Add CHANGELOG.md & commit it.
- 9. Create new solution / project & commit it.
-10. Add and update .gitattributes.
-11. Add and update .gitignore.
+ 8. Create new solution / project & commit it.
+ 9. Add and update .gitattributes.
+10. Add .gitignore and update from https://github.com/github/gitignore.
+11. Add CHANGELOG.md & commit it.
 12. Add Helpers, Classes, ViewModel.
 13. Add Helpers.Tests, Classes.Tests, ViewModel.Tests.
 14. Add PVS-Studio comments for analyzing.
