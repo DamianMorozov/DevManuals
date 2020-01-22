@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.23] - 2020-01-22
+## [0.2.24] - 2020-01-22
 ### Added
 - Programs developing
   - C#
@@ -28,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - AsyncCallback.txt
     - Foreach enum ProcessWindowStyle.txt
     - Performance.txt
+    - WPF XAML Enum.txt
 
 ## [0.2.06] - 2020-01-20
 ### Updated
