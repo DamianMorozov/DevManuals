@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.19] - 2020-01-22
+## [0.2.20] - 2020-01-22
 ### Added
 - Programs developing
   - C#
@@ -19,6 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - C# X what news.txt -> C# X what news.txt-ru
     - Exceptions.txt -> Exceptions.txt-ru
     - Interface.txt -> Interface.txt-ru
+    - Stopwatch.txt -> Stopwatch.txt-ru
 ### Updated
 - Programs developing
   - C#
