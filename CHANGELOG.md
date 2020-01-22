@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.14] - 2020-01-22
+## [0.2.15] - 2020-01-22
 ### Added
 - Programs developing
   - C#
@@ -17,6 +17,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Access modifiers.txt -> Access modifiers.txt-ru
     - C# code style.txt -> C# code style.txt-ru
     - C# X what news.txt -> C# X what news.txt-ru
+### Updated
+- Programs developing
+  - C#
+    - AsyncCallback.txt
 
 ## [0.2.06] - 2020-01-20
 ### Updated
