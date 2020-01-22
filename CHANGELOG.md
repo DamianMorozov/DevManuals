@@ -2,11 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.07] - 2020-01-22
+## [0.2.08] - 2020-01-22
 ### Added
 - Programs developing
   - C#
     - 6 lesser-known features of C# .NET that you should be using.txt
+### Renamed
+- Programs developing
+  - C#
+    - 2016. Библия C#.txt -> 2016. Bible C #.txt-ru
 
 ## [0.2.06] - 2020-01-20
 ### Updated
