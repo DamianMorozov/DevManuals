@@ -1,0 +1,26 @@
+====================================================================================================
+6 lesser-known features of C# .NET that you should be using
+https://chrisstclair.co.uk/6-lesser-known-features-of-c-net-that-you-should-be-using/
+====================================================================================================
+// 1. Use Stopwatch instead DateTime
+var sleeps = new List<int>();
+for (var i = 1; i < 10; i++)
+	sleeps.Add(i*50);
+Console.WriteLine("Using DateTime.");
+foreach(var sleep in sleeps)
+{
+	var start = DateTime.Now;
+	Thread.Sleep(sleep);
+	var duration = (int)(DateTime.Now - start).TotalMilliseconds;
+	Console.WriteLine($"The operation too {duration} milliseconds.");
+}
+Console.WriteLine();
+Console.WriteLine("Using Stopwatch.");
+foreach(var sleep in sleeps)
+{
+	var sw = System.Diagnostics.Stopwatch.StartNew();
+	Thread.Sleep(sleep);
+	var duration = sw.ElapsedMilliseconds;
+	Console.WriteLine($"The operation too {duration} milliseconds.");
+}
+----------------------------------------------------------------------------------------------------
