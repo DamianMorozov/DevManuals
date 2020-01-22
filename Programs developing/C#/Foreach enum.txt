@@ -1,4 +1,0 @@
-foreach (var pwStyle in (ProcessWindowStyle[])Enum.GetValues(typeof(ProcessWindowStyle)))
-{
-    ...
-}
