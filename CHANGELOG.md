@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.12] - 2020-01-22
+## [0.2.13] - 2020-01-22
 ### Added
 - Programs developing
   - C#
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - 2016. Библия C#.txt -> 2016. Bible C #.txt-ru
     - 2018. C# 7 Карманный справочник.txt -> 2018. C# 7 Pocket guide.txt-ru
     - 2018. C# и платформы .NET и .NET Core.txt -> 2018. C # and the .NET and .NET Core.txt-ru
+    - 2018. XAML.txt -> 2018. XAML.txt-ru
     - C# code style.txt -> C# code style.txt-ru
     - C# X what news.txt -> C# X what news.txt-ru
 
