@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.08] - 2020-01-22
+## [0.2.09] - 2020-01-22
 ### Added
 - Programs developing
   - C#
@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Programs developing
   - C#
     - 2016. Библия C#.txt -> 2016. Bible C #.txt-ru
+    - 2018. C# 7 Карманный справочник.txt -> 2018. C# 7 Pocket guide.txt-ru
 
 ## [0.2.06] - 2020-01-20
 ### Updated
