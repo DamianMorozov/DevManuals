@@ -2,10 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.27] - 2020-01-23
+## [0.2.28] - 2020-01-23
 ### Updated
 - Programs developing
   - Dev app creating manual.txt
+  - C#
+    - 6 lesser-known features of C# .NET that you should be using.txt
 
 ## [0.2.26] - 2020-01-22
 ### Added

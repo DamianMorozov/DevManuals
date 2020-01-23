@@ -34,8 +34,8 @@ var sw = System.Diagnostics.Stopwatch.StartNew();
 foreach (var item in items)
 {
 	counter++;
-    list.Add(0);
-    System.Threading.Thread.Sleep(50);
+	list.Add(0);
+	System.Threading.Thread.Sleep(50);
 }
 Console.WriteLine($"counter: {counter}.");
 Console.WriteLine($"list.Count: {list.Count}.");
@@ -54,14 +54,14 @@ System.Threading.Tasks.Parallel.ForEach(items, (item) =>
 {
 	counter1++;  // this is bug
 	Interlocked.Increment(ref counter2);
-    list1.Add(0);  // this is bug
-    lock (locker)
-    {
-        list2.Add(0);
-    }
-    blockCol.Add(0);
-    concBag.Add(0);
-    System.Threading.Thread.Sleep(50);
+	list1.Add(0);  // this is bug
+	lock (locker)
+	{
+	    list2.Add(0);
+	}
+	blockCol.Add(0);
+	concBag.Add(0);
+	System.Threading.Thread.Sleep(50);
 });
 Console.WriteLine($"counter1: {counter1}.");
 Console.WriteLine($"counter2: {counter2}.");
