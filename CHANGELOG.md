@@ -2,7 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.29] - 2020-01-28
+## [0.2.30] - 2020-01-28
+###Added
+- Programs developing
+  - XAML
+    - 2013. Building Windows 8 Apps with C# and XAML..txt-ru
 ### Moved
 - Programs developing
   - C#\2018. XAML.txt-ru -> XAML\2018. XAML.txt-ru
