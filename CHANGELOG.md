@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.29] - 2020-01-28
+### Moved
+- Programs developing
+  - C#\2018. XAML.txt-ru -> XAML\2018. XAML.txt-ru
+
 ## [0.2.28] - 2020-01-23
 ### Updated
 - Programs developing
