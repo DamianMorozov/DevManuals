@@ -1,0 +1,63 @@
+------------------------------------------------------------------------------------------------------------------------
+2018. Kunal Chowdhury. WPF Development Cookbook.
+https://www.kunal-chowdhury.com/2018/02/wpf-development-cookbook.html
+https://static.packt-cdn.com/downloads/WindowsPresentationFoundationDevelopmentCookbook_ColorImages.pdf
+https://github.com/PacktPublishing/Windows-Presentation-Foundation-Development-Cookbook
+------------------------------------------------------------------------------------------------------------------------
+Chapter 1. WPF Fundamentals. Page 43.
+WPF - Windows Presentation Foundation.
+The WPF Architecture:
+- Presentation Framework (presentationframework.dll)
+  - Controls
+  - Layouts
+  - Graphics
+  - Media
+  - Styles
+  - Templates
+  - Animations
+- Presentation Core (presentationcore.dll)
+- CLR - Common Language Runtime
+- MIL - Media Integration Library (milcore.dll)
+- OS Core
+  - Kernel
+  - User32
+  - GDI
+  - DirectX
+  - Device Drivers
+------------------------------------------------------------------------------------------------------------------------
+Types of WPF applications. Page 51.
+- Desktop-based executables (EXE).
+- Web-based applications (XBAP).
+XAML - Extensible Application Markup Language.
+WPF - Windows Platform Foundation.
+UWP - Universal Windows Platform.
+Xamarin Forms.
+BAML - Binary Application Markup Language.
+Flow diagram for render/parse the XAML UI:
+XAML pages -> Render -> UI
+XAML pages -> Compile -> BAML -> Parse -> UI
+------------------------------------------------------------------------------------------------------------------------
+CH01.HelloWPFDemo. Page 72.
+CH01.WindowDemo. Page 77.
+CH01.PageDemo. Page 84.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 2. Using WPF Standard Controls.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 3. Layouts and Panels
+------------------------------------------------------------------------------------------------------------------------
+Chapter 4. Working with Data Bindings.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 5. Using Custom Controls and User Controls.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 6. Using Styles, Templates, and Triggers.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 7. Using Resources and MVVM Patterns.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 8. Working with Animations.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 9. Using WCF Services.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 10. Debugging and Threading.
+------------------------------------------------------------------------------------------------------------------------
+Chapter 11. Interoperability with Win32 and WinForm.
+------------------------------------------------------------------------------------------------------------------------
