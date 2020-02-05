@@ -51,6 +51,7 @@ Dependency property system - система зависимых свойств.
 	<TextBlock Text="{Binding Path=MyNumber, Mode=TwoWay}" />
 	<TextBlock Text="{Binding ElementName=Slider, Path=Value}" />
 	<TextBlock Text="{Binding RelativeSource={RelativeSource Self}, Path=FontSize}" />
+  <Expander IsExpanded="{Binding Path=IsExpanded, Source={StaticResource ProgramSettings}}" />
 DataContext (контекст данных).
 Параметры привязки данных:
 - Converter
@@ -91,5 +92,9 @@ DataContext (контекст данных).
   Часто это либо свойство текущего контекста данных, либо статический ресурс, объявленный в словаре ресурсов.
 Уведомления от объекта-источника к системе привязки данных об изменении значений своих свойств:
 1. Зависимые свойства (наследование класса DependencyObject).
+- часть инфраструктуры представления данных в XAML. Он расположен в пространстве имен Windows.UI.Xaml и его использование имеет смысл 
+при создании нестандартных элементов управления или объектов, которые представляют свойства, нуждающиеся в анимации.
 2. Реализация интерфейса INotifyPropertyChanged (событие PropertyChanged).
+- часть базовой системной инфраструктуры, он не зависит ни от XAML, ни от UI. Это позволяет создавать облегченные объекты, которые еще называют простыми 
+старыми CLR-объектами (Plain Old CLR Object, POCO).
 ------------------------------------------------------------------------------------------------------------------------
