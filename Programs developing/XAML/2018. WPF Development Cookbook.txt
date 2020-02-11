@@ -40,6 +40,15 @@ XAML pages -> Compile -> BAML -> Parse -> UI
 CH01.HelloWPFDemo. Page 72.
 CH01.WindowDemo. Page 77.
 CH01.PageDemo. Page 84.
+CH01.DialogBoxDemo. Page 91.
+- OpenFileDialog. Page 98.
+- SaveFileDialog. Page 100.
+- PrintDialog. Page 102.
+- System.Windows.Forms.FontDialog.
+- System.Windows.Forms.ColorDialog. Page 104.
+CH01.OwnershipDemo. Page 106.
+CH01.SingleInstanceDemo. Page 111.
+CH01.CommandLineArgumentDemo. Page 118.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 2. Using WPF Standard Controls.
 ------------------------------------------------------------------------------------------------------------------------
