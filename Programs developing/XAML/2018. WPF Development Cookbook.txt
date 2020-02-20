@@ -49,8 +49,30 @@ CH01.DialogBoxDemo. Page 91.
 CH01.OwnershipDemo. Page 106.
 CH01.SingleInstanceDemo. Page 111.
 CH01.CommandLineArgumentDemo. Page 118.
+CH01.UnhandledExceptionDemo. Page 125.
 ------------------------------------------------------------------------------------------------------------------------
-Chapter 2. Using WPF Standard Controls.
+Chapter 2. Using WPF Standard Controls. Page 132.
+CH02.TextBlockDemo. Page 134.
+CH02.LabelDemo. Page 142.
+CH02.LabelAccessKeyDemo. Page 145.
+<Label Content="Enter _user name:" Target="{Binding ElementName=txbUsername}" />
+CH02.TextBoxDemo. Page 147.
+CH02.ImageDemo. Page 155.
+Working with ready-to-use 2D shapes. Page 161.
+CH02.ShapesDemo. Page 162.
+- Rectangle
+- Ellipse
+- Line
+- Polyline
+- Polygon
+- Path
+http://bit.ly/path-markup-syntax
+CH02.TooltipDemo. Page 169.
+CH02.MenuDemo. Page 175.
+<MenuItem Header="_Save" Icon="&#x1F4BE;" InputGestureText="Ctrl + S" Click="OnSaveMenuClicked" />
+CH02.ContextMenuDemo. Page 183.
+CH02.OptionSelectorsDemo. Page 189.
+CH02.ProgressBarDemo. Page 195.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 3. Layouts and Panels
 ------------------------------------------------------------------------------------------------------------------------

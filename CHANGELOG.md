@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.36] - 2020-02-20
+###Updated
+- Programs developing
+  - XAML
+    - 2018. WPF Development Cookbook.txt
+
 ## [0.2.35] - 2020-02-11
 ###Updated
 - Programs developing
