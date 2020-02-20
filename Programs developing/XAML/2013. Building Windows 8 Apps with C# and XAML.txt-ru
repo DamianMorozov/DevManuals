@@ -52,6 +52,7 @@ Dependency property system - система зависимых свойств.
 	<TextBlock Text="{Binding ElementName=Slider, Path=Value}" />
 	<TextBlock Text="{Binding RelativeSource={RelativeSource Self}, Path=FontSize}" />
   <Expander IsExpanded="{Binding Path=IsExpanded, Source={StaticResource ProgramSettings}}" />
+  <Label Content="Enter _user name:" Target="{Binding ElementName=txbUsername}" />
 DataContext (контекст данных).
 Параметры привязки данных:
 - Converter
