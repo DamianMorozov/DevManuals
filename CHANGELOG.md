@@ -2,13 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.41] - 2020-03-05
+## [0.2.42] - 2020-03-05
 ###Updated
 - Programs developing
   - C#
     - Data types.txt
   - XAML
     - 2018. WPF Development Cookbook.txt
+  - Git.txt-ru
 
 ## [0.2.38] - 2020-02-22
 ###Added
