@@ -73,8 +73,17 @@ CH02.MenuDemo. Page 175.
 CH02.ContextMenuDemo. Page 183.
 CH02.OptionSelectorsDemo. Page 189.
 CH02.ProgressBarDemo. Page 195.
+CH02.SliderDemo. Page 199.
+CH02.CalendarDemo. Page 205.
+CH02.ListBoxDemo. Page 215.
+CH02.ComboBoxDemo. Page 224.
+CH02.StatusBarDemo. Page 230.
 ------------------------------------------------------------------------------------------------------------------------
-Chapter 3. Layouts and Panels
+Chapter 3. Layouts and Panels. Page 240.
+CH03.GridDemo. Page 243.
+CH03.UniformGridDemo. Page 252.
+CH03.WrapPanelDemo. Page 261.
+CH03.StackPanelDemo. Page 266.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 4. Working with Data Bindings.
 ------------------------------------------------------------------------------------------------------------------------
