@@ -1,26 +1,39 @@
 ====================================================================================================
 C# data types.
+Work with data in C#: https://docs.microsoft.com/en-us/learn/paths/csharp-data/
 ====================================================================================================
-Significant data types.
----------------------
-1. All numeric types.
-  - signed integers (sbyte, short, int, long)
-  - unsigned integers (byte, ushort, uint, ulong)
-  - real (float, double, decimal)
-2. char.
-3. bool.
-4. struct.
-5. enum.
+Value data types.
+-----------------
+1. All numeric types:
+  - signed integral:
+    - sbyte  : -128 to 127
+    - short  : -32768 to 32767
+    - int    : -2147483648 to 2147483647
+    - long   : -9223372036854775808 to 9223372036854775807
+  - unsigned integral
+    - byte   : 0 to 255
+    - ushort : 0 to 65535
+    - uint   : 0 to 4294967295
+    - ulong  : 0 to 18446744073709551615
+  - real:
+    - float  : -3.402823E+38 to 3.402823E+38 (with ~6-9 digits of precision)
+    - double : -1.79769313486232E+308 to 1.79769313486232E+308 (with ~15-17 digits of precision)
+    - decimal: -79228162514264337593543950335 to 79228162514264337593543950335 (with 28-29 digits of precision)
+2. char
+3. bool
+4. struct
+5. enum
 The value cannot be assigned a null literal.
 The operations ==,! = are compared by value.
 ----------------------------------------------------------------------------------------------------
 Reference data types.
-----------------------
-1. string.
-2. class. object.
-3. interface.
-4. array.
-5. delegate.
+---------------------
+1. string, StringBuilder
+2. class, object
+3. interface
+4. array
+5. delegate
+6. DateTime, TimeSpan, Stopwatch
 The reference can be assigned a null literal.
 The operations ==,! = are compared by reference.
 ----------------------------------------------------------------------------------------------------
@@ -28,9 +41,9 @@ String.
 -----------------------------
 It is immutable.
 Reference type. But equivalence operations compare values.
-Contains escape sequences: string s = "Tab example:\t";
-Literal string literals: string s = @"\\server\share\folder";
-String interpolation: string s = $"Variable value = {i}";
+Contains escape sequences:    string s = "Tab example:\t";
+Literal string literals:      string s = @"\\server\share\folder";
+String interpolation:         string s = $"Variable value = {i}";
 Literal string interpolation: string s = $@"Variable value = {i}";
 String comparison:
    "Bbb".CompareTo("Aaa")  // 1
