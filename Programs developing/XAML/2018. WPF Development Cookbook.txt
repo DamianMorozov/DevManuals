@@ -84,8 +84,17 @@ CH03.GridDemo. Page 243.
 CH03.UniformGridDemo. Page 252.
 CH03.WrapPanelDemo. Page 261.
 CH03.StackPanelDemo. Page 266.
+CH03.CanvasDemo. Page 272.
+CH03.BorderDemo. Page 276.
+CH03.ScrollViewerDemo. Page 281.
+CH03.DockPanelDemo. Page 285.
+CH03.ViewBoxDemo. Page 291.
+CH03.TabControlDemo. Page 297.
+CH03.DynamicPanelDemo. Page 303.
+CH03.DragAndDropDemo. Page 310.
 ------------------------------------------------------------------------------------------------------------------------
-Chapter 4. Working with Data Bindings.
+Chapter 4. Working with Data Bindings. Page 316.
+CH04.NotificationPropertiesDemo. Page 319.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 5. Using Custom Controls and User Controls.
 ------------------------------------------------------------------------------------------------------------------------
