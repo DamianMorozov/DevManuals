@@ -2,6 +2,18 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.45] - 2020-04-02
+###Updated
+- Programs developing
+  - C#
+    - Access modifiers.txt-ru
+
+## [0.2.44] - 2020-04-01
+###Updated
+- Programs developing
+  - Testing
+    - NUnit.txt
+
 ## [0.2.43] - 2020-03-13
 ###Updated
 - Programs developing
