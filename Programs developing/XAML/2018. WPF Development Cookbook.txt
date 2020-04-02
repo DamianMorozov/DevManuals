@@ -95,6 +95,14 @@ CH03.DragAndDropDemo. Page 310.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 4. Working with Data Bindings. Page 316.
 CH04.NotificationPropertiesDemo. Page 319.
+CH04.DependencyPropertyDemo. Page 328.
+- propdp
+CH04.AttachedPropertyDemo. Page 336.
+- propa
+CH04.ObjectBindingDemo. Page 341.
+CH04.CollectionBindingDemo. Page 346.
+CH04.ElementToElementBindingDemo. Page 353.
+CH04.DataGridSortDemo. Page 358.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 5. Using Custom Controls and User Controls.
 ------------------------------------------------------------------------------------------------------------------------
