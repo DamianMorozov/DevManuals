@@ -2,11 +2,17 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.45] - 2020-04-02
+## [0.2.46] - 2020-04-02
 ###Updated
 - Programs developing
   - C#
     - Access modifiers.txt-ru
+  - MS Visual Studio
+	- Attributes.txt-ru
+###Added
+- Programs developing
+  - C#
+	- Access modifiers.png
 
 ## [0.2.44] - 2020-04-01
 ###Updated
