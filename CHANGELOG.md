@@ -2,6 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.49] - 2020-05-07
+###Added
+- Windows
+  - Cmd
+	- Share add.cmd
+	- Share remove.cmd
+
 ## [0.2.48] - 2020-04-07
 ###Added
 - Programs developing
