@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.51] - 2020-06-02
+###Updated
+- Programs developing
+  - MS Visual Studio
+    - Attributes.txt-ru
+
 ## [0.2.50] - 2020-05-21
 ###Added
 - Windows
