@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.52] - 2020-06-03
+###Added
+- Windows
+  - PowerShell
+    - Drivers.ps1
+
 ## [0.2.51] - 2020-06-02
 ###Updated
 - Programs developing
