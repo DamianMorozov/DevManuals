@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.53] - 2020-06-04
+###Updated
+- Windows
+  - PowerShell
+    - Drivers.ps1 -> gwmi.ps1
+
 ## [0.2.52] - 2020-06-03
 ###Added
 - Windows
