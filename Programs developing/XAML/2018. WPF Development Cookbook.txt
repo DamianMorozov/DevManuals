@@ -103,6 +103,9 @@ CH04.ObjectBindingDemo. Page 341.
 CH04.CollectionBindingDemo. Page 346.
 CH04.ElementToElementBindingDemo. Page 353.
 CH04.DataGridSortDemo. Page 358.
+CH04.DataGridGroupDemo. Page 365.
+CH04.DataGridFilterDemo. Page 372.
+CH04.StaticBindingDemo. Page 378.
 ------------------------------------------------------------------------------------------------------------------------
 Chapter 5. Using Custom Controls and User Controls.
 ------------------------------------------------------------------------------------------------------------------------
