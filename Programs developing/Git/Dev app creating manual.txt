@@ -1,0 +1,14 @@
+ 1. Create new git repository with description on https://github.com & https://gitlab.com.
+ 2. clone https://github.com/NickName/NewRepo.git
+ 3. git remote add gitlab http://gitlab.com/NickName/NewRepo.git
+ 4. Add LICENSE & commit it.
+ 5. git push -u gitlab master.
+ 6. git push -u origin master.
+ 7. Add README.md & commit it.
+ 8. Add and update .gitattributes.
+ 9. Add .gitignore and update from https://github.com/github/gitignore.
+10. Create new solution / project & commit it.
+11. Add CHANGELOG.md & commit it.
+12. Add Helpers, Classes, ViewModel.
+13. Add Helpers.Tests, Classes.Tests, ViewModel.Tests.
+14. Add PVS-Studio comments for analyzing.
