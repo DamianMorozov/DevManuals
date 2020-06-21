@@ -2,6 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.55] - 2020-06-21
+###Updated
+- Programs developing
+  - Git
+    - Dev app creating manual.txt
+    - Git.txt-ru
+  - XAML
+    - 2018. WPF Development Cookbook.txt
+
 ## [0.2.53] - 2020-06-04
 ###Updated
 - Windows
