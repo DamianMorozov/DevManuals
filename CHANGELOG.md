@@ -2,14 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.54] - 2020-06-21
+## [0.2.53] - 2020-06-04
 ###Updated
-- Programs developing
-  - Git
-    - Dev app creating manual.txt
-    - Git.txt-ru
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Windows
+  - PowerShell
+    - Drivers.ps1 -> gwmi.ps1
 
 ## [0.2.52] - 2020-06-03
 ###Added
