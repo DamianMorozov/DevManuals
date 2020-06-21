@@ -6,6 +6,7 @@ https://habr.com/post/224733/
 1. Публичный метод (private -> public).
 2. Внутренний метод (private -> internal).
 [InternalsVisibleToAttribute("...")] - типы, видимые только в пределах текущей сборки, являются видимыми для заданной сборки
+[assembly: InternalsVisibleTo("...")] - перед namespace
 3. Защищенный метод (private -> protected).
 В тестирующей сборке нужно будет делать наследника от тестируемого класса – доступ к методу получен.
 4. PrivateObject.
