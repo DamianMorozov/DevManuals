@@ -2,12 +2,18 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.2.56] - 2020-06-21
+## [0.2.58] - 2020-06-21
+###Added
+- Programs developing
+  - Testing
+    - Tests.txt-ru
 ###Updated
 - Programs developing
   - Git
     - Dev app creating manual.txt
     - Git.txt-ru
+  - Testing
+    - How to test non-public methods in .NET.txt-ru
   - XAML
     - 2018. WPF Development Cookbook.txt
 
