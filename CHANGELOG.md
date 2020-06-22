@@ -2,6 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.59] - 2020-06-22
+###Added
+- Linux
+  - Software
+    - System
+      - Update.txt
+
 ## [0.2.58] - 2020-06-21
 ###Added
 - Programs developing
