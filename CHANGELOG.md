@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.61] - 2020-06-24
+###Updated
+- Windows
+  - PowerShell
+    - gwmi.ps1
+
 ## [0.2.60] - 2020-06-23
 ###Updated
 - Linux

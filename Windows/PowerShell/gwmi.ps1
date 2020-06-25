@@ -1,5 +1,6 @@
 # get-WMIObject
 gwmi
+get-wmiobject
 
 # List
 gwmi -list
@@ -28,3 +29,7 @@ gwmi -Class Win32_Product | select identifyingnumber, name, vendor, version, lan
 
 # Services
 get-service | where-object { $_.Status -eq "Running" }
+
+# MSI packages
+gwmi Win32_Product | Format-Table Name, LocalPackage -AutoSize
+gwmi Win32_Product | Format-Table IdentifyingNumber, Name, Vendor, Version, Caption -AutoSize
