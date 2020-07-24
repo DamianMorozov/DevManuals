@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.63] - 2020-07-24
+###Updated
+- Programs developing
+  - SVN
+    - SVN.txt-ru
+
 ## [0.2.62] - 2020-07-15
 ###Added
 - Programs developing
