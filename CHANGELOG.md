@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.65] - 2020-07-27
+###Updated
+- Windows\Cmd\Control Panel tools.txt
+
 ## [0.2.64] - 2020-07-24
 ###Updated
 - Programs developing\SVN\SVN.txt-ru
@@ -10,600 +14,410 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.2.62] - 2020-07-15
 ###Added
-- Programs developing
-  - SVN
-    - SVN.txt-ru
+- Programs developing\SVN\SVN.txt-ru
 
 ## [0.2.61] - 2020-06-24
 ###Updated
-- Windows
-  - PowerShell
-    - gwmi.ps1
+- Windows\PowerShell\gwmi.ps1
 
 ## [0.2.60] - 2020-06-23
 ###Updated
-- Linux
-  - Software
-    - System
-      - Update.txt
+- Linux\Software\System\Update.txt
 
 ## [0.2.59] - 2020-06-22
 ###Added
-- Linux
-  - Software
-    - System
-      - Update.txt
+- Linux\Software\System\Update.txt
 
 ## [0.2.58] - 2020-06-21
 ###Added
-- Programs developing
-  - Testing
-    - Tests.txt-ru
+- Programs developing\Testing\Tests.txt-ru
 ###Updated
-- Programs developing
-  - Git
-    - Dev app creating manual.txt
-    - Git.txt-ru
-  - Testing
-    - How to test non-public methods in .NET.txt-ru
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\Git\Dev app creating manual.txt
+- Programs developing\Git\Git.txt-ru
+- Programs developing\Testing\How to test non-public methods in .NET.txt-ru
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.53] - 2020-06-04
 ###Updated
-- Windows
-  - PowerShell
-    - Drivers.ps1 -> gwmi.ps1
+- Windows\PowerShell\Drivers.ps1 -> gwmi.ps1
 
 ## [0.2.52] - 2020-06-03
 ###Added
-- Windows
-  - PowerShell
-    - Drivers.ps1
+- Windows\PowerShell\Drivers.ps1
 
 ## [0.2.51] - 2020-06-02
 ###Updated
-- Programs developing
-  - MS Visual Studio
-    - Attributes.txt-ru
+- Programs developing\MS Visual Studio\Attributes.txt-ru
 
 ## [0.2.50] - 2020-05-21
 ###Added
-- Windows
-  - Software
-	- WSL.txt
+- Windows\Software\WSL.txt
 
 ## [0.2.49] - 2020-05-07
 ###Added
-- Windows
-  - Cmd
-	- Share add.cmd
-	- Share remove.cmd
+- Windows\Cmd\Share add.cmd
+- Windows\Cmd\Share remove.cmd
 
 ## [0.2.48] - 2020-04-07
 ###Added
-- Programs developing
-  - C#
-	- Count of digits.txt
+- Programs developing\C#\Count of digits.txt
 
 ## [0.2.47] - 2020-04-02
 ###Updated
-- Programs developing
-  - C#
-    - Access modifiers.txt-ru
-  - MS Visual Studio
-    - Attributes.txt-ru
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\C#\Access modifiers.txt-ru
+- Programs developing\MS Visual Studio\Attributes.txt-ru
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 ###Added
-- Programs developing
-  - C#
-	- Access modifiers.png
+- Programs developing\C#\Access modifiers.png
 
 ## [0.2.44] - 2020-04-01
 ###Updated
-- Programs developing
-  - Testing
-    - NUnit.txt
+- Programs developing\Testing\NUnit.txt
 
 ## [0.2.43] - 2020-03-13
 ###Updated
-- Programs developing
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.42] - 2020-03-05
 ###Updated
-- Programs developing
-  - C#
-    - Data types.txt
-  - XAML
-    - 2018. WPF Development Cookbook.txt
-  - Git.txt-ru
+- Programs developing\C#\Data types.txt
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
+- Programs developing\Git.txt-ru
 
 ## [0.2.38] - 2020-02-22
 ###Added
-- Windows
-  - Settings
-    - WiFi password.txt
+- Windows\Settings\WiFi password.txt
 
 ## [0.2.37] - 2020-02-20
 ###Updated
-- Programs developing
-  - XAML
-    - 2013. Building Windows 8 Apps with C# and XAML.txt-ru
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.35] - 2020-02-11
 ###Updated
-- Programs developing
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.34] - 2020-02-05
 ###Updated
-- Programs developing
-  - XAML
-    - 2013. Building Windows 8 Apps with C# and XAML.txt-ru
+- Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
 ###Added
-- Programs developing
-  - XAML
-    - 2018. WPF Development Cookbook.txt
+- Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.32] - 2020-01-30
 ###Updated
-- Programs developing
-  - Git.txt-ru
+- Programs developing\Git.txt-ru
 
 ## [0.2.31] - 2020-01-29
 ###Updated
-- Programs developing
-  - XAML
-    - 2013. Building Windows 8 Apps with C# and XAML.txt-ru
+- Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
 
 ## [0.2.30] - 2020-01-28
 ###Added
-- Programs developing
-  - XAML
-    - 2013. Building Windows 8 Apps with C# and XAML.txt-ru
+- Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
 ### Moved
-- Programs developing
-  - C#\2018. XAML.txt-ru -> XAML\2018. XAML.txt-ru
+- Programs developing\C#\2018. XAML.txt-ru -> XAML\2018. XAML.txt-ru
 
 ## [0.2.28] - 2020-01-23
 ### Updated
-- Programs developing
-  - Dev app creating manual.txt
-  - C#
-    - 6 lesser-known features of C# .NET that you should be using.txt
+- Programs developing\Dev app creating manual.txt
+- Programs developing\C#\6 lesser-known features of C# .NET that you should be using.txt
 
 ## [0.2.26] - 2020-01-22
 ### Added
-- Programs developing
-  - C#
-    - 6 lesser-known features of C# .NET that you should be using.txt
+- Programs developing\C#\6 lesser-known features of C# .NET that you should be using.txt
 ### Renamed
-- Programs developing
-  - C#
-    - 2016. Библия C#.txt -> 2016. Bible C #.txt-ru
-    - 2018. C# 7 Карманный справочник.txt -> 2018. C# 7 Pocket guide.txt-ru
-    - 2018. C# и платформы .NET и .NET Core.txt -> 2018. C # and the .NET and .NET Core.txt-ru
-    - 2018. XAML.txt -> 2018. XAML.txt-ru
-    - Access modifiers.txt -> Access modifiers.txt-ru
-    - C# code style.txt -> C# code style.txt-ru
-    - C# X what news.txt -> C# X what news.txt-ru
-    - Exceptions.txt -> Exceptions.txt-ru
-    - Interface.txt -> Interface.txt-ru
-    - Stopwatch.txt -> Stopwatch.txt-ru
-    - WPF metanit.txt -> WPF metanit.txt-ru
-    - WPF professorweb.txt - WPF professorweb.txt-ru
+- Programs developing\C#\2016. Библия C#.txt -> 2016. Bible C #.txt-ru
+- Programs developing\C#\2018. C# 7 Карманный справочник.txt -> 2018. C# 7 Pocket guide.txt-ru
+- Programs developing\C#\2018. C# и платформы .NET и .NET Core.txt -> 2018. C # and the .NET and .NET Core.txt-ru
+- Programs developing\C#\2018. XAML.txt -> 2018. XAML.txt-ru
+- Programs developing\C#\Access modifiers.txt -> Access modifiers.txt-ru
+- Programs developing\C#\C# code style.txt -> C# code style.txt-ru
+- Programs developing\C#\C# X what news.txt -> C# X what news.txt-ru
+- Programs developing\C#\Exceptions.txt -> Exceptions.txt-ru
+- Programs developing\C#\Interface.txt -> Interface.txt-ru
+- Programs developing\C#\Stopwatch.txt -> Stopwatch.txt-ru
+- Programs developing\C#\WPF metanit.txt -> WPF metanit.txt-ru
+- Programs developing\C#\WPF professorweb.txt - WPF professorweb.txt-ru
 ### Updated
-- Programs developing
-  - C#
-    - 6 lesser-known features of C# .NET that you should be using.txt
-    - AsyncCallback.txt
-    - Foreach enum ProcessWindowStyle.txt
-    - Performance.txt
-    - WPF XAML Enum.txt
+- Programs developing\C#\6 lesser-known features of C# .NET that you should be using.txt
+- Programs developing\C#\AsyncCallback.txt
+- Programs developing\C#\Foreach enum ProcessWindowStyle.txt
+- Programs developing\C#\Performance.txt
+- Programs developing\C#\WPF XAML Enum.txt
 
 ## [0.2.06] - 2020-01-20
 ### Updated
-- Programs developing
-  - Dev app creating manual.txt
+- Programs developing\Dev app creating manual.txt
 ### Renamed
-- Programs developing
-  - Design patterns.txt -> Design patterns.txt-ru
+- Programs developing\Design patterns.txt -> Design patterns.txt-ru
 
 ## [0.2.04] - 2020-01-17
 ### Updated and renamed
-- Programs developing
-  - 2019. Clean architecture.txt-ru
+- Programs developing\2019. Clean architecture.txt-ru
 
 ## [0.2.03] - 2020-01-15
 ### Updated and renamed
-- Programs developing
-  - 2019. Clean architecture.txt-ru
+- Programs developing\2019. Clean architecture.txt-ru
 ### Added
-- Windows
-  - Settings
-    - W32tm.txt
+- Windows\Settings\W32tm.txt
 
 ## [0.2.01] - 2019-12-23
 ### Updated and renamed
-- Windows
-  - Settings
-	- Mklink.txt
+- Windows\Settings\Mklink.txt
 
 ## [0.1.99] - 2019-12-20
 ### Updated
-- Programs developing
-  - Dev app creating manual.txt
+- Programs developing\Dev app creating manual.txt
 
 ## [0.1.97] - 2019-12-09
 ### Added
 - Programs developing
-  - SQL
-    - MS SQL setup guide.txt-ru
+  - SQL\MS SQL setup guide.txt-ru
 
 ## [0.1.96] - 2019-12-03
 ### Updated
-- Windows
-  - Settings
-    - Hiberfil.txt
-- Programs developing
-  - Dev app creating manual.txt
+- Windows\Settings\Hiberfil.txt
+- Programs developing\Dev app creating manual.txt
 
 ## [0.1.94] - 2019-11-25
 ### Added
-- Programs developing
-  - MS Visual Studio
-    - XAML Features in VS 2019 16.4 preview 3.txt
+- Programs developing\MS Visual Studio\XAML Features in VS 2019 16.4 preview 3.txt
 
 ## [0.1.93] - 2019-11-21
 ### Updated
-- Programs developing
-  - Git.txt-ru
+- Programs developing\Git.txt-ru
 
 ## [0.1.92] - 2019-11-18
 ### Added
-- Programs developing
-  - C#
-    - Arrays.txt
+- Programs developing\C#\Arrays.txt
 ### Renamed
-- Programs developing
-  - C#
-    - Data types.txt -> Data types.txt-ru
+- Programs developing\C#\Data types.txt -> Data types.txt-ru
 
 ## [0.1.90] - 2019-10-13
 ### Updated
-- Linux
-  - Settings
-    - BusyBox.txt
-    - BusyBox.txt-ru
+- Linux\Settings\BusyBox.txt
+- Linux\Settings\BusyBox.txt-ru
 
 ## [0.1.88] - 2019-09-20
 ### Updated
-- Programs developing
-  - 2016. Grokking Algorithms.txt-ru
+- Programs developing\2016. Grokking Algorithms.txt-ru
 
 ## [0.1.87] - 2019-09-17
 ### Updated
-- Programs developing
-  - 2006. Say it with charts complete toolkit.txt-ru
-  - 2016. Grokking Algorithms.txt-ru
+- Programs developing\2006. Say it with charts complete toolkit.txt-ru
+- Programs developing\2016. Grokking Algorithms.txt-ru
 
 ## [0.1.85] - 2019-09-06
 ### Added
-- Programs developing
-  - Dotnet new project.txt
+- Programs developing\Dotnet new project.txt
 ### Updated
-- Programs developing
-  - 2016. Grokking Algorithms.txt-ru
+- Programs developing\2016. Grokking Algorithms.txt-ru
 
 ## [0.1.83] - 2019-08-30
 ### Added
-- Programs developing
-  - 2016. Grokking Algorithms.txt-ru
+- Programs developing\2016. Grokking Algorithms.txt-ru
 ###Updated
-- Programs developing
-  - MS Visual Studio
-    - Hotkeys Visual Studio.txt
+- Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 
 ## [0.1.81] - 2019-08-29
 ### Added
-- Linux
-  - Settings
-    - Memory.txt
+- Linux\Settings\Memory.txt
 
 ## [0.1.80] - 2019-08-28
 ### Added
-- Linux
-  - Hardware
-    - Hardware.txt
-  - Software
-    - System
-      - File commanders
-        - Doublecmd.txt
-        - Gnome Commander.txt
-      - Process explorers
-        - Stacer.txt
+- Linux\Hardware\Hardware.txt
+- Linux\Software\System\File commanders\Doublecmd.txt
+- Linux\Software\System\File commanders\Gnome Commander.txt
+- Linux\Software\System\Process explorers\Stacer.txt
 ###Updated
-- Linux
-  - Software
-    - System
-      - System.txt
+- Linux\Software\System\System.txt
 
 ## [0.1.75] - 2019-08-26
 ### Added
-- Linux
-  - Software
-    - Develop
-      - Anaconda.txt
-      - CUDA Toolkit.txt
-      - DeOldify.txt
-      - Lazarus.txt
-      - MonoDevelop.txt
-      - SquirrelSQL.txt
+- Linux\Software\Develop\Anaconda.txt
+- Linux\Software\Develop\CUDA Toolkit.txt
+- Linux\Software\Develop\DeOldify.txt
+- Linux\Software\Develop\Lazarus.txt
+- Linux\Software\Develop\MonoDevelop.txt
+- Linux\Software\Develop\SquirrelSQL.txt
 
 ## [0.1.69] - 2019-08-22
 ### Added
-- Programs developing
-  - SQL
-    - MS SQL Dark Theme.txt
+- Programs developing\SQL\MS SQL Dark Theme.txt
 
 ## [0.1.68] - 2019-08-20
 ### Updated
-  - Windows
-    - Cmd
-      - Hibernate.cmd
+- Windows\Cmd\Hibernate.cmd
 
 ## [0.1.67] - 2019-08-13
 ### Updated
-  - Linux
-    - Software
-      - Network.txt
+- Linux\Software\Network.txt
 
 ## [0.1.66] - 2019-08-12
 ### Updated
-  - Windows
-    - Settings
-      - Credential Manager.txt-ru
-      - Mklink.txt-ru
+- Windows\Settings\Credential Manager.txt-ru
+- Windows\Settings\Mklink.txt-ru
 ### Added
-- Linux
-  - Settings
-    - Screen resolution.txt
-  - Programs developing
-    - Agile Manifesto.txt-ru
-- Windows
-  - Cmd
-    - Clear temp.cmd
-    - ipv4 install.cmd
-    - Scan system files.cmd
-  - Settings
-    - Console.txt-ru
-    - Command description.txt-ru
-    - Diskpart.txt-ru
-    - Icon cache.txt
-    - Route.txt-ru
-    - Shutdown.txt-ru
-    - Vhd compressing using Diskpart.txt
+- Linux\Settings\Screen resolution.txt
+- Programs developing\Agile Manifesto.txt-ru
+- Windows\Cmd\Clear temp.cmd
+- Windows\Cmd\ipv4 install.cmd
+- Windows\Cmd\Scan system files.cmd
+- Windows\Settings\Console.txt-ru
+- Windows\Settings\Command description.txt-ru
+- Windows\Settings\Diskpart.txt-ru
+- Windows\Settings\Icon cache.txt
+- Windows\Settings\Route.txt-ru
+- Windows\Settings\Shutdown.txt-ru
+- Windows\Settings\Vhd compressing using Diskpart.txt
 
 ## [0.1.52] - 2019-08-11
 ### Added
-- Linux
-  - Settings
-    - BusyBox.txt
-    - BusyBox.txt-ru
+- Linux\Settings\BusyBox.txt
+- Linux\Settings\BusyBox.txt-ru
 
 ## [0.1.50] - 2019-08-08
 ### Updated
-- Linux
-  - Settings
-    - Dock launcher as root.txt
-    - FS owner.txt
-    - FS permission.txt
-    - Hosts.txt
-    - OS version.txt
-    - Ubuntu Tweak Tool.txt
-    - Upgrade Linux.txt
+- Linux\Settings\Dock launcher as root.txt
+- Linux\Settings\FS owner.txt
+- Linux\Settings\FS permission.txt
+- Linux\Settings\Hosts.txt
+- Linux\Settings\OS version.txt
+- Linux\Settings\Ubuntu Tweak Tool.txt
+- Linux\Settings\Upgrade Linux.txt
 ### Added
-- Linux
-  - Settings
-    - Run as separate process.txt
+- Linux\Settings\Run as separate process.txt
 
 ## [0.1.42] - 2019-08-07
 ### Updated
-- Linux
-  - Software
-    - Network.txt
+- Linux\Software\Network.txt
 
 ## [0.1.41] - 2019-08-01
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Hotkeys Visual Studio.txt
+- Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 
 ## [0.1.40] - 2019-07-31
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Options.txt
+- Programs developing\MS Visual Studio\Options.txt
 
 ## [0.1.39] - 2019-07-23
 ### Updated
-- Programs developing
-  - Git.txt-ru
+- Programs developing\Git.txt-ru
 
 ## [0.1.38] - 2019-07-22
 ### Added
-- Linux
-  - Settings
-    - OS version.txt
+- Linux\Settings\OS version.txt
 ### Updated
-- Linux
-  - Software
-    - Games.txt
+- Linux\Software\Games.txt
 
 ## [0.1.36] - 2019-07-19
 ### Added
-- Programs developing
-  - 2006. Say it with charts complete toolkit.txt-ru
+- Programs developing\2006. Say it with charts complete toolkit.txt-ru
 
 ## [0.1.34] - 2019-07-18
 ### Added
-- Programs developing
-  - Nuget
-    - MSTest.TestAdapter.txt
-  - Developer rules.txt
+- Programs developing\Nuget\MSTest.TestAdapter.txt
+- Programs developing\Developer rules.txt
 ### Updated
 - README.md
-- Programs developing
-  - Developer rules.txt-ru
-  - 2014. The Art of Unit Testing (with examples in C#).txt-ru
-  - 2017. Building Maintainable Software (C# Edition).txt-ru
-  - 2019. Clean architecture.txt-ru
+- Programs developing\Developer rules.txt-ru
+- Programs developing\2014. The Art of Unit Testing (with examples in C#).txt-ru
+- Programs developing\2017. Building Maintainable Software (C# Edition).txt-ru
+- Programs developing\2019. Clean architecture.txt-ru
 
 ## [0.1.28] - 2019-07-12
 ### Added
-- Windows
-  - Software
-    - Network.txt
+- Windows\Software\Network.txt
 
 ## [0.1.27] - 2019-07-10
 ### Added
-- Windows
-  - Software
-    - System.txt
+- Windows\Software\System.txt
 
 ## [0.1.26] - 2019-06-28
 ### Added
-- Programs developing
-  - SQL
-    - Error Невозможно привести Com-объект типа System.__ComObject.txt
-    - MS SQL versions.txt
-    - Язык запросов SQL.txt
+- Programs developing\SQL\Error Невозможно привести Com-объект типа System.__ComObject.txt
+- Programs developing\SQL\MS SQL versions.txt
+- Programs developing\SQL\Язык запросов SQL.txt
 ### Updated
-- Programs developing
-  - SQL
-    - MS SQL download.txt
+- Programs developing\SQL\MS SQL download.txt
 
 ## [0.1.22] - 2019-06-27
 ### Added
-- Linux
-  - Software
-    - Games.txt
+- Linux\Software\Games.txt
 
 ## [0.1.21] - 2019-06-25
 ### Added
-- Linux
-  - Hardware
-    - HDD.txt
+- Linux\Hardware\HDD.txt
 
 ## [0.1.19] - 2019-06-18
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Extensions.txt
+- Programs developing\MS Visual Studio\Extensions.txt
 
 ## [0.1.18] - 2019-05-31
 ### Added
-- Programs developing
-  - MS Visual Studio
-    - PVS-Studio.txt
+- Programs developing\MS Visual Studio\PVS-Studio.txt
 
 ## [0.1.17] - 2019-05-29
 ### Updated
-- Windows
-  - Settings
-    - Hiberfil.sys.txt
+- Windows\Settings\Hiberfil.sys.txt
 
 ## [0.1.16] - 2019-05-22
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Extensions.txt
+- Programs developing\MS Visual Studio\Extensions.txt
 
 ## [0.1.15] - 2019-05-21
 ### Added
-- Linux
-  - Software
-    - Security.txt
-- Programs developing
-  - MS Visual Studio
-    - Extensions.txt
+- Linux\Software\Security.txt
+- Programs developing\MS Visual Studio\Extensions.txt
 
 ## [0.1.13] - 2019-05-15
 ### Added
-- Programs developing
-  - SQL
-    - Cursor.txt
-    - Data types.txt
-    - MS SQL 2005. Библия пользователя.txt
-    - Setup versions.txt
-- Windows
-  - PID.txt
+- Programs developing\SQL\Cursor.txt
+- Programs developing\SQL\Data types.txt
+- Programs developing\SQL\MS SQL 2005. Библия пользователя.txt
+- Programs developing\SQL\Setup versions.txt
+- Windows\PID.txt
 ### Updated
-- Programs developing
-  - Git.txt
-  - Правила разработчика.txt
+- Programs developing\Git.txt
+- Programs developing\Правила разработчика.txt
 
 ## [0.1.05] - 2019-05-13
 ### Added
-- Programs developing
-  - Правила разработки.txt
+- Programs developing\Правила разработки.txt
 
 ## [0.1.04] - 2019-04-30
 ### Added
-- Programs developing
-  - C#
-    - Plugins.txt
-  - MS Excel
-    - Excel constants.txt
-    - Excel options.txt
-  - MS VB
-    - Last cell.txt
-  - SQL
-    - ConnectionString.txt
-    - DateTime.txt
-    - Help.txt
-  - 2014. Искусство автономного тестирования.txt
-  - Design patterns.txt
+- Programs developing\C#\Plugins.txt
+- Programs developing\MS Excel\Excel constants.txt
+- Programs developing\MS Excel\Excel options.txt
+- Programs developing\MS VB\Last cell.txt
+- Programs developing\SQL\ConnectionString.txt
+- Programs developing\SQL\DateTime.txt
+- Programs developing\SQL\Help.txt
+- Programs developing\2014. Искусство автономного тестирования.txt
+- Programs developing\Design patterns.txt
 
 ## [0.0.95] - 2019-04-29
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Hotkeys Visual Studio.txt
+- Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 
 ## [0.0.94] - 2019-04-24
 ### Updated
-- Programs developing
-  - Git.txt
+- Programs developing\Git.txt
 
 ## [0.0.93] - 2019-04-23
 ### Added
-- Programs developing
-  - Dotnet.txt
-  - SQL
-    - MS SQL download.txt
+- Programs developing\Dotnet.txt
+- Programs developing\SQL\MS SQL download.txt
 ### Updated
-- Linux
-  - Software
-    - Develop.txt
-- Programs developing
-  - C#
-    - Avalonia.txt
-  - Git.txt
+- Linux\Software\Develop.txt
+- Programs developing\C#\Avalonia.txt
+- Programs developing\Git.txt
 
 ## [0.0.89] - 2019-04-22
 ### Added
-- Linux
-  - Software
-    - Develop.txt
-- Programs developing
-  - Python
-    - Python.txt
+- Linux\Software\Develop.txt
+- Programs developing\Python\Python.txt
 
 ## [0.0.87] - 2019-04-18
 ### Updated
@@ -613,152 +427,117 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.0.86] - 2019-04-17
 ### Added
-- Programs developing
-  - C#
-    - 2016. Библия C#.txt
-    - 2018. C# и платформы .NET и .NET Core.txt
-    - 2018. XAML.txt
-    - C# 2 what news.txt
-    - C# 3 what news.txt
-    - C# 4 what news.txt
-    - C# 5 what news.txt
-    - C# 6 what news.txt
-    - C# 7 what news.txt
-    - C# code style.txt
-    - Exceptions.txt
-    - Interface.txt
-    - Performance.txt
-    - SemaphoreSlim.txt
-    - WPF Access controls from threads.txt
-    - WPF metanit.txt
-    - WPF professorweb.txt
-    - WPF XAML Enum.txt
-  - MS Visual Studio
-    - Toolbox reset.txt
+- Programs developing\C#\2016. Библия C#.txt
+- Programs developing\C#\2018. C# и платформы .NET и .NET Core.txt
+- Programs developing\C#\2018. XAML.txt
+- Programs developing\C#\C# 2 what news.txt
+- Programs developing\C#\C# 3 what news.txt
+- Programs developing\C#\C# 4 what news.txt
+- Programs developing\C#\C# 5 what news.txt
+- Programs developing\C#\C# 6 what news.txt
+- Programs developing\C#\C# 7 what news.txt
+- Programs developing\C#\C# code style.txt
+- Programs developing\C#\Exceptions.txt
+- Programs developing\C#\Interface.txt
+- Programs developing\C#\Performance.txt
+- Programs developing\C#\SemaphoreSlim.txt
+- Programs developing\C#\WPF Access controls from threads.txt
+- Programs developing\C#\WPF metanit.txt
+- Programs developing\C#\WPF professorweb.txt
+- Programs developing\C#\WPF XAML Enum.txt
+- Programs developing\MS Visual Studio\Toolbox reset.txt
 
 ## [0.0.72] - 2019-04-16
 ### Updated
-- Linux
-  - Software
-    - Develop.txt
-- Programs developing
-  - C#
-    - Avalonia.txt
+- Linux\Software\Develop.txt
+- Programs developing\C#\Avalonia.txt
 
 ## [0.0.70] - 2019-04-15
 ### Updated
-- Programs developing
-  - 2019. Чистая архитектура.txt
+- Programs developing\2019. Чистая архитектура.txt
 
 ## [0.0.68] - 2019-04-12
 ### Updated
-- Programs developing
-  - C#
-    - Data types.txt
+- Programs developing\C#\Data types.txt
 
 ## [0.0.67] - 2019-04-10
 ### Updated
-- Programs developing
-  - MS Visual Studio
-    - Hotkeys Visual Studio.txt
+- Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 
 ## [0.0.66] - 2019-04-09
 ### Added
-- Programs developing
-  - MS Visual Studio
-    - Attributes.txt
-    - Debug.txt
-    - Debug VBScript.txt
-    - DevExpress.txt
-    - Entity Framework.txt
-    - Garbage Collector.txt
-    - Hotkeys ReSharper.txt
-    - Hotkeys Visual Studio.txt
-    - Options.txt
-    - Options 2019.txt
+- Programs developing\MS Visual Studio\Attributes.txt
+- Programs developing\MS Visual Studio\Debug.txt
+- Programs developing\MS Visual Studio\Debug VBScript.txt
+- Programs developing\MS Visual Studio\DevExpress.txt
+- Programs developing\MS Visual Studio\Entity Framework.txt
+- Programs developing\MS Visual Studio\Garbage Collector.txt
+- Programs developing\MS Visual Studio\Hotkeys ReSharper.txt
+- Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
+- Programs developing\MS Visual Studio\Options.txt
+- Programs developing\MS Visual Studio\Options 2019.txt
 ### Moved
 - Android -> Programs developing\Android
 
 ## [0.0.53] - 2019-04-08
 ### Added
-- Programs developing
-  - C#
-    - Avalonia.txt
+- Programs developing\C#\Avalonia.txt
 
 ## [0.0.52] - 2019-04-05
 ### Added
-- Programs developing
-  - C#
-    - 2018. C# 7. Карманный справочник.txt
-    - C# versions.txt
-    - Data types.txt
-    - Foreach enum.txt
-    - Stopwatch.txt
-  - Nuget
-    - Ninject.txt
-    - NUnit.txt
-    - ValueTuple.txt
-  - SQL
-    - 13 вопросов перед внесением изменений в работу SQL Server.txt
-  - Testing
-    - How to test non-public methods in .NET.txt
-  - 2017. Разработка обслуживаемых программ.txt
+- Programs developing\C#\2018. C# 7. Карманный справочник.txt
+- Programs developing\C#\C# versions.txt
+- Programs developing\C#\Data types.txt
+- Programs developing\C#\Foreach enum.txt
+- Programs developing\C#\Stopwatch.txt
+- Programs developing\Nuget\Ninject.txt
+- Programs developing\Nuget\NUnit.txt
+- Programs developing\Nuget\ValueTuple.txt
+- Programs developing\SQL\13 вопросов перед внесением изменений в работу SQL Server.txt
+- Programs developing\Testing\How to test non-public methods in .NET.txt
+- Programs developing\Testing\2017. Разработка обслуживаемых программ.txt
 ### Moved
 - Books -> Programs developing
 
 ## [0.0.40] - 2019-04-04
 ### Added
-- Books
-  - Head First.txt
-- Windows
-  - Cmd
-    - Hybrid *.cmd
-    - Shutdown *.cmd
-  - Programs developing
-    - C#
-      - Access modifiers.txt
-      - AsyncCallback.txt
-  - Settings
-    - Credential Manager.txt
-    - Hiberfil.sys.txt
-    - Hotkeys.txt
-    - Mklink.txt
-    - netsh interface portproxy.txt
-    - Pagefile.sys.txt
+- Books\Head First.txt
+- Programs developing\C#\Access modifiers.txt
+- Programs developing\C#\AsyncCallback.txt
+- Windows\Cmd\Hybrid *.cmd
+- Windows\Cmd\Shutdown *.cmd
+- Windows\Settings\Credential Manager.txt
+- Windows\Settings\Hiberfil.sys.txt
+- Windows\Settings\Hotkeys.txt
+- Windows\Settings\Mklink.txt
+- Windows\Settings\netsh interface portproxy.txt
+- Windows\Settings\Pagefile.sys.txt
 
 ## [0.0.30] - 2019-04-03
 ### Added
-- Android
-  - Android.txt
-- Books
-  - 2019. Чистая архитектура.txt
-- Programs developing
-  - Entity Component System.txt
-  - Principles of OOP.txt
-  - SOLID.txt
-- Linux
-  - Hardware
-    - Videocard.txt
-  - Settings
-    - Dock launcher as root.txt
-    - FS owner.txt
-    - FS permission.txt
-    - Hosts.txt
-    - Ubuntu Tweak Tool.txt
-    - Upgrade Linux.txt
-  - Software
-    - Backup.txt
-    - Desktop.txt
-    - Develop.txt
-    - Network.txt
-    - Snap.txt
-    - System.txt
-    - System.txt
+- Android\Android.txt
+- Books\2019. Чистая архитектура.txt
+- Programs developing\Entity Component System.txt
+- Programs developing\Principles of OOP.txt
+- Programs developing\SOLID.txt
+- Linux\Hardware\Videocard.txt
+- Linux\Settings\Dock launcher as root.txt
+- Linux\Settings\FS owner.txt
+- Linux\Settings\FS permission.txt
+- Linux\Settings\Hosts.txt
+- Linux\Settings\Ubuntu Tweak Tool.txt
+- Linux\Settings\Upgrade Linux.txt
+- Linux\Software\Backup.txt
+- Linux\Software\Desktop.txt
+- Linux\Software\Develop.txt
+- Linux\Software\Network.txt
+- Linux\Software\Snap.txt
+- Linux\Software\System.txt
+- Linux\Software\System.txt
 
 ## [0.0.14] - 2019-04-02
 ### Added
-- Programs developing
-  - Changelog.txt
-  - Docker.txt
-  - Git.txt
-  - Readme.txt
+- Programs developing\Changelog.txt
+- Programs developing\Docker.txt
+- Programs developing\Git.txt
+- Programs developing\Readme.txt

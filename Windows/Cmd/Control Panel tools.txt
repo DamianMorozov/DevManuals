@@ -1,32 +1,126 @@
 https://support.microsoft.com/en-us/help/192806/how-to-run-control-panel-tools-by-typing-a-command
+https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060
 
 Control panel tool             Command
 -----------------------------------------------------------------
-Accessibility Options          control access.cpl
-Add New Hardware               control sysdm.cpl add new hardware
-Add/Remove Programs            control appwiz.cpl
-Date/Time Properties           control timedate.cpl
-Display Properties             control desk.cpl
-FindFast                       control findfast.cpl
-Fonts Folder                   control fonts
-Internet Properties            control inetcpl.cpl
-Joystick Properties            control joy.cpl
-Keyboard Properties            control main.cpl keyboard
-Microsoft Exchange             control mlcfg32.cpl
-  (or Windows Messaging)
-Microsoft Mail Post Office     control wgpocpl.cpl
-Modem Properties               control modem.cpl
-Mouse Properties               control main.cpl
-Multimedia Properties          control mmsys.cpl
-Network Properties             control netcpl.cpl
-                              NOTE: In Windows NT 4.0, Network
-                              properties is Ncpa.cpl, not Netcpl.cpl
-Password Properties            control password.cpl
-PC Card                        control main.cpl pc card (PCMCIA)
-Power Management (Windows 95)  control main.cpl power
-Power Management (Windows 98)  control powercfg.cpl
-Printers Folder                control printers
-Regional Settings              control intl.cpl
-Scanners and Cameras           control sticpl.cpl
-Sound Properties               control mmsys.cpl sounds
-System Properties              control sysdm.cpl
+Accessibility Options              control access.cpl
+Action Center	control              control wscui.cpl
+Add New Hardware                   control sysdm.cpl add new hardware
+Add/Remove Programs                control appwiz.cpl
+Administrative Tools	             control admintools
+AutoPlay	                         control /name Microsoft.AutoPlay
+Automatic Updates                  control wuaucpl.cpl
+Backup and Restore                 control /name Microsoft.BackupAndRestore
+Backup and Restore Center	         control /name Microsoft.BackupAndRestoreCenter
+Biometric Devices                  control /name Microsoft.BiometricDevices
+BitLocker Drive Encryption         control /name Microsoft.BitLockerDriveEncryption
+Bluetooth Devices	                 control bthprops.cpl / control /name Microsoft.BluetoothDevices
+Client Service for NetWare         control nwc.cpl
+Color Management                   control /name Microsoft.ColorManagement
+Credential Manager                 control /name Microsoft.CredentialManager
+Date and Time                      control /name Microsoft.DateAndTime / control timedate.cpl / control date/time
+Date/Time Properties               control timedate.cpl
+Default Location                   control /name Microsoft.DefaultLocation
+Default Programs                   control /name Microsoft.DefaultPrograms
+Desktop Gadgets                    control /name Microsoft.DesktopGadgets
+Device Manager                     control hdwwiz.cpl / devmgmt.msc
+Devices and Printers               control /name Microsoft.DevicesAndPrinters / control printers
+Display                            control /name Microsoft.Display / control desk.cpl / control desktop
+Display Properties                 control desk.cpl
+Ease of Access Center              control /name Microsoft.EaseOfAccessCenter / control access.cpl
+Family Safety                      control /name Microsoft.ParentalControls
+File History                       control /name Microsoft.FileHistory
+FindFast                           control findfast.cpl
+Flash Player Settings Manager      control flashplayercplapp.cpl
+Folder Options                     control /name Microsoft.FolderOptions / control folders
+Fonts                              control /name Microsoft.Fonts / control fonts
+Fonts Folder                       control fonts
+Game Controllers                   control /name Microsoft.GameControllers / control joy.cpl
+Get Programs                       control /name Microsoft.GetPrograms
+Getting Started                    control /name Microsoft.GettingStarted
+Home Group                         control /name Microsoft.HomeGroup
+Indexing Options                   control /name Microsoft.IndexingOptions / rundll32.exe shell32.dll,Control_RunDLL srchadmin.dll
+Infrared	                         control /name Microsoft.Infrared / control irprops.cpl / control /name Microsoft.InfraredOptions
+Internet Options                   control /name Microsoft.InternetOptions / control inetcpl.cpl
+Internet Properties                control inetcpl.cpl
+Joystick Properties                control joy.cpl
+Keyboard                           control /name Microsoft.Keyboard / control keyboard
+Keyboard Properties                control main.cpl keyboard
+Language                           control /name Microsoft.Language
+Location Settings                  control /name Microsoft.LocationSettings
+Location and Other Sensors         control /name Microsoft.LocationAndOtherSensors
+Mail4	                             control mlcfg32.cpl
+Microsoft Exchange                 control mlcfg32.cpl
+Microsoft Mail Post Office         control wgpocpl.cpl
+Modem Properties                   control modem.cpl
+Mouse                              control /name Microsoft.Mouse / control main.cpl / control mouse
+Mouse Properties                   control main.cpl
+Multimedia Properties              control mmsys.cpl
+Network Connections                control ncpa.cpl / control netconnections
+Network Properties                 control netcpl.cpl / control Ncpa.cpl
+Network Setup Wizard               control netsetup.cpl
+Network and Sharing Center         control /name Microsoft.NetworkAndSharingCenter
+Notification Area Icons            control /name Microsoft.NotificationAreaIcons
+ODBC Data Source Administrator     control odbccp32.cpl
+ODBC Data Source Administrator     control odbccp32.cpl
+Offline Files                      control /name Microsoft.OfflineFiles
+PC Card                            control main.cpl pc card (PCMCIA)
+Parental Controls                  control /name Microsoft.ParentalControls
+Password Properties                control password.cpl
+Pen and Input Devices              control /name Microsoft.PenAndInputDevices  / control tabletpc.cpl
+Pen and Touch                      control /name Microsoft.PenAndTouch / control tabletpc.cpl
+People Near Me                     control /name Microsoft.PeopleNearMe / control collab.cpl
+Performance Information and Tools	 control /name Microsoft.PerformanceInformationAndTools
+Personalization	                   control /name Microsoft.Personalization / control desktop
+Phone and Modem                    control /name Microsoft.PhoneAndModem / control telephon.cpl
+Phone and Modem Options            control /name Microsoft.PhoneAndModemOptions	/ control telephon.cpl
+Power Management (Windows 95)      control main.cpl power
+Power Management (Windows 98)      control powercfg.cpl
+Power Options                      control /name Microsoft.PowerOptions / control powercfg.cpl
+Printers                           control /name Microsoft.Printers	/ control printers
+Printers Folder                    control printers
+Printers and Faxes                 control printers
+Problem Reports and Solutions      control /name Microsoft.ProblemReportsAndSolutions
+Programs and Features              control /name Microsoft.ProgramsAndFeatures / control appwiz.cpl
+Recovery                           control /name Microsoft.Recovery
+Region                             control /name Microsoft.RegionAndLanguage / control intl.cpl / control international
+Region and Language                control /name Microsoft.RegionAndLanguage / control intl.cpl / control international
+Regional Settings                  control intl.cpl
+Regional and Language Options      control /name Microsoft.RegionalAndLanguageOptions / control intl.cpl / control international
+RemoteApp and Desktop Connections  control /name Microsoft.RemoteAppAndDesktopConnections	8, 7
+Scanners and Cameras               control /name Microsoft.ScannersAndCameras / control sticpl.cpl
+Scanners and Cameras               control sticpl.cpl
+Scheduled Tasks                    control schedtasks
+Screen Resolution                  control desk.cpl
+Security Center                    control /name Microsoft.SecurityCenter / control wscui.cpl
+Sound                              control /name Microsoft.Sound / control /name Microsoft.AudioDevicesAndSoundThemes	/ control mmsys.cpl
+Sound Properties                   control mmsys.cpl sounds
+Sounds and Audio Devices           control mmsys.cpl
+Speech                             control sapi.cpl
+Speech Recognition                 control /name Microsoft.SpeechRecognition
+Speech Recognition Options         control /name Microsoft.SpeechRecognitionOptions
+Storage Spaces                     control /name Microsoft.StorageSpaces
+Sync Center                        control /name Microsoft.SyncCenter
+System                             control /name Microsoft.System / control sysdm.cpl
+System Properties                  control sysdm.cpl
+System Properties                  control sysdm.cpl
+Tablet PC Settings                 control /name Microsoft.TabletPCSettings
+Task Scheduler                     control schedtasks
+Taskbar                            control /name Microsoft.Taskbar / rundll32.exe shell32.dll,Options_RunDLL 1
+Taskbar and Start Menu             control /name Microsoft.TaskbarAndStartMenu / rundll32.exe shell32.dll,Options_RunDLL 1
+Text to Speech                     control /name Microsoft.TextToSpeech
+Troubleshooting                    control /name Microsoft.Troubleshooting
+User Accounts                      control /name Microsoft.UserAccounts / control userpasswords
+Welcome Center                     control /name Microsoft.WelcomeCenter
+Windows Anytime Upgrade            control /name Microsoft.WindowsAnytimeUpgrade
+Windows CardSpace                  control /name Microsoft.CardSpace / control infocardcpl.cpl
+Windows Defender                   control /name Microsoft.WindowsDefender
+Windows File Recovery              control /name Microsoft.BackupAndRestore
+Windows Firewall                   control /name Microsoft.WindowsFirewall / control firewall.cpl
+Windows Marketplace                control /name Microsoft.GetProgramsOnline
+Windows Mobility Center            control /name Microsoft.MobilityCenter
+Windows SideShow                   control /name Microsoft.WindowsSideShow
+Windows Sidebar Properties         control /name Microsoft.WindowsSidebarProperties
+Windows Update                     control /name Microsoft.WindowsUpdate
+Wireless Link                      control irprops.cpl
+iSCSI Initiator                    control /name Microsoft.iSCSIInitiator
