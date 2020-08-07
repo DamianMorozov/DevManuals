@@ -30,3 +30,9 @@ https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEdito
 Sharpen
 https://marketplace.visualstudio.com/items?itemName=ironcev.sharpen
 ----------------------------------------------------------------------------------------------------
+TGit
+https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TGit
+----------------------------------------------------------------------------------------------------
+TSVN
+https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TSVN
+----------------------------------------------------------------------------------------------------
