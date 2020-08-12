@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.67] - 2020-08-12
+###Added
+- Programs developing\XAML\Fluent Design.txt
+
 ## [0.2.66] - 2020-08-07
 ###Updated
 - Programs developing\MS Visual Studio\Extensions.txt
