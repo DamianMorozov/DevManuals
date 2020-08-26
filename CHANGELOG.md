@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.2.68] - 2020-08-26
+###Updated
+- Programs developing\Git\Git.txt-ru
+
 ## [0.2.67] - 2020-08-12
 ###Added
 - Programs developing\XAML\Fluent Design.txt
