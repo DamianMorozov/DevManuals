@@ -1,132 +1,136 @@
 # Changelog
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+
+## [0.2.69] - 2020-09-10
+### Changed
+- Programs developing\Dotnet.txt -> Programs developing\Dotnet\Dotnet commands.txt
 
 ## [0.2.68] - 2020-08-26
-###Updated
+### Changed
 - Programs developing\Git\Git.txt-ru
 
 ## [0.2.67] - 2020-08-12
-###Added
+### Added
 - Programs developing\XAML\Fluent Design.txt
 
 ## [0.2.66] - 2020-08-07
-###Updated
+### Changed
 - Programs developing\MS Visual Studio\Extensions.txt
 
 ## [0.2.65] - 2020-07-27
-###Updated
+### Changed
 - Windows\Cmd\Control Panel tools.txt
 
 ## [0.2.64] - 2020-07-24
-###Updated
+### Changed
 - Programs developing\SVN\SVN.txt-ru
-###Added
+### Added
 - Windows\Cmd\Control Panel tools.txt
 
 ## [0.2.62] - 2020-07-15
-###Added
+### Added
 - Programs developing\SVN\SVN.txt-ru
 
 ## [0.2.61] - 2020-06-24
-###Updated
+### Changed
 - Windows\PowerShell\gwmi.ps1
 
 ## [0.2.60] - 2020-06-23
-###Updated
+### Changed
 - Linux\Software\System\Update.txt
 
 ## [0.2.59] - 2020-06-22
-###Added
+### Added
 - Linux\Software\System\Update.txt
 
 ## [0.2.58] - 2020-06-21
-###Added
+### Added
 - Programs developing\Testing\Tests.txt-ru
-###Updated
+### Changed
 - Programs developing\Git\Dev app creating manual.txt
 - Programs developing\Git\Git.txt-ru
 - Programs developing\Testing\How to test non-public methods in .NET.txt-ru
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.53] - 2020-06-04
-###Updated
+### Changed
 - Windows\PowerShell\Drivers.ps1 -> gwmi.ps1
 
 ## [0.2.52] - 2020-06-03
-###Added
+### Added
 - Windows\PowerShell\Drivers.ps1
 
 ## [0.2.51] - 2020-06-02
-###Updated
+### Changed
 - Programs developing\MS Visual Studio\Attributes.txt-ru
 
 ## [0.2.50] - 2020-05-21
-###Added
+### Added
 - Windows\Software\WSL.txt
 
 ## [0.2.49] - 2020-05-07
-###Added
+### Added
 - Windows\Cmd\Share add.cmd
 - Windows\Cmd\Share remove.cmd
 
 ## [0.2.48] - 2020-04-07
-###Added
+### Added
 - Programs developing\C#\Count of digits.txt
 
 ## [0.2.47] - 2020-04-02
-###Updated
+### Changed
 - Programs developing\C#\Access modifiers.txt-ru
 - Programs developing\MS Visual Studio\Attributes.txt-ru
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
-###Added
+### Added
 - Programs developing\C#\Access modifiers.png
 
 ## [0.2.44] - 2020-04-01
-###Updated
+### Changed
 - Programs developing\Testing\NUnit.txt
 
 ## [0.2.43] - 2020-03-13
-###Updated
+### Changed
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.42] - 2020-03-05
-###Updated
+### Changed
 - Programs developing\C#\Data types.txt
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 - Programs developing\Git.txt-ru
 
 ## [0.2.38] - 2020-02-22
-###Added
+### Added
 - Windows\Settings\WiFi password.txt
 
 ## [0.2.37] - 2020-02-20
-###Updated
+### Changed
 - Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.35] - 2020-02-11
-###Updated
+### Changed
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.34] - 2020-02-05
-###Updated
+### Changed
 - Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
-###Added
+### Added
 - Programs developing\XAML\2018. WPF Development Cookbook.txt
 
 ## [0.2.32] - 2020-01-30
-###Updated
+### Changed
 - Programs developing\Git.txt-ru
 
 ## [0.2.31] - 2020-01-29
-###Updated
+### Changed
 - Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
 
 ## [0.2.30] - 2020-01-28
-###Added
+### Added
 - Programs developing\XAML\2013. Building Windows 8 Apps with C# and XAML.txt-ru
-### Moved
+### Changed
 - Programs developing\C#\2018. XAML.txt-ru -> XAML\2018. XAML.txt-ru
 
 ## [0.2.28] - 2020-01-23
@@ -137,7 +141,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [0.2.26] - 2020-01-22
 ### Added
 - Programs developing\C#\6 lesser-known features of C# .NET that you should be using.txt
-### Renamed
+### Changed
 - Programs developing\C#\2016. Библия C#.txt -> 2016. Bible C #.txt-ru
 - Programs developing\C#\2018. C# 7 Карманный справочник.txt -> 2018. C# 7 Pocket guide.txt-ru
 - Programs developing\C#\2018. C# и платформы .NET и .NET Core.txt -> 2018. C # and the .NET and .NET Core.txt-ru
@@ -160,7 +164,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [0.2.06] - 2020-01-20
 ### Updated
 - Programs developing\Dev app creating manual.txt
-### Renamed
+### Changed
 - Programs developing\Design patterns.txt -> Design patterns.txt-ru
 
 ## [0.2.04] - 2020-01-17
@@ -202,7 +206,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [0.1.92] - 2019-11-18
 ### Added
 - Programs developing\C#\Arrays.txt
-### Renamed
+### Changed
 - Programs developing\C#\Data types.txt -> Data types.txt-ru
 
 ## [0.1.90] - 2019-10-13
@@ -228,7 +232,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [0.1.83] - 2019-08-30
 ### Added
 - Programs developing\2016. Grokking Algorithms.txt-ru
-###Updated
+### Changed
 - Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 
 ## [0.1.81] - 2019-08-29
@@ -241,7 +245,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Linux\Software\System\File commanders\Doublecmd.txt
 - Linux\Software\System\File commanders\Gnome Commander.txt
 - Linux\Software\System\Process explorers\Stacer.txt
-###Updated
+### Changed
 - Linux\Software\System\System.txt
 
 ## [0.1.75] - 2019-08-26
@@ -488,7 +492,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Programs developing\MS Visual Studio\Hotkeys Visual Studio.txt
 - Programs developing\MS Visual Studio\Options.txt
 - Programs developing\MS Visual Studio\Options 2019.txt
-### Moved
+### Changed
 - Android -> Programs developing\Android
 
 ## [0.0.53] - 2019-04-08
@@ -508,7 +512,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Programs developing\SQL\13 вопросов перед внесением изменений в работу SQL Server.txt
 - Programs developing\Testing\How to test non-public methods in .NET.txt
 - Programs developing\Testing\2017. Разработка обслуживаемых программ.txt
-### Moved
+### Changed
 - Books -> Programs developing
 
 ## [0.0.40] - 2019-04-04

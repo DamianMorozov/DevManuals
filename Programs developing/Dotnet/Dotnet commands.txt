@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------
-Dotnet
-https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet?tabs=netcore21
+Dotnet commands
+https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet
 ----------------------------------------------------------------------------------------------------
 dotnet --help                 --- Display help.
 dotnet --info                 --- Display .NET Core information.
