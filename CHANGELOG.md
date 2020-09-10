@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.70] - 2020-09-10
+## [0.2.71] - 2020-09-10
 ### Added
 - Programs developing\Dotnet\Dotnet quick start.txt
 ### Changed
 - Programs developing\Dotnet.txt -> Programs developing\Dotnet\Dotnet commands.txt
+- LICENSE
 
 ## [0.2.68] - 2020-08-26
 ### Changed
