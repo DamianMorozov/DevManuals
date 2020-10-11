@@ -4,8 +4,8 @@
  4. cd NewRepo
  5. git remote add gitlab http://gitlab.com/NickName/NewRepo.git
  6. Add LICENSE & commit it
- 7. git push -u gitlab master
- 8. git push -u origin master
+ 7. git push -u gitlab main
+ 8. git push -u origin main
  9. Add README.md & commit it
 10. Add and update .gitattributes
 11. Add .gitignore and update from https://github.com/github/gitignore
