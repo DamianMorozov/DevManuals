@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.74] - 2020-10-11
+## [0.2.75] - 2020-10-11
 ### Changed
-- Programs developing\Git\Dev app creating manual.txt
 - LICENSE.md
+- Programs developing\Git\Dev app creating manual.txt
+- Programs developing\Git\Git.txt-ru
 
 ## [0.2.72] - 2020-10-06
 ### Added

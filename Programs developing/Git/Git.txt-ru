@@ -61,6 +61,7 @@ git config --global alias.co checkout             --- создать псевд�
 git config --global alias.ci commit               --- создать псевдоним команде commit
 git config --global alias.br branch               --- создать псевдоним команде branch
 git config --global alias.st status               --- создать псевдоним команде status
+git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
 git config --global alias.unstage "reset HEAD --" --- создать псевдоним unstage команде reset HEAD -- (отмена индексирования)
 git config --global alias.hist "log --oneline --decorate --graph --all"
 git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
@@ -217,7 +218,7 @@ git branch --merged                               --- просмотр вето�
 git branch --no-merged                            --- просмотр веток, не объединённых с текущей
 git merge [branchHotfix]                          --- объединить ветку branchHotfix с текущей веткой
 git merge [origin/branch]                         --- выполнить слияние удалённой ветки в токующую
-git merge --no-ff [branch]                        --- соединить ветки без режима “fast forwarding”
+git merge --no-ff [branch]                        --- соединить ветки без режима "fast forwarding"
 git mergetool                                     --- запустить инструмент разрешения конфликтов слияния
                                                   --- rebase лучше не пользоваться, есть merge
                                                   --- rebase можно пользоваться в локальном репозитории
@@ -255,4 +256,11 @@ git clean -fd                                     --- Remove all untracked files
 git rm -r --cached . || git rm --cached || git rm --cached <file-name> || git rm -r --cached <folder-name>
 git add .
 git commit -m ".gitignore"
+----------------------------------------------------------------------------------------------------
+Renaming a branch
+git branch -m oldname newname                     --- local renaming
+git push origin :old_branch                       --- remote deleting old branch
+git push origin new_branch                        --- remote creating new branch
+git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
+git branchm origin old_branch new_branch          --- remote branch renaming
 ----------------------------------------------------------------------------------------------------
