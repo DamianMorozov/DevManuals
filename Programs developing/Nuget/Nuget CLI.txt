@@ -9,6 +9,11 @@ Copy nuget.exe to [C:\Windows\system32].
 4. Fill assembly info.
 5. Execute [nuget spec "...\Ptoject.csproj"]. Fill fields.
 6. Edit license info in nuspec-file.
-7. Create the nupkg-file using [nuget pack].
-8. Upload the nupkg-file to [https://www.nuget.org/].
+7. Rebuild the project.
+8. Create the nupkg-file.
+[nuget pack] - debug mode
+[nuget pack -Prop Configuration=Debug] - debug mode
+[nuget pack -Prop Configuration=Release] - release mode
+9. Upload the nupkg-file to [https://www.nuget.org/].
 ---------------------------------------------------------------------------------------------------- 
+<dependency id="<imported library>" version="4.8" />
