@@ -16,4 +16,3 @@ Copy nuget.exe to [C:\Windows\system32].
 [nuget pack -Prop Configuration=Release] - release mode
 9. Upload the nupkg-file to [https://www.nuget.org/].
 ---------------------------------------------------------------------------------------------------- 
-<dependency id="<imported library>" version="4.8" />
