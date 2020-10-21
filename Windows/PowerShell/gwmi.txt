@@ -33,3 +33,6 @@ get-service | where-object { $_.Status -eq "Running" }
 # MSI packages
 gwmi Win32_Product | Format-Table Name, LocalPackage -AutoSize
 gwmi Win32_Product | Format-Table IdentifyingNumber, Name, Vendor, Version, Caption -AutoSize
+
+# MSI package runing process
+gwmi Win32_Process | SELECT ProcessId, ExecutablePath, CommandLine | where { $_ -match "msiexec" }

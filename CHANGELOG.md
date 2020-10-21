@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.77] - 2020-10-21
+### Changed
+- Windows\PowerShell\gwmi.txt
+
 ## [0.2.76] - 2020-10-14
 ### Added
 - Programs developing\Nuget\Nuget CLI.txt
