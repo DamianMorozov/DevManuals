@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.77] - 2020-10-21
+## [0.2.78] - 2020-10-21
+### Added
+- Programs developing\MS Visual Studio\Default code snippets.txt
 ### Changed
 - Windows\PowerShell\gwmi.txt
 
