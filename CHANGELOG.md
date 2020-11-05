@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.80] - 2020-11-05
+### Changed
+- Programs developing\Dotnet\Dotnet commands.txt
+
 ## [0.2.79] - 2020-10-22
 ### Changed
 - Windows\PowerShell\gwmi.txt

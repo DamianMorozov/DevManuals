@@ -39,6 +39,9 @@ dotnet new <TEMPLATE> [-l|--list] [--type]
 dotnet new [-h|--help]
 dotnet new --list        
 ----------------------------------------------------------------------------------------------------
+dotnet new --help
+dotnet new -i Microsoft.DotNet.Web.ItemTemplates::3.1.9  -- Installs a source or a template pack
+----------------------------------------------------------------------------------------------------
 dotnet nuget delete           --- Deletes or unlists a package from the server.
 dotnet nuget delete [<PACKAGE_NAME> <PACKAGE_VERSION>] [--force-english-output] [--interactive] [-k|--api-key] [--no-service-endpoint]
   [--non-interactive] [-s|--source]
