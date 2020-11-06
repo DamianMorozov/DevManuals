@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.84] - 2020-11-06
+### Added
+- Programs developing\2020. Blazor for ASP.NET Web Forms Developers.txt
+
 ## [0.2.83] - 2020-11-05
 ### Added
 - Programs developing\Dotnet\Dotnet Blazor.txt
