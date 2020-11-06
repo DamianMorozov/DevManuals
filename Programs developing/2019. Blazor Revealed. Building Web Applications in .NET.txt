@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------
+Year:          2019
+Author:        Peter Himschoot.
+Book title:    Blazor Revealed: Building Web Applications in .NET
+ISBN-13 (pbk): 978-1-4842-4342-8
+ISBN-13 (electronic): 978-1-4842-4343-5
+----------------------------------------------------------------------------------------------------
+Client-side Blazor.
+Server-side Blazor.
++ Smaller downloads.
++ Development porcess.
++ .NET APIs.
++ Online only.
++ Server scalability.
+----------------------------------------------------------------------------------------------------
+Blazor Prerequisites.
+.NET Core: https://dotnet.microsoft.com/download
+Visual Studio workloads: ASP.NET, Node.js.
+Visual Studio extension: ASP.NET Core Blazor Language Services
+Visual Studio Code extension: Razor+
+Dotnet templates:
+> dotnet new --list
+> dotnet new --help
+> dotnet new -i Microsoft.DotNet.Web.ItemTemplates::3.1.9  -- Installs a source or a template pack
+> dotnet new -i Microsoft.AspNetCore.Blazor.Templates      -- Installs a source or a template pack
+----------------------------------------------------------------------------------------------------
+Dotnet CLI:
+> dotnet new blazorhosted -o MyFirstBlazor
+> dotnet build
+----------------------------------------------------------------------------------------------------
