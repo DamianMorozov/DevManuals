@@ -73,6 +73,7 @@ dotnet run                    --- Runs source code without any explicit compile 
 dotnet run [-c|--configuration] [-f|--framework] [--force] [--launch-profile] [--no-build] [--no-dependencies]
   [--no-launch-profile] [--no-restore] [-p|--project] [--runtime] [-v|--verbosity] [[--] [application arguments]]
 dotnet run [-h|--help]
+dotnet run --configuration Debug
 dotnet run --configuration Release
 ----------------------------------------------------------------------------------------------------
 dotnet sln                    --- Modifies a .NET Core solution file.
