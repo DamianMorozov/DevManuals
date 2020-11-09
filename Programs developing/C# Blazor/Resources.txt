@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------
+Build client web apps with C#
+https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+----------------------------------------------------------------------------------------------------
+Introduction to ASP.NET Core Blazor
+https://docs.microsoft.com/en-us/aspnet/core/blazor/
+----------------------------------------------------------------------------------------------------
+Blazor Tutorial - Build your first Blazor app
+https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/install
+----------------------------------------------------------------------------------------------------
+Build a Blazor todo list app
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app
+----------------------------------------------------------------------------------------------------
+ASP.NET Core Blazor hosting models
+https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models
+----------------------------------------------------------------------------------------------------
+Year:          2020
+Author:        Daniel Roth, Jeff Fritz, Taylor Southwick, Scott Addie, Steve Smith
+Book title:    Blazor for ASP.NET Web Forms Developers
+English book:  https://aka.ms/blazor-ebook
+----------------------------------------------------------------------------------------------------
+Year:          2019
+Author:        Peter Himschoot.
+Book title:    Blazor Revealed: Building Web Applications in .NET
+ISBN-13 (pbk): 978-1-4842-4342-8
+ISBN-13 (electronic): 978-1-4842-4343-5
+----------------------------------------------------------------------------------------------------
+Use ASP.NET Core SignalR with Blazor WebAssembly
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-blazor-webassembly
+----------------------------------------------------------------------------------------------------
