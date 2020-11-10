@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.99] - 2020-11-10
+## [0.2.100] - 2020-11-10
 ### Added
 - Programs developing\Virtual machine\Virtual HDD.txt
+- Programs developing\Virtual machine\Hyper-V NAT.txt
 ### Changed
 - Programs developing\C# Blazor\2019. Blazor Revealed. Building Web Applications in .NET.txt
 - Programs developing\C# Blazor\Use ASP.NET Core SignalR with Blazor WebAssembly.txt

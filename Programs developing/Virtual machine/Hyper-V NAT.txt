@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+Hyper-V NAT.
+----------------------------------------------------------------------------------------------------
+Create (run powershell as admin)
+--------------------------------
+Create new virtual device
+> New-VMSwitch -SwitchName "VM_NAT" -SwitchType Internal
+View network devices & get ifIndex
+> Get-NetAdapter
+Setup ip address for new network device
+> New-NetIPAddress -IPAddress 192.168.192.1 -PrefixLength 24 -InterfaceIndex <ifIndex>
+NAT create
+> New-NetNat -Name "vNAT" -InternalIPInterfaceAddressPrefix 192.168.192.0/24
+View exists NAT
+> Get-NetNat
+----------------------------------------------------------------------------------------------------
+Remove (run powershell as admin)
+--------------------------------
+Remove NAT
+> Get-NetNat | Remove-NetNat
+Remove ip address for virtual network device
+> remove-NetIPAddress -IPAddress 192.168.192.1 -InterfaceIndex <ifIndex>
+Remove virtual network device
+> Remove-VMSwitch -SwitchName "VM_NAT"
+----------------------------------------------------------------------------------------------------
