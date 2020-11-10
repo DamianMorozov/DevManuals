@@ -4,21 +4,13 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-blazor-webassembl
 ----------------------------------------------------------------------------------------------------
 1. Create a hosted Blazor WebAssembly app project.
 Note: Visual Studio 16.6 or later and .NET Core SDK 3.1.300 or later are required.
-- Create a new project.
-- Select Blazor App and select Next.
-- Type BlazorSignalRApp in the Project name field. Confirm the Location entry is correct or provide a location for the project. Select Create.
-- Choose the Blazor WebAssembly App template.
-- Under Advanced, select the ASP.NET Core hosted check box.
-- Select Create.
+File -> New -> Project -> Blazor App -> "BlazorSignalRApp" -> Choose location -> Create -> Blazor WebAssembly App template -> select the ASP.NET Core hosted -> Create.
+----------------------------------------------------------------------------------------------------
 2. Add the SignalR client library.
-- In Solution Explorer, right-click the BlazorSignalRApp.Client project and select Manage NuGet Packages.
-- In the Manage NuGet Packages dialog, confirm that the Package source is set to nuget.org.
-- With Browse selected, type Microsoft.AspNetCore.SignalR.Client in the search box.
-- In the search results, select the Microsoft.AspNetCore.SignalR.Client package and select Install.
-- If the Preview Changes dialog appears, select OK.
-- If the License Acceptance dialog appears, select I Accept if you agree with the license terms.
+BlazorSignalRApp.Client project -> Manage NuGet Packages -> nuget.org -> Microsoft.AspNetCore.SignalR.Client
+----------------------------------------------------------------------------------------------------
 3. Add a SignalR hub.
-In the BlazorSignalRApp.Server project, create a Hubs (plural) folder and add the following ChatHub class (Hubs/ChatHub.cs):
+BlazorSignalRApp.Server project -> create a "Hubs" folder and add the following ChatHub class (Hubs/ChatHub.cs):
   using Microsoft.AspNetCore.SignalR;
   using System.Threading.Tasks;
   namespace BlazorSignalRApp.Server.Hubs
@@ -31,9 +23,10 @@ In the BlazorSignalRApp.Server project, create a Hubs (plural) folder and add th
           }
       }
   }
+----------------------------------------------------------------------------------------------------
 4. Add services and an endpoint for the SignalR hub.
-In the BlazorSignalRApp.Server project, open the Startup.cs file.
-Add the namespace for the ChatHub class to the top of the file:
+BlazorSignalRApp.Server project -> open the Startup.cs.
+Add the namespace:
   using BlazorSignalRApp.Server.Hubs;
 Add SignalR and Response Compression Middleware services to Startup.ConfigureServices:
   public void ConfigureServices(IServiceCollection services)
@@ -45,6 +38,7 @@ Add SignalR and Response Compression Middleware services to Startup.ConfigureSer
           opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(
               new[] { "application/octet-stream" });
       });
+      services.AddRazorPages();
   }
 In Startup.Configure:
 Use Response Compression Middleware at the top of the processing pipeline's configuration.
@@ -60,6 +54,7 @@ Between the endpoints for controllers and the client-side fallback, add an endpo
       else
       {
           app.UseExceptionHandler("/Error");
+          // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
           app.UseHsts();
       }
       app.UseHttpsRedirection();
@@ -68,76 +63,82 @@ Between the endpoints for controllers and the client-side fallback, add an endpo
       app.UseRouting();
       app.UseEndpoints(endpoints =>
       {
+          endpoints.MapRazorPages();
           endpoints.MapControllers();
           endpoints.MapHub<ChatHub>("/chathub");
           endpoints.MapFallbackToFile("index.html");
       });
   }
+----------------------------------------------------------------------------------------------------
 5. Add Razor component code for chat.
-In the BlazorSignalRApp.Client project, open the Pages/Index.razor file.
+BlazorSignalRApp.Client project -> open the Pages/Index.razor.
 Replace the markup with the following code:
-razor
-Copy
-@page "/"
-@using Microsoft.AspNetCore.SignalR.Client
-@inject NavigationManager NavigationManager
-@implements IDisposable
+  @page "/"
+  @using Microsoft.AspNetCore.SignalR.Client
+  @inject NavigationManager NavigationManager
+  @implements IDisposable
 
-<div class="form-group">
-    <label>
-        User:
-        <input @bind="userInput" />
-    </label>
-</div>
-<div class="form-group">
-    <label>
-        Message:
-        <input @bind="messageInput" size="50" />
-    </label>
-</div>
-<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+  <div class="form-group">
+      <label>
+          User:
+          <input @bind="_userInput" size="50" />
+      </label>
+  </div>
+  <div class="form-group">
+      <label>
+          Message:
+          <input @bind="_messageInput" size="50" />
+      </label>
+  </div>
+  <button class="btn btn-dark" @onclick="Send" disabled="@(!IsConnected)">Send</button>
 
-<hr>
+  <hr>
 
-<ul id="messagesList">
-    @foreach (var message in messages)
-    {
-        <li>@message</li>
-    }
-</ul>
+  <ul id="messagesList">
+      @foreach (var message in _messages)
+      {
+          <li>@message</li>
+      }
+  </ul>
 
-@code {
-    private HubConnection hubConnection;
-    private List<string> messages = new List<string>();
-    private string userInput;
-    private string messageInput;
+  @code {
+      private HubConnection _hubConnection;
+      private readonly List<string> _messages = new List<string>();
+      private string _userInput;
+      private string _messageInput;
 
-    protected override async Task OnInitializedAsync()
-    {
-        hubConnection = new HubConnectionBuilder()
-            .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
-            .Build();
+      protected override async Task OnInitializedAsync()
+      {
+          _hubConnection = new HubConnectionBuilder()
+              .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
+              .Build();
 
-        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
-        {
-            var encodedMsg = $"{user}: {message}";
-            messages.Add(encodedMsg);
-            StateHasChanged();
-        });
+          _hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+          {
+              var encodedMsg = $"{user}: {message}";
+              _messages.Add(encodedMsg);
+              StateHasChanged();
+          });
 
-        await hubConnection.StartAsync();
-    }
+          await _hubConnection.StartAsync();
+      }
 
-    Task Send() =>
-        hubConnection.SendAsync("SendMessage", userInput, messageInput);
+      private Task Send()
+      {
+          var user = _userInput;
+          var message = _messageInput;
+          _messageInput = string.Empty;
+          return _hubConnection.SendAsync("SendMessage", user, message);
+      }
 
-    public bool IsConnected =>
-        hubConnection.State == HubConnectionState.Connected;
-        
-    public void Dispose()
-    {
-        _ = hubConnection.DisposeAsync();
-    }
-}
+      public bool IsConnected =>
+          _hubConnection.State == HubConnectionState.Connected;
+
+      public void Dispose()
+      {
+          _ = _hubConnection.DisposeAsync();
+      }
+  }
+----------------------------------------------------------------------------------------------------
 6. Run the app.
 ----------------------------------------------------------------------------------------------------
