@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.97] - 2020-11-10
+### Changed
+- Programs developing\C# Blazor\2019. Blazor Revealed. Building Web Applications in .NET.txt
+
 ## [0.2.96] - 2020-11-09
 ### Added
 - Programs developing\C# Blazor\ASP.NET Core Blazor hosting models.txt
