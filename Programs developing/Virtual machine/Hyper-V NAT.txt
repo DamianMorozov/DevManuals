@@ -17,7 +17,7 @@ View exists NAT
 Remove (run powershell as admin)
 --------------------------------
 Remove NAT
-> Get-NetNat | Remove-NetNat
+> Remove-NetNat
 Remove ip address for virtual network device
 > remove-NetIPAddress -IPAddress 192.168.192.1 -InterfaceIndex <ifIndex>
 Remove virtual network device
