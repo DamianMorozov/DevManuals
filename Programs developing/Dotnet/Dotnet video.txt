@@ -1,0 +1,2 @@
+https://dotnet.microsoft.com/live
+https://www.twitch.tv/VisualStudio

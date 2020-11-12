@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.101] - 2020-11-12
+## [0.2.102] - 2020-11-12
 ### Added
 - Programs developing\Dotnet\Dotnet 5.txt-ru.txt
+- Programs developing\Dotnet\Dotnet video.txt
 
 ## [0.2.100] - 2020-11-10
 ### Added
