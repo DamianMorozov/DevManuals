@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.107] - 2020-11-20
+### Added
+- Programs developing\C# Blazor\Blazor github.txt
+### Changed
+- Programs developing\C# Blazor\Resources.txt
+- Programs developing\C# Blazor\Resources.txt-ru
+
 ## [0.2.104] - 2020-11-18
 ### Added
 - Programs developing\NuGet\MahApps.txt
