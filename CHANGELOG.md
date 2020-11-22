@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.108] - 2020-11-22
+### Added
+- Programs developing\Virtual machine\Hyper-V ACL.txt
+
 ## [0.2.107] - 2020-11-20
 ### Added
 - Programs developing\C# Blazor\Blazor github.txt

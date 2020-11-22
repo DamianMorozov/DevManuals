@@ -1,0 +1,38 @@
+====================================================================================================
+https://docs.microsoft.com/en-us/powershell/module/hyper-v/
+https://github.com/MicrosoftDocs/windows-powershell-docs/blob/master/docset/windows/hyper-v/
+====================================================================================================
+ACL
+---------------------------------------------------------------------------------------------------- 
+Remove
+> Get-VMNetworkAdapterAcl -VMName dev-name | Remove-VMNetworkAdapterAcl
+View
+> Get-VMNetworkAdapterAcl
+> Get-VMNetworkAdapterAcl -VMName dev-name | ft direction,action,*address,*port,protocol,stateful,*timeout,*weight -auto
+Deny
+> Add-VMNetworkAdapterAcl -VMName dev-name -RemoteIPAddress ANY -Direction Both -Action Deny
+Allow
+> Add-VMNetworkAdapterAcl -VMName dev-name -RemoteIPAddress 192.168.1.0/24 -Direction Both -Action Allow
+Allow traffic meter
+> Add-VMNetworkAdapterAcl -VMName dev-name -RemoteIPAddress 192.168.1.1 -Direction Outbound -Action Meter
+====================================================================================================
+Extended ACL
+---------------------------------------------------------------------------------------------------- 
+Remove
+> Get-VMNetworkAdapterExtendedAcl -VMName dev-name | Remove-VMNetworkAdapterExtendedAcl
+> Remove-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Weight 0
+> Remove-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Weight 1
+> Remove-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Weight 2
+View
+> Get-VMNetworkAdapterExtendedAcl
+> Get-VMNetworkAdapterExtendedAcl -VMName dev-name | ft direction,action,*address,*port,protocol,stateful,*timeout,*weight -auto
+Deny
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Action Deny -Weight 1
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Outbound -Action Deny -Weight 1
+Allow
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -LocalPort "3389" -Protocol "TCP" -Action Allow -Weight 2
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Outbound -Protocol "TCP" -RemotePort "80" -Action Allow -Weight 3 -Stateful $true -IdleSessionTimeout 3600
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Protocol "TCP" -LocalPort 5000-5010 -Action Allow -Weight 10 -Stateful $true -IdleSessionTimeout 600
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Protocol "TCP" -LocalPort 80 -Action Allow -Weight 11 -Stateful $true -IdleSessionTimeout 600
+> Add-VMNetworkAdapterExtendedAcl -VMName dev-name -Direction Inbound -Protocol "TCP" -LocalPort 443 -Action Allow -Weight 12 -Stateful $true -IdleSessionTimeout 600
+====================================================================================================
