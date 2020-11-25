@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.111] - 2020-11-25
+### Added
+- Windows\Settings\CEIP disable.reg
+- Windows\Settings\CEIP disable.txt
+- Windows\Settings\CEIP disable.txt-ru
+
 ## [0.2.108] - 2020-11-22
 ### Added
 - Programs developing\Virtual machine\Hyper-V ACL.txt
