@@ -30,3 +30,6 @@ https://blazor-university.com/
 MVVM Support in Blazor
 https://blog.jeremylikness.com/blog/2019-01-04_mvvm-support-in-blazor/
 ----------------------------------------------------------------------------------------------------
+Man(ual) page for WebAssembly
+https://www.webassemblyman.com/
+----------------------------------------------------------------------------------------------------
