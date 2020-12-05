@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.113] - 2020-12-05
+## [0.2.114] - 2020-12-05
 ### Changed
 - Programs developing\Virtual machine\Hyper-V ACL.txt
+- Programs developing\Virtual machine\Hyper-V NAT.txt
 
 ## [0.2.112] - 2020-12-01
 ### Changed
