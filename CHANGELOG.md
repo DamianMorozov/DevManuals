@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.115] - 2020-12-10
+### Added
+- Programs developing\C# Blazor\Dotnet Blazor Radzen.txt
+
 ## [0.2.114] - 2020-12-05
 ### Changed
 - Programs developing\Virtual machine\Hyper-V ACL.txt
