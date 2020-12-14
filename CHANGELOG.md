@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.119] - 2020-12-14
+### Changed
+- Programs developing\Git\Git.txt-ru
+### Added
+- Programs developing\Git\Git.txt
+- Programs developing\Markdown.txt
+- Programs developing\markdown-cheat-sheet.md
+
 ## [0.2.115] - 2020-12-10
 ### Added
 - Programs developing\C# Blazor\Dotnet Blazor Radzen.txt
