@@ -1,5 +1,5 @@
 ====================================================================================================
-GIT
+GIT English resources
 https://git-scm.com
 https://desktop.origin.com
 https://www.git-tower.com
@@ -9,4 +9,7 @@ GitHub Profile README Generator
 https://github.com/rahuldkjain/github-profile-readme-generator
 https://github-profile-generator.tk/
 https://github.com/arturssmirnovs/github-profile-readme-generator
+----------------------------------------------------------------------------------------------------
+GIT Russian resources
+https://techrocks.ru/2020/08/21/github-profile-readme/
 ----------------------------------------------------------------------------------------------------

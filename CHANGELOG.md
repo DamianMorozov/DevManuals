@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.123] - 2020-12-16
+### Changed
+- Programs developing\Git renamed to Programs developing\Version control
+- Programs developing\Version control\Git.txt
+- Programs developing\Version control\Git.txt-ru
+### Added
+- Programs developing\Version control\Git resources.txt
+
 ## [0.2.119] - 2020-12-14
 ### Changed
 - Programs developing\Git\Git.txt-ru
