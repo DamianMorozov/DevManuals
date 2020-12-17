@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.125] - 2020-12-17
+### Changed
+- Programs developing\Design patterns\Design patterns.txt-ru
+### Added
+- Programs developing\Design patterns\Design patterns resources.txt
+
 ## [0.2.123] - 2020-12-16
 ### Changed
 - Programs developing\Git renamed to Programs developing\Version control
