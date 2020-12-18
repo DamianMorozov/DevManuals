@@ -1,0 +1,9 @@
+====================================================================================================
+NHibernate English resources
+https://www.nuget.org/packages/NHibernate/
+https://www.nuget.org/packages/FluentNHibernate/
+https://www.tutorialspoint.com/nhibernate/
+====================================================================================================
+NHibernate Russian resources
+
+====================================================================================================

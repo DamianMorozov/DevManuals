@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.128] - 2020-12-18
+### Renamed
+- Programs developing\SQL renamed to Programs developing\Database
+### Added
+- Programs developing\Database\NHibernate resources.txt
+
 ## [0.2.126] - 2020-12-17
 ### Changed
 - Programs developing\Design patterns\Design patterns.txt-ru
@@ -13,8 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\Design patterns\Design patterns resources.txt
 
 ## [0.2.123] - 2020-12-16
-### Changed
+### Renamed
 - Programs developing\Git renamed to Programs developing\Version control
+### Changed
 - Programs developing\Version control\Git.txt
 - Programs developing\Version control\Git.txt-ru
 ### Added
