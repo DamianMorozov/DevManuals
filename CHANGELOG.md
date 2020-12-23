@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.133] - 2020-12-23
+### Renamed
+- Programs developing\Version control\GIT cheatsheet.txt
+- Programs developing\Version control\GIT cheatsheet.txt-ru
+- Programs developing\Version control\GIT dev app creating manual.txt
+- Programs developing\Version control\GIT resources.txt
+### Added
+- Programs developing\Version control\SVN cheatsheet.txt
+- Programs developing\Version control\SVN resources.txt
+
 ## [0.2.128] - 2020-12-18
 ### Renamed
 - Programs developing\SQL renamed to Programs developing\Database
