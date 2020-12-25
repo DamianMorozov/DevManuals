@@ -10,10 +10,13 @@ https://radzen.com/documentation/
   @using Radzen
   @using Radzen.Blazor
 3. Include a theme => _Host.cshtml file (server-side Blazor) or wwwroot/index.html (client-side WebAssembly Blazor)
+Insert this snippet before <!DOCTYPE html>.
+  @*Radzen theme.*@
   <link rel="stylesheet" href="_content/Radzen.Blazor/css/default-base.css">
 Include Bootstrap
   <link rel="stylesheet" href="_content/Radzen.Blazor/css/default.css">
 4. Include Radzen.Blazor.js => _Host.cshtml file (server-side Blazor) or wwwroot/index.html (client-side WebAssembly Blazor)
+Insert this snippet in the end of <body>.
   <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
 5. Use a component => Blazor page
   <RadzenButton Click="@ButtonClicked" Text="@text"></RadzenButton>
@@ -25,6 +28,7 @@ Include Bootstrap
     }
   }
 6. Use Dialog, Notification, ContextMenu and Tooltip components => Shared/MainLayout.razor
+Insert this snippet after @inherits LayoutComponentBase
   <RadzenDialog />
   <RadzenNotification />
   <RadzenContextMenu />
