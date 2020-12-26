@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.135] - 2020-12-26
+### Changed
+- Programs developing\Dotnet\Dotnet commands.txt
+
 ## [0.2.134] - 2020-12-25
 ### Changed
 - Programs developing\C# Blazor\Dotnet Blazor Radzen.txt
