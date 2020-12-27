@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.137] - 2020-12-27
+### Added
+- Programs developing\Network\Telegram bot.txt
+- Programs developing\Network\Telegram resources.txt
+
 ## [0.2.135] - 2020-12-26
 ### Changed
 - Programs developing\Dotnet\Dotnet commands.txt
