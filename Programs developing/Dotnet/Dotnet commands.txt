@@ -94,6 +94,8 @@ dotnet run [-c|--configuration] [-f|--framework] [--force] [--launch-profile] [-
 dotnet run [-h|--help]
 dotnet run --configuration Debug
 dotnet run --configuration Release
+// Enable hot reloading during development so the app automatically restarts when a file is changed
+dotnet watch run
 ----------------------------------------------------------------------------------------------------
 // Modifies a .NET Core solution file.
 dotnet sln
