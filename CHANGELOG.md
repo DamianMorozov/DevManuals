@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.138] - 2020-12-28
+### Added
+- Programs developing\Go\Go resources.txt
+
 ## [0.2.137] - 2020-12-27
 ### Added
 - Programs developing\Network\Telegram bot.txt
