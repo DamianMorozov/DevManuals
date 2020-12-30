@@ -13,4 +13,5 @@ Russian resources
 Developer resources
 -------------------
 https://www.nuget.org/packages/Telegram.Bot
+https://native2ascii.net/
 ----------------------------------------------------------------------------------------------------
