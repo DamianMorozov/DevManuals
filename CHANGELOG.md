@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.144] - 2021-01-05
+### Changed
+- Programs developing\JavaScript\JavaScript resources.txt
+
 ## [0.2.143] - 2020-12-30
 ### Added
 - Programs developing\JavaScript\JavaScript resources.txt
