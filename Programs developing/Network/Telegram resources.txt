@@ -6,6 +6,7 @@ English resources
 https://telegrambots.github.io/book/
 https://telegram.org/
 https://core.telegram.org/bots/ | Marvin's Marvellous Guide to All Things Webhook
+https://telegrambots.github.io/book/ | Telegram Bots Book
 ----------------------------------------------------------------------------------------------------
 Russian resources
 -----------------
