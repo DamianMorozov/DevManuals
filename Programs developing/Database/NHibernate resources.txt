@@ -1,11 +1,13 @@
 ====================================================================================================
 English resources
 -----------------
-https://tutorialspoint.com/nhibernate/
 https://fluentnhibernate.fandom.com/
+https://nhibernate.info/
+https://tutorialspoint.com/nhibernate/
 ====================================================================================================
 Russian resources
 -----------------
+https://coderlessons.com/tutorials/microsoft-technologies/uznaite-nhibernate/nhibernate-uchebnik
 ====================================================================================================
 Downloads
 ---------
