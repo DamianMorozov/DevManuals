@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.148] - 2021-02-04
+### Added
+- Programs developing\Database\Scripts\MD5.sql
+
 ## [0.2.147] - 2021-02-03
 ### Changed
 - Programs developing\Database\NHibernate resources.txt
