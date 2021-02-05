@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.149] - 2021-02-05
+### Added
+- Programs developing\Database\Scripts\GUID with NULL.sql
+
 ## [0.2.148] - 2021-02-04
 ### Added
 - Programs developing\Database\Scripts\MD5.sql
