@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.151] - 2021-03-01
+## [0.2.152] - 2021-03-01
 ### Added
+- Programs developing\Database\Scripts\Service Broker.sql
 - Windows\Settings\Group policy.txt
 
 ## [0.2.150] - 2021-02-16
