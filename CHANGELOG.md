@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.156] - 2021-03-26
+### Added
+- Programs developing\MS Visual Studio\Continuous Integration Transformation.txt
+
 ## [0.2.155] - 2021-03-19
 ### Changed
 - Programs developing\C# Blazor\Resources.txt
