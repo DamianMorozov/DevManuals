@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.158] - 2021-04-19
+### Changed
+- Programs developing\Database\Scripts\*
+
 ## [0.2.157] - 2021-04-09
 ### Added
 - Programs developing\Database\Scripts\Select last changed goods.sql
