@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.160] - 2021-06-22
+### Added
+- Programs developing\MS Visual Studio\Downloads.txt
+
 ## [0.2.159] - 2021-05-27
 ### Added
 - Programs developing\Database\Scripts\Select Hex as Guid.sql
