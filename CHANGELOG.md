@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.163] - 2021-07-08
+### Added
+- Programs developing\Database\Scripts\Tables\Tables and sizes.sql
+
 ## [0.2.162] - 2021-06-30
 ### Added
 - Programs developing\NuGet\BenchmarkDotNet.txt
