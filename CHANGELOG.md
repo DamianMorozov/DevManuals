@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.165] - 2021-07-20
+### Added
+- Programs developing\Database\Scripts\Tables\XML parse to table fields.sql
+
 ## [0.2.164] - 2021-07-08
 ### Added
 - Programs developing\Database\Scripts\Bases\DB usage space on FS.sql
