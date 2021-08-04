@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.169] - 2021-08-04
+### Added
+- Programs developing\Database\Scripts\Tables\Filegroups and objects.sql
+
 ## [0.2.168] - 2021-07-27
 ### Added
 - Programs developing\Database\Scripts\Tables\Foreign keys.sql
