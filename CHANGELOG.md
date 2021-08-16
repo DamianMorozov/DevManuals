@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.170] - 2021-08-16
+## [0.2.171] - 2021-08-16
 ### Changed
 - Programs developing\Docker\Docker.txt
+### Added
+- Programs developing\Docker\Bitnami Redmine.txt
 
 ## [0.2.169] - 2021-08-04
 ### Added
