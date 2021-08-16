@@ -5,7 +5,7 @@ https://guides.hexlet.io/docker/
 Community Edition (CE)
 Enterprise Edition (EE)
 ----------------------------------------------------------------------------------------------------
-docker info                                       --- проверить успешность установки
-docker version                                    --- сведения о версии
-docker run hello-world                            --- проверить возможность запуска изображений
+docker version                                    --- release notes
+docker info                                       --- verify successful installation
+docker run hello-world                            --- check the ability to run images
 ----------------------------------------------------------------------------------------------------
