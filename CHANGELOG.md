@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.173] - 2021-08-24
+### Added
+- Programs developing\MS Visual Studio\Tips and trics.txt
+
 ## [0.2.172] - 2021-08-20
 ### Added
 - Programs developing\Uno platform\Uno resources.txt
