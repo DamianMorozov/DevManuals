@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.175] - 2021-08-26
-### Changed
+## [0.2.176] - 2021-08-26
+### Added
+- Programs developing\Database\Finding duplicate values.sql
 - Programs developing\Database\SqlLocalDB.md
 
 ## [0.2.174] - 2021-08-25
