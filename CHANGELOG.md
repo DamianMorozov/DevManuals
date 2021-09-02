@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.177] - 2021-09-02
+### Added
+- Programs developing\MS Visual Studio\Project properties.txt
+
 ## [0.2.176] - 2021-08-26
 ### Added
 - Programs developing\Database\Finding duplicate values.sql
