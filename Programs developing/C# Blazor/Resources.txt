@@ -47,3 +47,6 @@ https://mudblazor.com/
 https://blazor.radzen.com/
 https://github.com/akorchev/blazor.radzen.com
 ----------------------------------------------------------------------------------------------------
+The .NET Team's Favorite Razor Features
+https://dev.to/dotnet/the-net-team-s-favorite-razor-features-5b72
+----------------------------------------------------------------------------------------------------
