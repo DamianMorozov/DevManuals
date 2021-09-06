@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.179] - 2021-09-06
+## [0.2.180] - 2021-09-06
 ### Changed
 - Programs developing\Diagrams\2006. Say it with charts complete toolkit.txt-ru
+### Added
+- Programs developing\Diagrams\Diagrams resources.txt
 
 ## [0.2.178] - 2021-09-03
 ### Added
