@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\GUI\WPF Access controls from threads.md
 - Programs developing\GUI\WPF metanit in Russian.md
 - Programs developing\GUI\WPF XAML Enum.md
+- Programs developing\Markdown.md
 - Programs developing\Markdown-cheat-sheet.md
 ### Added
 - Programs developing\Diagrams\Diagrams resources in English.md
