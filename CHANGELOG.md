@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.186] - 2021-09-06
+## [0.2.188] - 2021-09-06
 ### Changed
+- Programs developing\C#\Data types mapping.md
 - Programs developing\Diagrams\2006. Say it with charts complete toolkit.txt-ru
 - Programs developing\Database\Scripts\Tables\GUID varbinary.sql
 - Programs developing\GUI\WPF Access controls from threads.md
