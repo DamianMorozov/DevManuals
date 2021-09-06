@@ -6,12 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.181] - 2021-09-06
+## [0.2.182] - 2021-09-06
 ### Changed
 - Programs developing\Diagrams\2006. Say it with charts complete toolkit.txt-ru
 - Programs developing\Database\Scripts\Tables\GUID varbinary.sql
+- Programs developing\GUI\WPF Access controls from threads.txt
+- Programs developing\GUI\WPF metanit.txt-ru
+- Programs developing\GUI\WPF XAML Enum.txt
 ### Added
 - Programs developing\Diagrams\Diagrams resources.txt
+- Programs developing\GUI\WPF resources.txt-ru
 
 ## [0.2.178] - 2021-09-03
 ### Added
