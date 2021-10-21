@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.191] - 2021-10-21
+### Changed
+- Programs developing\Database\Scripts\Parsers\Get field as string.sql
+- Programs developing\Database\Scripts\Parsers\Parse int value from string.sql
+
 ## [0.2.190] - 2021-10-20
 ### Added
 - Programs developing\Database\Scripts\Tables\Parse int value from string.sql

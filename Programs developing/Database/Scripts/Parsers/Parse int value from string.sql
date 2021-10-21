@@ -3,10 +3,12 @@ declare @str nvarchar(255) = N'Срок годности: 30 суток при температуре от 0°С до
 declare @value1 int
 declare @value2 int
 declare @value3 int
+
 -- 1
 set @value1 = substring(substring(@str, 
-		patindex('%[0-9]%', @str), len(@str)), 0, patindex('%[^0-9]%', 
-			substring(@str, patindex('%[0-9]%', @str), len(@str))))
+	patindex('%[0-9]%', @str), len(@str)), 0, 
+	patindex('%[^0-9]%', substring(@str, 
+	patindex('%[0-9]%', @str), len(@str))))
 -- 2
 set @value2 = (select [value] from (
 	select row_number() over (order by (select null)) [row], [value]
@@ -19,3 +21,12 @@ set @value3 = (select substring (@str
 ))
 -- Result
 select @str [STR], @value1 [VALUE_1], @value2 [VALUE_2], @value3 [VALUE_3]
+
+set @str = N'Коробка №1 560 грамм (380*290*285)'
+-- 1
+set @value1 = (select [value] from (
+	select row_number() over (order by (select null)) [row], [value]
+	from string_split((select substring(@str, patindex('%[0-9]%', @str), 16)), ' ')) Q
+	where [row] = 2)
+-- Result
+select @str [STR], @value1 [VALUE_1]
