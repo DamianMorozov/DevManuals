@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.192] - 2021-10-26
+### Changed
+- Programs developing\GUI\Uno platform resources.md
+
 ## [0.2.191] - 2021-10-21
 ### Changed
 - Programs developing\Database\Scripts\Parsers\Get field as string.sql
