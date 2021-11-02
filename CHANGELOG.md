@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.193] - 2021-11-02
+### Changed
+- Windows\Software\WSL.md
+
 ## [0.2.192] - 2021-10-26
 ### Changed
 - Programs developing\GUI\Uno platform resources.md
