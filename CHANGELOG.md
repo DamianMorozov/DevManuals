@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.194] - 2021-11-03
+### Changed
+- Windows\Software\Winget.md
+
 ## [0.2.193] - 2021-11-02
 ### Changed
 - Windows\Software\WSL.md
