@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.198] - 2021-11-29
+## [0.2.199] - 2021-11-29
 ### Added
 - Windows\PowerShell\How to run GWMI.md
+
+## [0.2.198] - 2021-11-13
+### Added
+- Windows\Cmd\Diskpart.md
 
 ## [0.2.197] - 2021-11-08
 ### Changed
