@@ -1,7 +1,5 @@
 # How to run GWMI?
 
---------
-
 Step 1. Install the Windows Terminal from Microsoft Store.
 
 Step 2. Run the Windows Terminal from Start menu.
@@ -16,7 +14,6 @@ Step 4. Type the folowing commands:
 - View printers info:	
 `gwmi -query "select DriverName, PortName, Status, PrinterState, PrinterStatus from Win32_Printer"`
 
---------
 
 # Screenshots
 
