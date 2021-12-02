@@ -1,25 +1,29 @@
 -- Tables and sizes
-select
-   [t].[Name]                                            [Table]
-  ,[s].[Name]                                            [Schema]
-  ,sum([a].[total_pages])*8                              [TotalSpaceKB]
-  ,sum([a].[used_pages])*8                               [UsedSpaceKB]
-  ,(sum([a].[total_pages])-sum([a].[used_pages]))*8      [UnusedSpaceKB]
-  ,sum([a].[total_pages])*8 / 1024                       [TotalSpaceMB]
-  ,sum([a].[used_pages])*8 / 1024                        [UsedSpaceMB]
-  ,(sum([a].[total_pages])-sum([a].[used_pages]))*8/1024 [UnusedSpaceMB]
-  ,[p].Rows                                              [RowCounts]
-from
-  sys.tables [t]
-  inner join sys.indexes [i] ON [t].[object_id] = [i].[object_id]
-  inner join sys.partitions [p] ON [i].[object_id] = [p].[object_id] and [i].[index_id] = [p].[index_id]
-  inner join sys.allocation_units [a] ON [p].[partition_id] = [a].container_id
-  left outer join sys.schemas [s] ON [t].[schema_id] = [s].[schema_id]
-where
-  --[t].[Name] not like 'dt%'
-   [t].[is_ms_shipped] = 0
-  and [i].[object_id] > 255
-group by
-  [t].[Name], s.[Name], [p].Rows
-order by
-  [TotalSpaceKB] desc
+SELECT
+	[T].[Name] [TABLE]
+   ,[S].[Name] [SCHEMA]
+   ,SUM([A].[total_pages]) * 8 [TOTALSPACEKB]
+   ,SUM([A].[used_pages]) * 8 [USEDSPACEKB]
+   ,(SUM([A].[total_pages]) - SUM([A].[used_pages])) * 8 [UNUSEDSPACEKB]
+   ,SUM([A].[total_pages]) * 8 / 1024 [TOTALSPACEMB]
+   ,SUM([A].[used_pages]) * 8 / 1024 [USEDSPACEMB]
+   ,(SUM([A].[total_pages]) - SUM([A].[used_pages])) * 8 / 1024 [UNUSEDSPACEMB]
+   ,[P].rows [ROWCOUNTS]
+FROM sys.tables [T]
+INNER JOIN sys.indexes [I]
+	ON [T].[object_id] = [I].[object_id]
+INNER JOIN sys.partitions [P]
+	ON [I].[object_id] = [P].[object_id]
+		AND [I].[index_id] = [P].[index_id]
+INNER JOIN sys.allocation_units [A]
+	ON [P].[partition_id] = [A].container_id
+LEFT OUTER JOIN sys.schemas [S]
+	ON [T].[schema_id] = [S].[schema_id]
+WHERE
+--[t].[Name] not like 'dt%'
+[T].[is_ms_shipped] = 0
+AND [I].[object_id] > 255
+GROUP BY [T].[Name]
+		,S.[Name]
+		,[P].rows
+ORDER BY [TOTALSPACEKB] DESC
