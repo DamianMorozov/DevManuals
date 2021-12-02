@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.200] - 2021-12-02
+## [0.2.201] - 2021-12-02
 ### Changed
 - Programs developing\Database\Scripts\Tables\Tables and sizes.sql
+### Added
+- Windows\Software\Windows Terminal.md
 
 ## [0.2.199] - 2021-11-29
 ### Added
