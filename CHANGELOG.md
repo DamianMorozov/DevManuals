@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.204] - 2021-12-07
+## [0.2.205] - 2021-12-07
 ### Changed
 - Linux\Software\System\Update.md
 - Linux\Hardware*
 - Linux\Software*
+- Linux\OS Upgrade Ubuntu.md
 
 ## [0.2.201] - 2021-12-02
 ### Changed
