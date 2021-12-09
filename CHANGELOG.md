@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.208] - 2021-12-09
+### Added
+- Linux\Software NET.md
+
 ## [0.2.207] - 2021-12-07
 ### Changed
 - Linux\Software\System\Update.md
