@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.208] - 2021-12-09
+## [0.2.209] - 2021-12-09
 ### Added
-- Linux\Software NET.md
+- Linux\Software .NET.md
+- Windows\Software WSL Linux GUI apps.md
 
 ## [0.2.207] - 2021-12-07
 ### Changed
