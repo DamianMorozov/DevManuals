@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.210] - 2021-12-13
+### Added
+- Programs developing\C#\IDisposable.md
+
 ## [0.2.209] - 2021-12-09
 ### Added
 - Linux\Software .NET.md
