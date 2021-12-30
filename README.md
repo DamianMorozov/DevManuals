@@ -16,6 +16,7 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [Hardware all](Linux/Hardware%20all.txt)
 - [Hardware hdd](Linux/Hardware%20hdd.txt)
 - [Hardware videocard](Linux/Hardware%20videocard.txt)
+- [Library. 2020 Eng. Mastering Ubuntu Server.md](Linux/Lib.%202020%20Eng.%20Mastering%20Ubuntu%20Server.md)
 - [Linux resources](Linux/Linux%20resources.md)
 - [Network](Linux/Network.txt)
 - [OS BusyBox](Linux/OS%20BusyBox.txt)

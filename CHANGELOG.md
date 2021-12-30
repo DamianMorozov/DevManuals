@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.213] - 2021-12-30
+### Added
+- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
+
 ## [0.2.212] - 2021-12-21
 ### Changed
 - Programs developing\Version control\GIT cheatsheet.md
