@@ -42,6 +42,25 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [System Stacer](Linux/System%20Stacer.txt)
 
 ## Programs developing
+- [10%20Questions%20Product%20Managers](Programs%20developing/10%20Questions%20Product%20Managers.md)
+- [10%20Questions%20Product%20Managers](Programs%20developing/10%20Questions%20Product%20Managers%20[Rus].md)
+- [2014. The Art of Unit Testing (with examples in C#) [Rus]](Programs%20developing/2014.%20The%20Art%20of%20Unit%20Testing%20(with%20examples%20in%20C#)%20[Rus].txt)
+- [2016. Grokking Algorithms [Rus]](Programs%20developing/2016.%20Grokking%20Algorithms%20[Rus].txt)
+- [2017. Building Maintainable Software (C# Edition) [Rus]](Programs%20developing/2017.%20Building%20Maintainable%20Software%20(C#%20Edition)%20[Rus].txt)
+- [2019. Clean architecture [Rus]](Programs%20developing/2019.%20Clean%20architecture%20[Rus].txt)
+- [2019. Concurrency in C# Cookbook [Rus]](Programs%20developing/2019.%20Concurrency%20in%20C#%20Cookbook%20[Rus].txt)
+- [Agile Manifesto [Rus]](Programs%20developing/Agile%20Manifesto%20[Rus].txt)
+- [Changelog](Programs%20developing/Changelog.txt)
+- [Developer rules [Rus]](Programs%20developing/Developer%20rules%20[Rus].txt)
+- [Developer rules](Programs%20developing/Developer%20rules.txt)
+- [Dotnet new project](Programs%20developing/Dotnet%20new%20project.txt)
+- [Entity Component System](Programs%20developing/Entity%20Component%20System.txt)
+- [Head First](Programs%20developing/Head%20First.txt)
+- [Markdown](Programs%20developing/Markdown.md)
+- [Markdown-cheat-sheet](Programs%20developing/Markdown-cheat-sheet.md)
+- [Principles of OOP](Programs%20developing/Principles%20of%20OOP.txt)
+- [Readme](Programs%20developing/Readme.md)
+- [SOLID](Programs%20developing/SOLID.txt)
 Under construct
 
 ## Windows

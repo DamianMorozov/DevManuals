@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.214] - 2022-01-10
+## [0.3.003] - 2022-01-10
 ### Added
 - Windows\Settings\Windows Updates.md
+- Programs developing\10 Questions Product Managers.md
+- Programs developing\10 Questions Product Managers [Rus].md
+### Changed
+- README.md
+- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
 
 ## [0.2.213] - 2021-12-30
 ### Added
