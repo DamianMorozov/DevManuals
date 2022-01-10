@@ -13,3 +13,5 @@
 - `sudo mv /home/user2 /store/file_archive` -- move user folder to backup storage folder
 - `sudo userdel -r user2` -- remove the user with removing user data
 - `sudo rm -r /home/user2` -- remove the user folder
+- `cat /etc/passwd` -- view user accounts
+- `sudo cat /etc/shadow` -- 
