@@ -94,6 +94,7 @@ Under construct
 - [Vhd compressing using Diskpart](Windows/Settings/Vhd%20compressing%20using%20Diskpart.txt)
 - [W32tm](Windows/Settings/W32tm.txt)
 - [WiFi password](Windows/Settings/WiFi%20password.txt)
+- [Windows Updates](Windows/Settings/Windows%20Updates.md)
 
 # Support
 Please, if this tools has been useful for you click on the `star` button.
