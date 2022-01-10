@@ -42,8 +42,8 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [System Stacer](Linux/System%20Stacer.txt)
 
 ## Programs developing
-- [10%20Questions%20Product%20Managers](Programs%20developing/10%20Questions%20Product%20Managers.md)
-- [10%20Questions%20Product%20Managers](Programs%20developing/10%20Questions%20Product%20Managers%20[Rus].md)
+- [10 Questions Product Managers](Programs%20developing/10%20Questions%20Product%20Managers.md)
+- [10 Questions Product Managers [Rus]](Programs%20developing/10%20Questions%20Product%20Managers%20[Rus].md)
 - [2014. The Art of Unit Testing (with examples in C#) [Rus]](Programs%20developing/2014.%20The%20Art%20of%20Unit%20Testing%20(with%20examples%20in%20C#)%20[Rus].txt)
 - [2016. Grokking Algorithms [Rus]](Programs%20developing/2016.%20Grokking%20Algorithms%20[Rus].txt)
 - [2017. Building Maintainable Software (C# Edition) [Rus]](Programs%20developing/2017.%20Building%20Maintainable%20Software%20(C#%20Edition)%20[Rus].txt)
