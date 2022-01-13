@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.004] - 2022-01-13
+### Added
+- Programs developing\C# Blazor\Authentication & Authorization.md
+
 ## [0.3.003] - 2022-01-10
 ### Added
 - Windows\Settings\Windows Updates.md
