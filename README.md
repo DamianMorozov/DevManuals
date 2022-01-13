@@ -61,7 +61,18 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [Principles of OOP](Programs%20developing/Principles%20of%20OOP.txt)
 - [Readme](Programs%20developing/Readme.md)
 - [SOLID](Programs%20developing/SOLID.txt)
-Under construct
+
+## Programs developing. C# ASP & Blazor
+- [2019. Blazor Revealed. Building Web Applications in .NET](Programs%20developing/C#%20ASP%20&%20Blazor/2019.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.txt)
+- [2020. Blazor for ASP.NET Web Forms Developers](Programs%20developing/C#%20ASP%20&%20Blazor/2020.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.txt)
+- [ASP.NET Core Blazor hosting models](Programs%20developing/C#%20ASP%20&%20Blazor/ASP.NET%20Core%20Blazor%20hosting%20models.txt)
+- [Authentication & Authorization](Programs%20developing/C#%20ASP%20&%20Blazor/Authentication%20&%20Authorization.md)
+- [Blazor - Build client web apps with C#](Programs%20developing/C#%20ASP%20&%20Blazor/Blazor%20-%20Build%20client%20web%20apps%20with%20C#.txt)
+- [Dotnet Blazor](Programs%20developing/C#%20ASP%20&%20Blazor/Dotnet%20Blazor.txt)
+- [Dotnet Blazor Radzen](Programs%20developing/C#%20ASP%20&%20Blazor/Dotnet%20Blazor%20Radzen.txt)
+- [Resources](Programs%20developing/C#%20ASP%20&%20Blazor/Resources.txt)
+- [Resources [Rus]](Programs%20developing/C#%20ASP%20&%20Blazor/Resources%20[Rus].txt)
+- [Use ASP.NET Core SignalR with Blazor WebAssembly](Programs%20developing/C#%20ASP%20&%20Blazor/Use%20ASP.NET%20Core%20SignalR%20with%20Blazor%20WebAssembly.txt)
 
 ## Windows
 - [PID](Windows/PID.txt)
