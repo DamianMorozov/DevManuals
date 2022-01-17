@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.011] - 2022-01-17
+### Added
+- Programs developing\Database\Scripts\Tables\Tables and rows.sql
+
 ## [0.3.010] - 2022-01-13
 ### Added
 - Programs developing\C Sharp ASP and Blazor\Authentication & Authorization.md
