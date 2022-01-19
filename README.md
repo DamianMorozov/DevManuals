@@ -74,6 +74,49 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [Resources [Rus]](Programs%20developing/C%20Sharp%20ASP%20and%20Blazor/Resources%20[Rus].txt)
 - [Use ASP.NET Core SignalR with Blazor WebAssembly](Programs%20developing/C%20Sharp%20ASP%20and%20Blazor/Use%20ASP.NET%20Core%20SignalR%20with%20Blazor%20WebAssembly.txt)
 
+## Programs developing. Database
+- [13 вопросов перед внесением изменений в работу SQL Server](Programs%20developing/Database/13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.txt)
+- [ConnectionString](Programs%20developing/Database/ConnectionString.txt)
+- [CQRS resources](Programs%20developing/Database/CQRS%20resources.txt)
+- [Cursor](Programs%20developing/Database/Cursor.txt)
+- [Data types](Programs%20developing/Database/Data%20types.txt)
+- [Database tools](Programs%20developing/Database/Database%20tools.txt)
+- [DateTime](Programs%20developing/Database/DateTime.txt)
+- [Error Невозможно привести Com-объект типа System.__ComObject](Programs%20developing/Database/Error%20Невозможно%20привести%20Com-объект%20типа%20System.__ComObject.txt)
+- [Help](Programs%20developing/Database/Help.txt)
+- [MS SQL 2005. Библия пользователя](Programs%20developing/Database/MS%20SQL%202005.%20Библия%20пользователя.txt)
+- [MS SQL download](Programs%20developing/Database/MS%20SQL%20download.txt)
+- [MS SQL setup guide [Rus]](Programs%20developing/Database/MS%20SQL%20setup%20guide%20[Rus].txt)
+- [MS SQL versions](Programs%20developing/Database/MS%20SQL%20versions.txt)
+- [NHibernate resources](Programs%20developing/Database/NHibernate%20resources.txt)
+- [Setup versions](Programs%20developing/Database/Setup%20versions.txt)
+- [SqlLocalDB](Programs%20developing/Database/SqlLocalDB.md)
+- [SSMS Cheet sheet](Programs%20developing/Database/SSMS%20Cheet%20sheet.md)
+- [Язык запросов SQL](Programs%20developing/Database/Язык%20запросов%20SQL.txt)
+
+## Programs developing. Database. Scripts. Bases
+- [DB usage space on FS](Programs%20developing/Database/Scripts/Bases/DB%20usage%20space%20on%20FS.sql)
+- [MD5](Programs%20developing/Database/Scripts/Bases/MD5.sql)
+- [Service Broker](Programs%20developing/Database/Scripts/Bases/Service%20Broker.sql)
+
+## Programs developing. Database. Scripts. Parsers
+- [Get field as string](Programs%20developing/Database/Scripts/Parsers/Get%20field%20as%20string.sql)
+- [Parse int value from string](Programs%20developing/Database/Scripts/Parsers/Parse%20int%20value%20from%20string.sql)
+
+## Programs developing. Database. Scripts. Tables
+- [DateTime](Programs%20developing/Database/Scripts/Tables/DateTime.sql)
+- [Filegroups and objects](Programs%20developing/Database/Scripts/Tables/Filegroups%20and%20objects.sql)
+- [Finding duplicate values](Programs%20developing/Database/Scripts/Tables/Finding%20duplicate%20values.sql)
+- [Foreign keys](Programs%20developing/Database/Scripts/Tables/Foreign%20keys.sql)
+- [Foreign keys. Match.sql](Programs%20developing/Database/Scripts/Tables/Foreign%20keys.%20Match.sql)
+- [GUID varbinary](Programs%20developing/Database/Scripts/Tables/GUID%20varbinary.sql)
+- [GUID with NULL](Programs%20developing/Database/Scripts/Tables/GUID%20with%20NULL.sql)
+- [json_value](Programs%20developing/Database/Scripts/Tables/json_value.sql)
+- [Select last changed goods](Programs%20developing/Database/Scripts/Tables/Select%20last%20changed%20goods.sql)
+- [Tables and rows](Programs%20developing/Database/Scripts/Tables/Tables%20and%20rows.sql)
+- [Tables and sizes](Programs%20developing/Database/Scripts/Tables/Tables%20and%20sizes.sql)
+- [XML parse to table fields](Programs%20developing/Database/Scripts/Tables/XML%20parse%20to%20table%20fields.sql)
+
 ## Windows
 - [PID](Windows/PID.txt)
 - [Software Network](Windows/Software%20Network.txt)
