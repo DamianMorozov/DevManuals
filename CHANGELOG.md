@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.012] - 2022-01-19
+### Changed
+- Programs developing\Database\SSMS Cheet sheet.md
+
 ## [0.3.011] - 2022-01-17
 ### Added
 - Programs developing\Database\Scripts\Tables\Tables and rows.sql
