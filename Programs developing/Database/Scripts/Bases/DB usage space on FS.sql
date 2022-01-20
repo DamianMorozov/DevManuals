@@ -14,7 +14,7 @@ IF (@USE_DATABASE_FILES = 1) BEGIN
 		,[SIZE] * 8 / 1024 [DB_SIZE_MB]
 		,[MAX_SIZE]
 		,[MAX_SIZE] * 8 / 1024 [MAX_SIZE_MB]
-	FROM SYS.DATABASE_FILES
+	FROM [SYS].[DATABASE_FILES]
 END
 ------------------------------------------------------------------------------------------------------------------------
 IF (@USE_MASTER_FILES = 1) BEGIN
