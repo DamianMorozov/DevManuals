@@ -1,9 +1,12 @@
 # GIT cheatsheet
 
+```
 git help <cmd>                                    -- web-page help
 git <cmd> -- help                                 -- web-page help
+```
 
 ## Config
+```
 git --version --build-options                     -- 
 git config --list                                 -- 
 git config --local --list                         -- 
@@ -36,8 +39,10 @@ git status -s                                     --
 git commit -a -m "..."                            -- 
 git diff                                          -- 
 git diff --staged                                 -- 
+```
 
 ## Work with changes
+```
 git status                                        -- 
 git status -s                                     -- 
 git diff                                          -- 
@@ -49,13 +54,17 @@ git difftool -d                                   --
 git difftool -d [branch]                          -- 
 git diff --stat                                   -- 
 git diff [file-branch] [second-branch]            -- 
+```
 
 ## Indexing
+```
 git add .                                         -- 
 git add *.cs                                      -- 
 git add [file]                                    -- 
+```
 
 ## Commits
+```
 git commit -a -m "text"                           -- 
 git commit -m "Initial commit"                    -- 
 git commit -m "Subject" -m "Message"              -- 
@@ -74,8 +83,10 @@ git reset --hard [commit]                         --
 git revert <commit_hash>                          -- 
 git checkout -- [file]                            -- 
 git checkout <commit_hash>                        -- 
+```
 
 ## Repositories
+```
 git init                                          -- 
 git clone [url]                                   -- 
 git clone [url] "[folder]"                        -- 
@@ -106,8 +117,10 @@ git remote rename origin [gitlab]                 --
 git remote rm origin                              -- 
 git remote set-url origin [https://...]           -- 
 git remote show origin                            -- 
+```
 
 ## Files deleting
+```
 git clean -f                                      -- 
 git clean -fd                                     -- 
 git mv [file-original] [file-renamed]             -- 
@@ -121,12 +134,16 @@ git rm --cached -rf .                             --
 git rm --cached [file]                            -- 
 git update-index --assume-unchanged [file]        -- 
 git update-index --no-assume-unchanged [file]     -- 
+```
 
 ## Files indexing
+```
 .gitignore                                        -- 
 git ls-files --other --ignored --exclude-standard -- 
+```
 
 ## Version history
+```
 git log                                           -- 
 git log --follow [file]                           -- 
 git log -p -2                                     -- 
@@ -140,8 +157,10 @@ git log --stat                                    --
 git shortlog                                      -- 
 git show [commit]                                 -- 
 git show [branch]:[file]                          -- 
+```
 
 ## Tags
+```
 git push [origin] [tag]                           -- 
 git push [origin] --tags                          -- 
 git show v1.6.4.047                               -- 
@@ -150,8 +169,10 @@ git tag -l *v1.6*                                 --
 git tag -a v1.6.4.047 -m "26.04.2018"             -- 
 git tag v1.6.4.047-lw                             -- 
 git tag -a v1.6.1.001 d0704b00b5                  -- 
+```
 
 ## Branches
+```
 HEAD                                              -- 
 git checkout [branch]                             -- 
 git checkout [file]                               -- 
@@ -182,8 +203,10 @@ git merge @{u}                                    --
 git branch --list                                 -- view list of branches
 git fetch origin master:master                    -- get other branch
 git pull origin master:master                     -- get other branch
+```
 
 ## Stashes
+```
 git stash                                         -- 
 git stash list                                    -- 
 git stash apply                                   -- 
@@ -192,27 +215,36 @@ git stash apply --index                           --
 git stash drop                                    -- 
 git stash pop                                     -- 
 git stash branch                                  -- 
+```
 
 ## How to revert uncommitted changes including files and folders?
+```
 git reset --hard                                  -- Revert changes to modified files.
 git clean -fd                                     -- Remove all untracked files and directories.
+```
 
 ## Revert changes
+```
 git checkout .                                    -- revert changes made to your working copy
 git reset                                         -- revert changes made to the index
 git revert <commit 1> <commit 2>                  -- revert a change that you have committed
 git clean -f                                      -- remove untracked files
 git clean -fd                                     -- remove untracked directories
+```
 
 ## Exclude files from commit
+```
 Need first gitignore and then files.
 git rm -r --cached . || git rm --cached || git rm --cached <file-name> || git rm -r --cached <folder-name>
 git add .
 git commit -m ".gitignore"
+```
 
 ## Renaming a branch
+```
 git branch -m oldname newname                     -- local renaming
 git push origin :old_branch                       -- remote deleting old branch
 git push origin new_branch                        -- remote creating new branch
 git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
 git branchm origin old_branch new_branch          -- remote branch renaming
+```
