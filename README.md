@@ -117,6 +117,14 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [Tables and sizes](Programs%20developing/Database/Scripts/Tables/Tables%20and%20sizes.sql)
 - [XML parse to table fields](Programs%20developing/Database/Scripts/Tables/XML%20parse%20to%20table%20fields.sql)
 
+## Programs developing. Version control
+- [GIT cheatsheet](Programs%20developing/Version%20control/GIT%20cheatsheet.md)
+- [GIT cheatsheet [Rus]](Programs%20developing/Version%20control/GIT%20cheatsheet%20[Rus].md)
+- [GIT dev app creating manual](Programs%20developing/Version%20control/GIT%20dev%20app%20creating%20manual.md)
+- [GIT resources](Programs%20developing/Version%20control/GIT%20resources.md)
+- [SVN cheatsheet](Programs%20developing/Version%20control/SVN%20cheatsheet.md)
+- [SVN resources](Programs%20developing/Version%20control/SVN%20resources.md)
+
 ## Windows
 - [PID](Windows/PID.txt)
 - [Software Network](Windows/Software%20Network.txt)

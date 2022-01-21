@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.021] - 2022-01-21
+## [0.3.022] - 2022-01-21
 ### Changed
 - Programs developing\Version control\*.md
+- README.md
 
 ## [0.3.017] - 2022-01-20
 ### Changed
