@@ -1,3 +1,5 @@
+# GIT dev app creating manual
+
  1. Create new git repository with description on https://github.com
  2. git clone https://github.com/NickName/NewRepo.git
  3. Create new git repository with description on https://gitlab.com.

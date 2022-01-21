@@ -1,6 +1,5 @@
-====================================================================================================
-SVN cheatsheet
-====================================================================================================
+# SVN cheatsheet
+
 svn co --username eax https://example.com/project/trunk/    -- checkout
 svn up                                                      -- latest changes
 svn info                                                    -- Check which branch we are on and which server we are looking at
@@ -43,4 +42,3 @@ svn del file.txt                                            -- Delete a file
 svn lock file.txt                                           -- Lock so that no one can change the file except us
 svn unlock file.txt                                         -- unlock so that no one can change the file except us
 svn commit -m 'Your comment here'                           -- Commit and immediately push, because it's SVN
-----------------------------------------------------------------------------------------------------

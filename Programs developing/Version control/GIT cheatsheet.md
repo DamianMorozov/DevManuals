@@ -4,7 +4,6 @@ git help <cmd>                                    -- web-page help
 git <cmd> -- help                                 -- web-page help
 
 ## Config
-
 git --version --build-options                     -- 
 git config --list                                 -- 
 git config --local --list                         -- 

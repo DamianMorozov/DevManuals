@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.021] - 2022-01-21
+### Changed
+- Programs developing\Version control\*.md
+
 ## [0.3.017] - 2022-01-20
 ### Changed
 - Programs developing\Database\Scripts\Bases\DB usage space on FS.sql
