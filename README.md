@@ -41,6 +41,9 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [System screen resolution](Linux/System%20screen%20resolution.txt)
 - [System Stacer](Linux/System%20Stacer.txt)
 
+## Linux. Network
+- [Network](Linux/Network/Network.md)
+
 ## Programs developing
 - [10 Questions Product Managers](Programs%20developing/10%20Questions%20Product%20Managers.md)
 - [10 Questions Product Managers [Rus]](Programs%20developing/10%20Questions%20Product%20Managers%20[Rus].md)
