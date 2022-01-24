@@ -6,10 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.030] - 2022-01-24
+## [0.3.032] - 2022-01-24
 ### Changed
 - Linux\Network\*.md
 - README.md
+### Added
+- Linux\Network\Firewalls.md
 
 ## [0.3.025] - 2022-01-21
 ### Changed
