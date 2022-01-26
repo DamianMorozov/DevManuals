@@ -2,7 +2,7 @@
 - [README](../README.md)
 
 ## Back to the Windows page
-- [Windows](../Windows.md)
+- [Windows](Windows.md)
 
 # Windows PowerShell
 - [Shutdown](PowerShell/Shutdown%20now.cmd)
