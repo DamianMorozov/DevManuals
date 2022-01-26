@@ -1,5 +1,7 @@
-https://support.microsoft.com/en-us/help/192806/how-to-run-control-panel-tools-by-typing-a-command
-https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060
+# CPL - Control Panel tools
+
+[How to run Control Panel tools by typing a command](https://support.microsoft.com/en-us/help/192806/how-to-run-control-panel-tools-by-typing-a-command "support.microsoft.com")
+[Command Line Commands for Control Panel Applets](https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060 "lifewire.com")
 
 Control panel tool             Command
 -----------------------------------------------------------------
