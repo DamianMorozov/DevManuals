@@ -2,7 +2,7 @@
 - [README](../README.md)
 
 ## Back to the Windows page
-- [README](../Windows.md)
+- [Windows](../Windows.md)
 
 # Windows Cmd
 - [Clear temp](Cmd/Clear%20temp.cmd)

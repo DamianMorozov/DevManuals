@@ -2,7 +2,7 @@
 - [README](../README.md)
 
 ## Back to the Windows page
-- [README](../Windows.md)
+- [Windows](../Windows.md)
 
 ## Windows Settings
 - [CEIP disable](Settings/CEIP%20disable.reg)
