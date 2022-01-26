@@ -2,6 +2,8 @@
 - [README](../README.md)
 
 ## Windows
+- [CPL - Control Panel tools](CPL%20-%20Control%20Panel%20tools.md)
+- [MSC](MSC.md)
 - [PID](PID.txt)
 - [Software Network](Software%20Network.txt)
 - [Software Windows Terminal](Software%20Windows%20Terminal.md)
