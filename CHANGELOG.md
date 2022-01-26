@@ -6,8 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.040] - 2022-01-26
+## [0.3.042] - 2022-01-26
 ### Changed
+- Programs developing\C Sharp\Data types.md
+- Programs developing\C Sharp\Data types mapping.md
 - Windows\CPL - Control Panel tools.md
 - Windows\Windows.md
 - README.md

@@ -1,9 +1,8 @@
-====================================================================================================
-C# data types.
-Work with data in C#: https://docs.microsoft.com/en-us/learn/paths/csharp-data/
-====================================================================================================
-Value data types.
------------------
+# C# data types
+
+[Work with data in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-data/ "docs.microsoft.com")
+
+## Value data types
 1. All numeric types:
   - signed integral:
     - sbyte  : -128 to 127
@@ -25,9 +24,8 @@ Value data types.
 5. enum
 The value cannot be assigned a null literal.
 The operations ==,! = are compared by value.
-----------------------------------------------------------------------------------------------------
-Reference data types.
----------------------
+
+## Reference data types
 1. string, StringBuilder
 2. class, object
 3. interface
@@ -36,9 +34,8 @@ Reference data types.
 6. DateTime, TimeSpan, Stopwatch
 The reference can be assigned a null literal.
 The operations ==,! = are compared by reference.
-----------------------------------------------------------------------------------------------------
-String.
------------------------------
+
+## String
 It is immutable.
 Reference type. But equivalence operations compare values.
 Contains escape sequences:    string s = "Tab example:\t";
@@ -49,4 +46,3 @@ String comparison:
    "Bbb".CompareTo("Aaa")  // 1
    "Bbb".CompareTo("Bbb")  // 0
    "Bbb".CompareTo("Ccc")  // -1
-----------------------------------------------------------------------------------------------------
