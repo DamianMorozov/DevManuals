@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.034] - 2022-01-26
+## [0.3.035] - 2022-01-26
 ### Changed
 - Windows\CPL - Control Panel tools.md
+- README.md
 ### Added
 - Windows\MSC.md
 

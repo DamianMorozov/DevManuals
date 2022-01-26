@@ -42,7 +42,7 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [System Stacer](Linux/System%20Stacer.txt)
 
 ## Linux. Network
-- [Network](Linux/Network/Network.md)
+- [Network](Linux/Linux.Network.md)
 
 ## Programs developing
 - [10 Questions Product Managers](Programs%20developing/10%20Questions%20Product%20Managers.md)
@@ -129,56 +129,7 @@ This repository contains manuals in English and Russian. The main areas are syst
 - [SVN resources](Programs%20developing/Version%20control/SVN%20resources.md)
 
 ## Windows
-- [PID](Windows/PID.txt)
-- [Software Network](Windows/Software%20Network.txt)
-- [Software Windows Terminal](Windows/Software%20Windows%20Terminal.md)
-- [Software Winget](Windows/Software%20Winget.md)
-- [Software WSL](Windows/Software%20WSL.md)
-- [Software WSL Linux GUI apps](Windows/Software%20WSL%20Linux%20GUI%20apps.md)
-- [System](Windows/System.txt)
-
-## Windows Cmd
-- [Clear temp](Windows/Cmd/Clear%20temp.cmd)
-- [Control Panel tools](Windows/Cmd/Control%20Panel%20tools.txt)
-- [Diskpart](Windows/Cmd/Diskpart.md)
-- [Hibernate](Windows/Cmd/Hibernate.cmd)
-- [Hybrid after 15 minutes](Windows/Cmd/Hybrid%20after%2015%20minutes.cmd)
-- [Hybrid after 60 minutes](Windows/Cmd/Hybrid%20after%2060%20minutes.cmd)
-- [Hybrid now](Windows/Cmd/Hybrid%20now.cmd)
-- [ipv4 install](Windows/Cmd/ipv4%20install.cmd)
-- [Scan system files](Windows/Cmd/Scan%20system%20files.cmd)
-- [Share add](Windows/Cmd/Share%20add.cmd)
-- [Share remove](Windows/Cmd/Share%20remove.cmd)
-- [Shutdown after 15 minutes](Windows/Cmd/Shutdown%20after%2015%20minutes.cmd)
-- [Shutdown after 60 minutes](Windows/Cmd/Shutdown%20after%2060%20minutes.cmd)
-- [Shutdown now](Windows/Cmd/Shutdown%20now.cmd)
-
-## Windows PowerShell
-- [Shutdown](Windows/PowerShell/Shutdown%20now.cmd)
-- [gwmi](Windows/PowerShell/gwmi.txt)
-- [How to run GWMI](Windows/PowerShell/How%20to%20run%20GWMI.md)
-
-## Windows Settings
-- [CEIP disable](Windows/Settings/CEIP%20disable.reg)
-- [CEIP disable](Windows/Settings/CEIP%20disable.txt)
-- [CEIP disable Ru](Windows/Settings/CEIP%20disable.txt-ru)
-- [Command description Ru](Windows/Settings/Command%20description.txt-ru)
-- [Console Ru](Windows/Settings/Console.txt-ru)
-- [Credential Manager Ru](Windows/Settings/Credential%20Manager.txt-ru)
-- [Diskpart Ru](Windows/Settings/Diskpart.txt-ru)
-- [Group policy](Windows/Settings/Group%20policy.txt)
-- [Hiberfil](Windows/Settings/Hiberfil.txt)
-- [Hotkeys](Windows/Settings/Hotkeys.txt)
-- [Icon cache](Windows/Settings/Icon%20cache.txt)
-- [Mklink](Windows/Settings/Mklink.txt)
-- [netsh interface portproxy](Windows/Settings/netsh%20interface%20portproxy.txt)
-- [Pagefile.sys](Windows/Settings/Pagefile.sys.txt)
-- [Route Ru](Windows/Settings/Route.txt-ru)
-- [Shutdown Ru](Windows/Settings/Shutdown.txt-ru)
-- [Vhd compressing using Diskpart](Windows/Settings/Vhd%20compressing%20using%20Diskpart.txt)
-- [W32tm](Windows/Settings/W32tm.txt)
-- [WiFi password](Windows/Settings/WiFi%20password.txt)
-- [Windows Updates](Windows/Settings/Windows%20Updates.md)
+- [Windows](Windows/Windows.md)
 
 # Support
 Please, if this tools has been useful for you click on the `star` button.
