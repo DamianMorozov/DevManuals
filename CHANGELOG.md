@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.045] - 2022-01-27
+### Changed
+- Windows\WSL\WSL.md
+- Windows\WSL\WSL GUI apps.md
+- README.md
+### Added
+- Windows\Windows.WSL.md
+
 ## [0.3.042] - 2022-01-26
 ### Changed
 - Programs developing\C Sharp\Data types.md
@@ -15,6 +23,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README.md
 ### Added
 - Windows\MSC.md
+- Windows\Windows.Cmd.md
+- Windows\Windows.PowerShell.md
+- Windows\Windows.Settings.md
+- Windows\Windows.WSL.md
 
 ## [0.3.032] - 2022-01-24
 ### Changed

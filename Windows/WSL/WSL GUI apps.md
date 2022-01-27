@@ -1,4 +1,4 @@
-# Run Linux GUI apps on the Windows
+# WSL GUI apps on the Windows
 
 [Run Linux GUI apps on the Windows Subsystem for Linux (preview)](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps "docs.microsoft.com")
 

@@ -1,14 +1,9 @@
-# Windows Subsystem for Linux Installation Guide for Windows 10
+# Windows Subsystem for Linux
 
 [Install WSL](https://docs.microsoft.com/en-US/windows/wsl/install-win10 "docs.microsoft.com")
-
 [Troubleshooting Windows Subsystem for Linux](https://docs.microsoft.com/en-US/windows/wsl/troubleshooting "docs.microsoft.com")
-
 [How do I know what version of WSL I have?](https://linuxhint.com/check-wsl-version/ "linuxhint.com")
-
 [Install your Linux distribution of choice](https://aka.ms/wslstore "aka.ms")
-
---------
 
 ## Install (PowerShell)
 	dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
