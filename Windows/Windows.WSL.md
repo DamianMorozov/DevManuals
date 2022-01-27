@@ -6,5 +6,5 @@
 
 # Windows Windows Subsystem for Linux
 - [WSL](WSL/WSL.md)
-- [WSL GUI apps.md](WSL/WSL%20GUI%20apps.md)
 - [WSL resources [Rus]](WSL/WSL%20resources%20[Rus].md)
+- [WSL GUI apps.md](WSL/WSL%20GUI%20apps.md)

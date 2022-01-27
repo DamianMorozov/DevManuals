@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.046] - 2022-01-27
+## [0.3.047] - 2022-01-27
 ### Changed
 - Windows\WSL\WSL.md
 - Windows\WSL\WSL GUI apps.md
