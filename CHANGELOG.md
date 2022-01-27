@@ -6,13 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.045] - 2022-01-27
+## [0.3.046] - 2022-01-27
 ### Changed
 - Windows\WSL\WSL.md
 - Windows\WSL\WSL GUI apps.md
 - README.md
 ### Added
 - Windows\Windows.WSL.md
+- Windows\WSL\WSL resources [Rus].md
 
 ## [0.3.042] - 2022-01-26
 ### Changed
