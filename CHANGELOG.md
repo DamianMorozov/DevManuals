@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.048] - 2022-01-31
+### Changed
+- Windows\Windows.md
+- README.md
+### Added
+- Windows\How to move window with keyboard.md
+
 ## [0.3.047] - 2022-01-27
 ### Changed
 - Windows\WSL\WSL.md
