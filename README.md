@@ -8,7 +8,8 @@ This repository contains manuals, mostly in English. The main areas are system a
 
 ## Linux section
 - [Linux](Linux/README.md)
-- [Linux Network](Linux/Linux.Network.md)
+- [Linux Games](Linux/Games/README.md)
+- [Linux Network](Linux/Network/README.md)
 
 ## Windows section
 - [Windows](Windows/README.md)

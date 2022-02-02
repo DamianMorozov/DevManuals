@@ -1,0 +1,39 @@
+## Back to the home page
+- [README](../../README.md)
+
+## Back to the Linux page
+- [Linux](../README.md)
+
+# Linux Games
+
+## Lutris
+[Lutris](https://lutris.net/ "lutris.net")
+
+
+## PortWINE
+[Portwine-linux](http://portwine-linux.ru/ "portwine-linux.ru")
+
+## Launch parameters for crashed games
+-force-d3d9 -dxlevel 90 -DX9 -nocrashdialog -noipx
+
+## Battle.net Linux
+http://portwine-linux.ru/battle-net-linux/
+```
+cd ~/Downloads/
+sudo apt install zenity xterm
+sh PortBattleNET-80
+sudo apt install wine
+cd /home/user/PortWINE/PortBattleNET
+sudo cp Battle.net.desktop /usr/share/applications
+```
+
+## Steam Linux
+http://portwine-linux.ru/steam-linux/
+```
+cd ~/Downloads/ 
+sudo apt install zenity xterm
+sh PortSteamX64-22
+sudo apt install wine
+cd /home/user/PortWINE/PortSteamX64
+sudo cp PortSteamX64.desktop /usr/share/applications
+```
