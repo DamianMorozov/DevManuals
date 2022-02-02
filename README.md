@@ -8,6 +8,8 @@ This repository contains manuals, mostly in English. The main areas are system a
 - [Programs developing](Dev/README.md)
 
 - [Windows](Windows/README.md)
+- [Windows Cmd](Windows/Cmd/README.md)
+- [Windows PowerShell](Windows/PowerShell/README.md)
 
 # Support
 Please, if this tools has been useful for you click on the `star` button.

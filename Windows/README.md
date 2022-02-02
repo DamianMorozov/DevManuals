@@ -15,7 +15,7 @@
 - [Windows Cmd](Cmd/README.md)
 
 ## Windows PowerShell
-- [Windows PowerShell](Windows.PowerShell.md)
+- [Windows PowerShell](PowerShell/README.md)
 
 ## Windows Settings
 - [Windows Settings](Windows.Settings.md)
