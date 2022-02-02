@@ -11,14 +11,7 @@
 - [Software Winget](Software%20Winget.md)
 - [System](System.txt)
 
-## Windows Cmd
 - [Windows Cmd](Cmd/README.md)
-
-## Windows PowerShell
 - [Windows PowerShell](PowerShell/README.md)
-
-## Windows Settings
-- [Windows Settings](Windows.Settings.md)
-
-## Windows Subsystem for Linux
+- [Windows Settings](Settings/README.md)
 - [WSL](Windows.WSL.md)
