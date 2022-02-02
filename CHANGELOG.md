@@ -6,12 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.065] - 2022-02-02
+## [0.3.070] - 2022-02-02
 ### Changed
-- Programs developing\Readme example.md
 - README.md
-- Linux\README.md
 - Dev\README.md
+- Dev\Readme example.md
+- Linux\README.md
 - Windows\README.md
 - Windows\Cmd\README.md
 - Windows\PowerShell\README.md

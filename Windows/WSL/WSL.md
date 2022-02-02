@@ -1,6 +1,5 @@
 # Windows Subsystem for Linux
 
-
 [Install WSL](https://docs.microsoft.com/en-US/windows/wsl/install-win10 "docs.microsoft.com")
 
 [Troubleshooting Windows Subsystem for Linux](https://docs.microsoft.com/en-US/windows/wsl/troubleshooting "docs.microsoft.com")
