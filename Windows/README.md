@@ -12,7 +12,7 @@
 - [System](System.txt)
 
 ## Windows Cmd
-- [Windows Cmd](Windows.Cmd.md)
+- [Windows Cmd](Cmd/README.md)
 
 ## Windows PowerShell
 - [Windows PowerShell](Windows.PowerShell.md)
