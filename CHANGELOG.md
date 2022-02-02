@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.049] - 2022-02-02
+## [0.3.060] - 2022-02-02
 ### Changed
 - Programs developing\Readme example.md
+- README.md
+- Linux\README.md
+- Dev\README.md
+- Windows\README.md
 
 ## [0.3.048] - 2022-01-31
 ### Changed
