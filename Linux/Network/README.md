@@ -1,8 +1,8 @@
 ## Back to the home page
-- [README](../README.md)
+- [README](../../README.md)
 
 ## Back to the Linux page
-- [README](README.md)
+- [Linux](../README.md)
 
 ## Linux. Network
 - [Browsers](Network/Browsers.md)
