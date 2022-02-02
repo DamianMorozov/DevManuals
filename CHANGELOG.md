@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.049] - 2022-02-02
+### Changed
+- Programs developing\Readme example.md
+
 ## [0.3.048] - 2022-01-31
 ### Changed
 - Windows\Windows.md
