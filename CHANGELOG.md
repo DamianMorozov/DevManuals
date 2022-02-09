@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.075] - 2022-02-09
+### Changed
+- README.md
+- Dev\README.md
+- Dev\NuGet\README.md
+
 ## [0.3.072] - 2022-02-02
 ### Changed
 - README.md

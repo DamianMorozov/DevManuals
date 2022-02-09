@@ -22,7 +22,7 @@
 - [Readme](Readme.md)
 - [SOLID](SOLID.txt)
 
-## Programs developing. C# ASP and Blazor
+## C# ASP and Blazor
 - [2019. Blazor Revealed. Building Web Applications in .NET](C%20Sharp%20ASP%20and%20Blazor/2019.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.txt)
 - [2020. Blazor for ASP.NET Web Forms Developers](C%20Sharp%20ASP%20and%20Blazor/2020.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.txt)
 - [ASP.NET Core Blazor hosting models](C%20Sharp%20ASP%20and%20Blazor/ASP.NET%20Core%20Blazor%20hosting%20models.txt)
@@ -34,7 +34,7 @@
 - [Resources [Rus]](C%20Sharp%20ASP%20and%20Blazor/Resources%20[Rus].txt)
 - [Use ASP.NET Core SignalR with Blazor WebAssembly](C%20Sharp%20ASP%20and%20Blazor/Use%20ASP.NET%20Core%20SignalR%20with%20Blazor%20WebAssembly.txt)
 
-## Programs developing. Database
+## Database
 - [13 вопросов перед внесением изменений в работу SQL Server](Database/13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.txt)
 - [ConnectionString](Database/ConnectionString.txt)
 - [CQRS resources](Database/CQRS%20resources.txt)
@@ -54,16 +54,16 @@
 - [SSMS Cheet sheet](Database/SSMS%20Cheet%20sheet.md)
 - [Язык запросов SQL](Database/Язык%20запросов%20SQL.txt)
 
-## Programs developing. Database. Scripts. Bases
+## Database. Scripts. Bases
 - [DB usage space on FS](Database/Scripts/Bases/DB%20usage%20space%20on%20FS.sql)
 - [MD5](Database/Scripts/Bases/MD5.sql)
 - [Service Broker](Database/Scripts/Bases/Service%20Broker.sql)
 
-## Programs developing. Database. Scripts. Parsers
+## Database. Scripts. Parsers
 - [Get field as string](Database/Scripts/Parsers/Get%20field%20as%20string.sql)
 - [Parse int value from string](Database/Scripts/Parsers/Parse%20int%20value%20from%20string.sql)
 
-## Programs developing. Database. Scripts. Tables
+## Database. Scripts. Tables
 - [DateTime](Database/Scripts/Tables/DateTime.sql)
 - [Filegroups and objects](Database/Scripts/Tables/Filegroups%20and%20objects.sql)
 - [Finding duplicate values](Database/Scripts/Tables/Finding%20duplicate%20values.sql)
@@ -77,10 +77,13 @@
 - [Tables and sizes](Database/Scripts/Tables/Tables%20and%20sizes.sql)
 - [XML parse to table fields](Database/Scripts/Tables/XML%20parse%20to%20table%20fields.sql)
 
-## Programs developing. Version control
+## Version control
 - [GIT cheatsheet](Version%20control/GIT%20cheatsheet.md)
 - [GIT cheatsheet [Rus]](Version%20control/GIT%20cheatsheet%20[Rus].md)
 - [GIT dev app creating manual](Version%20control/GIT%20dev%20app%20creating%20manual.md)
 - [GIT resources](Version%20control/GIT%20resources.md)
 - [SVN cheatsheet](Version%20control/SVN%20cheatsheet.md)
 - [SVN resources](Version%20control/SVN%20resources.md)
+
+## NuGet packages
+- [NuGet](NuGet/README.md)
