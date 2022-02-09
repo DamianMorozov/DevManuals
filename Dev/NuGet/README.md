@@ -11,4 +11,5 @@
 - [MSTest TestAdapter](MSTest.TestAdapter.txt)
 - [Ninject](Ninject.txt)
 - [Nuget CLI](Nuget%20CLI.txt)
+- [NuGet resources](NuGet%20resources.md)
 - [ValueTuple](ValueTuple.txt)
