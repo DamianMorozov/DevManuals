@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.079] - 2022-02-10
+### Changed
+- Dev\README.md
+### Added
+- Dev\Communications\README.md
+- Dev\Communications\TCP packet.md
+
 ## [0.3.076] - 2022-02-09
 ### Changed
 - README.md

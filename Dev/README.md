@@ -1,6 +1,10 @@
 ## Back to the home page
 - [README](../README.md)
 
+# Programs developing sections
+- [Communications](Communications/README.md)
+- [NuGet packages](NuGet/README.md)
+
 # Programs developing
 - [10 Questions Product Managers](10%20Questions%20Product%20Managers.md)
 - [10 Questions Product Managers [Rus]](10%20Questions%20Product%20Managers%20[Rus].md)
@@ -84,6 +88,3 @@
 - [GIT resources](Version%20control/GIT%20resources.md)
 - [SVN cheatsheet](Version%20control/SVN%20cheatsheet.md)
 - [SVN resources](Version%20control/SVN%20resources.md)
-
-## NuGet packages
-- [NuGet](NuGet/README.md)
