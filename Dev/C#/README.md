@@ -1,8 +1,7 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Programs developing page
-- [Programs developing](../README.md)
-
 # C#
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+
+## Items
 - [C# resources](C%23%20resources.md)

@@ -1,10 +1,9 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Programs developing page
-- [Programs developing](../README.md)
-
 # C# ASP and Blazor
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+
+## Items
 - [2019. Blazor Revealed. Building Web Applications in .NET](2019.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.txt)
 - [2020. Blazor for ASP.NET Web Forms Developers](2020.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.txt)
 - [ASP.NET Core Blazor hosting models](ASP.NET%20Core%20Blazor%20hosting%20models.txt)

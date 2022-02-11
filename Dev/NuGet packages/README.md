@@ -1,10 +1,9 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Programs developing page
-- [Programs developing](../README.md)
-
 # NuGet packages
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+
+## Items
 - [BenchmarkDotNet](BenchmarkDotNet.txt)
 - [MahApps](MahApps.txt)
 - [Microsoft ML](Microsoft.ML.txt)

@@ -1,10 +1,9 @@
-## Back to the home page
-- [README](../../README.md)
+# Database
 
-## Back to the Programs developing page
-- [Programs developing](../README.md)
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
 
-## Database
+## Items
 - [13 вопросов перед внесением изменений в работу SQL Server](13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.txt)
 - [ConnectionString](ConnectionString.txt)
 - [CQRS resources](CQRS%20resources.txt)
