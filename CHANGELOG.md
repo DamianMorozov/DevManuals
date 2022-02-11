@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.101] - 2022-02-11
+## [0.3.102] - 2022-02-11
 ### Changed
 - Dev\C#\C# resources.md
 - Dev\README.md
@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\C#\README.md
 - Dev\C# ASP and Blazor\README.md
 - Dev\Database\README.md
+- Dev\Design patterns\README.md
 
 ## [0.3.081] - 2022-02-10
 ### Changed

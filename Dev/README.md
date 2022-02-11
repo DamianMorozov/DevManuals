@@ -31,5 +31,7 @@
 - [Android](Android/README.md)
 - [C#](C%23/README.md)
 - [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
+- [Communications](Communications/README.md)
 - [Database](Database/README.md)
+- [Design patterns](Design%20patterns/README.md)
 - [Version control](Version%20control/README.md)
