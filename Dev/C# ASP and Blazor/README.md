@@ -11,6 +11,6 @@
 - [Blazor - Build client web apps with C#](Blazor%20-%20Build%20client%20web%20apps%20with%20C#.txt)
 - [Dotnet Blazor](Dotnet%20Blazor.txt)
 - [Dotnet Blazor Radzen](Dotnet%20Blazor%20Radzen.txt)
-- [Resources](Resources.txt)
-- [Resources [Rus]](Resources%20[Rus].txt)
+- [Resources](Resources.md)
+- [Resources [Rus]](Resources%20[Rus].md)
 - [Use ASP.NET Core SignalR with Blazor WebAssembly](Use%20ASP.NET%20Core%20SignalR%20with%20Blazor%20WebAssembly.txt)
