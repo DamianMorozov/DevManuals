@@ -1,7 +1,6 @@
 # Programs developing
 
-## Back to the home page
-- [README](../README.md)
+- [Back to the Home page](../README.md)
 
 ## Sections
 - [Android](Android/README.md)
