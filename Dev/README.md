@@ -36,4 +36,5 @@
 - [Design patterns](Design%20patterns/README.md)
 - [Diagrams](Diagrams/README.md)
 - [Docker](Docker/README.md)
+- [Dotnet](Dotnet/README.md)
 - [Version control](Version%20control/README.md)
