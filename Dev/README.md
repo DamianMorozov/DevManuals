@@ -37,6 +37,7 @@
 - [2019. Concurrency in C# Cookbook [Rus]](2019.%20Concurrency%20in%20C#%20Cookbook%20[Rus].txt)
 - [Agile Manifesto [Rus]](Agile%20Manifesto%20[Rus].txt)
 - [Changelog](Changelog.txt)
+- [Dev tools](Dev%20tools.md)
 - [Developer rules [Rus]](Developer%20rules%20[Rus].txt)
 - [Developer rules](Developer%20rules.txt)
 - [Dotnet new project](Dotnet%20new%20project.txt)
