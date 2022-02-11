@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Database\README.md
 - Dev\Design patterns\README.md
 - Dev\Diagrams\README.md
+- Dev\Docker\README.md
 
 ## [0.3.081] - 2022-02-10
 ### Changed
