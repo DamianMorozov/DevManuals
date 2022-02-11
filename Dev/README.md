@@ -1,12 +1,30 @@
+# Programs developing
+
 ## Back to the home page
 - [README](../README.md)
 
-# Programs developing sections
+## Sections
+- [Android](Android/README.md)
+- [C#](C%23/README.md)
+- [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
 - [Communications](Communications/README.md)
+- [Database](Database/README.md)
+- [Design patterns](Design%20patterns/README.md)
+- [Diagrams](Diagrams/README.md)
+- [Docker](Docker/README.md)
+- [Dotnet](Dotnet/README.md)
+- [Go](Go/README.md)
+- [GUI](GUI/README.md)
 - [HTML](HTML/README.md)
+- [JavaScript](JavaScript/README.md)
+- [MS Excel](MS%20Excel/README.md)
+- [MS VB](MS%20VB/README.md)
+- [MS Visual Studio](MS%20Visual%20Studio/README.md)
+- [Network](Network/README.md)
 - [NuGet packages](NuGet/README.md)
+- [Version control](Version%20control/README.md)
 
-# Programs developing
+## Items
 - [10 Questions Product Managers](10%20Questions%20Product%20Managers.md)
 - [10 Questions Product Managers [Rus]](10%20Questions%20Product%20Managers%20[Rus].md)
 - [2014. The Art of Unit Testing (with examples in C#) [Rus]](2014.%20The%20Art%20of%20Unit%20Testing%20(with%20examples%20in%20C#)%20[Rus].txt)
@@ -26,22 +44,3 @@
 - [Principles of OOP](Principles%20of%20OOP.txt)
 - [Readme](Readme.md)
 - [SOLID](SOLID.txt)
-
-# Programs developing sections
-- [Android](Android/README.md)
-- [C#](C%23/README.md)
-- [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
-- [Communications](Communications/README.md)
-- [Database](Database/README.md)
-- [Design patterns](Design%20patterns/README.md)
-- [Diagrams](Diagrams/README.md)
-- [Docker](Docker/README.md)
-- [Dotnet](Dotnet/README.md)
-- [Go](Go/README.md)
-- [GUI](GUI/README.md)
-- [HTML](HTML/README.md)
-- [JavaScript](JavaScript/README.md)
-- [MS Excel](MS%20Excel/README.md)
-- [MS VB](MS%20VB/README.md)
-- [MS Visual Studio](MS%20Visual%20Studio/README.md)
-- [Version control](Version%20control/README.md)
