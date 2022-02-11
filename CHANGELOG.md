@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.126] - 2022-02-11
+## [0.3.128] - 2022-02-11
 ### Changed
 - Dev\C#\C# resources.md
 - Dev\README.md
@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Python\README.md
 - Dev\Testing\README.md
 - Dev\Virtual machine\README.md
+- Dev\XAML\README.md
 
 ## [0.3.081] - 2022-02-10
 ### Changed

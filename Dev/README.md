@@ -26,6 +26,7 @@
 - [Testing](Testing/README.md)
 - [Version control](Version%20control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
+- [XAML](XAML/README.md)
 
 ## Items
 - [10 Questions Product Managers](10%20Questions%20Product%20Managers.md)
