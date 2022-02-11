@@ -1,7 +1,11 @@
-## Back to the home page
-- [README](../README.md)
+# Linux
 
-## Linux
+- [Back to the Home page](../README.md)
+
+## Sections
+- [Network](Network/README.md)
+
+## Items
 - [Backup](Backup.txt)
 - [Desktop](Desktop.txt)
 - [Develop all](Develop%20all.txt)
@@ -39,6 +43,3 @@
 - [System Run as separate process](System%20Run%20as%20separate%20process.txt)
 - [System screen resolution](System%20screen%20resolution.txt)
 - [System Stacer](System%20Stacer.txt)
-
-## Linux. Network
-- [Network](Linux.Network.md)
