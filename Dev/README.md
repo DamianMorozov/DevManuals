@@ -27,6 +27,9 @@
 - [Readme](Readme.md)
 - [SOLID](SOLID.txt)
 
+# Programs developing sections
+- [C#](C%23/README.md)
+
 ## C# ASP and Blazor
 - [2019. Blazor Revealed. Building Web Applications in .NET](C%20Sharp%20ASP%20and%20Blazor/2019.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.txt)
 - [2020. Blazor for ASP.NET Web Forms Developers](C%20Sharp%20ASP%20and%20Blazor/2020.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.txt)
