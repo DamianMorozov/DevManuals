@@ -3,6 +3,7 @@
 - [Back to the Home page](../README.md)
 
 ## Sections
+- [Games](Games/README.md)
 - [Network](Network/README.md)
 
 ## Items
@@ -15,7 +16,6 @@
 - [Develop Lazarus](Develop%20Lazarus.txt)
 - [Develop MonoDevelop](Develop%20MonoDevelop.txt)
 - [Develop SquirrelSQL](Develop%20SquirrelSQL.txt)
-- [Games](Games.txt)
 - [Hardware all](Hardware%20all.txt)
 - [Hardware hdd](Hardware%20hdd.txt)
 - [Hardware videocard](Hardware%20videocard.txt)
