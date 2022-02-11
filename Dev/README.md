@@ -21,7 +21,7 @@
 - [MS VB](MS%20VB/README.md)
 - [MS Visual Studio](MS%20Visual%20Studio/README.md)
 - [Network](Network/README.md)
-- [NuGet packages](NuGet/README.md)
+- [NuGet packages](NuGet%20packages/README.md)
 - [Version control](Version%20control/README.md)
 
 ## Items
