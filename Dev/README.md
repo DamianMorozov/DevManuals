@@ -44,6 +44,6 @@
 - [Head First](Head%20First.txt)
 - [Markdown](Markdown.md)
 - [Markdown-cheat-sheet](Markdown-cheat-sheet.md)
-- [Principles of OOP](Principles%20of%20OOP.txt)
+- [OOP principles [Rus]](OOP%20principles%20[Rus].md)
 - [Readme](Readme.md)
 - [SOLID](SOLID.txt)
