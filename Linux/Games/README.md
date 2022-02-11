@@ -1,14 +1,10 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Linux page
-- [Linux](../README.md)
-
 # Linux Games
+
+- [Back to the Home page](../../README.md)
+- [Back to the Linux page](../README.md)
 
 ## Lutris
 [Lutris](https://lutris.net/ "lutris.net")
-
 
 ## PortWINE
 [Portwine-linux](http://portwine-linux.ru/ "portwine-linux.ru")
