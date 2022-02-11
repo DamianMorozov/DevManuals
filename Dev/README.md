@@ -29,18 +29,7 @@
 
 # Programs developing sections
 - [C#](C%23/README.md)
-
-## C# ASP and Blazor
-- [2019. Blazor Revealed. Building Web Applications in .NET](C%20Sharp%20ASP%20and%20Blazor/2019.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.txt)
-- [2020. Blazor for ASP.NET Web Forms Developers](C%20Sharp%20ASP%20and%20Blazor/2020.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.txt)
-- [ASP.NET Core Blazor hosting models](C%20Sharp%20ASP%20and%20Blazor/ASP.NET%20Core%20Blazor%20hosting%20models.txt)
-- [Authentication & Authorization](C%20Sharp%20ASP%20and%20Blazor/Authentication%20&%20Authorization.md)
-- [Blazor - Build client web apps with C#](C%20Sharp%20ASP%20and%20Blazor/Blazor%20-%20Build%20client%20web%20apps%20with%20C#.txt)
-- [Dotnet Blazor](C%20Sharp%20ASP%20and%20Blazor/Dotnet%20Blazor.txt)
-- [Dotnet Blazor Radzen](C%20Sharp%20ASP%20and%20Blazor/Dotnet%20Blazor%20Radzen.txt)
-- [Resources](C%20Sharp%20ASP%20and%20Blazor/Resources.txt)
-- [Resources [Rus]](C%20Sharp%20ASP%20and%20Blazor/Resources%20[Rus].txt)
-- [Use ASP.NET Core SignalR with Blazor WebAssembly](C%20Sharp%20ASP%20and%20Blazor/Use%20ASP.NET%20Core%20SignalR%20with%20Blazor%20WebAssembly.txt)
+- [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
 
 ## Database
 - [13 вопросов перед внесением изменений в работу SQL Server](Database/13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.txt)
