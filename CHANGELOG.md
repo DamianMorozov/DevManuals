@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.120] - 2022-02-11
+## [0.3.122] - 2022-02-11
 ### Changed
 - Dev\C#\C# resources.md
 - Dev\README.md
+- Dev\Version control\README.md
 ### Added
 - Dev\Android\README.md
 - Dev\C#\README.md
