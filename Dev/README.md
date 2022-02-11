@@ -39,4 +39,6 @@
 - [Dotnet](Dotnet/README.md)
 - [Go](Go/README.md)
 - [GUI](GUI/README.md)
+- [HTML](HTML/README.md)
+- [JavaScript](JavaScript/README.md)
 - [Version control](Version%20control/README.md)
