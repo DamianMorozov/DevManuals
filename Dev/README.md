@@ -42,4 +42,5 @@
 - [HTML](HTML/README.md)
 - [JavaScript](JavaScript/README.md)
 - [MS Excel](MS%20Excel/README.md)
+- [MS VB](MS%20VB/README.md)
 - [Version control](Version%20control/README.md)
