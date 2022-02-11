@@ -28,14 +28,8 @@
 - [SOLID](SOLID.txt)
 
 # Programs developing sections
+- [Android](Android/README.md)
 - [C#](C%23/README.md)
 - [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
 - [Database](Database/README.md)
-
-## Version control
-- [GIT cheatsheet](Version%20control/GIT%20cheatsheet.md)
-- [GIT cheatsheet [Rus]](Version%20control/GIT%20cheatsheet%20[Rus].md)
-- [GIT dev app creating manual](Version%20control/GIT%20dev%20app%20creating%20manual.md)
-- [GIT resources](Version%20control/GIT%20resources.md)
-- [SVN cheatsheet](Version%20control/SVN%20cheatsheet.md)
-- [SVN resources](Version%20control/SVN%20resources.md)
+- [Version control](Version%20control/README.md)
