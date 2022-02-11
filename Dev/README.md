@@ -37,4 +37,5 @@
 - [Diagrams](Diagrams/README.md)
 - [Docker](Docker/README.md)
 - [Dotnet](Dotnet/README.md)
+- [Go](Go/README.md)
 - [Version control](Version%20control/README.md)
