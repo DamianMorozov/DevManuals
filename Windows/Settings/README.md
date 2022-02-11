@@ -1,10 +1,9 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Windows page
-- [Windows](../README.md)
-
 ## Windows Settings
+
+- [Back to the Home page](../../README.md)
+- [Back to the Windows page](../README.md)
+
+## Items
 - [CEIP disable](CEIP%20disable.reg)
 - [CEIP disable](CEIP%20disable.txt)
 - [CEIP disable Ru](CEIP%20disable.txt-ru)

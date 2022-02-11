@@ -1,10 +1,9 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Windows page
-- [Windows](../README.md)
-
 # Windows Cmd
+
+- [Back to the Home page](../../README.md)
+- [Back to the Windows page](../README.md)
+
+## Items
 - [Clear temp](Clear%20temp.cmd)
 - [Control Panel tools](Control%20Panel%20tools.txt)
 - [Diskpart](Diskpart.md)
