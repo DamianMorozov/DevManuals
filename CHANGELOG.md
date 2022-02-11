@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.144] - 2022-02-11
+## [0.3.145] - 2022-02-11
 ### Changed
 - Dev\C#\C# resources.md
 - Dev\README.md
@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\OOP principles [Rus].md
 - Linux\README.md
 - Linux\Network\README.md
+- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
 - Windows\README.md
 - Windows\Cmd\README.md
 - Windows\PowerShell\README.md

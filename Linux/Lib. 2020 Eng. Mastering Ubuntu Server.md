@@ -14,4 +14,7 @@
 - `sudo userdel -r user2` -- remove the user with removing user data
 - `sudo rm -r /home/user2` -- remove the user folder
 - `cat /etc/passwd` -- view user accounts
-- `sudo cat /etc/shadow` -- 
+- `sudo cat /etc/shadow | grep root` -- see passwords hashes
+- `sudo passwd -l root` -- lock the password of the named account
+- `sudo passwd -u root` -- unlock the password of the named account
+- `sudo passwd -S root` -- report password status on the named account
