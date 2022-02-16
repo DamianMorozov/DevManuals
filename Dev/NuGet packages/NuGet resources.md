@@ -26,6 +26,8 @@
 - [NuGet Package](https://www.nuget.org/packages/Insight.Database/ "nuget.org")
 
 ## FluentValidation - fluent interface and lambda expressions for building strongly-typed validation rules
+- [Homepage](https://github.com/FluentValidation/FluentValidation "github.com")
+- [Documentation](https://fluentvalidation.net/ "fluentvalidation.net")
 - [NuGet Package](https://www.nuget.org/packages/FluentValidation/ "nuget.org")
 
 ## Noda Time - date and time API acting as an alternative to the built-in DateTime/DateTimeOffset etc types in .NET
