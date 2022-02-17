@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.148] - 2022-02-17
+### Changed
+- Dev\MS Visual Studio\Project properties.md
+
 ## [0.3.147] - 2022-02-16
 ### Changed
 - Dev\NuGet packages\NuGet resources.md
