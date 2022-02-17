@@ -4,7 +4,7 @@
 - [Back to the Dev page](../README.md)
 
 ## Items
-- [Attributes](Attributes%20[Rus].md)
+- [Attributes [Rus]](Attributes%20[Rus].md)
 - [Continuous Integration Transformation](Continuous%20Integration%20Transformation.txt)
 - [Debug VBScript](Debug%20VBScript.txt)
 - [Debug](Debug.txt)
