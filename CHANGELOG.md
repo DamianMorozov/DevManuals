@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.180] - 2022-02-21
+### Changed
+- Dev\MS Visual Studio
+
 ## [0.3.170] - 2022-02-18
 ### Changed
 - Dev\C#
