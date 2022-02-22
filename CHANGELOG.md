@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.183] - 2022-02-22
+## [0.3.184] - 2022-02-22
 ### Changed
 - Dev\Android
 - Dev\C# ASP and Blazor
+- Dev\Database
 
 ## [0.3.180] - 2022-02-21
 ### Changed
