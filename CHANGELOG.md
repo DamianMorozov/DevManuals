@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.192] - 2022-02-22
+## [0.3.193] - 2022-02-22
 ### Changed
 - Dev\Android
 - Dev\C# ASP and Blazor
@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Go
 - Dev\GUI
 - Dev\JavaScript
+- Dev\MS Excel
 
 ## [0.3.180] - 2022-02-21
 ### Changed
