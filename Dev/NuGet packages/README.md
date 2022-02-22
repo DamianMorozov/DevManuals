@@ -4,11 +4,11 @@
 - [Back to the Dev page](../README.md)
 
 ## Items
-- [BenchmarkDotNet](BenchmarkDotNet.txt)
-- [MahApps](MahApps.txt)
-- [Microsoft ML](Microsoft.ML.txt)
-- [MSTest TestAdapter](MSTest.TestAdapter.txt)
-- [Ninject](Ninject.txt)
-- [Nuget CLI](Nuget%20CLI.txt)
+- [BenchmarkDotNet](BenchmarkDotNet.md)
+- [MahApps](MahApps.md)
+- [Microsoft ML](Microsoft.ML.md)
+- [MSTest TestAdapter](MSTest.TestAdapter.md)
+- [Ninject](Ninject.md)
+- [Nuget CLI](Nuget%20CLI.md)
 - [NuGet resources](NuGet%20resources.md)
-- [ValueTuple](ValueTuple.txt)
+- [ValueTuple](ValueTuple.md)
