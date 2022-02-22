@@ -1,11 +1,12 @@
-## Back to the home page
-- [README](../../README.md)
-
-## Back to the Programs developing page
-- [Programs developing](../README.md)
-
 # NuGet resources
 
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the NuGet packages page](README.md)
+
+## Links
+[Create .NET apps faster with NuGet](https://www.nuget.org/ "nuget.org")
+[NuGet Must Haves](https://nugetmusthaves.com/ "nugetmusthaves.com")
 [10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://www.syncfusion.com/blogs/post/10-best-c-nuget-packages-to-improve-your-productivity-in-2022.aspx "syncfusion.com")
 
 ## RestSharp - simple REST and HTTP API Client
