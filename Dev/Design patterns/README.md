@@ -4,5 +4,5 @@
 - [Back to the Dev page](../README.md)
 
 ## Items
-- [Design patterns [Rus].txt](Design%20patterns%20[Rus].txt)
-- [Design patterns resources](Design%20patterns%20resources.txt)
+- [Design patterns [Rus]](Design%20patterns%20[Rus].md)
+- [Design patterns resources](Design%20patterns%20resources.md)
