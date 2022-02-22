@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.189] - 2022-02-22
+## [0.3.190] - 2022-02-22
 ### Changed
 - Dev\Android
 - Dev\C# ASP and Blazor
@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Design patterns
 - Dev\Diagrams
 - Dev\Docker
+- Dev\Go
 
 ## [0.3.180] - 2022-02-21
 ### Changed
