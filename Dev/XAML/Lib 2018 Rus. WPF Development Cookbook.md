@@ -1,10 +1,11 @@
-------------------------------------------------------------------------------------------------------------------------
+# Lib 2018 Rus. WPF Development Cookbook
+
 2018. Kunal Chowdhury. WPF Development Cookbook.
 https://www.kunal-chowdhury.com/2018/02/wpf-development-cookbook.html
 https://static.packt-cdn.com/downloads/WindowsPresentationFoundationDevelopmentCookbook_ColorImages.pdf
 https://github.com/PacktPublishing/Windows-Presentation-Foundation-Development-Cookbook
-------------------------------------------------------------------------------------------------------------------------
-Chapter 1. WPF Fundamentals. Page 43.
+
+# Chapter 1. WPF Fundamentals. Page 43.
 WPF - Windows Presentation Foundation.
 The WPF Architecture:
 - Presentation Framework (presentationframework.dll)
@@ -24,7 +25,7 @@ The WPF Architecture:
   - GDI
   - DirectX
   - Device Drivers
-------------------------------------------------------------------------------------------------------------------------
+
 Types of WPF applications. Page 51.
 - Desktop-based executables (EXE).
 - Web-based applications (XBAP).
@@ -36,7 +37,7 @@ BAML - Binary Application Markup Language.
 Flow diagram for render/parse the XAML UI:
 XAML pages -> Render -> UI
 XAML pages -> Compile -> BAML -> Parse -> UI
-------------------------------------------------------------------------------------------------------------------------
+
 CH01.HelloWPFDemo. Page 72.
 CH01.WindowDemo. Page 77.
 CH01.PageDemo. Page 84.
@@ -50,8 +51,8 @@ CH01.OwnershipDemo. Page 106.
 CH01.SingleInstanceDemo. Page 111.
 CH01.CommandLineArgumentDemo. Page 118.
 CH01.UnhandledExceptionDemo. Page 125.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 2. Using WPF Standard Controls. Page 132.
+
+# Chapter 2. Using WPF Standard Controls. Page 132.
 CH02.TextBlockDemo. Page 134.
 CH02.LabelDemo. Page 142.
 CH02.LabelAccessKeyDemo. Page 145.
@@ -78,8 +79,8 @@ CH02.CalendarDemo. Page 205.
 CH02.ListBoxDemo. Page 215.
 CH02.ComboBoxDemo. Page 224.
 CH02.StatusBarDemo. Page 230.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 3. Layouts and Panels. Page 240.
+
+# Chapter 3. Layouts and Panels. Page 240.
 CH03.GridDemo. Page 243.
 CH03.UniformGridDemo. Page 252.
 CH03.WrapPanelDemo. Page 261.
@@ -92,8 +93,8 @@ CH03.ViewBoxDemo. Page 291.
 CH03.TabControlDemo. Page 297.
 CH03.DynamicPanelDemo. Page 303.
 CH03.DragAndDropDemo. Page 310.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 4. Working with Data Bindings. Page 316.
+
+# Chapter 4. Working with Data Bindings. Page 316.
 CH04.NotificationPropertiesDemo. Page 319.
 CH04.DependencyPropertyDemo. Page 328.
 - propdp
@@ -106,18 +107,17 @@ CH04.DataGridSortDemo. Page 358.
 CH04.DataGridGroupDemo. Page 365.
 CH04.DataGridFilterDemo. Page 372.
 CH04.StaticBindingDemo. Page 378.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 5. Using Custom Controls and User Controls.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 6. Using Styles, Templates, and Triggers.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 7. Using Resources and MVVM Patterns.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 8. Working with Animations.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 9. Using WCF Services.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 10. Debugging and Threading.
-------------------------------------------------------------------------------------------------------------------------
-Chapter 11. Interoperability with Win32 and WinForm.
-------------------------------------------------------------------------------------------------------------------------
+
+# Chapter 5. Using Custom Controls and User Controls.
+
+# Chapter 6. Using Styles, Templates, and Triggers.
+
+# Chapter 7. Using Resources and MVVM Patterns.
+
+# Chapter 8. Working with Animations.
+
+# Chapter 9. Using WCF Services.
+
+# Chapter 10. Debugging and Threading.
+
+# Chapter 11. Interoperability with Win32 and WinForm.
