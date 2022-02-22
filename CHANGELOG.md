@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\GUI
 - Dev\JavaScript
 - Dev\MS Excel
+- Dev\MS VB
 
 ## [0.3.180] - 2022-02-21
 ### Changed
