@@ -1,7 +1,7 @@
 # Developer manuals
 
-This repository contains manuals, mostly in English. The main areas are system administration and software development. You can participate in the development of the repository as a creator simply by submitting an application via the contact form.
-
+This repository contains manuals, mostly in English.
+You can participate in the development of the repository as a creator simply by submitting an application via the contact form.
 
 ## Sections
 - [Programs developing](Dev/README.md)
