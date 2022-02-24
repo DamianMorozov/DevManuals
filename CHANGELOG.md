@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.213] - 2022-02-24
+### Changed
+- Dev\Linux
+
 ## [0.3.212] - 2022-02-22
 ### Changed
 - Dev\Android

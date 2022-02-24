@@ -3,7 +3,8 @@
 ## Managing Users and Permissions
 
 - `sudo useradd -d /home/user1 -m user1` -- create the user
-- `ls -l /home` -- list the storage of /home using
+- `ls -l /home` -- view the contents of the directory
+- `ls -la /dir` -- view the contents of the directory
 - `passwd` -- change the password
 - `sudo passwd user1` -- change the password for user
 - `sudo adduser user2` -- create the user
