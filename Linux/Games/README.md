@@ -4,9 +4,9 @@
 - [Back to the Linux page](../README.md)
 
 ## Items
+- [Battle.net](Battle.net.md)
 - [Lutris](Lutris.md)
 - [PortWINE](PortWINE.md)
-- [Battle.net](Battle.net.md)
 - [Steam](Steam.md)
 
 ## Launch parameters for crashed games
