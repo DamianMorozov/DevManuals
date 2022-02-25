@@ -26,6 +26,7 @@
 - [OS BusyBox](OS%20BusyBox.md)
 - [OS BusyBox [Rus]](OS%20BusyBox%20[Rus].md)
 - [OS Ubuntu Tweak Tool](OS%20Ubuntu%20Tweak%20Tool.md)
+- [OS Ubuntu version](OS%20Ubuntu%20version.md)
 - [OS Update](OS%20Update.md)
 - [OS Upgrade Ubuntu](OS%20Upgrade%20Ubuntu.md)
 - [Software .NET](Software%20.NET.md)
