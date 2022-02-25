@@ -3,6 +3,7 @@
 - [Back to the Home page](../README.md)
 
 ## Sections
+- [Desktops](Desktops/README.md)
 - [Games](Games/README.md)
 - [Network](Network/README.md)
 
