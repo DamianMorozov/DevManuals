@@ -6,8 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.216] - 2022-02-25
+## [0.3.220] - 2022-02-25
 ### Changed
+- Dev\Linux\Games
+### Added
 - Dev\Linux\Desktops
 
 ## [0.3.214] - 2022-02-24
