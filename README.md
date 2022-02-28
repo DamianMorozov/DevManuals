@@ -9,4 +9,4 @@ You can participate in the development of the repository as a creator simply by 
 - [Windows](Windows/README.md)
 
 # Support
-Please, if this tools has been useful for you click on the `star` button.
+Please click the `star` button if this tool was helpful to you.
