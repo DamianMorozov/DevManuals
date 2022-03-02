@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.230] - 2022-03-02
+## [0.3.231] - 2022-03-02
 ### Changed
 - Dev
+- Dev\Database
 
 ## [0.3.225] - 2022-03-01
 ### Changed
