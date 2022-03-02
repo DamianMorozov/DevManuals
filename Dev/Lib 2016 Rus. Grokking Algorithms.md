@@ -1,10 +1,12 @@
-----------------------------------------------------------------------------------------------------
+# Lib 2016 Rus. Grokking Algorithms
 2016. Aditya Y. Bhargava. Grokking Algorithms / Адитья Бхаргава. Грокаем алгоритмы
-http://adit.io/
-https://www.manning.com/books/grokking-algorithms
-https://github.com/egonschiele/grokking_algorithms
-https://www.litres.ru/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-p-39158380/?track=from_my_books_my
-----------------------------------------------------------------------------------------------------
+
+## Links
+[http://adit.io/](http://adit.io/)
+[https://www.manning.com/books/grokking-algorithms](https://www.manning.com/books/grokking-algorithms)
+[https://github.com/egonschiele/grokking_algorithms](https://github.com/egonschiele/grokking_algorithms)
+[https://www.litres.ru/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-p-39158380/?track=from_my_books_my](https://www.litres.ru/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-p-39158380/?track=from_my_books_my)
+
 Алгоритм - набор инструкций для выполнения задачи.
 Линейный поиск (плохой или тупой) - перебор элементов от первого к последнему.
 Бинарный поиск - алгоритм поиска, получающий на входе отсортированный список элементов, 
@@ -92,4 +94,3 @@ Log (Логарифм) - операция, обратная возведению
 1. Используют массивы для хранения данных.
 2. Определяют место хранения элементов при помощи хеш-функций.
 Реализация в виде словарей (Dictionary).
-----------------------------------------------------------------------------------------------------
