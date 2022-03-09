@@ -28,5 +28,5 @@
 
 ## Scripts
 - [Scripts Bases](Scripts/Bases/README.md)
-- [Scripts Bases](Scripts/Parsers/README.md)
-- [Scripts Bases](Scripts/Tables/README.md)
+- [Scripts Parsers](Scripts/Parsers/README.md)
+- [Scripts Tables](Scripts/Tables/README.md)
