@@ -1,4 +1,4 @@
-# SQL data types
+# MS SQL data types
 
 [Data types (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 
