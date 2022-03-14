@@ -1,4 +1,4 @@
-# Project properties
+# Project Properties
 
 ## Enabling C# 9 in the project.
 Feature 'target-typed object creation' is not available in C# 8.0. Please use language version 9.0 or greater

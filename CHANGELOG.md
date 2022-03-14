@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.255] - 2022-03-14
+### Changed
+- Dev\MS Visual Studio
+
 ## [0.3.252] - 2022-03-11
 ### Changed
 - Dev\Database
