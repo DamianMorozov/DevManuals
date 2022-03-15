@@ -16,6 +16,7 @@
 - [Lib 2010 Rus. Библия пользователя](Lib%202010%20Rus.%20Библия%20пользователя.md)
 - [MS SQL AdventureWorks DB](MS%20SQL%20AdventureWorks%20DB.md)
 - [MS SQL data types](MS%20SQL%20data%20types.md)
+- [MS SQL default settings](MS%20SQL%20default%20settings.md)
 - [MS SQL download](MS%20SQL%20download.md)
 - [MS SQL errors](MS%20SQL%20errors.md)
 - [MS SQL resources](MS%20SQL%20resources.md)
