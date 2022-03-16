@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-14B1-4D26-9B2A-C29684684D84}"
+	ProjectSection(SolutionItems) = preProject
+		SSIS\Environment variables.sql = SSIS\Environment variables.sql
+		SSIS\README.md = SSIS\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bases", "Bases", "{CE1115F3-5F02-4EC1-A061-0B79E8F358DB}"
+	ProjectSection(SolutionItems) = preProject
+		Bases\DB usage space on FS.sql = Bases\DB usage space on FS.sql
+		Bases\MD5.sql = Bases\MD5.sql
+		Bases\README.md = Bases\README.md
+		Bases\Service Broker.sql = Bases\Service Broker.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parsers", "Parsers", "{A7FCA265-C167-43EE-BC04-3EB82F626985}"
+	ProjectSection(SolutionItems) = preProject
+		Parsers\Get field as string.sql = Parsers\Get field as string.sql
+		Parsers\GUID fnGetGuid1Cv1.sql = Parsers\GUID fnGetGuid1Cv1.sql
+		Parsers\GUID fnGetGuid1Cv2.sql = Parsers\GUID fnGetGuid1Cv2.sql
+		Parsers\GUID varbinary.sql = Parsers\GUID varbinary.sql
+		Parsers\GUID with NULL.sql = Parsers\GUID with NULL.sql
+		Parsers\Int.sql = Parsers\Int.sql
+		Parsers\Json.sql = Parsers\Json.sql
+		Parsers\README.md = Parsers\README.md
+		Parsers\XML.sql = Parsers\XML.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CDEE-F384-4D6D-8DEE-1A1E118B8545}"
+	ProjectSection(SolutionItems) = preProject
+		Tables\Filegroups and objects.sql = Tables\Filegroups and objects.sql
+		Tables\Finding duplicate values.sql = Tables\Finding duplicate values.sql
+		Tables\Foreign keys. Match.sql = Tables\Foreign keys. Match.sql
+		Tables\Foreign keys.sql = Tables\Foreign keys.sql
+		Tables\README.md = Tables\README.md
+		Tables\Select last changed goods.sql = Tables\Select last changed goods.sql
+		Tables\Tables and rows.sql = Tables\Tables and rows.sql
+		Tables\Tables and sizes.sql = Tables\Tables and sizes.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26DD55D-C247-4C56-9DD1-F0C4EECBF75F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30063BD5-1BF2-455D-893A-C9EE57A24E2E}
+	EndGlobalSection
+EndGlobal

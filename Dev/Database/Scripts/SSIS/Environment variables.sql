@@ -1,0 +1,15 @@
+-- Environment variables
+SELECT 
+	 [P].[project_id]
+	,[P].[folder_id]
+	,[P].[name]
+	,[P].[description]
+	,[P].[project_format_version]
+	,[P].[deployed_by_sid]
+	,[P].[deployed_by_name]
+	,[P].[last_deployed_time]
+	,[P].[created_time]
+	,[P].[object_version_lsn]
+	,[P].[validation_status]
+	,[P].[last_validation_time]
+FROM [SSISDB].[catalog].[projects] [P]

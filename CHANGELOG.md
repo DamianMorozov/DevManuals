@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.259] - 2022-03-16
+## [0.3.265] - 2022-03-16
 ### Added
 - .gitignore
+### Changed
+- Dev\Database
 
 ## [0.3.258] - 2022-03-15
 ### Changed
