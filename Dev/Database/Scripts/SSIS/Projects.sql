@@ -1,4 +1,4 @@
--- Environment variables
+-- SSIS projects
 SELECT 
 	 [P].[project_id]
 	,[P].[folder_id]

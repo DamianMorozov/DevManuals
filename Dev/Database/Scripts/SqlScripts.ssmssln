@@ -5,7 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-14B1-4D26-9B2A-C29684684D84}"
 	ProjectSection(SolutionItems) = preProject
-		SSIS\Environment variables.sql = SSIS\Environment variables.sql
+		SSIS\Environments.sql = SSIS\Environments.sql
+		SSIS\Projects.sql = SSIS\Projects.sql
 		SSIS\README.md = SSIS\README.md
 	EndProjectSection
 EndProject
@@ -47,7 +48,7 @@ Global
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F26DD55D-C247-4C56-9DD1-F0C4EECBF75F}.Default|Default.ActiveCfg = Default
+		{2DF34626-0BE9-40AA-8B17-925BD2E59D37}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

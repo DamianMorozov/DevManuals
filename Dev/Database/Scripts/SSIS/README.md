@@ -5,4 +5,5 @@
 - [Back to the Dev Database page](../../README.md)
 
 ## Items
-- [Environment variables](Environment%20variables.sql)
+- [Environments](Environments.sql)
+- [Projects](Projects.sql)
