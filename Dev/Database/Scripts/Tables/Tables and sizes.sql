@@ -2,13 +2,10 @@
 SELECT
 	[T].[Name] [TABLE]
    ,[S].[Name] [SCHEMA]
-   ,SUM([A].[total_pages]) * 8 [TOTALSPACEKB]
-   ,SUM([A].[used_pages]) * 8 [USEDSPACEKB]
-   ,(SUM([A].[total_pages]) - SUM([A].[used_pages])) * 8 [UNUSEDSPACEKB]
-   ,SUM([A].[total_pages]) * 8 / 1024 [TOTALSPACEMB]
-   ,SUM([A].[used_pages]) * 8 / 1024 [USEDSPACEMB]
-   ,(SUM([A].[total_pages]) - SUM([A].[used_pages])) * 8 / 1024 [UNUSEDSPACEMB]
-   ,[P].rows [ROWCOUNTS]
+   ,SUM([A].[total_pages]) * 8 / 1024 [TOTAL_SPACE_MB]
+   ,SUM([A].[used_pages]) * 8 / 1024 [USED_SPACE_MB]
+   ,(SUM([A].[total_pages]) - SUM([A].[used_pages])) * 8 / 1024 [UNUSED_SPACE_MB]
+   ,[P].rows [ROW_COUNTS]
 FROM sys.tables [T]
 INNER JOIN sys.indexes [I]
 	ON [T].[object_id] = [I].[object_id]
@@ -26,4 +23,4 @@ AND [I].[object_id] > 255
 GROUP BY [T].[Name]
 		,S.[Name]
 		,[P].rows
-ORDER BY [TOTALSPACEKB] DESC
+ORDER BY [TOTAL_SPACE_MB] DESC
