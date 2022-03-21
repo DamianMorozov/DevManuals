@@ -1,20 +1,17 @@
--- Tables and rows. SYS.INDEXES
+-- Tables and rows [sys].[indexes]
 SELECT
-	O.NAME [TABLE]
-   ,DDPS.ROW_COUNT [ROWS_COUNT]
-FROM SYS.INDEXES AS I
-INNER JOIN SYS.OBJECTS AS O ON I.OBJECT_ID = O.OBJECT_ID
-INNER JOIN SYS.DM_DB_PARTITION_STATS AS DDPS ON I.OBJECT_ID = DDPS.OBJECT_ID
-		AND I.INDEX_ID = DDPS.INDEX_ID
-WHERE I.INDEX_ID < 2 AND O.IS_MS_SHIPPED = 0
-ORDER BY O.NAME
+	[O].[name] [TABLE]
+   ,[DDPS].[row_count] [ROWS_COUNT]
+FROM [sys].[indexes] [I]
+INNER JOIN [sys].[objects] [O] ON [I].[object_id] = [O].[object_id]
+INNER JOIN [sys].[dm_db_partition_stats] [DDPS] ON I.OBJECT_ID = [DDPS].[object_id] AND [I].[index_id] = [DDPS].[index_id]
+WHERE [I].[index_id] < 2 AND [O].[is_ms_shipped] = 0
+ORDER BY [O].[name]
 
--- Tables and rows. SYS.TABLES
+-- Tables and rows [sys].[tables]
 SELECT
-	T.NAME [TABLE]
-   ,S.ROW_COUNT [ROWS_COUNT]
-FROM SYS.TABLES T
-JOIN SYS.DM_DB_PARTITION_STATS S ON T.OBJECT_ID = S.OBJECT_ID
-		AND T.TYPE_DESC = 'USER_TABLE'
-		AND S.INDEX_ID IN (0, 1)
+	[T].[name] [TABLE]
+   ,[S].[row_count] [ROWS_COUNT]
+FROM [sys].[tables] [T]
+JOIN SYS.DM_DB_PARTITION_STATS [S] ON [T].[object_id] = [S].[object_id] AND [T].[type_desc] = 'USER_TABLE' AND [S].[index_id] IN (0, 1)
 ORDER BY [NAME]
