@@ -1,3 +1,5 @@
+# Icon cache
+
 taskkill /im explorer.exe /f
 
 cd %userprofile%\appdata\local

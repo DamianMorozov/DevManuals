@@ -1,3 +1,5 @@
+# Vhd compressing using Diskpart
+
 Compressing a dynamic vhd disk using Diskpart
 http://winitpro.ru/index.php/2011/10/25/kak-szhat-dinamicheskij-vhd/
 

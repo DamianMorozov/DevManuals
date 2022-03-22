@@ -1,3 +1,5 @@
+# CEIP disable [Rus]
+
 Как Отключить Программу улучшения качества ПО для Windows 10
 
 gpedit.msc

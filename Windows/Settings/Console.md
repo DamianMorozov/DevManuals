@@ -1,3 +1,5 @@
+# Console
+
 јдминистрирование Ц control admintools 
 јдминистратор источников данных Ц odbccp32.cpl 
 ¬осстановление системных файлов Ц sfc / scannow 

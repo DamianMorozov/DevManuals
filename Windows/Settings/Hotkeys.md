@@ -1,6 +1,7 @@
-====================================================================================================
-https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
-====================================================================================================
+# Hotkeys
+
+[Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
+
 Copy, paste, and other general keyboard shortcuts
 Press this key	| To do this
 Ctrl + X	Cut the selected item
@@ -51,16 +52,16 @@ Shift + Delete	Delete the selected item without moving it to the Recycle Bin fir
 Right arrow	Open the next menu to the right, or open a submenu
 Left arrow	Open the next menu to the left, or close a submenu
 Esc	Stop or leave the current task
-----------------------------------------------------------------------------------------------------
-Windows logo key keyboard shortcuts
+
+## Windows logo key keyboard shortcuts
 Press this key	To do this
 Windows logo key 	Open or close Start
 Windows logo key  + A	Open Action center
 Windows logo key  + B	Set focus in the notification area
 Windows logo key  + C	
 Open Cortana in listening mode
-----------------------------------------------------------------------------------------------------
-Notes
+
+## Notes
 This shortcut is turned off by default. To turn it on, select Start  > Settings  > Cortana, and turn on the toggle under Let Cortana listen for my commands when I press the Windows logo key + C.
 Cortana is available only in certain countries/regions, and some Cortana features might not be available everywhere. If Cortana isn't available or is turned off, you can still use search.
 Windows logo key  + Shift + C	Open the charms menu
@@ -72,8 +73,8 @@ Windows logo key  + G	Open Game bar when a game is open
 Windows logo key  + H	Start dictation
 Windows logo key  + I	Open Settings
 Windows logo key  + J
-----------------------------------------------------------------------------------------------------
-Set focus to a Windows tip when one is available.
+
+## Set focus to a Windows tip when one is available.
 
 When a Windows tip appears, bring focus to the Tip.  Pressing the keyboard shortcuts again to bring focus to the element on the screen to which the Windows tip is anchored.
 Windows logo key  + K	Open the Connect quick action
@@ -115,8 +116,8 @@ Windows logo key  + Ctrl + Enter	Open Narrator
 Windows logo key  + Plus (+)	Open Magnifier
 Windows logo key  + forward slash (/)	Begin IME reconversion
 Windows logo key  + Ctrl + V	Open shoulder taps
-----------------------------------------------------------------------------------------------------
-Command Prompt keyboard shortcuts
+
+## Command Prompt keyboard shortcuts
 Press this key	To do this
 Ctrl + C (or Ctrl + Insert)	Copy the selected text
 Ctrl + V (or Shift + Insert)	Paste the selected text
@@ -131,8 +132,8 @@ Ctrl + Up arrow	Move up one line in the output history
 Ctrl + Down arrow	Move down one line in the output history
 Ctrl + Home (History navigation)	If the command line is empty, move the viewport to the top of the buffer. Otherwise, delete all the characters to the left of the cursor in the command line.
 Ctrl + End (History navigation)	If the command line is empty, move the viewport to the command line. Otherwise, delete all the characters to the right of the cursor in the command line.
-----------------------------------------------------------------------------------------------------
-Dialog box keyboard shortcuts
+
+## Dialog box keyboard shortcuts
 Press this key	To do this
 F4	Display the items in the active list
 Ctrl + Tab	Move forward through tabs
@@ -144,8 +145,8 @@ Alt + underlined letter	Perform the command (or select the option) that is used 
 Spacebar	Select or clear the check box if the active option is a check box
 Backspace	Open a folder one level up if a folder is selected in the Save As or Open dialog box
 Arrow keys	Select a button if the active option is a group of option buttons
-----------------------------------------------------------------------------------------------------
-File Explorer keyboard shortcuts
+
+## File Explorer keyboard shortcuts
 Press this key	To do this
 Alt + D	Select the address bar
 Ctrl + E	Select the search box
@@ -169,26 +170,25 @@ Left arrow	Collapse the current selection (if it's expanded), or select the fold
 End	Display the bottom of the active window
 Home	Display the top of the active window
 F11	Maximize or minimize the active window
-----------------------------------------------------------------------------------------------------
-Virtual desktops keyboard shortcuts
+
+## Virtual desktops keyboard shortcuts
 Press this key	To do this
 Windows logo key  + Tab	Open Task view
 Windows logo key  + Ctrl + D	Add a virtual desktop
 Windows logo key  + Ctrl + Right arrow	Switch between virtual desktops you’ve created on the right
 Windows logo key  + Ctrl + Left arrow	Switch between virtual desktops you’ve created on the left
 Windows logo key  + Ctrl + F4	Close the virtual desktop you're using
-----------------------------------------------------------------------------------------------------
-Taskbar keyboard shortcuts
+
+## Taskbar keyboard shortcuts
 Press this key	To do this
 Shift + click a taskbar button	Open an app or quickly open another instance of an app
 Ctrl + Shift + click a taskbar button	Open an app as an administrator
 Shift + right-click a taskbar button	Show the window menu for the app
 Shift + right-click a grouped taskbar button	Show the window menu for the group
 Ctrl + click a grouped taskbar button	Cycle through the windows of the group
-----------------------------------------------------------------------------------------------------
-Settings keyboard shortcuts
+
+## Settings keyboard shortcuts
 Press this key	To do this
 Windows logo key  + I	Open settings
 Backspace	Go back to the settings home page
 Type on any page with search box	Search settings
-----------------------------------------------------------------------------------------------------
