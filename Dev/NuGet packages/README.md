@@ -8,6 +8,7 @@
 - [MahApps](MahApps.md)
 - [Microsoft ML](Microsoft.ML.md)
 - [MSTest TestAdapter](MSTest.TestAdapter.md)
+- [NHibernate](NHibernate.md)
 - [Ninject](Ninject.md)
 - [Nuget CLI](Nuget%20CLI.md)
 - [NuGet resources](NuGet%20resources.md)

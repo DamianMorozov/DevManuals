@@ -1,6 +1,7 @@
-====================================================================================================
+# BenchmarkDotNet
+
 https://benchmarkdotnet.org/
-----------------------------------------------------------------------------------------------------
+
 Title: Pro .NET Benchmarking
 Author: Andrey Akinshin
 Publisher:: Apress
@@ -11,7 +12,7 @@ Softcover ISBN-10: 1484249402
 Softcover ISBN-13: 978-1-4842-4940-6
 eBook ISBN-13: 978-1-4842-4941-3
 https://aakinshin.net/prodotnetbenchmarking/
-----------------------------------------------------------------------------------------------------
+
 [SimpleJob(RuntimeMoniker.Net472, baseline: true)]
 [SimpleJob(RuntimeMoniker.NetCoreApp30)]
 [SimpleJob(RuntimeMoniker.CoreRt30)]
@@ -39,4 +40,3 @@ public class Md5VsSha256
     [Benchmark]
     public byte[] Md5() => md5.ComputeHash(data);
 }
-====================================================================================================
