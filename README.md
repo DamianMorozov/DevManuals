@@ -3,8 +3,8 @@
 This repository contains manuals, mostly in English.
 You can participate in the development of the repository as a creator simply by submitting an application via the contact form.
 
-[CHANGELOG](CHANGELOG.md)
-[LICENSE](LICENSE.md)
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE.md)
 
 ## Sections
 - [Programs developing](Dev/README.md)
