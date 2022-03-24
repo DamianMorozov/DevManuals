@@ -1,4 +1,4 @@
-# Blazor - Build client web apps with C#
+# Blazor Build client web apps with C#
 
 https://blazor.net/
 https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
