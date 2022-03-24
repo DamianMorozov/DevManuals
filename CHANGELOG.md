@@ -8,69 +8,69 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.315] - 2022-03-24
 ### Changed
-- Dev\C# ASP and Blazor
+- [Dev\C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
 
 ## [0.3.303] - 2022-03-23
 ### Changed
-- Dev\NuGet packages
-- CHANGELOG.md
-- LICENSE.md
+- [Dev\NuGet packages](Dev/NuGet%20packages/README.md)
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE.md)
 
 ## [0.3.290] - 2022-03-22
 ### Changed
-- Windows
+- [Windows](Windows/README.md)
 
 ## [0.3.273] - 2022-03-21
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.271] - 2022-03-18
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.270] - 2022-03-16
 ### Added
 - .gitignore
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.258] - 2022-03-15
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.257] - 2022-03-14
 ### Changed
-- Dev\Database
-- Dev\MS Visual Studio
+- [Dev\Database](Dev/Database/README.md)
+- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.252] - 2022-03-11
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.251] - 2022-03-10
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.250] - 2022-03-09
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.237] - 2022-03-05
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.236] - 2022-03-04
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.235] - 2022-03-03
 ### Changed
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.231] - 2022-03-02
 ### Changed
 - Dev
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 
 ## [0.3.225] - 2022-03-01
 ### Changed
@@ -96,7 +96,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Dev\Android
 - Dev\C# ASP and Blazor
-- Dev\Database
+- [Dev\Database](Dev/Database/README.md)
 - Dev\Design patterns
 - Dev\Diagrams
 - Dev\Docker
@@ -117,7 +117,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.180] - 2022-02-21
 ### Changed
-- Dev\MS Visual Studio
+- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.170] - 2022-02-18
 ### Changed
@@ -126,7 +126,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.152] - 2022-02-17
 ### Changed
 - Dev\Dotnet
-- Dev\MS Visual Studio
+- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.147] - 2022-02-16
 ### Changed
@@ -152,7 +152,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Android\README.md
 - Dev\C#\README.md
 - Dev\C# ASP and Blazor\README.md
-- Dev\Database\README.md
+- [Dev\Database](Dev/Database/README.md)\README.md
 - Dev\Design patterns\README.md
 - Dev\Diagrams\README.md
 - Dev\Docker\README.md
@@ -162,7 +162,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\JavaScript\README.md
 - Dev\MS Excel\README.md
 - Dev\MS VB\README.md
-- Dev\MS Visual Studio\README.md
+- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)\README.md
 - Dev\Network\README.md
 - Dev\Python\README.md
 - Dev\Testing\README.md
