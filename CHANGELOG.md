@@ -8,11 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.315] - 2022-03-24
 ### Changed
-- [Dev\C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
+- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
 
 ## [0.3.303] - 2022-03-23
 ### Changed
-- [Dev\NuGet packages](Dev/NuGet%20packages/README.md)
+- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
 - [CHANGELOG](CHANGELOG.md)
 - [LICENSE](LICENSE.md)
 
@@ -22,82 +22,82 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.273] - 2022-03-21
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.271] - 2022-03-18
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.270] - 2022-03-16
 ### Added
-- .gitignore
+- [.gitignore](.gitignore)
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.258] - 2022-03-15
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.257] - 2022-03-14
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
-- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
+- [Dev/Database](Dev/Database/README.md)
+- [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.252] - 2022-03-11
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.251] - 2022-03-10
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.250] - 2022-03-09
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.237] - 2022-03-05
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.236] - 2022-03-04
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.235] - 2022-03-03
 ### Changed
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.231] - 2022-03-02
 ### Changed
 - Dev
-- [Dev\Database](Dev/Database/README.md)
+- [Dev/Database](Dev/Database/README.md)
 
 ## [0.3.225] - 2022-03-01
 ### Changed
-- Dev\C#
+- [Dev/C#](Dev/C%23/README.md)
 
 ## [0.3.224] - 2022-02-28
 ### Changed
-- README.md
+- [README](README.md)
 
 ## [0.3.223] - 2022-02-25
 ### Changed
-- Dev\Linux
-- Dev\Linux\Games
+- [Linux](Linux/README.md)
+- [Linux/Games](Linux/Games/README.md)
 ### Added
-- Dev\Linux\Desktops
+- [Linux/Desktops](Linux/Desktops/README.md)
 
 ## [0.3.214] - 2022-02-24
 ### Changed
-- Dev\Linux
-- README.md
+- [Linux](Linux/README.md)
+- [README](README.md)
 
 ## [0.3.212] - 2022-02-22
 ### Changed
-- Dev\Android
-- Dev\C# ASP and Blazor
-- [Dev\Database](Dev/Database/README.md)
-- Dev\Design patterns
+- [Dev/Android](Dev/Android/README.md)
+- [Dev/C#](Dev/C%23/README.md) ASP and Blazor
+- [Dev/Database](Dev/Database/README.md)
+- [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev\Diagrams
 - Dev\Docker
 - Dev\Go
@@ -113,56 +113,56 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev\Virtual machine
 - Dev\XAML
 - Dev
-- Linux
+- [Linux](Linux/README.md)
 
 ## [0.3.180] - 2022-02-21
 ### Changed
-- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
+- [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.170] - 2022-02-18
 ### Changed
-- Dev\C#
+- [Dev/C#](Dev/C%23/README.md)
 
 ## [0.3.152] - 2022-02-17
 ### Changed
-- Dev\Dotnet
-- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
+- [Dev/Dotnet](Dev/Dotnet/README.md)
+- [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.147] - 2022-02-16
 ### Changed
-- Dev\NuGet packages\NuGet resources.md
+- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
 
 ## [0.3.145] - 2022-02-11
 ### Changed
-- Dev\C#\C# resources.md
-- Dev\README.md
-- Dev\C# ASP and Blazor\Resources.md
-- Dev\C# ASP and Blazor\Resources [Rus].md
+- [Dev/C#](Dev/C%23/README.md)\C# resources.md
+- [Dev](Dev/README.md)
+- [Dev/C#](Dev/C%23/README.md) ASP and Blazor\Resources.md
+- [Dev/C#](Dev/C%23/README.md) ASP and Blazor\Resources [Rus].md
 - Dev\Version control\README.md
 - Dev\OOP principles [Rus].md
-- Linux\README.md
-- Linux\Network\README.md
-- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
+- [Linux](Linux/README.md)\README.md
+- [Linux](Linux/README.md)\Network\README.md
+- [Linux](Linux/README.md)\Lib. 2020 Eng. Mastering Ubuntu Server.md
 - Windows\README.md
 - Windows\Cmd\README.md
 - Windows\PowerShell\README.md
 - Windows\Settings\README.md
 - Windows\WSL\README.md
 ### Added
-- Dev\Android\README.md
-- Dev\C#\README.md
-- Dev\C# ASP and Blazor\README.md
-- [Dev\Database](Dev/Database/README.md)\README.md
-- Dev\Design patterns\README.md
+- [Dev/Android](Dev/Android/README.md)\README.md
+- [Dev/C#](Dev/C%23/README.md)\README.md
+- [Dev/C#](Dev/C%23/README.md) ASP and Blazor\README.md
+- [Dev/Database](Dev/Database/README.md)\README.md
+- [Dev/Design patterns](Dev/Design%20patterns/README.md)\README.md
 - Dev\Diagrams\README.md
 - Dev\Docker\README.md
-- Dev\Dotnet\README.md
+- [Dev/Dotnet](Dev/Dotnet/README.md)\README.md
 - Dev\Go\README.md
 - Dev\GUI\README.md
 - Dev\JavaScript\README.md
 - Dev\MS Excel\README.md
 - Dev\MS VB\README.md
-- [Dev\MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)\README.md
+- [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)\README.md
 - Dev\Network\README.md
 - Dev\Python\README.md
 - Dev\Testing\README.md
@@ -172,7 +172,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.081] - 2022-02-10
 ### Changed
-- Dev\README.md
+- [Dev](Dev/README.md)
 ### Added
 - Dev\Communications\README.md
 - Dev\Communications\TCP packet.md
@@ -181,20 +181,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.076] - 2022-02-09
 ### Changed
-- README.md
-- Dev\README.md
+- [README](README.md)
+- [Dev](Dev/README.md)
 - Dev\NuGet\README.md
 ### NuGet packages
-- Dev\NuGet packages\NuGet resources.md
+- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
 
 ## [0.3.072] - 2022-02-02
 ### Changed
-- README.md
-- Dev\README.md
+- [README](README.md)
+- [Dev](Dev/README.md)
 - Dev\Readme example.md
-- Linux\README.md
-- Linux\Games\README.md
-- Linux\Network\README.md
+- [Linux](Linux/README.md)\README.md
+- [Linux](Linux/README.md)\Games\README.md
+- [Linux](Linux/README.md)\Network\README.md
 - Windows\README.md
 - Windows\Cmd\README.md
 - Windows\PowerShell\README.md
@@ -203,7 +203,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.048] - 2022-01-31
 ### Changed
 - Windows\Windows.md
-- README.md
+- [README](README.md)
 ### Added
 - Windows\How to move window with keyboard.md
 
@@ -211,7 +211,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Windows\WSL\WSL.md
 - Windows\WSL\WSL GUI apps.md
-- README.md
+- [README](README.md)
 ### Added
 - Windows\Windows.WSL.md
 - Windows\WSL\WSL resources [Rus].md
@@ -222,7 +222,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\C Sharp\Data types mapping.md
 - Windows\CPL - Control Panel tools.md
 - Windows\Windows.md
-- README.md
+- [README](README.md)
 ### Added
 - Windows\MSC.md
 - Windows\Windows.Cmd.md
@@ -232,15 +232,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.032] - 2022-01-24
 ### Changed
-- Linux\Network\*.md
-- README.md
+- [Linux](Linux/README.md)\Network\*.md
+- [README](README.md)
 ### Added
-- Linux\Network\Firewalls.md
+- [Linux](Linux/README.md)\Network\Firewalls.md
 
 ## [0.3.025] - 2022-01-21
 ### Changed
 - Programs developing\Version control\*.md
-- README.md
+- [README](README.md)
 
 ## [0.3.017] - 2022-01-20
 ### Changed
@@ -249,7 +249,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.016] - 2022-01-19
 ### Changed
 - Programs developing\Database\SSMS Cheet sheet.md
-- README.md
+- [README](README.md)
 
 ## [0.3.011] - 2022-01-17
 ### Added
@@ -261,7 +261,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Programs developing\C Sharp ASP and Blazor\*
 - Programs developing\C Sharp\*
-- README.md
+- [README](README.md)
 
 ## [0.3.003] - 2022-01-10
 ### Added
@@ -269,17 +269,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\10 Questions Product Managers.md
 - Programs developing\10 Questions Product Managers [Rus].md
 ### Changed
-- README.md
-- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
+- [README](README.md)
+- [Linux](Linux/README.md)\Lib. 2020 Eng. Mastering Ubuntu Server.md
 
 ## [0.2.213] - 2021-12-30
 ### Added
-- Linux\Lib. 2020 Eng. Mastering Ubuntu Server.md
+- [Linux](Linux/README.md)\Lib. 2020 Eng. Mastering Ubuntu Server.md
 
 ## [0.2.212] - 2021-12-21
 ### Changed
 - Programs developing\Version control\GIT cheatsheet.md
-- README.md
+- [README](README.md)
 
 ## [0.2.210] - 2021-12-13
 ### Added
@@ -287,15 +287,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.209] - 2021-12-09
 ### Added
-- Linux\Software .NET.md
+- [Linux](Linux/README.md)\Software .NET.md
 - Windows\Software WSL Linux GUI apps.md
 
 ## [0.2.207] - 2021-12-07
 ### Changed
-- Linux\Software\System\Update.md
-- Linux\Hardware*
-- Linux\Software*
-- Linux\OS Upgrade Ubuntu.md
+- [Linux](Linux/README.md)\Software\System\Update.md
+- [Linux](Linux/README.md)\Hardware*
+- [Linux](Linux/README.md)\Software*
+- [Linux](Linux/README.md)\OS Upgrade Ubuntu.md
 - Windows\Software*
 - Windows\Software WSL.md
 
@@ -687,11 +687,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.60] - 2020-06-23
 ### Changed
-- Linux\Software\System\Update.txt
+- [Linux](Linux/README.md)\Software\System\Update.txt
 
 ## [0.2.59] - 2020-06-22
 ### Added
-- Linux\Software\System\Update.txt
+- [Linux](Linux/README.md)\Software\System\Update.txt
 
 ## [0.2.58] - 2020-06-21
 ### Added
@@ -860,8 +860,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.90] - 2019-10-13
 ### Updated
-- Linux\Settings\BusyBox.txt
-- Linux\Settings\BusyBox.txt-ru
+- [Linux](Linux/README.md)\Settings\BusyBox.txt
+- [Linux](Linux/README.md)\Settings\BusyBox.txt-ru
 
 ## [0.1.88] - 2019-09-20
 ### Updated
@@ -886,25 +886,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.81] - 2019-08-29
 ### Added
-- Linux\Settings\Memory.txt
+- [Linux](Linux/README.md)\Settings\Memory.txt
 
 ## [0.1.80] - 2019-08-28
 ### Added
-- Linux\Hardware\Hardware.txt
-- Linux\Software\System\File commanders\Doublecmd.txt
-- Linux\Software\System\File commanders\Gnome Commander.txt
-- Linux\Software\System\Process explorers\Stacer.txt
+- [Linux](Linux/README.md)\Hardware\Hardware.txt
+- [Linux](Linux/README.md)\Software\System\File commanders\Doublecmd.txt
+- [Linux](Linux/README.md)\Software\System\File commanders\Gnome Commander.txt
+- [Linux](Linux/README.md)\Software\System\Process explorers\Stacer.txt
 ### Changed
-- Linux\Software\System\System.txt
+- [Linux](Linux/README.md)\Software\System\System.txt
 
 ## [0.1.75] - 2019-08-26
 ### Added
-- Linux\Software\Develop\Anaconda.txt
-- Linux\Software\Develop\CUDA Toolkit.txt
-- Linux\Software\Develop\DeOldify.txt
-- Linux\Software\Develop\Lazarus.txt
-- Linux\Software\Develop\MonoDevelop.txt
-- Linux\Software\Develop\SquirrelSQL.txt
+- [Linux](Linux/README.md)\Software\Develop\Anaconda.txt
+- [Linux](Linux/README.md)\Software\Develop\CUDA Toolkit.txt
+- [Linux](Linux/README.md)\Software\Develop\DeOldify.txt
+- [Linux](Linux/README.md)\Software\Develop\Lazarus.txt
+- [Linux](Linux/README.md)\Software\Develop\MonoDevelop.txt
+- [Linux](Linux/README.md)\Software\Develop\SquirrelSQL.txt
 
 ## [0.1.69] - 2019-08-22
 ### Added
@@ -916,14 +916,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.67] - 2019-08-13
 ### Updated
-- Linux\Software\Network.txt
+- [Linux](Linux/README.md)\Software\Network.txt
 
 ## [0.1.66] - 2019-08-12
 ### Updated
 - Windows\Settings\Credential Manager.txt-ru
 - Windows\Settings\Mklink.txt-ru
 ### Added
-- Linux\Settings\Screen resolution.txt
+- [Linux](Linux/README.md)\Settings\Screen resolution.txt
 - Programs developing\Agile Manifesto.txt-ru
 - Windows\Cmd\Clear temp.cmd
 - Windows\Cmd\ipv4 install.cmd
@@ -938,24 +938,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.52] - 2019-08-11
 ### Added
-- Linux\Settings\BusyBox.txt
-- Linux\Settings\BusyBox.txt-ru
+- [Linux](Linux/README.md)\Settings\BusyBox.txt
+- [Linux](Linux/README.md)\Settings\BusyBox.txt-ru
 
 ## [0.1.50] - 2019-08-08
 ### Updated
-- Linux\Settings\Dock launcher as root.txt
-- Linux\Settings\FS owner.txt
-- Linux\Settings\FS permission.txt
-- Linux\Settings\Hosts.txt
-- Linux\Settings\OS version.txt
-- Linux\Settings\Ubuntu Tweak Tool.txt
-- Linux\Settings\Upgrade Linux.txt
+- [Linux](Linux/README.md)\Settings\Dock launcher as root.txt
+- [Linux](Linux/README.md)\Settings\FS owner.txt
+- [Linux](Linux/README.md)\Settings\FS permission.txt
+- [Linux](Linux/README.md)\Settings\Hosts.txt
+- [Linux](Linux/README.md)\Settings\OS version.txt
+- [Linux](Linux/README.md)\Settings\Ubuntu Tweak Tool.txt
+- [Linux](Linux/README.md)\Settings\Upgrade Linux.txt
 ### Added
-- Linux\Settings\Run as separate process.txt
+- [Linux](Linux/README.md)\Settings\Run as separate process.txt
 
 ## [0.1.42] - 2019-08-07
 ### Updated
-- Linux\Software\Network.txt
+- [Linux](Linux/README.md)\Software\Network.txt
 
 ## [0.1.41] - 2019-08-01
 ### Updated
@@ -971,9 +971,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.38] - 2019-07-22
 ### Added
-- Linux\Settings\OS version.txt
+- [Linux](Linux/README.md)\Settings\OS version.txt
 ### Updated
-- Linux\Software\Games.txt
+- [Linux](Linux/README.md)\Software\Games.txt
 
 ## [0.1.36] - 2019-07-19
 ### Added
@@ -984,7 +984,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\Nuget\MSTest.TestAdapter.txt
 - Programs developing\Developer rules.txt
 ### Updated
-- README.md
+- [README](README.md)
 - Programs developing\Developer rules.txt-ru
 - Programs developing\2014. The Art of Unit Testing (with examples in C#).txt-ru
 - Programs developing\2017. Building Maintainable Software (C# Edition).txt-ru
@@ -1008,11 +1008,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.22] - 2019-06-27
 ### Added
-- Linux\Software\Games.txt
+- [Linux](Linux/README.md)\Software\Games.txt
 
 ## [0.1.21] - 2019-06-25
 ### Added
-- Linux\Hardware\HDD.txt
+- [Linux](Linux/README.md)\Hardware\HDD.txt
 
 ## [0.1.19] - 2019-06-18
 ### Updated
@@ -1032,7 +1032,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.15] - 2019-05-21
 ### Added
-- Linux\Software\Security.txt
+- [Linux](Linux/README.md)\Software\Security.txt
 - Programs developing\MS Visual Studio\Extensions.txt
 
 ## [0.1.13] - 2019-05-15
@@ -1075,13 +1075,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\Dotnet.txt
 - Programs developing\SQL\MS SQL download.txt
 ### Updated
-- Linux\Software\Develop.txt
+- [Linux](Linux/README.md)\Software\Develop.txt
 - Programs developing\C#\Avalonia.txt
 - Programs developing\Git.txt
 
 ## [0.0.89] - 2019-04-22
 ### Added
-- Linux\Software\Develop.txt
+- [Linux](Linux/README.md)\Software\Develop.txt
 - Programs developing\Python\Python.txt
 
 ## [0.0.87] - 2019-04-18
@@ -1114,7 +1114,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.72] - 2019-04-16
 ### Updated
-- Linux\Software\Develop.txt
+- [Linux](Linux/README.md)\Software\Develop.txt
 - Programs developing\C#\Avalonia.txt
 
 ## [0.0.70] - 2019-04-15
@@ -1185,20 +1185,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Programs developing\Entity Component System.txt
 - Programs developing\Principles of OOP.txt
 - Programs developing\SOLID.txt
-- Linux\Hardware\Videocard.txt
-- Linux\Settings\Dock launcher as root.txt
-- Linux\Settings\FS owner.txt
-- Linux\Settings\FS permission.txt
-- Linux\Settings\Hosts.txt
-- Linux\Settings\Ubuntu Tweak Tool.txt
-- Linux\Settings\Upgrade Linux.txt
-- Linux\Software\Backup.txt
-- Linux\Software\Desktop.txt
-- Linux\Software\Develop.txt
-- Linux\Software\Network.txt
-- Linux\Software\Snap.txt
-- Linux\Software\System.txt
-- Linux\Software\System.txt
+- [Linux](Linux/README.md)\Hardware\Videocard.txt
+- [Linux](Linux/README.md)\Settings\Dock launcher as root.txt
+- [Linux](Linux/README.md)\Settings\FS owner.txt
+- [Linux](Linux/README.md)\Settings\FS permission.txt
+- [Linux](Linux/README.md)\Settings\Hosts.txt
+- [Linux](Linux/README.md)\Settings\Ubuntu Tweak Tool.txt
+- [Linux](Linux/README.md)\Settings\Upgrade Linux.txt
+- [Linux](Linux/README.md)\Software\Backup.txt
+- [Linux](Linux/README.md)\Software\Desktop.txt
+- [Linux](Linux/README.md)\Software\Develop.txt
+- [Linux](Linux/README.md)\Software\Network.txt
+- [Linux](Linux/README.md)\Software\Snap.txt
+- [Linux](Linux/README.md)\Software\System.txt
+- [Linux](Linux/README.md)\Software\System.txt
 
 ## [0.0.14] - 2019-04-02
 ### Added
