@@ -4,7 +4,7 @@
 - [Back to the Dev page](../README.md)
 - [Back to the C# ASP and Blazor page](README.md)
 
-## Sites
+## Links
 - [Введение в ASP.NET Core Blazor](https://docs.microsoft.com/ru-ru/aspnet/core/blazor/)
 - [Размещение и развертывание Blazor Server](https://docs.microsoft.com/ru-ru/aspnet/core/blazor/host-and-deploy/server)
 - [Поддержка WebSockets в ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/websockets)

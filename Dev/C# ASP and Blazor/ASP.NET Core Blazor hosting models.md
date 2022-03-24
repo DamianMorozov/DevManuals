@@ -1,8 +1,8 @@
-----------------------------------------------------------------------------------------------------
-ASP.NET Core Blazor hosting models
+# ASP.NET Core Blazor hosting models
+
 https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models
-----------------------------------------------------------------------------------------------------
---- Blazor WebAssembly. ---
+
+## Blazor WebAssembly
 | Browser - UI thread - Blazor |
 The blazor.webassembly.js script is provided by the framework and handles:
 - Downloading the .NET runtime, the app, and the app's dependencies.
@@ -34,4 +34,3 @@ There are downsides to Blazor Server hosting:
 - There's no offline support. If the client connection fails, the app stops working.
 - Scalability is challenging for apps with many users. The server must manage multiple client connections and handle client state.
 - An ASP.NET Core server is required to serve the app. Serverless deployment scenarios aren't possible (for example, serving the app from a CDN).
-----------------------------------------------------------------------------------------------------

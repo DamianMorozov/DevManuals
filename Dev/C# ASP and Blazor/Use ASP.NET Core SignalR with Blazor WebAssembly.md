@@ -1,15 +1,15 @@
-----------------------------------------------------------------------------------------------------
-Use ASP.NET Core SignalR with Blazor WebAssembly
+# Use ASP.NET Core SignalR with Blazor WebAssembly
+
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-blazor-webassembly
-----------------------------------------------------------------------------------------------------
-1. Create a hosted Blazor WebAssembly app project.
+
+## 1. Create a hosted Blazor WebAssembly app project.
 Note: Visual Studio 16.6 or later and .NET Core SDK 3.1.300 or later are required.
 File -> New -> Project -> Blazor App -> "BlazorSignalRApp" -> Choose location -> Create -> Blazor WebAssembly App template -> select the ASP.NET Core hosted -> Create.
-----------------------------------------------------------------------------------------------------
-2. Add the SignalR client library.
+
+## 2. Add the SignalR client library.
 BlazorSignalRApp.Client project -> Manage NuGet Packages -> nuget.org -> Microsoft.AspNetCore.SignalR.Client
-----------------------------------------------------------------------------------------------------
-3. Add a SignalR hub.
+
+## 3. Add a SignalR hub.
 BlazorSignalRApp.Server project -> create a "Hubs" folder and add the following ChatHub class (Hubs/ChatHub.cs):
   using Microsoft.AspNetCore.SignalR;
   using System.Threading.Tasks;
@@ -23,8 +23,8 @@ BlazorSignalRApp.Server project -> create a "Hubs" folder and add the following 
           }
       }
   }
-----------------------------------------------------------------------------------------------------
-4. Add services and an endpoint for the SignalR hub.
+
+## 4. Add services and an endpoint for the SignalR hub.
 BlazorSignalRApp.Server project -> open the Startup.cs.
 Add the namespace:
   using BlazorSignalRApp.Server.Hubs;
@@ -69,8 +69,8 @@ Between the endpoints for controllers and the client-side fallback, add an endpo
           endpoints.MapFallbackToFile("index.html");
       });
   }
-----------------------------------------------------------------------------------------------------
-5. Add Razor component code for chat.
+
+## 5. Add Razor component code for chat.
 BlazorSignalRApp.Client project -> open the Pages/Index.razor.
 Replace the markup with the following code:
   @page "/"
@@ -139,6 +139,5 @@ Replace the markup with the following code:
           _ = _hubConnection.DisposeAsync();
       }
   }
-----------------------------------------------------------------------------------------------------
-6. Run the app.
-----------------------------------------------------------------------------------------------------
+
+## 6. Run the app.

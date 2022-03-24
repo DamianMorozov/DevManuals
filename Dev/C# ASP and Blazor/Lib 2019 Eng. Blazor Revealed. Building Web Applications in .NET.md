@@ -1,11 +1,12 @@
-----------------------------------------------------------------------------------------------------
+# Lib 2019 Eng. Blazor Revealed. Building Web Applications in .NET
+
 Year:          2019
 Author:        Peter Himschoot.
 Book title:    Blazor Revealed: Building Web Applications in .NET
 ISBN-13 (pbk): 978-1-4842-4342-8
 ISBN-13 (electronic): 978-1-4842-4343-5
-----------------------------------------------------------------------------------------------------
-Blazor Prerequisites.
+
+## Blazor Prerequisites.
 .NET Core: https://dotnet.microsoft.com/download
 Visual Studio workloads: ASP.NET, Node.js.
 Visual Studio extension: ASP.NET Core Blazor Language Services
@@ -15,12 +16,12 @@ Dotnet templates:
 > dotnet new --help
 > dotnet new -i Microsoft.DotNet.Web.ItemTemplates::3.1.9  -- Installs a source or a template pack
 > dotnet new -i Microsoft.AspNetCore.Blazor.Templates      -- Installs a source or a template pack
-----------------------------------------------------------------------------------------------------
-Dotnet CLI:
+
+## Dotnet CLI:
 > dotnet new blazorhosted -o MyFirstBlazor
 > dotnet build
-----------------------------------------------------------------------------------------------------
-Blazor hosting model.
+
+## Blazor hosting model.
 Client-side. The Blazor WebAssembly hosting model has the following benefits:
 + Client resources and capabilities are fully leveraged.
 + Work is offloaded from the server to the client.
@@ -41,7 +42,6 @@ The downsides to the Blazor Server hosting model are:
 - There’s no offline support. If the client connection fails, the app stops working.
 - Scalability is challenging for apps with many users. The server must manage multiple client connections and handle client state.
 - An ASP.NET Core server is required to serve the app. Serverless deployment scenarios aren’t possible. For example, you can’t serve the app from a CDN.
-----------------------------------------------------------------------------------------------------
-Host and deploy ASP.NET Core Blazor
+
+## Host and deploy ASP.NET Core Blazor
 https://docs.microsoft.com/en-us/aspnet/core/blazor/host-and-deploy/
-----------------------------------------------------------------------------------------------------

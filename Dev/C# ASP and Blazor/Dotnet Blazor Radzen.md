@@ -1,9 +1,10 @@
-----------------------------------------------------------------------------------------------------
+# Dotnet Blazor Radzen
+
 https://crm.radzen.com/
 https://blazor.radzen.com/
 https://blazor.radzen.com/get-started
 https://radzen.com/documentation/
-----------------------------------------------------------------------------------------------------
+
 1. Install NuGet
   https://www.nuget.org/packages/Radzen.Blazor/
 2. Import the namespace => _Imports.razor
@@ -61,4 +62,3 @@ Program.cs (client-side WebAssembly Blazor)
       ...
       await builder.Build().RunAsync();
   }
-----------------------------------------------------------------------------------------------------
