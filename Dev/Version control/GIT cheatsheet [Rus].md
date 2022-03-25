@@ -1,5 +1,7 @@
 ﻿# GIT cheatsheet [Rus]
 
+- [Back](README.md)
+
 ## Краткое руководство разработки ПО в Git
 1. Права: https://gitlab.com/help/user/permissions
 Master        --- ведущий разработчик ПО / владелец репозитория
