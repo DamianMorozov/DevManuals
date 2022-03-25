@@ -1,11 +1,10 @@
 -- Tables and sizes
 SELECT
-	[T].[name] [TABLE]
-   ,[S].[name] [SCHEMA]
-   ,SUM([A].[total_pages]) * 8 / 1024 [TOTAL_SPACE_MB]
-   ,SUM([A].[used_pages]) * 8 / 1024 [USED_SPACE_MB]
-   ,(SUM([A].[total_pages]) - SUM([A].[USED_PAGES])) * 8 / 1024 [UNUSED_SPACE_MB]
-   ,[P].[rows] [ROW_COUNTS]
+	 ('[' + [S].[name] + '].[' + [T].[name] + ']') [SCHEMA_TABLE]
+	,SUM([A].[total_pages]) * 8 / 1024 [TOTAL_SPACE_MB]
+	,SUM([A].[used_pages]) * 8 / 1024 [USED_SPACE_MB]
+	,(SUM([A].[total_pages]) - SUM([A].[USED_PAGES])) * 8 / 1024 [UNUSED_SPACE_MB]
+	,[P].[rows] [ROW_COUNTS]
 FROM [sys].[tables] [T]
 INNER JOIN [sys].[indexes] [I] ON [T].[object_id] = [I].[object_id]
 INNER JOIN [sys].[partitions] [P] ON [I].[object_id] = [P].[object_id] AND [I].[index_id] = [P].[index_id]
