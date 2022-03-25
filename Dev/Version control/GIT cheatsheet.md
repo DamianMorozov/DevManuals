@@ -228,7 +228,7 @@ git clean -fd                                     -- Remove all untracked files 
 ## Revert changes
 ```
 git checkout .                                    -- revert changes made to your working copy
-git reset                                         -- revert changes made to the index
+git reset <folder/file>                           -- revert changes made to the index
 git revert <commit 1> <commit 2>                  -- revert a change that you have committed
 git clean -f                                      -- remove untracked files
 git clean -fd                                     -- remove untracked directories
