@@ -1,5 +1,6 @@
 # Files synchronization
 
+- [Back](README.md)
 
 ## Syncthing
 [Syncthing](https://syncthing.net/ "syncthing.net")

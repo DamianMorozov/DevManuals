@@ -1,5 +1,6 @@
 # Browsers
 
+- [Back](README.md)
 
 ## Google Chrome
 ```

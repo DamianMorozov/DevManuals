@@ -5,7 +5,7 @@
 ## Sections
 - [Desktops](Desktops/README.md)
 - [Games](Games/README.md)
-- [Network](Network/README.md)
+- [Networks](Networks/README.md)
 
 ## Items
 - [Backup](Backup.md)
@@ -22,7 +22,6 @@
 - [Hardware videocard](Hardware%20videocard.md)
 - [Library. 2020 Eng. Mastering Ubuntu Server.md](Lib.%202020%20Eng.%20Mastering%20Ubuntu%20Server.md)
 - [Linux resources](Linux%20resources.md)
-- [Network](Network.md)
 - [OS BusyBox](OS%20BusyBox.md)
 - [OS BusyBox [Rus]](OS%20BusyBox%20[Rus].md)
 - [OS Ubuntu Tweak Tool](OS%20Ubuntu%20Tweak%20Tool.md)
