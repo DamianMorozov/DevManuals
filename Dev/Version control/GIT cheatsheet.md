@@ -251,3 +251,13 @@ git push origin new_branch                        -- remote creating new branch
 git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
 git branchm origin old_branch new_branch          -- remote branch renaming
 ```
+
+## Push all repos
+```
+git remote show origin                            -- view and copy push URL
+git remote show gitlab                            -- view and copy push URL
+git remote add all https://github.com/...git      -- add new remote "all" repo
+git remote set-url --add all https://...git       -- add second repo into "all" repo
+git push -u all main                              -- set upstream
+git push                                          -- push changes
+```
