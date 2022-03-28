@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.340] - 2022-03-28
+## [0.3.341] - 2022-03-28
 ### Changed
 - [Dev/Version control](Dev/Version%20control/README.md)
 - [Linux/Desktops](Linux/Desktops/README.md)
