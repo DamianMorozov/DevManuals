@@ -1,8 +1,6 @@
 # Battle.net
 
-- [Back to the Home page](../../README.md)
-- [Back to the Linux page](../README.md)
-- [Back to the Games page](README.md)
+- [Back](README.md)
 
 # Links
 [Battle.net](http://portwine-linux.ru/battle-net-linux/)

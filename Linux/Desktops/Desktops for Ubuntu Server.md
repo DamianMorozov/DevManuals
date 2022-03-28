@@ -1,8 +1,6 @@
 # Desktops for Ubuntu Server
 
-- [Back to the Home page](../../README.md)
-- [Back to the Linux page](../README.md)
-- [Back to the Desktops page](README.md)
+- [Back](README.md)
 
 # Links
 [How to Install a Desktop (GUI) on an Ubuntu Server](https://phoenixnap.com/kb/how-to-install-a-gui-on-ubuntu)
