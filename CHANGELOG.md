@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.326] - 2022-03-28
+### Changed
+- [Dev/Version control](Dev/Version%20control/README.md)
+
 ## [0.3.325] - 2022-03-25
 ### Changed
 - [Dev/Database/Scripts](Dev/Database/README.md)
