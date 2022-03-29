@@ -10,4 +10,10 @@ Russian (Russia)	0x0419	0x0419	Cyrillic_General_CI_AS
 
 Legacy collation: Latin1_General_CP1_CI_AS
 Latest collation: Latin1_General_100_CI_AI
-  Uncheck Accent-sensitive
+  uncheck Binary
+  CS/CI: uncheck Case-sensitive: Joel == JOEL
+  AS/AI: uncheck Accent-sensitive: Joel == Joel
+  uncheck Supplementary characters
+  uncheck Binary-code point
+  uncheck Kana-sensitive
+  uncheck Width-sensitive
