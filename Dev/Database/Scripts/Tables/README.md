@@ -5,6 +5,7 @@
 - [Back to the Dev Database page](../../README.md)
 
 ## Items
+- [Constraints default](Constraints%20default.sql)
 - [Filegroups and objects.sql](Filegroups%20and%20objects.sql)
 - [Finding duplicate values.sql](Finding%20duplicate%20values.sql)
 - [Foreign keys. Match.sql](Foreign%20keys.%20Match.sql)
