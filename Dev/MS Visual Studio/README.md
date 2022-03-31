@@ -5,6 +5,7 @@
 
 ## Items
 - [Attributes [Rus]](Attributes%20[Rus].md)
+- [Code snippets](Code%20snippets.md)
 - [Continuous Integration Transformation](Continuous%20Integration%20Transformation.md)
 - [Debug VBScript](Debug%20VBScript.md)
 - [Debug](Debug.md)
