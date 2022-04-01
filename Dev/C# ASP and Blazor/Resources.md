@@ -21,7 +21,13 @@
 - [https://github.com/gustavnavar/Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor)
 - [https://gridblazor.azurewebsites.net/](https://gridblazor.azurewebsites.net/)
 
-## Books
+## Blazor components
+- [Mud Blazor Components](https://mudblazor.com/)
+- [Mud Blazor Components on github](https://github.com/MudBlazor/MudBlazor/)
+- [Radzen Blazor Components](https://blazor.radzen.com/)
+- [Radzen Blazor Components on github](https://github.com/radzenhq/radzen-blazor)
+
+## Library
 ```
 Year:          2020
 Author:        Daniel Roth, Jeff Fritz, Taylor Southwick, Scott Addie, Steve Smith
@@ -34,8 +40,3 @@ Book title:    Blazor Revealed: Building Web Applications in .NET
 ISBN-13 (pbk): 978-1-4842-4342-8
 ISBN-13 (electronic): 978-1-4842-4343-5
 ```
-
-## Blazor components
-- https://mudblazor.com/
-- https://blazor.radzen.com/
-- https://github.com/akorchev/blazor.radzen.com

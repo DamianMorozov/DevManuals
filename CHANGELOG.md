@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.345] - 2022-04-01
+### Changed
+- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
+
 ## [0.3.344] - 2022-03-31
 ### Changed
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
