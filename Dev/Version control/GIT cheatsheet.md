@@ -3,8 +3,8 @@
 - [Back](README.md)
 
 ```
-git help <cmd>                                    -- web-page help
-git <cmd> -- help                                 -- web-page help
+git help [cmd]                                    -- web-page help
+git [cmd] -- help                                 -- web-page help
 ```
 
 ## Config
@@ -38,7 +38,6 @@ git config --global credential.helper store       --
 git config --global http.proxy http://user_name:password@server_address:port_number  -- 
 git status                                        -- 
 git status -s                                     -- 
-git commit -a -m "..."                            -- 
 git diff                                          -- 
 git diff --staged                                 -- 
 ```
@@ -67,13 +66,13 @@ git add [file]                                    --
 
 ## Commits
 ```
-git commit -a -m "text"                           -- 
-git commit -m "Initial commit"                    -- 
-git commit -m "Subject" -m "Message"              -- 
-git commit -m "Subject"$'\n'"Message"             -- 
-git add forgotten_file                            -- 
-git commit --amend                                -- 
-git commit -a --amend                             -- 
+git commit -m "Message"                           -- commit with message
+git commit -m "Subject" -m "Message"              -- commit with subject and message
+git commit -m "Subject"$'\n'"Message"             -- commit with subject and message
+git commit -a -m "text"                           -- add all files and commit with message
+git add [forgotten_file]                          -- add file
+git commit --amend                                -- replace last commit
+git commit -a --amend                             -- add all files and replace last commit
 git reset                                         -- 
 git reset [commit/tag]                            -- 
 git reset [file]                                  -- 
@@ -82,9 +81,9 @@ git reset --soft HEAD^                            --
 git reset --hard HEAD^                            -- 
 git reset --hard                                  -- 
 git reset --hard [commit]                         -- 
-git revert <commit_hash>                          -- 
+git revert [commit_hash]                          -- 
 git checkout -- [file]                            -- 
-git checkout <commit_hash>                        -- 
+git checkout [commit_hash]                        -- 
 ```
 
 ## Repositories
@@ -228,9 +227,9 @@ git clean -fd                                     -- Remove all untracked files 
 ## Revert changes
 ```
 git checkout .                                    -- revert changes made to your working copy for all directories and files
-git checkout <folder/file>                        -- revert changes made to your working copy for directory/file
-git reset <folder/file>                           -- revert changes made to the index
-git revert <commit 1> <commit 2>                  -- revert a change that you have committed
+git checkout [folder/file]                        -- revert changes made to your working copy for directory/file
+git reset [folder/file]                           -- revert changes made to the index
+git revert [commit 1] [commit 2]                  -- revert a change that you have committed
 git clean -f                                      -- remove untracked files
 git clean -fd                                     -- remove untracked directories
 ```
@@ -238,7 +237,7 @@ git clean -fd                                     -- remove untracked directorie
 ## Exclude files from commit
 ```
 Need first gitignore and then files.
-git rm -r --cached . || git rm --cached || git rm --cached <file-name> || git rm -r --cached <folder-name>
+git rm -r --cached . || git rm --cached || git rm --cached [file-name] || git rm -r --cached [folder-name]
 git add .
 git commit -m ".gitignore"
 ```
