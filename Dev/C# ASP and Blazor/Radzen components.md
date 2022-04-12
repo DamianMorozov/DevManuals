@@ -1,4 +1,4 @@
-# Dotnet Blazor Radzen
+# Radzen components
 
 ## Links
 - [CRM Radzen](https://crm.radzen.com/)
