@@ -1,9 +1,10 @@
 # Dotnet Blazor Radzen
 
-https://crm.radzen.com/
-https://blazor.radzen.com/
-https://blazor.radzen.com/get-started
-https://radzen.com/documentation/
+## Links
+- [CRM Radzen](https://crm.radzen.com/)
+- [Radzen Blazor Components](https://blazor.radzen.com/)
+- [Get started](https://blazor.radzen.com/get-started)
+- [Documentation](https://radzen.com/documentation/)
 
 
 ## Step 1. Install NuGet
@@ -55,29 +56,23 @@ Write this in **Shared/MainLayout.razor** after @inherits:
 ```
 Write this in **Startup.cs** (server-side Blazor):
 ```
-using Radzen;
 public void ConfigureServices(IServiceCollection services)
 {
-	services.AddScoped<DialogService>();
-	services.AddScoped<NotificationService>();
-	services.AddScoped<TooltipService>();
-	services.AddScoped<ContextMenuService>();
+	services.AddScoped<Radzen.DialogService>();
+	services.AddScoped<Radzen.NotificationService>();
+	services.AddScoped<Radzen.TooltipService>();
+	services.AddScoped<Radzen.ContextMenuService>();
 }
 ```
-Write this in **Program.cs** (client-side WebAssembly Blazor)
+Write this in **Program.cs** (client-side WebAssembly Blazor):
 ```
-using Radzen;
-public static async Task Main(string[] args)
-{
-	var builder = WebAssemblyHostBuilder.CreateDefault(args);
-	builder.RootComponents.Add<App>("app");
-	builder.Services.AddTransient(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
-	//
-	builder.Services.AddScoped<DialogService>();
-	builder.Services.AddScoped<NotificationService>();
-	builder.Services.AddScoped<TooltipService>();
-	builder.Services.AddScoped<ContextMenuService>();
-	//
-	await builder.Build().RunAsync();
-}
+WebAssemblyHostBuilder builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.RootComponents.Add<App>("#app");
+builder.RootComponents.Add<HeadOutlet>("head::after");
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+builder.Services.AddScoped<Radzen.DialogService>();
+builder.Services.AddScoped<Radzen.NotificationService>();
+builder.Services.AddScoped<Radzen.TooltipService>();
+builder.Services.AddScoped<Radzen.ContextMenuService>();
+await builder.Build().RunAsync();
 ```
