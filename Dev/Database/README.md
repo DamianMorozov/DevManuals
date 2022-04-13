@@ -14,6 +14,7 @@
 - [Error Невозможно привести Com-объект типа System.__ComObject](Error%20Невозможно%20привести%20Com-объект%20типа%20System.__ComObject.md)
 - [Help](Help.md)
 - [Lib 2010 Rus. Библия пользователя](Lib%202010%20Rus.%20Библия%20пользователя.md)
+- [Lib Rus. Язык запросов SQL](Lib%20Rus.%20Язык%20запросов%20SQL.md)
 - [MS SQL AdventureWorks DB](MS%20SQL%20AdventureWorks%20DB.md)
 - [MS SQL data types](MS%20SQL%20data%20types.md)
 - [MS SQL default settings](MS%20SQL%20default%20settings.md)
@@ -26,7 +27,6 @@
 - [Setup versions](Setup%20versions.md)
 - [SqlLocalDB](SqlLocalDB.md)
 - [SSMS Cheet sheet](SSMS%20Cheet%20sheet.md)
-- [Язык запросов SQL](Язык%20запросов%20SQL.md)
 
 ## Scripts
 - [Scripts Bases](Scripts/Bases/README.md)
