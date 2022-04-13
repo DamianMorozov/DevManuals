@@ -3,6 +3,9 @@
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)
 
+## Sections
+- [Scripts](Scripts/README.md)
+
 ## Items
 - [13 вопросов перед внесением изменений в работу SQL Server](13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.md)
 - [ConnectionString](ConnectionString.md)
@@ -27,9 +30,3 @@
 - [Setup versions](Setup%20versions.md)
 - [SqlLocalDB](SqlLocalDB.md)
 - [SSMS Cheet sheet](SSMS%20Cheet%20sheet.md)
-
-## Scripts
-- [Scripts Bases](Scripts/Bases/README.md)
-- [Scripts Parsers](Scripts/Parsers/README.md)
-- [SSIS](Scripts/SSIS/README.md)
-- [Scripts Tables](Scripts/Tables/README.md)
