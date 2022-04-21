@@ -1,11 +1,4 @@
-====================================================================================================
-JavaScript resources
-====================================================================================================
-English resources
------------------
-https://www.baeldung.com/ | Guiedes & courses
-https://www.newtonsoft.com/json | Popular high-performance JSON framework for .NET
-----------------------------------------------------------------------------------------------------
-Russian resources
------------------
-----------------------------------------------------------------------------------------------------
+# JavaScript resources
+
+- [Guiedes & courses](https://www.baeldung.com/)
+- [Popular high-performance JSON framework for .NET](https://www.newtonsoft.com/json)
