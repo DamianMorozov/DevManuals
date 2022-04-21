@@ -1,6 +1,9 @@
 # Electron quick start
 - [electron-quick-start on Github](https://github.com/electron/electron-quick-start)
 
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
 
 # Electron quick start template
 ```
