@@ -1,4 +1,9 @@
-New XAML Features in Visual Studio
+# XAML Features in Visual Studio
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 https://www.youtube.com/watch?v=yI9OyA4ZM2E
 
 WPF Designer supporting.NET Core 3 [05:00]

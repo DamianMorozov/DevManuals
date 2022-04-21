@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.368] - 2022-04-21
+## [0.3.390] - 2022-04-21
 ### Changed
 - [Dev/Electron](Dev/Electron/README.md)
 - [Dev/JavaScript](Dev/JavaScript/README.md)
+- [Dev/Visual Studio](Dev/Visual%20Studio/README.md)
 
 ## [0.3.361] - 2022-04-13
 ### Changed

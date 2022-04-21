@@ -1,5 +1,9 @@
-====================================================================================================
-Hotkeys Visual Studio
+# Hotkeys Visual Studio
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 Environment > Keyboard
 https://msdn.microsoft.com/ru-ru/library/da5kh0wa.aspx
 Tools > Code Snippets Manager

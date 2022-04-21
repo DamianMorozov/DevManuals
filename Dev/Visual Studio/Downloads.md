@@ -1,4 +1,9 @@
-------------------------------------------------------------------------------------------------------------------------
+# Downloads
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 Visual Studio 2019
 https://visualstudio.microsoft.com/ru/
 Visual Studio Community
@@ -16,4 +21,3 @@ Visual Studio Professional
 https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=professional&ch=pre&rel=17
 Visual Studio Enterprise
 https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=enterprise&ch=pre&rel=17
-------------------------------------------------------------------------------------------------------------------------

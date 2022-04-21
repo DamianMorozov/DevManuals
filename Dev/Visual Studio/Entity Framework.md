@@ -1,7 +1,11 @@
-====================================================================================================
-Entity Framework
+# Entity Framework
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 https://msdn.microsoft.com/en-us/data/jj574253.aspx
-====================================================================================================
+
 Object Relational Mapping (ORM) - Реляционное сопоставление объектов
 Relational Database Management System (RDBMS) - система управления реляционными базами данных
 Structured Query Language (SQL) - структурированный язык запросов

@@ -1,6 +1,9 @@
-====================================================================================================
-DevExpress
-====================================================================================================
+# DevExpress
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 Отключить файлы локализации
 Переименовать каталоги
 C:\Program Files (x86)\DevExpress 16.2\Components\Bin\Framework\

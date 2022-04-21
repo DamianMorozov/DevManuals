@@ -1,5 +1,9 @@
-====================================================================================================
-Tools Options for Visual Studio 2019
+# Options Visual Studio 2019
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 https://habr.com/ru/company/microsoft/blog/447124/
 ====================================================================================================
 Clean Solution

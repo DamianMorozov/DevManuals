@@ -1,7 +1,11 @@
-========================================================================================================================
-C# default code snippets.
+# Default code snippets
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 https://docs.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets
-========================================================================================================================
+
 Name      | Description                                                                | Valid locations to insert snippet
 #if       | Creates a #if directive and a #endif directive.                            | Anywhere.
 #region   | Creates a #region directive and a #endregion directive.                    | Anywhere.
@@ -41,4 +45,3 @@ unchecked | Creates an unchecked block.                                         
 unsafe    | Creates an unsafe block.                                                   | Inside a method, an indexer, a property accessor, or an event accessor.
 using     | Creates a using directive.                                                 | Inside a namespace (including the global namespace).
 while     | Creates a while loop.                                                      | Inside a method, an indexer, a property accessor, or an event accessor.
-------------------------------------------------------------------------------------------------------------------------

@@ -1,9 +1,13 @@
-====================================================================================================
-Garbage Collector / Сборщик мусора
+# Garbage Collector
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the Readme page](README.md)
+
 2017. Джон Шарп. MS Visual C#
 Глава 14 - Использование сборщика мусора и управление ресурсами
 https://msdn.microsoft.com/en-us/library/system.gc(v=vs.110).aspx
-====================================================================================================
+
 Стек - содержит типы значений.
 Куча - содержит ссылочные типы.
 CLR (Common Language Runtime) - общеязыковая среда выполнения.
