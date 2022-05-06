@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parsers", "Parsers", "{A7FC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CDEE-F384-4D6D-8DEE-1A1E118B8545}"
 	ProjectSection(SolutionItems) = preProject
+		Tables\Constraints check.sql = Tables\Constraints check.sql
+		Tables\Constraints default.sql = Tables\Constraints default.sql
+		Tables\Constraints foreign key.sql = Tables\Constraints foreign key.sql
+		Tables\Constraints unique.sql = Tables\Constraints unique.sql
 		Tables\Filegroups and objects.sql = Tables\Filegroups and objects.sql
 		Tables\Finding duplicate values.sql = Tables\Finding duplicate values.sql
 		Tables\Foreign keys. Match.sql = Tables\Foreign keys. Match.sql
@@ -46,9 +50,6 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DF34626-0BE9-40AA-8B17-925BD2E59D37}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
