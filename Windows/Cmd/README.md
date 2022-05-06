@@ -13,6 +13,7 @@
 - [Hybrid now](Hybrid%20now.cmd)
 - [ipv4 install](ipv4%20install.cmd)
 - [Net use](Net%20use.md)
+- [Sc](Sc.md)
 - [Scan system files](Scan%20system%20files.cmd)
 - [Share add](Share%20add.cmd)
 - [Share remove](Share%20remove.cmd)

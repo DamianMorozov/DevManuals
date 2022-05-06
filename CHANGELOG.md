@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.396] - 2022-05-06
+## [0.3.397] - 2022-05-06
 ### Added
 - [Windows/Cmd/Net use.md](Windows/Cmd/README.md)
+- [Windows/Cmd/Sc.md](Windows/Cmd/README.md)
 - [Dev/Database/Scripts/Constraints foreign key](Dev/Database/Scripts/README.md)
 ### Changed
 - [Dev/Version control](Dev/Version%20control/README.md)
