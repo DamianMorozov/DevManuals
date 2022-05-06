@@ -1,5 +1,7 @@
-# GIT English resources
+# Git resources
 
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
 - [Back](README.md)
 
 - [https://git-scm.com](https://git-scm.com)
@@ -12,15 +14,18 @@
 - [Github Readme Generator](https://github.com/arturssmirnovs/github-profile-readme-generator "github.com")
 - [GitHub Profile README Generator](https://github-profile-generator.tk/ "github-profile-generator.tk")
 
-# GIT Russian resources
+# Git Russian resources
 - [Make GitHub profile](https://techrocks.ru/2020/08/21/github-profile-readme/ "techrocks.ru")
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU "learngitbranching.js.org")
 
-# GIT clients
+# Git clients
 - [GitHub Desktop](https://desktop.github.com/ "desktop.github.com")
 - [TortoiseGit](https://tortoisegit.org/ "tortoisegit.org")
 - [GitKraken](https://gitkraken.com/ "gitkraken.com")
 - [GitTower](https://www.git-tower.com "git-tower.com")
 
-# GIT updaters
+# Git updaters
 - [gitup](https://github.com/earwig/git-repo-updater)
+
+# Git services
+- [gogs - painless self-hosted Git service](https://github.com/gogs/gogs)

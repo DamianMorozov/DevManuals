@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.394] - 2022-05-06
+## [0.3.395] - 2022-05-06
 ### Added
 - [Windows/Cmd/Net use.md](Windows/Cmd/Net%20use.md)
+### Changed
+- [Dev/Version control](Dev/Version%20control/README.md)
 
 ## [0.3.393] - 2022-04-27
 ### Changed

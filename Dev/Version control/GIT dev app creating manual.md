@@ -1,5 +1,7 @@
 # GIT dev app creating manual
 
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
 - [Back](README.md)
 
  1. Create new git repository with description on https://github.com

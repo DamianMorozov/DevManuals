@@ -1,5 +1,9 @@
 # Gitup cheatsheet
 
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back](README.md)
+
 ```
 gitup -h
 usage: gitup [-u] [-t n] [-c] [-f] [-p] [-a path [path ...]] [-d path [path ...]] [-l] [-n] [-b [path]] [-e command] [-h] [-v] [--selftest] [path ...]
