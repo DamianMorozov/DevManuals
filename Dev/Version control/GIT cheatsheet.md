@@ -210,14 +210,14 @@ git pull origin master:master                     ## get other branch
 
 ## Stashes
 ```
-git stash                                         ## 
-git stash list                                    ## 
-git stash apply                                   ## 
-git stash apply stash@{2}                         ## 
-git stash apply --index                           ## 
-git stash drop                                    ## 
-git stash pop                                     ## 
-git stash branch                                  ## 
+git stash                                         ## hide the changes in a special stash section
+git stash list                                    ## list of hidden changes
+git stash apply                                   ## apply the last stash
+git stash apply stash@{2}                         ## apply the specified stash
+git stash apply --index                           ## apply the last stash and make changes to the index
+git stash drop                                    ## delete the last files placed in the temporary stash
+git stash pop                                     ## apply hidden changes and immediately remove them from the stack
+git stash branch                                  ## create branches from hidden changes
 ```
 
 ## How to revert uncommitted changes including files and folders?
@@ -261,4 +261,20 @@ git remote add all https://github.com/...git      ## add new remote "all" repo
 git remote set-url --add all https://...git       ## add second repo into "all" repo
 git push -u all main                              ## set upstream
 git push                                          ## push changes
+```
+
+## Make current stash, rollback to need commit, publish need commit, restore the stash
+```
+git stash                                         ## make stash
+git hist                                          ## view commits hashes
+git checkout <hash2>                              ## move HEAD to commit 2
+## make product publish
+git restore .                                     ## restore all files after publish
+git hist                                          ## view commits hashes
+git checkout <hash1>                              ## move HEAD to 'commit 1'
+git branch -f main <hash1>                        ## move the 'main' branch to 'commit 1'
+git checkout main                                 ## move HEAD to the 'main' branch
+git stash list                                    ## view list of stashes
+git stash apply stash@{0}                         ## apply the backup stash
+git stash drop                                    ## drop the backup stash
 ```
