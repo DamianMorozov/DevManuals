@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.403] - 2022-05-16
+### Added
+- [Linux/OS](Linux/OS/README.md)
+- [Linux/OS/Ubuntu](Linux/OS/Ubuntu/README.md)
+### Changed
+- [Linux](Linux/README.md)
+- [Linux/OS/Ubuntu/Ubuntu update](Linux/OS/Ubuntu/README.md)
+- [Linux/OS/Ubuntu/Ubuntu version](Linux/OS/Ubuntu/README.md)
+
 ## [0.3.397] - 2022-05-06
 ### Added
 - [Windows/Cmd/Net use.md](Windows/Cmd/README.md)
