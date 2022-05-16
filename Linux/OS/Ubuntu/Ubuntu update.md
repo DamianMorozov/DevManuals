@@ -4,7 +4,6 @@
 - [How To Upgrade Ubuntu To 18.04 LTS Bionic Beaver?](https://linuxconfig.org/how-to-upgrade-to-ubuntu-18-04-lts-bionic-beaver "linuxconfig.org")
 - [How To Upgrade Ubuntu To 19.10 Eoan Ermine?](https://linuxconfig.org/how-to-upgrade-ubuntu-to-19-10-eoan-ermine "linuxconfig.org")
 - [How To Upgrade Ubuntu To 20.04 LTS Focal Fossa](https://linuxconfig.org/how-to-upgrade-ubuntu-to-20-04-lts-focal-fossa "linuxconfig.org")
-- [How To Upgrade Ubuntu To 22.04 LTS Jammy Jellyfish](https://linuxconfig.org/how-to-upgrade-ubuntu-to-22-04-lts-jammy-jellyfish "linuxconfig.org")
 - [JammyUpgrades](https://help.ubuntu.com/community/JammyUpgrades "help.ubuntu.com")
 
 ## How to install updates via command line?

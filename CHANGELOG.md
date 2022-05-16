@@ -6,12 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.406] - 2022-05-16
+## [0.3.407] - 2022-05-16
 ### Added
 - [Linux/Desktops/Gnome](Linux/Desktops/Gnome/README.md)
 - [Linux/Desktops/Gnome/Gnome apps](Linux/Desktops/Gnome/README.md)
 - [Linux/OS](Linux/OS/README.md)
 - [Linux/OS/Ubuntu](Linux/OS/Ubuntu/README.md)
+- [Linux/OS/Ubuntu/Upgrade to 22.04 LTS](Linux/OS/Ubuntu/README.md)
 ### Changed
 - [Linux](Linux/README.md)
 - [Linux/OS/Ubuntu/Ubuntu update](Linux/OS/Ubuntu/README.md)
