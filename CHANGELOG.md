@@ -6,8 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.403] - 2022-05-16
+## [0.3.406] - 2022-05-16
 ### Added
+- [Linux/Desktops/Gnome](Linux/Desktops/Gnome/README.md)
+- [Linux/Desktops/Gnome/Gnome apps](Linux/Desktops/Gnome/README.md)
 - [Linux/OS](Linux/OS/README.md)
 - [Linux/OS/Ubuntu](Linux/OS/Ubuntu/README.md)
 ### Changed
