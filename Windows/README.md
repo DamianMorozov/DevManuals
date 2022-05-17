@@ -3,9 +3,9 @@
 - [Back to the Home page](../README.md)
 
 ## Sections
-- [Windows Cmd](Cmd/README.md)
-- [Windows PowerShell](PowerShell/README.md)
-- [Windows Settings](Settings/README.md)
+- [Command Prompt](Command%20Prompt/README.md)
+- [PowerShell](PowerShell/README.md)
+- [Settings](Settings/README.md)
 - [WSL - Windows Subsystem for Linux](WSL/README.md)
 
 ## Items
