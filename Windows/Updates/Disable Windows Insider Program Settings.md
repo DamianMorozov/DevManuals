@@ -11,3 +11,7 @@ Open Registry Editor and navigate to: `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Micr
 Right-click on the Windows key in the left pane, and select New -> Key.
 Name the new key as `PreviewBuilds`, and then right-click it and select New -> DWORD (32-bit) Value.
 Name the DWORD as `AllowBuildPreview`. Leave its value data as `0`.
+
+## Method 3.
+Go to url: [Leave the Windows Insider Program](https://insider.windows.com/en-us/leave-program).
+Go to `Settings > Update & Security > Windows Insider Program > Stop Insider Preview Builds` to see your options.
