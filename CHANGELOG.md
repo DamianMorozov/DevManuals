@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.416] - 2022-05-18
+### Added
+- [Windows/Updates/Disable Windows Insider Program Settings](Windows/Updates/README.md)
+
 ## [0.3.415] - 2022-05-17
 ### Changed
 - [Windows/Command Prompt](Windows/Command%20Prompt/README.md)
