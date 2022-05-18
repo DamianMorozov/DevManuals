@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.417] - 2022-05-18
+## [0.3.418] - 2022-05-18
 ### Added
+- [Linux/Linux resources](Linux/README.md)
 - [Windows/Updates/Disable Windows Insider Program Settings](Windows/Updates/README.md)
 - [Windows/Updates/Windows updates blacklist](Windows/Updates/README.md)
 
