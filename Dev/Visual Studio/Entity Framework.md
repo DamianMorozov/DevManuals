@@ -13,7 +13,7 @@ American National Standards Institute (ANSI) - Американский наци
 Create Retrieve Update Delete (CRUD)
 Language Integrated Query (LINQ) - языковой комплексный запрос
 
-Версии Entity Framework
+## Entity Framework versions
 EF ver 1. Visual Studio 2008 SP1. FrameWork 3.5: Database First - сначала база данных
 EF ver 2. 
 EF ver 3. 

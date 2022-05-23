@@ -5,29 +5,24 @@
 - [Back to the Readme page](README.md)
 
 https://habr.com/ru/company/microsoft/blog/447124/
-====================================================================================================
-Clean Solution
---------------
+
+## Clean Solution
 Projects and Solutions > General
 ✓ Reopen documents on solution load
 ✓ Restore Solution Explorer project hierarchy on solution load
-----------------------------------------------------------------------------------------------------
-Code Cleanup
-------------
+
+## Code Cleanup
 Configure Code Cleanup - Ctrl+K, Ctrl+Q
 Available fixers move to Included fixers.
 Run Code Cleanup - Ctrl+K, Ctrl+E
-----------------------------------------------------------------------------------------------------
-IntelliCode
------------
+
+## IntelliCode
 https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode
-----------------------------------------------------------------------------------------------------
-Clipboard Ring
---------------
+
+## Clipboard Ring
 Ctrl+Shift+V
-----------------------------------------------------------------------------------------------------
-Refactoring C#
---------------
+
+## Refactoring C#
 https://devblogs.microsoft.com/dotnet/visual-studio-2019-net-productivity/
 Regex Language Support.
 Export editor settings to Editorconfig.
@@ -51,16 +46,13 @@ Document health indicator.
 Find All References and CodeLens Razor support.
   Shift+F12.
 Run tests from Solution Explorer.
-----------------------------------------------------------------------------------------------------
-Git pull
---------
+
+## Git pull
 Environment > Keyboard
 Team.Git.Pull - Ctrl+Shift+P
 https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitPull
 Git pull for Solution - Ctrl+K, Ctrl+Z
-----------------------------------------------------------------------------------------------------
-Git stash
----------
+
+## Git stash
 Team Explorer - Ctrl+\, Ct+M
 Changes - Stash
-----------------------------------------------------------------------------------------------------

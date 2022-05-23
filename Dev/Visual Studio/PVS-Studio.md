@@ -4,10 +4,9 @@
 - [Back to the Dev page](../README.md)
 - [Back to the Readme page](README.md)
 
-- [Web-site](https://www.viva64.com/ru/b/0457/)
-
-## PVS-Studio Free
-```Key: FREE-FREE-FREE-FREE```
+## Open source license
+Name: `PVS-Studio Free`
+Number: `Key: FREE-FREE-FREE-FREE`
 
 ## Comments for students (academic license):
 ```
