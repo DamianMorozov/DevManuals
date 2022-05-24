@@ -4,6 +4,15 @@
 - [Back to the Dev page](../README.md)
 - [Back](README.md)
 
+## Links
+- [gitup - git-repo-updater](https://github.com/earwig/git-repo-updater)
+
+## Config
+```
+C:\Users\user\.config\gitup\bookmarks
+```
+
+## Help
 ```
 gitup -h
 usage: gitup [-u] [-t n] [-c] [-f] [-p] [-a path [path ...]] [-d path [path ...]] [-l] [-n] [-b [path]] [-e command] [-h] [-v] [--selftest] [path ...]
@@ -27,7 +36,7 @@ bookmarking:
   -n, --clean, --cleanup
                         delete any bookmarks that don't exist
   -b [path], --bookmark-file [path]
-                        use a specific bookmark config file (default: C:\Users\morozov_dv\.config\gitup\bookmarks)
+                        use a specific bookmark config file (default: C:\Users\user\.config\gitup\bookmarks)
 
 advanced:
   -e command, --exec command, --batch command
