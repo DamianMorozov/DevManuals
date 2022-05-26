@@ -20,3 +20,7 @@ For example:
 ## Font
 Tools → Options → Environment → Fonts and Colors → 
 → Cascadia Code Extra Light 12
+
+## Scroll bars
+Tools → Options → Text Editor → All Languages → Scroll Bars
+→ Behavior → ✓ Show Preview Tooltip → Source overview → Off
