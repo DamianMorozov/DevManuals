@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.437] - 2022-05-26
+## [0.3.438] - 2022-05-26
 ### Changed
 - [Dev/Go/Get started with Go](Dev/Go/README.md)
 - [Dev/Go/Go resources](Dev/Go/README.md)
+- [Dev/Go/Troubleshooting](Dev/Go/README.md)
 
 ## [0.3.435] - 2022-05-25
 ### Changed
