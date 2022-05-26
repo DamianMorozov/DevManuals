@@ -1,19 +1,8 @@
-====================================================================================================
-Go resources
-====================================================================================================
-English resources
------------------
-https://golang.org/
-----------------------------------------------------------------------------------------------------
-Russian resources
------------------
-----------------------------------------------------------------------------------------------------
-Developer resources
--------------------
-https://golang.org/doc/
-https://golang.org/doc/install
-https://golang.org/doc/tutorial/getting-started
-https://golang.org/doc/tutorial/create-module
-https://golang.org/pkg/
-https://pkg.go.dev/
-----------------------------------------------------------------------------------------------------
+# Go resources
+
+## Links
+- [Go](https://go.dev/)
+- [Get started](https://go.dev/learn/)
+- [Doc](https://go.dev/doc/)
+- [Packages](https://pkg.go.dev/)
+- [Play](https://go.dev/play/)

@@ -6,19 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.437] - 2022-05-26
+### Changed
+- [Dev/Go/Get started with Go](Dev/Go/README.md)
+- [Dev/Go/Go resources](Dev/Go/README.md)
+
 ## [0.3.435] - 2022-05-25
-### Added
+### Changed
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
 - [Dev/Version control/Gitup cheatsheet](Dev/Version%20control/README.md)
 
 ## [0.3.433] - 2022-05-24
-### Added
+### Changed
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
 - [Dev/Version control/Gitup cheatsheet](Dev/Version%20control/README.md)
 - [Dev/Version control/GIT resources](Dev/Version%20control/README.md)
 
 ## [0.3.430] - 2022-05-23
-### Added
+### Changed
 - [Dev/Visual Studio](Dev/Visual%20Studio/README.md)
 
 ## [0.3.419] - 2022-05-18
