@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.441] - 2022-05-30
+## [0.3.442] - 2022-05-30
 ### Changed
 - [Linux/Backups](Linux/Backups/README.md)
+- [Linux/Backups/Backups resources](Linux/Backups/README.md)
 
 ## [0.3.440] - 2022-05-27
 ### Changed
