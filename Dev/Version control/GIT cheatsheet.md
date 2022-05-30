@@ -166,11 +166,12 @@ git show [branch]:[file]                          ##
 ```
 git push origin --tags                            ## send all tags to the repository
 git push origin tag                               ## send the tag to the repository
-git show v1.6.4.047                               ## view tag content
+git show v0.0.000                                 ## view tag content
 git tag                                           ## view all tags
-git tag -a v0.1.2.3 -m "26.04.2018"               ## create a tag with a version and a comment
-git tag -a v0.1.2.3 0011223344                    ## create a tag with the version to commit on the hash part
-git tag -l *v1.6*                                 ## search for tags by mask
+git tag -a v0.0.000 -m "TASK-xxx"                 ## create a tag with a version and a comment
+git tag -a v0.0.000 0011223344                    ## create a tag with the version to commit on the hash part
+git tag -d v0.0.000                               ## delete a tag
+git tag -l *v0.0*                                 ## search for tags by mask
 ```
 
 ## Branches
