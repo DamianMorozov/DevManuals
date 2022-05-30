@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.441] - 2022-05-30
+### Changed
+- [Linux/Backups](Linux/Backups/README.md)
+
 ## [0.3.440] - 2022-05-27
 ### Changed
 - [Windows/Updates/Windows updates blacklist](Windows/Updates/README.md)
