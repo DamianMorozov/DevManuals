@@ -8,6 +8,7 @@
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
+- [GitHub Copilot home](https://copilot.github.com/)
 - [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
 - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 - [NUnit  VS Templates](https://github.com/nunit/nunit-vs-templates)
