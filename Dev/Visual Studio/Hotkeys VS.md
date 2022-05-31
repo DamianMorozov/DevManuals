@@ -1,8 +1,8 @@
 # Hotkeys Visual Studio
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the Readme page](README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
+- [Back to the section](README.md)
 
 Environment > Keyboard
 https://msdn.microsoft.com/ru-ru/library/da5kh0wa.aspx

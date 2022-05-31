@@ -1,8 +1,8 @@
 # Entity Framework
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the Readme page](README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
+- [Back to the section](README.md)
 
 https://msdn.microsoft.com/en-us/data/jj574253.aspx
 

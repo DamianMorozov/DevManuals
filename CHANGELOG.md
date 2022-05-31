@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.450] - 2022-05-31
+## [0.3.470] - 2022-05-31
 ### Changed
 - [Dev/Networks](Dev/Networks/README.md)
+- [Dev/Visual Studio](Dev/Visual%20Studio/README.md)
 
 ## [0.3.446] - 2022-05-30
 ### Changed

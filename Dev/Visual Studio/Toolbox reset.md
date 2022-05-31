@@ -1,8 +1,8 @@
 # Toolbox reset
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the Readme page](README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
+- [Back to the section](README.md)
 
 http://a-kicker-n.blogspot.ru/2010/01/restore-missing-controls-in-visual.html
 When I created a Windows forms project, the controls in Toolbox were missing. The usual remedy of right-clicking the Toolbox and then selecting Reset Toolbox did not help.

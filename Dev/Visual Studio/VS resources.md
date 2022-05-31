@@ -1,8 +1,8 @@
 # Visual Studio resources
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the MS Visual Studio page](../README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
+- [Back to the section](README.md)
 
 ## Items
 - [Visual Studio](https://visualstudio.microsoft.com/)

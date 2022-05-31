@@ -1,8 +1,8 @@
 # Visual Studio Project Settings
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the Readme page](README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
+- [Back to the section](README.md)
 
 ## Visual Studio Database Project Settings
 - Database Settings
