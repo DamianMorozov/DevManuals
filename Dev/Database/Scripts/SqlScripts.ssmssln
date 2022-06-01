@@ -36,6 +36,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CD
 		Tables\Constraints check.sql = Tables\Constraints check.sql
 		Tables\Constraints default.sql = Tables\Constraints default.sql
 		Tables\Constraints foreign key.sql = Tables\Constraints foreign key.sql
+		Tables\Constraints primary key.sql = Tables\Constraints primary key.sql
 		Tables\Constraints unique.sql = Tables\Constraints unique.sql
 		Tables\Filegroups and objects.sql = Tables\Filegroups and objects.sql
 		Tables\Finding duplicate values.sql = Tables\Finding duplicate values.sql
@@ -50,6 +51,9 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9807D1E9-DFA8-4129-8250-D1B995D3C03D}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

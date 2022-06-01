@@ -8,6 +8,7 @@
 - [Constraints check](Constraints%20check.sql)
 - [Constraints default](Constraints%20default.sql)
 - [Constraints foreign key](Constraints%20foreign%20key.sql)
+- [Constraints primary key](Constraints%20primary%20key.sql)
 - [Constraints unique](Constraints%20unique.sql)
 - [Filegroups and objects.sql](Filegroups%20and%20objects.sql)
 - [Finding duplicate values.sql](Finding%20duplicate%20values.sql)
