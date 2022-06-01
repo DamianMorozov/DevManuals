@@ -19,6 +19,6 @@ Tools > Options > Environment > General > Color theme > Dark
 
 # SSMS Object Explorer font size
 
-Tools -> Options -> Environment -> Fonts and Colors
+Tools → Options → Environment → Fonts and Colors
 Show settings for: Environment
-Font: Consolas 12
+Font: Cascadia Code Extra Light 12

@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.471] - 2022-06-01
+## [0.3.472] - 2022-06-01
 ### Added
 - [Dev/Database/Scripts/Tables/Constraints primary key](Dev/Database/Scripts/README.md)
+- [Dev/Database/Scripts/SSMS Cheet sheet](Dev/Database/README.md)
 
 ## [0.3.470] - 2022-05-31
 ### Changed
