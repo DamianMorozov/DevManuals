@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.474] - 2022-06-07
+## [0.3.475] - 2022-06-07
 ### Added
 - [Dev/Visual Studio/Tools](Dev/Visual%20Studio/README.md)
 
