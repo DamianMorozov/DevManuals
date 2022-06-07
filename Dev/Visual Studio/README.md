@@ -21,6 +21,7 @@
 - [PVS-Studio](PVS-Studio.md)
 - [Tips and trics](Tips%20and%20trics.md)
 - [Toolbox reset](Toolbox%20reset.md)
+- [Tools](Tools.md)
 - [VS Options](VS%20options.md)
 - [VS Options 2019](VS%20options%202019.md)
 - [VS resources](VS%20resources.md)
