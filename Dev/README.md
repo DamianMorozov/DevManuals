@@ -41,6 +41,7 @@
 - [Dev tools](Dev%20tools.md)
 - [Developer rules [Rus]](Developer%20rules%20[Rus].md)
 - [Developer rules](Developer%20rules.md)
+- [Documentation](Documentation.md)
 - [Dotnet new project](Dotnet%20new%20project.md)
 - [Entity Component System](Entity%20Component%20System.md)
 - [Head First](Head%20First.md)
