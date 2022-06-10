@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.485] - 2022-06-10
+### Changed
+- [Dev/Dotnet](Dev/Dotnet/README.md)
+
 ## [0.3.480] - 2022-06-09
 ### Added
 - [Dev/GitHub Copilot](Dev/GitHub%20Copilot/README.md)
