@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.487] - 2022-06-14
+### Added
+- [Linux/Package managers/Flatpak](Linux/Package%20managers/Flatpak.md)
+- [Linux/Package managers](Linux/Package%20managers/README.md)
+
 ## [0.3.485] - 2022-06-10
 ### Changed
 - [Dev/Dotnet](Dev/Dotnet/README.md)
