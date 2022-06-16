@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.492] - 2022-06-16
+## [0.3.495] - 2022-06-16
 ### Added
 - [Dev/Database/Scripts/Selects](Dev/Database/Scripts/Selects/README.md)
+- [Dev/Dotnet/MAUI](Dev/Dotnet/MAUI/README.md)
 
 ## [0.3.487] - 2022-06-14
 ### Added
