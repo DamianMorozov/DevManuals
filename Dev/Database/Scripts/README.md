@@ -8,5 +8,6 @@
 - [Bases](Bases/README.md)
 - [Functions](Functions/README.md)
 - [Parsers](Parsers/README.md)
+- [Selects](Selects/README.md)
 - [SSIS](SSIS/README.md)
 - [Tables](Tables/README.md)

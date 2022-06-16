@@ -43,9 +43,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CD
 		Tables\Foreign keys. Match.sql = Tables\Foreign keys. Match.sql
 		Tables\Foreign keys.sql = Tables\Foreign keys.sql
 		Tables\README.md = Tables\README.md
-		Tables\Select last changed goods.sql = Tables\Select last changed goods.sql
 		Tables\Tables and rows.sql = Tables\Tables and rows.sql
 		Tables\Tables and sizes.sql = Tables\Tables and sizes.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Selects", "Selects", "{1ED7E467-5A1C-4F4C-B8C5-210561C39735}"
+	ProjectSection(SolutionItems) = preProject
+		Selects\Example of search with case sensetive.sql = Selects\Example of search with case sensetive.sql
+		Selects\README.md = Selects\README.md
+		Selects\Select last changed goods.sql = Selects\Select last changed goods.sql
 	EndProjectSection
 EndProject
 Global
@@ -53,7 +59,7 @@ Global
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9807D1E9-DFA8-4129-8250-D1B995D3C03D}.Default|Default.ActiveCfg = Default
+		{50176A10-39FF-4D34-9CDC-2FDB4F82A5DD}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

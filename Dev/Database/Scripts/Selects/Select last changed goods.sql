@@ -1,0 +1,54 @@
+-- Select last changed goods.
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+
+-- Drop table.
+DROP TABLE IF EXISTS #GoodsPrices
+
+-- Create table.
+CREATE TABLE #GOODS_PRICES(
+	[ID] [INT] IDENTITY(1,1) NOT NULL,
+	[GOOD] [NVARCHAR](255) NOT NULL,
+	[CHANGEDATE] [DATETIME] NOT NULL,
+	[PRICE] DECIMAL(10,2) NOT NULL,
+	PRIMARY KEY CLUSTERED ([ID] ASC)
+)
+
+-- Insert data.
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 1', '2021-01-01 00:00:00', 100.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 1', '2021-02-01 00:00:00', 110.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 1', '2021-03-01 00:00:00', 105.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 2', '2021-04-01 00:00:00', 300.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 2', '2021-04-01 00:00:00', 310.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 2', '2021-05-01 00:00:00', 305.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 3', '2022-06-01 00:00:00', 200.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 3', '2022-07-01 00:00:00', 250.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 3', '2022-08-01 00:00:00', 220.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 4', '2021-09-01 00:00:00', 200.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 4', '2021-10-01 00:00:00', 250.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 4', '2021-11-01 00:00:00', 220.00);
+INSERT INTO #GOODS_PRICES ([Good], [ChangeDate], [Price]) VALUES (N'Good 4', '2021-12-01 00:00:00', 220.00);
+
+-- Select all data.
+SELECT [ID]
+	  ,[GOOD]
+	  ,[CHANGEDATE]
+	  ,[PRICE]
+FROM #GOODS_PRICES
+ORDER BY [CHANGEDATE] DESC;
+
+-- Select last changed goods.
+SELECT
+	[P2].[ID]
+   ,[P2].[GOOD]
+   ,[P2].[CHANGEDATE]
+   ,[P2].[PRICE]
+FROM #GOODS_PRICES [P2]
+JOIN (SELECT [GOOD], MAX([CHANGEDATE]) [CHANGEDATE]
+	FROM #GOODS_PRICES
+	GROUP BY [GOOD]) [P1]
+	ON [P1].[GOOD] = [P2].[GOOD] AND [P1].[CHANGEDATE] = [P2].[CHANGEDATE]
+ORDER BY [P2].[CHANGEDATE] DESC;
+
+-- Drop table.
+DROP TABLE IF EXISTS #GOODS_PRICES;
