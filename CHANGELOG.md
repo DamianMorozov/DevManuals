@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.498] - 2022-06-17
+## [0.3.499] - 2022-06-17
 ### Changed
-- [Dev/Version control/Git readme helpers.md](Dev/Version%20control/Git%20readme%20helpers.md)
+- [Dev/Version control/Git readme helpers](Dev/Version%20control/Git%20readme%20helpers.md)
+- [Dev/Version control/Git resources](Dev/Version%20control/Git%20resources.md)
 - [README](README.md)
 
 ## [0.3.495] - 2022-06-16
