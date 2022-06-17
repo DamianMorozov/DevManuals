@@ -7,6 +7,7 @@
 - [GIT cheatsheet](GIT%20cheatsheet.md)
 - [GIT cheatsheet [Rus]](GIT%20cheatsheet%20[Rus].md)
 - [GIT dev app creating manual](GIT%20dev%20app%20creating%20manual.md)
+- [Git readme helpers](Git%20readme%20helpers.md)
 - [GIT resources](GIT%20resources.md)
 - [Gitup cheatsheet](Gitup%20cheatsheet.md)
 - [SVN cheatsheet](SVN%20cheatsheet.md)
