@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.501] - 2022-07-04
+### Changed
+- [Dev/Database/Scripts/Tables](Dev/Database/Scripts/Tables/README.md)
+
 ## [0.3.499] - 2022-06-17
 ### Changed
 - [Dev/Version control/Git readme helpers](Dev/Version%20control/Git%20readme%20helpers.md)
