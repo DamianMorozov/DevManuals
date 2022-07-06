@@ -26,3 +26,6 @@
 - [VS Options 2019](VS%20options%202019.md)
 - [VS resources](VS%20resources.md)
 - [XAML Features in VS 2019 16.4 preview 3](XAML%20Features%20in%20VS%202019%2016.4%20preview%203.md)
+
+## Images
+![](VS%202019%20default%20keyboard%20shortcuts.png?raw=true)
