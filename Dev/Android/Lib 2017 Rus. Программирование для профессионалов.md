@@ -1,6 +1,7 @@
 # Android [Rus]
 
-2017 - Б.Филлипс, К.Стюарт, К.Марсикано - Android. Программирование для профессионалов
+2017 Rus. Android. Программирование для профессионалов
+Б.Филлипс, К.Стюарт, К.Марсикано
 https://forums.bignerdranch.com/
 https://developer.android.com/studio/
 https://www.oracle.com/index.html  -- Java Development Kit

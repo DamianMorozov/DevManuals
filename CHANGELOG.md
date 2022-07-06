@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.504] - 2022-07-06
+### Changed
+- [Dev/Android](Dev/Android/README.md)
+### Added
+- [Dev/Android/Android resources](Dev/Android/Android%20resources.md)
+
 ## [0.3.502] - 2022-07-04
 ### Changed
 - [Dev/Database/Scripts/Tables](Dev/Database/Scripts/Tables/README.md)
