@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.511] - 2022-07-12
+### Added
+- [Dev/Icons](Dev/Icons.md)
+
 ## [0.3.510] - 2022-07-07
 ### Changed
 - [Dev/Cross-platform](Dev/Cross-platform/README.md)

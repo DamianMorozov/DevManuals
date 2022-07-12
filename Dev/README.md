@@ -32,6 +32,7 @@
 ## Items
 - [10 Questions Product Managers](10%20Questions%20Product%20Managers.md)
 - [10 Questions Product Managers [Rus]](10%20Questions%20Product%20Managers%20[Rus].md)
+- [Icons](Icons.md)
 - [Lib 2014 Rus. The Art of Unit Testing (with examples in C#)](Lib%202014%20Rus.%20The%20Art%20of%20Unit%20Testing%20(with%20examples%20in%20C%23).md)
 - [Lib 2016 Rus. Grokking Algorithms.md](Lib%202016%20Rus.%20Grokking%20Algorithms.md)
 - [Lib 2017 Rus. Building Maintainable Software (C# Edition)](Lib%202017%20Rus.%20Building%20Maintainable%20Software%20(C%23%20Edition).md)
