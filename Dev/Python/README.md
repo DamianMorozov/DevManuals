@@ -5,3 +5,6 @@
 
 ## Items
 - [Python](Python.md)
+
+## Sections
+- [Scripts](Scripts/README.md)
