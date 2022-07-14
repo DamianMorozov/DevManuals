@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.514] - 2022-07-14
+### Changed
+- [Dev/Python/Scripts/Delete old files](Dev/Python/Scripts/Delete%20old%20files.py)
+
 ## [0.3.513] - 2022-07-13
 ### Added
 - [Dev/Python/Scripts/Delete old files](Dev/Python/Scripts/Delete%20old%20files.py)
