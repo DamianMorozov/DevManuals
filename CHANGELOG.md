@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.515] - 2022-07-15
+## [0.3.516] - 2022-07-15
 ### Changed
 - [Linux/Systems/smartctl](Linux/Systems/smartctl.md)
+- [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
 
 ## [0.3.514] - 2022-07-14
 ### Changed
