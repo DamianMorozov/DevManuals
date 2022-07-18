@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.522] - 2022-07-18
+### Changed
+- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
+
 ## [0.3.521] - 2022-07-15
 ### Changed
 - [Linux/Systems/smartctl](Linux/Systems/smartctl.md)
@@ -13,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Hardware](Hardware/README.md)
 - [Hardware/HDD](Hardware/HDD/README.md)
-- [Hardware/HDD/SSD TWB](Hardware/HDD/SSD%20TWB.md)
+- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
 
 ## [0.3.514] - 2022-07-14
 ### Changed

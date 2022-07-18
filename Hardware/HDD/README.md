@@ -4,4 +4,4 @@
 - [Back to the Hardware page](../README.md)
 
 ## Items
-- [SSD TWB](SSD%20TWB.md)
+- [SSD TBW](SSD%20TBW.md)
