@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.523] - 2022-07-20
+### Changed
+- [Linux/Networks/Networks troubleshooting](Linux/Networks/Networks%20troubleshooting.md)
+
 ## [0.3.522] - 2022-07-18
 ### Changed
 - [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
