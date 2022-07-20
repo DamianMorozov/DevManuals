@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.523] - 2022-07-20
+## [0.3.524] - 2022-07-20
 ### Changed
+- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
 - [Linux/Networks/Networks troubleshooting](Linux/Networks/Networks%20troubleshooting.md)
 
 ## [0.3.522] - 2022-07-18

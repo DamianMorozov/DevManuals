@@ -153,6 +153,8 @@ git log -p -2                                     ##
 git log --oneline --decorate --graph --all        ## 
 git log --pretty=oneline                          ## 
 git log --pretty=format:"%h %s" --graph           ## 
+git log --graph --pretty=format:"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s"
+git log --graph --pretty=format:"%C(yellow)%h%Creset %Cgreen(%cd) %C(bold blue)<%an>%Creset %C(red)%d%Creset %s" --all
 git log --author='Name' --after={1.week.ago} --pretty=oneline --abbrev-commit ## 
 git log --no-merges master                        ## 
 git log --since=2.weeks                           ## 
