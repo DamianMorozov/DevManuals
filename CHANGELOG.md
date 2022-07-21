@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.525] - 2022-07-21
+### Changed
+- [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
+
 ## [0.3.524] - 2022-07-20
 ### Changed
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)

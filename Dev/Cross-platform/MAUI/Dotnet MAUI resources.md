@@ -7,6 +7,7 @@
 - [.NET Multi-platform App UI documentation](https://docs.microsoft.com/en-us/dotnet/maui/)
 - [.NET MAUI Samples](https://github.com/dotnet/maui-samples)
 - [Build mobile and desktop apps with .NET MAUI](https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/)
+- [New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)
 
 ## Repos
 - [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
