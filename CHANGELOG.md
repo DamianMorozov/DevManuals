@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.526] - 2022-07-21
+## [0.3.531] - 2022-07-21
 ### Changed
 - [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
+- [Windows/Networks](Windows/Networks.md)
+- [Windows/PID](Windows/PID.md)
+- [Windows/Systems](Windows/Systems.md)
+- [Windows/Windows Terminal](Windows/Windows%20Terminal.md)
+- [Windows/Winget](Windows/Winget.md)
 ### Added
 - [Windows/Backups](Windows/Backups.md)
 

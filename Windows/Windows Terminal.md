@@ -1,11 +1,7 @@
 # Windows Terminal
 
-[Windows Terminal from sourceforge.net](https://sourceforge.net/projects/windows-terminal.mirror/ "sourceforge.net")
-
-[Windows Terminal from Microsoft Store](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701 "microsoft.com")
-
-
---------
+- [Windows Terminal from sourceforge.net](https://sourceforge.net/projects/windows-terminal.mirror/ "sourceforge.net")
+- [Windows Terminal from Microsoft Store](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701 "microsoft.com")
 
 # Manual install Windows Terminal
 
