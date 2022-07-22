@@ -16,7 +16,7 @@
 - [Garbage Collector](Garbage%20Collector.md)
 - [Hotkeys ReSharper](Hotkeys%20ReSharper.md)
 - [Hotkeys VS](Hotkeys%20VS.md)
-- [Project Properties](Project%20Properties.md)
+- [Project properties](Project%20properties.md)
 - [Project Settings](Project%20Settings.md)
 - [PVS-Studio](PVS-Studio.md)
 - [Tips and trics](Tips%20and%20trics.md)

@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.533] - 2022-07-22
+### Changed
+- [Dev/Visual Studio/Project properties](Dev/Visual%20Studio/Project%20properties.md)
+
 ## [0.3.532] - 2022-07-21
 ### Changed
 - [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
