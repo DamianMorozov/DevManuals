@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.534] - 2022-07-25
+### Changed
+- [Dev/C# ASP and Blazor/Radzen components](Dev/C#%20ASP%20and%20Blazor/Radzen%20components.md)
+
 ## [0.3.533] - 2022-07-22
 ### Changed
 - [Dev/Visual Studio/Project properties](Dev/Visual%20Studio/Project%20properties.md)

@@ -18,17 +18,22 @@ Write this in **_Imports.razor**:
 ```
 
 ## Step 3. Include a theme
-Write this in **_Host.cshtml** (server-side Blazor) or **wwwroot/index.html** (client-side WebAssembly Blazor) before <!DOCTYPE html>:
+Server-side Blazor before .NET 6: edit **_Host.cshtml**
+Server-side Blazor .NET 6: edit **_Layout.cshtml**
+Client-side WebAssembly Blazor: edit **wwwroot/index.html**  before <!DOCTYPE html>:
 ```
-<!--Radzen theme-->
+<!-- Radzen theme -->
 <link rel="stylesheet" href="_content/Radzen.Blazor/css/default-base.css">
-<!--Include Bootstrap-->
+<!-- Include Bootstrap -->
 <link rel="stylesheet" href="_content/Radzen.Blazor/css/default.css">
 ```
 
 ## Step 4. Include Radzen.Blazor.js
-Write this in **_Host.cshtml** (server-side Blazor) or **wwwroot/index.html** (client-side WebAssembly Blazor) at the end of <body>:
+Server-side Blazor before .NET 6: edit **_Host.cshtml**
+Server-side Blazor .NET 6: edit **_Layout.cshtml**
+Client-side WebAssembly Blazor: edit **wwwroot/index.html** at the end of <body>:
 ```
+<!-- Java scripts -->
 <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
 ```
 
@@ -47,14 +52,14 @@ private void ButtonClicked()
 ```
 
 ## Step 6. Use Dialog, Notification, ContextMenu and Tooltip components
-Write this in **Shared/MainLayout.razor** after @inherits:
+Open the **Shared\MainLayout.razor** file and include:
 ```
 <RadzenDialog />
 <RadzenNotification />
 <RadzenContextMenu />
 <RadzenTooltip />
 ```
-Write this in **Startup.cs** (server-side Blazor):
+Open **Startup.cs** file (Blazor Server before .NET 6) or **Program.cs** (Blazor WebAssembly or Blazor Server after .NET 6) and add:
 ```
 public void ConfigureServices(IServiceCollection services)
 {
