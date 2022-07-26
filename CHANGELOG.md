@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.538] - 2022-07-26
+## [0.3.539] - 2022-07-26
+### Changed
+- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
 ### Added
 - [Dev/Databases/Lib resources](Dev/Databases/Lib%20resources.md)
 - [Dev/Databases/Lost sa password](Dev/Databases/Lost%20sa%20password.md)
