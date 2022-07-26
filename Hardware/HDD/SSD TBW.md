@@ -13,6 +13,9 @@ Formula DWPD = TBW / (Capacity [TB] x 365 [days] * Waranty [years])
 -----------+------+-----------------+----------+---------
 Name       | Int  | Model           | Capacity | TBW
 -----------+------+-----------------+----------+---------
+AMD Radeon | SATA | R5SL128G        |   128 GB |   40 TB
+AMD Radeon | SATA | R5SL256G        |   256 GB |   80 TB
+AMD Radeon | SATA | R5SL512G        |   512 GB |  150 TB
 AMD Radeon | SATA | R5SL1024G       |     1 TB |  300 TB
 Crucial    | SATA | CT480BX500SSD1  |   480 GB |  120 TB
 Crucial    | SATA | CT1000MX500SSD1 |     1 TB |  360 TB
