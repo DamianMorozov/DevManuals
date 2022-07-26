@@ -18,6 +18,7 @@
 - [Lib 2010 Rus. Библия пользователя](Lib%202010%20Rus.%20Библия%20пользователя.md)
 - [Lib resources](Lib%20resources.md)
 - [Lib Rus. Язык запросов SQL](Lib%20Rus.%20Язык%20запросов%20SQL.md)
+- [Lost sa password](Lost%20sa%20password.md)
 - [MS SQL AdventureWorks DB](MS%20SQL%20AdventureWorks%20DB.md)
 - [MS SQL data types](MS%20SQL%20data%20types.md)
 - [MS SQL default settings](MS%20SQL%20default%20settings.md)
