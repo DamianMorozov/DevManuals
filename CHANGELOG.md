@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.535] - 2022-07-26
+## [0.3.537] - 2022-07-26
 ### Added
 - [Dev/Databases/Lib resources](Dev/Databases/Lib%20resources.md)
+- [Dev/Databases/Questions before making changes to SQL Server](Dev/Databases/Questions%20before%20making%20changes%20to%20SQL%20Server.md)
+- [Dev/Databases/Questions before making changes to SQL Server [Rus]](Dev/Databases/Questions%20before%20making%20changes%20to%20SQL%20Server%20[Rus].md)
 
 ## [0.3.534] - 2022-07-25
 ### Changed

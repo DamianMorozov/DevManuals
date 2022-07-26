@@ -7,7 +7,6 @@
 - [Scripts](Scripts/README.md)
 
 ## Items
-- [13 вопросов перед внесением изменений в работу SQL Server](13%20вопросов%20перед%20внесением%20изменений%20в%20работу%20SQL%20Server.md)
 - [ConnectionString](ConnectionString.md)
 - [CQRS resources](CQRS%20resources.md)
 - [Cursor](Cursor.md)
@@ -28,6 +27,8 @@
 - [MS SQL setup guide [Rus]](MS%20SQL%20setup%20guide%20[Rus].md)
 - [MS SQL versions](MS%20SQL%20versions.md)
 - [NHibernate resources](NHibernate%20resources.md)
+- [Questions before making changes to SQL Server](Questions%20before%20making%20changes%20to%20SQL%20Server.md)
+- [Questions before making changes to SQL Server [Rus]](Questions%20before%20making%20changes%20to%20SQL%20Server%20[Rus].md)
 - [Setup versions](Setup%20versions.md)
 - [SqlLocalDB](SqlLocalDB.md)
 - [SSMS Cheet sheet](SSMS%20Cheet%20sheet.md)
