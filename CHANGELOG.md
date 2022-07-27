@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.540] - 2022-07-27
+### Added
+- [Dev/Licenses](Dev/Licenses.md)
+
 ## [0.3.539] - 2022-07-26
 ### Changed
 - [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)

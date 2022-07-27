@@ -47,6 +47,7 @@
 - [Dotnet new project](Dotnet%20new%20project.md)
 - [Entity Component System](Entity%20Component%20System.md)
 - [Head First](Head%20First.md)
+- [Licenses](Licenses.md)
 - [Markdown](Markdown.md)
 - [Markdown-cheat-sheet](Markdown-cheat-sheet.md)
 - [OOP principles [Rus]](OOP%20principles%20[Rus].md)
