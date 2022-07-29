@@ -5,7 +5,8 @@
 - [Back to the section](README.md)
 
 ## Properties
-- Enabling C# 9 in the project: `<LangVersion>9.0</LangVersion>`
-- Enabling C# 10 in the project: `<LangVersion>10.0</LangVersion>`
-- Targeting .NET 6: `<TargetFramework>net6.0</TargetFramework>`
 - Disable implicit using directives: `<ImplicitUsings>disable</ImplicitUsings>`
+- Enable C# 10 in the project: `<LangVersion>10.0</LangVersion>`
+- Enable C# 9 in the project: `<LangVersion>9.0</LangVersion>`
+- Enable nullable: '<Nullable>enable</Nullable>'
+- Targeting .NET 6: `<TargetFramework>net6.0</TargetFramework>`

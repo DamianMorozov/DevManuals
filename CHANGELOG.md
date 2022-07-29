@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.541] - 2022-07-29
+## [0.3.542] - 2022-07-29
 ### Changed
 - [Dev/Databases/Databases resources](Dev/Databases/Databases%20resources.md)
+- [Dev/Visual Studio/Project properties](Dev/Visual%20Studio/Project%20properties.md)
 
 ## [0.3.540] - 2022-07-27
 ### Added
