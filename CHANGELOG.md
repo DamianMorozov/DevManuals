@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.543] - 2022-08-12
+### Added
+- [Windows/Command Prompt/Dism](Windows/Command%20Prompt/Dism.md)
+
 ## [0.3.542] - 2022-07-29
 ### Changed
 - [Dev/Databases/Databases resources](Dev/Databases/Databases%20resources.md)

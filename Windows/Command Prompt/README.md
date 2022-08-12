@@ -7,6 +7,7 @@
 - [Clear temp](Clear%20temp.cmd)
 - [Control Panel tools](Control%20Panel%20tools.txt)
 - [Diskpart](Diskpart.md)
+- [Dism](Dism.md)
 - [Hibernate](Hibernate.cmd)
 - [Hybrid after 15 minutes](Hybrid%20after%2015%20minutes.cmd)
 - [Hybrid after 60 minutes](Hybrid%20after%2060%20minutes.cmd)
