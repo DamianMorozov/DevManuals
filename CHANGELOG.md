@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.544] - 2022-08-15
+### Changed
+- [Dev/Python/Scripts/Delete old files.py](Dev/Python/Scripts/Delete%20old%20files.py)
+
 ## [0.3.543] - 2022-08-12
 ### Added
 - [Windows/Command Prompt/Dism](Windows/Command%20Prompt/Dism.md)

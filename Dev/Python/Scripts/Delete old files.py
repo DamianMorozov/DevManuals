@@ -11,7 +11,7 @@ isSimulate: bool = True
 def printTitle():
     os.system('cls')
     print(f'================================================================================')
-    print(f'--- Delete old files v0.01.101 ---')
+    print(f'--- Delete old files v0.01.102 ---')
 
 def setup():
     global dir
@@ -31,7 +31,7 @@ def setup():
     else:
         diffDays = defaultDays
     global isSimulate
-    simulate: str = input(f"[i] Set simlute (default value: True): ")
+    simulate: str = input(f"[i] Set simulate (default value: True): ")
     if (simulate.upper().capitalize() == "False" or simulate.upper().capitalize() == "0"):
         isSimulate = False
     else:
