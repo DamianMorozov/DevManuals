@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# SQL Server Management Studio Solution File, Format Version 18.00
+# SQL Server Management Studio Solution File, Format Version 19.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-14B1-4D26-9B2A-C29684684D84}"
@@ -54,12 +54,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Selects", "Selects", "{1ED7
 		Selects\Select last changed goods.sql = Selects\Select last changed goods.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{E51C9157-D496-406B-8F94-B1DCA337375B}"
+	ProjectSection(SolutionItems) = preProject
+		Functions\Conversion.sql = Functions\Conversion.sql
+		Functions\README.md = Functions\README.md
+		Functions\Select functions.sql = Functions\Select functions.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{334D423B-0876-4D7C-ADF2-1AB859979950}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50176A10-39FF-4D34-9CDC-2FDB4F82A5DD}.Default|Default.ActiveCfg = Default
+		{453FFA72-6965-4B84-897D-BCF42027E402}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
