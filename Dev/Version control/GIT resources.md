@@ -8,6 +8,7 @@
 - [github](https://github.com/)
 - [gitlab](https://gitlab.com/)
 - [gitee](https://gitee.com)
+- [I2P Gitlab](https://i2pgit.org/)
 
 ## Links
 - [https://git-scm.com](https://git-scm.com)

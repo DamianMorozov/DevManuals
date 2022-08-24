@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.546] - 2022-08-24
+## [0.3.547] - 2022-08-24
 ### Added
 - [Dev/C# ASP and Blazor/Performance](Dev/C%23%20ASP%20and%20Blazor/Performance.md)
+### Changed
+- [Dev/Version control/Git resources](Dev/Version%20control/Git%20resources.md)
 
 ## [0.3.545] - 2022-08-16
 ### Added
