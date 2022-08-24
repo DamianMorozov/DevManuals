@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.546] - 2022-08-24
+### Added
+- [Dev/C# ASP and Blazor/Performance](Dev/C%23%20ASP%20and%20Blazor/Performance.md)
+
 ## [0.3.545] - 2022-08-16
 ### Added
 - [Dev/Databases/Scripts/Functions/Select functions](Dev/Databases/Scripts/Functions/Select%20functions.sql)
@@ -38,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.534] - 2022-07-25
 ### Changed
-- [Dev/C# ASP and Blazor/Radzen components](Dev/C#%20ASP%20and%20Blazor/Radzen%20components.md)
+- [Dev/C# ASP and Blazor/Radzen components](Dev/C%23%20ASP%20and%20Blazor/Radzen%20components.md)
 
 ## [0.3.533] - 2022-07-22
 ### Changed

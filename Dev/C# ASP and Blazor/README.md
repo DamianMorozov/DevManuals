@@ -12,6 +12,7 @@
 - [Lib 2019 Eng. Blazor Revealed. Building Web Applications in .NET](Lib%202019%20Eng.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.md)
 - [Lib 2020 Eng. Blazor for ASP.NET Web Forms Developers](Lib%202020%20Eng.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.md)
 - [MudBlazor components](MudBlazor%20components.md)
+- [Performance](Performance.md)
 - [Radzen components](Radzen%20components.md)
 - [Resources](Resources.md)
 - [Resources [Rus]](Resources%20[Rus].md)
