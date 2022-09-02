@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.548] - 2022-09-02
+### Added
+- [Dev/C# ASP and Blazor/Fix errors](Dev/C%23%20ASP%20and%20Blazor/Fix%20errors.md)
+
 ## [0.3.547] - 2022-08-24
 ### Added
 - [Dev/C# ASP and Blazor/Performance](Dev/C%23%20ASP%20and%20Blazor/Performance.md)

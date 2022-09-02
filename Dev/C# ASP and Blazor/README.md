@@ -9,6 +9,7 @@
 - [Blazor Build client web apps with C#](Blazor%20Build%20client%20web%20apps%20with%20C%23.md)
 - [Blazor appsettings.json](Blazor%20appsettings.json.md)
 - [Dotnet Blazor](Dotnet%20Blazor.md)
+- [Fix errors](Fix%20errors.md)
 - [Lib 2019 Eng. Blazor Revealed. Building Web Applications in .NET](Lib%202019%20Eng.%20Blazor%20Revealed.%20Building%20Web%20Applications%20in%20.NET.md)
 - [Lib 2020 Eng. Blazor for ASP.NET Web Forms Developers](Lib%202020%20Eng.%20Blazor%20for%20ASP.NET%20Web%20Forms%20Developers.md)
 - [MudBlazor components](MudBlazor%20components.md)
