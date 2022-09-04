@@ -9,43 +9,53 @@ git help [cmd]                                    ## web-page help
 git [cmd] --help                                  ## web-page help
 ```
 
-## Config
+## Commands
 ```
-git --version --build-options                     ## 
-git config --list                                 ## 
-git config --local --list                         ## 
-git config --local --unset user.email
-git config --local --unset user.name
-git config --unset user.name                      ## 
-git config user.email                             ## 
-git config user.name                              ## 
-git config core.editor                            ## 
-git config --global user.name "[name]"            ## 
-git config --global user.email "[email address]"  ## 
+git --version --build-options
+git unstage [file]
+git status
+git status -s
+git diff
+git diff --staged
+```
+
+## Global config
+```
+git config --list
+git config --unset user.name
+git config user.email
+git config user.name
+git config core.editor
+git config --global user.name "[name]"
+git config --global user.email "[email address]"
 git config --global --unset user.name
 git config --global --unset user.email
-git config --global color.ui auto                 ## 
-git config --global push.default current          ## 
-git config --global core.editor [editor]          ## 
-git config --global diff.tool [tool]              ## 
-git config --global alias.co checkout             ## 
-git config --global alias.ci commit               ## 
-git config --global alias.br branch               ## 
-git config --global alias.st status               ## 
+git config --global color.ui auto
+git config --global push.default current
+git config --global core.editor [editor]
+git config --global diff.tool [tool]
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.br branch
+git config --global alias.st status
 git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
-git config --global alias.unstage "reset HEAD --" ## 
+git config --global alias.unstage "reset HEAD --"
 git config --global alias.hist "log --oneline --decorate --graph --all"
 git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
-git unstage [file]                                ## 
-git config --global alias.last "log -1 HEAD"      ## 
-git config --global alias.visual "!gitk"          ## 
-git config --global credential.helper cache       ## 
-git config --global credential.helper store       ## 
-git config --global http.proxy http://user_name:password@server_address:port_number  ## 
-git status                                        ## 
-git status -s                                     ## 
-git diff                                          ## 
-git diff --staged                                 ## 
+git config --global alias.last "log -1 HEAD"
+git config --global alias.visual "!gitk"
+git config --global credential.helper cache
+git config --global credential.helper store
+git config --global http.proxy http://user_name:password@server_address:port_number
+```
+
+## Local config
+```
+git config --local --list
+git config --local user.name "[name]"
+git config --local user.email "[email]"
+git config --local --unset user.email
+git config --local --unset user.name
 ```
 
 ## Work with changes

@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.555] - 2022-09-04
+## [0.3.556] - 2022-09-04
 ### Changed
 - [Dev/DotNET](Dev/DotNET/README.md)
+- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
 
 ## [0.3.549] - 2022-09-02
 ### Added
