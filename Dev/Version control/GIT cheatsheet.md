@@ -14,12 +14,16 @@ git [cmd] --help                                  ## web-page help
 git --version --build-options                     ## 
 git config --list                                 ## 
 git config --local --list                         ## 
+git config --local --unset user.email
+git config --local --unset user.name
 git config --unset user.name                      ## 
 git config user.email                             ## 
 git config user.name                              ## 
 git config core.editor                            ## 
 git config --global user.name "[name]"            ## 
 git config --global user.email "[email address]"  ## 
+git config --global --unset user.name
+git config --global --unset user.email
 git config --global color.ui auto                 ## 
 git config --global push.default current          ## 
 git config --global core.editor [editor]          ## 
