@@ -1,4 +1,4 @@
-# DotNET resources
+# dotNET resources
 
 ## Links
 - [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)

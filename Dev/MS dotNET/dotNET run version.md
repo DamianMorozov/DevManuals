@@ -1,4 +1,4 @@
-# DotNET run version
+# dotNET run version
 
 Create the file "global.json" in the project's folder.
 Insert the text:

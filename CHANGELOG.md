@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.561] - 2022-09-09
+### Changed
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
+
 ## [0.3.556] - 2022-09-04
 ### Changed
-- [Dev/DotNET](Dev/DotNET/README.md)
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
 
 ## [0.3.549] - 2022-09-02
@@ -61,7 +65,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.532] - 2022-07-21
 ### Changed
-- [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
+- [Dev/Cross-platform/MAUI/dotNET MAUI resources](Dev/Cross-platform/MAUI/dotNET%20MAUI%20resources.md)
 - [Windows/Networks](Windows/Networks.md)
 - [Windows/PID](Windows/PID.md)
 - [Windows/Systems](Windows/Systems.md)
@@ -82,7 +86,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.521] - 2022-07-15
 ### Changed
 - [Linux/Systems/smartctl](Linux/Systems/smartctl.md)
-- [Dev/Cross-platform/MAUI/Dotnet MAUI resources](Dev/Cross-platform/MAUI/Dotnet%20MAUI%20resources.md)
+- [Dev/Cross-platform/MAUI/dotNET MAUI resources](Dev/Cross-platform/MAUI/dotNET%20MAUI%20resources.md)
 ### Added
 - [Hardware](Hardware/README.md)
 - [Hardware/HDD](Hardware/HDD/README.md)
@@ -125,7 +129,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.495] - 2022-06-16
 ### Added
 - [Dev/Databases/Scripts/Selects](Dev/Databases/Scripts/Selects/README.md)
-- [Dev/Dotnet/MAUI](Dev/Dotnet/MAUI/README.md)
+- [Dev/MS dotNET/MAUI](Dev/MS%20dotNET/MAUI/README.md)
 
 ## [0.3.487] - 2022-06-14
 ### Added
@@ -134,7 +138,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.485] - 2022-06-10
 ### Changed
-- [Dev/Dotnet](Dev/Dotnet/README.md)
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
 
 ## [0.3.480] - 2022-06-09
 ### Added
@@ -406,7 +410,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.152] - 2022-02-17
 ### Changed
-- [Dev/Dotnet](Dev/Dotnet/README.md)
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.147] - 2022-02-16
@@ -432,7 +436,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev/Diagrams/README.md
 - Dev/Docker/README.md
-- [Dev/Dotnet](Dev/Dotnet/README.md)
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
 - Dev/Go/README.md
 - Dev/GUI/README.md
 - Dev/JavaScript/README.md
@@ -685,11 +689,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.162] - 2021-06-30
 ### Added
-- Dev/NuGet/BenchmarkDotNet.txt
+- Dev/NuGet/BenchmarkdotNET.txt
 
 ## [0.2.161] - 2021-06-28
 ### Added
-- Dev/Dotnet/Dotnet run version.txt
+- Dev/MS dotNET/dotNET run version.txt
 
 ## [0.2.160] - 2021-06-22
 ### Added
@@ -765,7 +769,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev/Go/Go cheatsheet.txt
 - Dev/Go/Go resources.txt
 ### Changed
-- Dev/Dotnet/Dotnet commands.txt
+- Dev/MS dotNET/dotNET commands.txt
 
 ## [0.2.137] - 2020-12-27
 ### Added
@@ -774,11 +778,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.135] - 2020-12-26
 ### Changed
-- Dev/Dotnet/Dotnet commands.txt
+- Dev/MS dotNET/dotNET commands.txt
 
 ## [0.2.134] - 2020-12-25
 ### Changed
-- Dev/C# Blazor/Dotnet Blazor Radzen.txt
+- Dev/C# Blazor/dotNET Blazor Radzen.txt
 
 ## [0.2.133] - 2020-12-23
 ### Renamed
@@ -821,7 +825,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.115] - 2020-12-10
 ### Added
-- Dev/C# Blazor/Dotnet Blazor Radzen.txt
+- Dev/C# Blazor/dotNET Blazor Radzen.txt
 
 ## [0.2.114] - 2020-12-05
 ### Changed
@@ -855,8 +859,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.103] - 2020-11-12
 ### Added
-- Dev/Dotnet/Dotnet 5.txt-ru.txt
-- Dev/Dotnet/Dotnet video.txt
+- Dev/MS dotNET/dotNET 5.txt-ru.txt
+- Dev/MS dotNET/dotNET video.txt
 
 ## [0.2.100] - 2020-11-10
 ### Added
@@ -874,12 +878,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev/C# Blazor/Resources.txt-ru
 ### Changed
 - Dev/C# Blazor/2020. Blazor for ASP.NET Web Forms Developers.txt
-- Dev/C# Blazor/Dotnet Blazor.txt
-- Dev/Dotnet/Dotnet commands.txt
+- Dev/C# Blazor/dotNET Blazor.txt
+- Dev/MS dotNET/dotNET commands.txt
 
 ## [0.2.89] - 2020-11-09
 ### Changed
-- Moved Dev/Dotnet/Dotnet Blazor.txt -> Dev/C# Blazor/
+- Moved Dev/MS dotNET/dotNET Blazor.txt -> Dev/C# Blazor/
 - Moved Dev/2019. Blazor Revealed. Building Web Applications in .NET.txt -> Dev/C# Blazor/
 - Moved Dev/2020. Blazor for ASP.NET Web Forms Developers.txt -> Dev/C# Blazor/
 
@@ -890,9 +894,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.83] - 2020-11-05
 ### Added
-- Dev/Dotnet/Dotnet Blazor.txt
+- Dev/MS dotNET/dotNET Blazor.txt
 ### Changed
-- Dev/Dotnet/Dotnet commands.txt
+- Dev/MS dotNET/dotNET commands.txt
 
 ## [0.2.79] - 2020-10-22
 ### Changed
@@ -920,9 +924,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.71] - 2020-09-10
 ### Added
-- Dev/Dotnet/Dotnet quick start.txt
+- Dev/MS dotNET/dotNET quick start.txt
 ### Changed
-- Dev/Dotnet.txt -> Dev/Dotnet/Dotnet commands.txt
+- Dev/MS dotNET.txt -> Dev/MS dotNET/dotNET commands.txt
 - LICENSE
 
 ## [0.2.68] - 2020-08-26
@@ -1143,7 +1147,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.85] - 2019-09-06
 ### Added
-- Dev/Dotnet new project.txt
+- Dev/MS dotNET new project.txt
 ### Updated
 - Dev/2016. Grokking Algorithms.txt-ru
 
@@ -1320,7 +1324,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.93] - 2019-04-23
 ### Added
-- Dev/Dotnet.txt
+- Dev/MS dotNET.txt
 - Dev/SQL/MS SQL download.txt
 ### Updated
 - [Linux](Linux/README.md)

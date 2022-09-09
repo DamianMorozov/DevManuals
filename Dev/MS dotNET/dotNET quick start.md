@@ -1,4 +1,4 @@
-# DotNET quick start
+# dotNET quick start
 
 ## Quick start v6
 ```
