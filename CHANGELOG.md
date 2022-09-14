@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.563] - 2022-09-14
+## [0.3.564] - 2022-09-14
 ### Changed
 - [Dev/C#/Exceptions](Dev/C%23/Exceptions.md)
 ### Added

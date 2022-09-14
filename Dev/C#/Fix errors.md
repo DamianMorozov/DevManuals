@@ -29,3 +29,17 @@ public static void RequestHttpStatus(PrinterModel printer, int timeOut)
 	}
 }
 ```
+
+## Invalid value for key 'Encrypt'
+*.cs
+```
+SqlConnectionStringBuilder sqlConnectionStringBuilder = new();
+sqlConnectionStringBuilder["Data Source"] = jsonSettings.Sql.DataSource;
+sqlConnectionStringBuilder["Initial Catalog"] = jsonSettings.Sql.InitialCatalog;
+sqlConnectionStringBuilder["Persist Security Info"] = jsonSettings.Sql.PersistSecurityInfo;
+sqlConnectionStringBuilder["User ID"] = jsonSettings.Sql.UserId;
+sqlConnectionStringBuilder["Password"] = jsonSettings.Sql.Password;
+//sqlConnectionStringBuilder["Encrypt"] = jsonSettings.Sql.Encrypt;  // <--- fix error here
+sqlConnectionStringBuilder["Connect Timeout"] = jsonSettings.Sql.ConnectTimeout;
+sqlConnectionStringBuilder["TrustServerCertificate"] = jsonSettings.Sql.TrustServerCertificate;
+```
