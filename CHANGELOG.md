@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.563] - 2022-09-14
+### Changed
+- [Dev/C#/Exceptions](Dev/C%23/Exceptions.md)
+### Added
+- [Dev/C#/Fix errors](Dev/C%23/Fix%20errors.md)
+
 ## [0.3.561] - 2022-09-09
 ### Changed
 - [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
