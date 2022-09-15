@@ -34,4 +34,5 @@
 - [Plugins](Plugins.md)
 - [SemaphoreSlim](SemaphoreSlim.md)
 - [Stopwatch [Rus]](Stopwatch%20[Rus].md)
+- [Switch](Switch.md)
 - [XML parsing](XML%20parsing.md)
