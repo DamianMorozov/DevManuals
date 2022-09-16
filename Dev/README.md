@@ -20,13 +20,13 @@
 - [JavaScript](JavaScript/README.md)
 - [MS Excel](MS%20Excel/README.md)
 - [MS VB](MS%20VB/README.md)
+- [MS Visual Studio](MS%20Visual%20Studio/README.md)
 - [Network](Network/README.md)
 - [NuGet packages](NuGet%20packages/README.md)
 - [Python](Python/README.md)
 - [Testing](Testing/README.md)
 - [Version control](Version%20control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
-- [Visual Studio](Visual%20Studio/README.md)
 - [XAML](XAML/README.md)
 
 ## Items

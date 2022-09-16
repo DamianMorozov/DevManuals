@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.566] - 2022-09-16
+### Added
+- [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
+
 ## [0.3.565] - 2022-09-15
 ### Added
 - [Dev/C#/Switch](Dev/C%23/Switch.md)
