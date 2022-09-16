@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.566] - 2022-09-16
-### Added
+## [0.3.567] - 2022-09-16
+### Changed
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
+- [Dev/MS Visual Studio/VS options](Dev/MS%20Visual%20Studio/VS%20options.md)
 
 ## [0.3.565] - 2022-09-15
 ### Added

@@ -13,7 +13,6 @@ Tools → Options → Debugging → General → Enable UI Debugging Tools for XA
 
 ## Naming rule violation messages in Visual Studio
 Tools → Options → Text Editor → Your language → Code Style → Naming
-For example:
   Manage naming styles: + Start with _ (_ExampleIdentifier)
   Naming: + Class / Start with _ / Suggestion
 
@@ -24,3 +23,7 @@ Tools → Options → Environment → Fonts and Colors →
 ## Scroll bars
 Tools → Options → Text Editor → All Languages → Scroll Bars
 → Behavior → ✓ Show Preview Tooltip → Source overview → Off
+
+## File Scoped Namespaces
+Tools → Options → Text Editor → C# → Code Style → General
+→ Code block preferences: Namespace declarations: File scoped & Warning
