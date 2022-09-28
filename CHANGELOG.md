@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.570] - 2022-09-28
+### Added
+- [Dev/Databases/Scripts/BASES/DEAD_LOCKS](Dev/Databases/Scripts/BASES/DEAD_LOCKS.sql)
+### Changed
+- [Dev/Databases/Scripts](Dev/Databases/Scripts/README.md)
+
 ## [0.3.567] - 2022-09-16
 ### Changed
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)

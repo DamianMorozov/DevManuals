@@ -5,9 +5,9 @@
 - [Back to the Dev Database page](../README.md)
 
 ## Sections
-- [Bases](Bases/README.md)
-- [Functions](Functions/README.md)
-- [Parsers](Parsers/README.md)
-- [Selects](Selects/README.md)
+- [BASES](Bases/README.md)
+- [FUNCTIONS](Functions/README.md)
+- [PARSERS](Parsers/README.md)
+- [SELECTS](Selects/README.md)
 - [SSIS](SSIS/README.md)
-- [Tables](Tables/README.md)
+- [TABLES](Tables/README.md)

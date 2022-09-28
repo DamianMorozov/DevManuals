@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# SQL Server Management Studio Solution File, Format Version 19.00
+# SQL Server Management Studio Solution File, Format Version 18.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-14B1-4D26-9B2A-C29684684D84}"
@@ -10,15 +10,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-1
 		SSIS\README.md = SSIS\README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bases", "Bases", "{CE1115F3-5F02-4EC1-A061-0B79E8F358DB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BASES", "BASES", "{CE1115F3-5F02-4EC1-A061-0B79E8F358DB}"
 	ProjectSection(SolutionItems) = preProject
 		Bases\DB usage space on FS.sql = Bases\DB usage space on FS.sql
+		BASES\DEAD_LOCKS.sql = BASES\DEAD_LOCKS.sql
 		Bases\MD5.sql = Bases\MD5.sql
 		Bases\README.md = Bases\README.md
 		Bases\Service Broker.sql = Bases\Service Broker.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parsers", "Parsers", "{A7FCA265-C167-43EE-BC04-3EB82F626985}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PARSERS", "PARSERS", "{A7FCA265-C167-43EE-BC04-3EB82F626985}"
 	ProjectSection(SolutionItems) = preProject
 		Parsers\Get field as string.sql = Parsers\Get field as string.sql
 		Parsers\GUID fnGetGuid1Cv1.sql = Parsers\GUID fnGetGuid1Cv1.sql
@@ -31,7 +32,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parsers", "Parsers", "{A7FC
 		Parsers\XML.sql = Parsers\XML.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CDEE-F384-4D6D-8DEE-1A1E118B8545}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TABLES", "TABLES", "{D155CDEE-F384-4D6D-8DEE-1A1E118B8545}"
 	ProjectSection(SolutionItems) = preProject
 		Tables\Constraints check.sql = Tables\Constraints check.sql
 		Tables\Constraints default.sql = Tables\Constraints default.sql
@@ -47,14 +48,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{D155CD
 		Tables\Tables and sizes.sql = Tables\Tables and sizes.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Selects", "Selects", "{1ED7E467-5A1C-4F4C-B8C5-210561C39735}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SELECTS", "SELECTS", "{1ED7E467-5A1C-4F4C-B8C5-210561C39735}"
 	ProjectSection(SolutionItems) = preProject
 		Selects\Example of search with case sensetive.sql = Selects\Example of search with case sensetive.sql
 		Selects\README.md = Selects\README.md
 		Selects\Select last changed goods.sql = Selects\Select last changed goods.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{E51C9157-D496-406B-8F94-B1DCA337375B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FUNCTIONS", "FUNCTIONS", "{E51C9157-D496-406B-8F94-B1DCA337375B}"
 	ProjectSection(SolutionItems) = preProject
 		Functions\Conversion.sql = Functions\Conversion.sql
 		Functions\README.md = Functions\README.md
@@ -71,7 +72,7 @@ Global
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{453FFA72-6965-4B84-897D-BCF42027E402}.Default|Default.ActiveCfg = Default
+		{D0BFB01C-6422-48BB-9CBB-9E673218A3D8}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
