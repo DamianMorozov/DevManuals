@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.571] - 2022-10-06
+### Added
+- [Dev/XAML/ResourceDictionary](Dev/XAML/ResourceDictionary.md)
+
 ## [0.3.570] - 2022-09-28
 ### Added
 - [Dev/Databases/Scripts/BASES/DEAD_LOCKS](Dev/Databases/Scripts/BASES/DEAD_LOCKS.sql)
