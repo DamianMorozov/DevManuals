@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.572] - 2022-10-12
+### Changed
+- [Dev/C#/Fix errors](Dev/C%23/Fix%20errors.md)
+
 ## [0.3.571] - 2022-10-06
 ### Added
 - [Dev/XAML/ResourceDictionary](Dev/XAML/ResourceDictionary.md)

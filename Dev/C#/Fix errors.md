@@ -43,3 +43,10 @@ sqlConnectionStringBuilder["Password"] = jsonSettings.Sql.Password;
 sqlConnectionStringBuilder["Connect Timeout"] = jsonSettings.Sql.ConnectTimeout;
 sqlConnectionStringBuilder["TrustServerCertificate"] = jsonSettings.Sql.TrustServerCertificate;
 ```
+
+## CS8632 - The annotation for nullable reference types should only be used in code within a ‘#nullable’ annotations context
+```
+#nullable enable
+	private DataModel? _data;
+#nullable disable
+```
