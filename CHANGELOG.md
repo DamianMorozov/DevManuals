@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.576] - 2022-10-13
+### Added
+- [Dev/Alt codes](Dev/Alt%20codes/README.md)
+
 ## [0.3.572] - 2022-10-12
 ### Changed
 - [Dev/C#/Fix errors](Dev/C%23/Fix%20errors.md)
