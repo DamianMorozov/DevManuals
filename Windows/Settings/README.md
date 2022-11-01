@@ -16,6 +16,7 @@
 - [Hotkeys](Hotkeys.md)
 - [Icon cache](Icon%20cache.md)
 - [Mklink](Mklink.md)
+- [Mouse cursors](Mouse%20cursors.md)
 - [netsh interface portproxy](netsh%20interface%20portproxy.md)
 - [Pagefile.sys](Pagefile.sys.md)
 - [Route Ru](Route.md)

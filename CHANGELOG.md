@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.577] - 2022-11-01
+### Added
+- [Windows/Settings/Mouse cursors](Windows/Settings/Mouse%20cursors.md)
+
 ## [0.3.576] - 2022-10-13
 ### Added
 - [Dev/Alt codes](Dev/Alt%20codes/README.md)
