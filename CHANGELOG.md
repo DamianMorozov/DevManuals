@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.578] - 2022-11-11
+### Changed
+- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
+
 ## [0.3.577] - 2022-11-01
 ### Added
 - [Windows/Settings/Mouse cursors](Windows/Settings/Mouse%20cursors.md)
@@ -205,7 +209,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.446] - 2022-05-30
 ### Changed
-- [Dev/Visual Studio/Extensions](Dev/Visual Studio/README.md)
+- [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
 - [Dev/Version control/GIT cheatsheet [Rus]](Dev/Version%20control/README.md)
 - [Linux/Backups](Linux/Backups/README.md)
