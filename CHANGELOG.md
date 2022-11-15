@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.579] - 2022-11-15
+### Changed
+- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
+
 ## [0.3.578] - 2022-11-11
 ### Changed
 - [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
