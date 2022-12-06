@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.580] - 2022-12-06
+### Changed
+- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+
 ## [0.3.579] - 2022-11-15
 ### Changed
 - [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)

@@ -82,24 +82,27 @@ git add [file]                                    ##
 
 ## Commits
 ```
-git commit -m "Message"                           ## commit with message
-git commit -m "Subject" -m "Message"              ## commit with subject and message
-git commit -m "Subject"$'\n'"Message"             ## commit with subject and message
-git commit -a -m "text"                           ## add all files and commit with message
-git add [forgotten_file]                          ## add file
-git commit --amend                                ## replace last commit
-git commit -a --amend                             ## add all files and replace last commit
-git reset                                         ## 
-git reset [commit/tag]                            ## 
-git reset [file]                                  ## 
-git reset HEAD [file]                             ## 
-git reset --soft HEAD^                            ## 
-git reset --hard HEAD^                            ## 
-git reset --hard                                  ## 
-git reset --hard [commit]                         ## 
-git revert [commit_hash]                          ## 
-git checkout --[file]                             ## 
-git checkout [commit_hash]                        ## 
+git commit -m "Message"								## commit with message
+git commit -m "Subject" -m "Message"				## commit with subject and message
+git commit -m "Subject"$'\n'"Message"				## commit with subject and message
+git commit -a -m "text"								## add all files and commit with message
+git add [forgotten_file]							## add file
+git commit --amend									## replace last commit
+git commit -a --amend								## add all files and replace last commit
+git reset											## 
+git reset [commit/tag]								## 
+git reset [file]									## 
+git reset HEAD [file]								## 
+git reset --soft HEAD^								## 
+git reset --hard									## 
+git reset --hard HEAD^								## 
+git reset --hard HEAD~1								## delete the previous 1 commit in your existing branch
+git reset --hard HEAD~5								## delete the previous 5 commits in your existing branch
+git reset --hard [commit]							## go back to a specific commit
+git push origin HEAD --force						## remove commits from the remote origin/branch
+git revert [commit_hash]							## 
+git checkout --[file]								## 
+git checkout [commit_hash]							## 
 ```
 
 ## Repositories
@@ -192,36 +195,39 @@ git tag -l *v0.0*                                 ## search for tags by mask
 
 ## Branches
 ```
-HEAD                                              ## 
-git checkout [branch]                             ## 
-git checkout [file]                               ## 
-git checkout -b [branch]                          ## 
-git checkout -b [branch] [origin/branch]          ## 
-git branch                                        ## 
-git branch [branch]                               ## 
-git branch -a                                     ## 
-git branch -d [branch]                            ## 
-git branch -D [branch]                            ## 
-git branch -m [oldName] [newName]                 ## 
-git branch -v                                     ## 
-git branch -vv                                    ## 
-git branch --merged                               ## 
-git branch --no-merged                            ## 
-git merge [branchHotfix]                          ## 
-git merge [origin/branch]                         ## 
-git merge --no-ff [branch]                        ## 
-git mergetool                                     ## 
-git rebase [branch]                               ## 
-git rebase [master] [server]                      ## 
-git rebase --onto master [server] [client]        ## 
--- git checkout [master]                          ## 
--- git merge [client]                             ## 
-git checkout --track [origin/branch]              ## 
-git branch -u [origin/branch]                     ## 
-git merge @{u}                                    ## 
-git branch --list                                 ## view list of branches
-git fetch origin master:master                    ## get other branch
-git pull origin master:master                     ## get other branch
+git checkout [branch]								## 
+git checkout [file]									## 
+git checkout -b [branch]							## 
+git checkout -b [branch] [origin/branch]			## 
+git branch											## 
+git branch [branch]									## 
+git branch -a										## 
+git branch -a -vv									## view list of branches
+git branch -d [branch]								## delete branch
+git branch -D [branch]								## delete branch
+git branch -m [oldName] [newName]					## 
+git branch -v										## 
+git branch -vv										## 
+git branch --merged									## 
+git branch --no-merged								## 
+git merge [branchHotfix]							## 
+git merge [origin/branch]							## 
+git merge --no-ff [branch]							## 
+git mergetool										## 
+git rebase [branch]									## 
+git rebase [master] [server]						## 
+git rebase --onto master [server] [client]			## 
+-- git checkout [master]							## 
+-- git merge [client]								## 
+git checkout --track [origin/branch]				## 
+git branch -u [origin/branch]						## 
+git merge @{u}										## 
+git branch --list									## view list of branches
+git fetch origin master:master						## get other branch
+git pull origin master:master						## get other branch
+git branch -r --list								## view remote list of branches
+git branch -r -d all/preview						## delete remote branch
+git push all -d preview								## delete remote branch
 ```
 
 ## Stashes
