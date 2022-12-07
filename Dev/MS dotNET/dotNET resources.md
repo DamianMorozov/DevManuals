@@ -15,6 +15,7 @@
 - [Enforce HTTPS in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl)
 - [Learn .NET and the .NET SDK tools by exploring these tutorials](https://docs.microsoft.com/en-us/dotnet/core/tutorials/)
 - [Pro Code Guide](https://procodeguide.com/)
+- [Radio DOT NET](https://radiodotnet.mave.digital/)
 - [VisualStudio on twitch.tv](https://www.twitch.tv/VisualStudio/)
 - [What is the .NET SDK?](https://docs.microsoft.com/en-us/dotnet/core/sdk)
 - [What's new in .NET 6](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6)
