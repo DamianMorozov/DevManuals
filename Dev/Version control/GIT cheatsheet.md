@@ -282,14 +282,16 @@ git branchm origin old_branch new_branch          ## remote branch renaming
 
 ## Push all repos
 ```
-git remote show origin                            ## view and copy push URL
-git remote show second                            ## view and copy push URL
-git remote add all https://github.com/...git      ## add new remote 'all' repo with 'origin' repo link
-git remote set-url --add all https://...git       ## add second repo into "all" repo
-git remote remove origin                          ## remove 'origin' repo
-git remote remove second                          ## remove 'second' repo
-git push -u all main                              ## set upstream
-git push                                          ## push changes
+git remote show origin								## view and copy push URL
+git remote show second								## view and copy push URL
+git remote add all https://github.com/...git		## add new remote 'all' repo with 'origin' repo link
+git remote set-url --add all https://...git			## add second repo into "all" repo
+git remote remove origin							## remove 'origin' repo
+git remote remove second							## remove 'second' repo
+git pull all main                              		## get remote main branch
+git push -u all main								## set upstream
+git push											## push changes
+git pull											## get remote branch
 ```
 
 ## Make current stash, rollback to need commit, publish need commit, restore the stash
