@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.583] - 2022-12-07
+## [0.3.584] - 2022-12-07
 ### Changed
 - [Dev/GitHub Copilot/Resources](Dev/GitHub%20Copilot/Resources.md)
-- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
 - [Dev/MS dotNET/dotNET resources](Dev/MS%20dotNET/dotNET%20resources.md)
+- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
+- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
 
 ## [0.3.580] - 2022-12-06
 ### Changed

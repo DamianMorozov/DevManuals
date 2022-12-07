@@ -44,6 +44,7 @@ git config --global alias.hist "log --oneline --decorate --graph --all"
 git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
 git config --global alias.last "log -1 HEAD"
 git config --global alias.visual "!gitk"
+git config --global alias.bra "branch -a -vv"
 git config --global credential.helper cache
 git config --global credential.helper store
 git config --global http.proxy http://user_name:password@server_address:port_number
