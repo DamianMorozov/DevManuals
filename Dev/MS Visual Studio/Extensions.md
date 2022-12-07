@@ -8,12 +8,13 @@
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+- [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
 - [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
 - [TGit](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TGit)
 - [TSVN](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TSVN)
-- [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
+- [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 
 ## Visual Studio 2022 deprecated setup
 - [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)

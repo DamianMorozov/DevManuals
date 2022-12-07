@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.581] - 2022-12-07
+## [0.3.582] - 2022-12-07
 ### Changed
 - [Dev/GitHub Copilot/Resources](Dev/GitHub%20Copilot/Resources.md)
+- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
 
 ## [0.3.580] - 2022-12-06
 ### Changed
