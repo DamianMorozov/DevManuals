@@ -8,6 +8,7 @@ You can participate in the development of the repository as a creator simply by 
 
 ## Sections
 - [Programs developing](Dev/README.md)
+- [Hardware](Hardware/README.md)
 - [Linux](Linux/README.md)
 - [Windows](Windows/README.md)
 
