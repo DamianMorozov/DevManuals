@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.586] - 2022-12-09
+### Added
+- [Hardware/Server/Server configurators](Hardware/Server/Server%20configurators.md)
+
 ## [0.3.584] - 2022-12-07
 ### Changed
 - [Dev/GitHub Copilot/Resources](Dev/GitHub%20Copilot/Resources.md)
