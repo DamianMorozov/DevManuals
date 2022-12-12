@@ -8,10 +8,12 @@ currentDateTime = datetime.datetime.now()
 currentTime = time.time()
 isSimulate: bool = True
 
+
 def printTitle():
     os.system('cls')
     print(f'================================================================================')
     print(f'--- Delete old files v0.01.102 ---')
+
 
 def setup():
     global dir
@@ -24,7 +26,7 @@ def setup():
     dir = input(f"[i] Set directory: ")
     days = input(f"[i] Set days ago (default value: {defaultDays}): ")
     if (days != ""):
-        if (int(days) > minDays and int(days) < maxDays):
+        if int(days) > minDays and int(days) < maxDays:
             diffDays = int(days)
         else:
             diffDays = defaultDays
@@ -32,10 +34,11 @@ def setup():
         diffDays = defaultDays
     global isSimulate
     simulate: str = input(f"[i] Set simulate (default value: True): ")
-    if (simulate.upper().capitalize() == "False" or simulate.upper().capitalize() == "0"):
+    if simulate.upper().capitalize() == "False" or simulate.upper().capitalize() == "0":
         isSimulate = False
     else:
         isSimulate = True
+
 
 def printInfo():
     global dir
@@ -48,14 +51,17 @@ def printInfo():
     print(f'[i] Current date time: {currentDateTime}')
     print(f'================================================================================')
 
+
 def getStringFormat(fileGetctime):
     fileCtime = time.ctime(fileGetctime)
     fileStrptime = time.strptime(fileCtime)
     fileStrftime = time.strftime("%Y-%m-%d %H:%M:%S", fileStrptime)
     return fileStrftime
 
+
 def getDateTime(fileGetctime):
     return datetime.datetime.fromtimestamp(fileGetctime)
+
 
 def clear(dir: str):
     if (os.path.exists(dir) == False):
@@ -63,16 +69,17 @@ def clear(dir: str):
     else:
         for file in os.listdir(dir):
             absolutePath = f'{dir}/{file}'
-            if (os.path.isdir(absolutePath)):
+            if os.path.isdir(absolutePath):
                 clear(absolutePath)
-            if (os.path.isfile(absolutePath)):
+            if os.path.isfile(absolutePath):
                 fileGetctime = os.path.getctime(absolutePath)
                 if (currentTime - fileGetctime) / (24 * 3600) >= diffDays:
-                    if (isSimulate == True):
+                    if isSimulate == True:
                         print(f'[i] Find file: "{absolutePath}" Creation time: "{getStringFormat(fileGetctime)}"')
                     else:
                         print(f'[i] Remove file: "{absolutePath}" Creation time: "{getStringFormat(fileGetctime)}"')
                         os.remove(absolutePath)
+
 
 def main():
     global dir
@@ -80,6 +87,7 @@ def main():
     print(f'--- Clear files ---')
     clear(dir)
     print(f'================================================================================')
+
 
 printTitle()
 setup()
