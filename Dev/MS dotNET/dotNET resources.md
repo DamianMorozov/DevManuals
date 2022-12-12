@@ -2,6 +2,7 @@
 
 ## Links
 - [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+- [.NET Conf 2022](https://dotnetconf.net/)
 - [.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
 - [.NET Home](https://github.com/dotnet/core)
 - [.NET Live TV](https://dotnet.microsoft.com/live/)

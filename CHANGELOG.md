@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.591] - 2022-12-12
+### Changed
+- [Dev/MS dotNET/dotNET resources](Dev/MS%20dotNET/dotNET%20resources.md)
+
 ## [0.3.590] - 2022-12-09
 ### Added
 - [Hardware/Server/Server configurators](Hardware/Server/Server%20configurators.md)
