@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.592] - 2022-12-13
+### Changed
+- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+
 ## [0.3.591] - 2022-12-12
 ### Changed
 - [Dev/MS dotNET/dotNET resources](Dev/MS%20dotNET/dotNET%20resources.md)
