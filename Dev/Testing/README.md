@@ -6,4 +6,5 @@
 ## Items
 - [How to test non-public methods in .NET [Rus]](How%20to%20test%20non-public%20methods%20in%20.NET%20[Rus].md)
 - [NUnit](NUnit.md)
+- [Test resources](Test%20resources.md)
 - [Tests [Rus]](Tests%20[Rus].md)

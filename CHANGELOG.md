@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.592] - 2022-12-13
+## [0.3.594] - 2022-12-13
+### Added
+- [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
 ### Changed
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
 
