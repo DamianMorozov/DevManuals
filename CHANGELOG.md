@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.597] - 2022-12-14
+### Changed
+- [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
+
 ## [0.3.595] - 2022-12-13
 ### Added
 - [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
