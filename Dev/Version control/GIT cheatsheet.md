@@ -80,9 +80,9 @@ git diff [file-branch] [second-branch]            	##
 
 ## Indexing
 ```
-git add .                                         	## 
-git add *.cs                                      	## 
-git add [file]                                    	## 
+git add .                                         	## add all files to the stage
+git add [file]                                    	## add file to the stage
+git add [directory/*] -f                           	## force add files in directory to the stage
 ```
 
 ## Commits
