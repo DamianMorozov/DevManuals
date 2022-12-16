@@ -4,7 +4,7 @@
 - [Back to the Dev page](../README.md)
 
 ## Sections
-- [Scripts](Scripts/README.md)
+- [SQL-Scripts](SQL-Scripts/README.md)
 
 ## Items
 - [ConnectionString](ConnectionString.md)
