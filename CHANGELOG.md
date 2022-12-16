@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.599] - 2022-12-16
+## [0.3.602] - 2022-12-16
 ### Changed
 - [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
+### Added
+- [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
+- [Dev/DataBases/DB-clients/DB-clients resources](Dev/DataBases/DB-clients/DB-clients%20resources.md)
 
 ## [0.3.598] - 2022-12-15
 ### Changed

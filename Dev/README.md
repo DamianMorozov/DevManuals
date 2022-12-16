@@ -8,7 +8,7 @@
 - [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
 - [Communications](Communications/README.md)
 - [Cross-platform](Cross-platform/README.md)
-- [Databases](Databases/README.md)
+- [DataBases](DataBases/README.md)
 - [Design patterns](Design%20patterns/README.md)
 - [Diagrams](Diagrams/README.md)
 - [Docker](Docker/README.md)
