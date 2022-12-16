@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.602] - 2022-12-16
+## [0.3.603] - 2022-12-16
 ### Changed
+- [Dev/C#/Serialization](Dev/C%23/Serialization.md)
 - [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
 ### Added
 - [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
