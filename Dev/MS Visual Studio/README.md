@@ -4,6 +4,7 @@
 - [Back to the Dev](../README.md)
 
 ## Items
+- [Attributes](Attributes.md)
 - [Attributes [Rus]](Attributes%20[Rus].md)
 - [Code snippets](Code%20snippets.md)
 - [Continuous Integration Transformation](Continuous%20Integration%20Transformation.md)
