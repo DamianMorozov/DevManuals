@@ -34,5 +34,6 @@
 - [Plugins](Plugins.md)
 - [SemaphoreSlim](SemaphoreSlim.md)
 - [Serialization](Serialization.md)
+- [SQLite](SQLite.md)
 - [Stopwatch [Rus]](Stopwatch%20[Rus].md)
 - [Switch](Switch.md)

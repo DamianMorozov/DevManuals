@@ -6,16 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.612] - 2022-12-16
+## [0.3.613] - 2022-12-16
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
 - [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
 - [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
 - [Hardwares](Hardwares/README.md)
 ### Added
-- [Dev/DataBases/MS Visual Studio/Attributes](Dev/MS%20Visual%20Studio/Attributes.md)
-- [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
+- [Dev/C#/SQLite](Dev/C%23/SQLite.md)
 - [Dev/DataBases/DB-clients/DB-clients resources](Dev/DataBases/DB-clients/DB-clients%20resources.md)
+- [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
+- [Dev/DataBases/MS Visual Studio/Attributes](Dev/MS%20Visual%20Studio/Attributes.md)
 - [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
 
 ## [0.3.598] - 2022-12-15
