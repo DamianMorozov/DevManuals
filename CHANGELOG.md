@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.603] - 2022-12-16
+## [0.3.605] - 2022-12-16
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
 - [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
+- [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
 ### Added
 - [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
 - [Dev/DataBases/DB-clients/DB-clients resources](Dev/DataBases/DB-clients/DB-clients%20resources.md)

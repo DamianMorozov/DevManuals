@@ -4,6 +4,10 @@
 - [Back to the Dev page](../README.md)
 - [Back to the NuGet packages page](README.md)
 
+## NuGet starages
+- [nuget.org](https://nuget.org/)
+- [fuget.org](https://fuget.org/)
+
 ## Links
 [Create .NET apps faster with NuGet](https://www.nuget.org/ "nuget.org")
 [NuGet Must Haves](https://nugetmusthaves.com/ "nugetmusthaves.com")
