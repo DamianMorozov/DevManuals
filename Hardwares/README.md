@@ -4,6 +4,6 @@
 
 ## Sections
 - [HDD](HDD/README.md)
-- [Server](Server/README.md)
+- [Servers](Servers/README.md)
 
 ## Items

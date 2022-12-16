@@ -6,14 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.605] - 2022-12-16
+## [0.3.610] - 2022-12-16
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
 - [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
 - [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
+- [Hardwares](Hardwares/README.md)
 ### Added
 - [Dev/DataBases/DB-clients](Dev/DataBases/DB-clients/README.md)
 - [Dev/DataBases/DB-clients/DB-clients resources](Dev/DataBases/DB-clients/DB-clients%20resources.md)
+- [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
 
 ## [0.3.598] - 2022-12-15
 ### Changed
@@ -28,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
 ### Changed
 - [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
-- [Hardware/Server/Server configurators](Hardware/Server/Server%20configurators.md)
+- [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
 
 ## [0.3.591] - 2022-12-12
 ### Changed
@@ -36,7 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.590] - 2022-12-09
 ### Added
-- [Hardware/Server/Server configurators](Hardware/Server/Server%20configurators.md)
+- [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
 ### Changed
 - [README](README.md)
 
@@ -138,7 +140,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.539] - 2022-07-26
 ### Changed
-- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
+- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
 ### Added
 - [Dev/Databases/Lib resources](Dev/Databases/Lib%20resources.md)
 - [Dev/Databases/Lost sa password](Dev/Databases/Lost%20sa%20password.md)
@@ -171,16 +173,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.522] - 2022-07-18
 ### Changed
-- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
+- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
 
 ## [0.3.521] - 2022-07-15
 ### Changed
 - [Linux/Systems/smartctl](Linux/Systems/smartctl.md)
 - [Dev/Cross-platform/MAUI/dotNET MAUI resources](Dev/Cross-platform/MAUI/dotNET%20MAUI%20resources.md)
 ### Added
-- [Hardware](Hardware/README.md)
-- [Hardware/HDD](Hardware/HDD/README.md)
-- [Hardware/HDD/SSD TBW](Hardware/HDD/SSD%20TBW.md)
+- [Hardwares](Hardwares/README.md)
+- [Hardwares/HDD](Hardwares/HDD/README.md)
+- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
 
 ## [0.3.514] - 2022-07-14
 ### Changed
