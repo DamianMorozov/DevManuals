@@ -23,8 +23,6 @@ git diff --staged
 ```
 git config --global --list
 git config --global --unset user.email
-git config --global --unset user.email
-git config --global --unset user.name
 git config --global --unset user.name
 git config --global alias.br branch
 git config --global alias.bra "branch -a -vv"

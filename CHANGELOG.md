@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.615] - 2022-12-17
+## [0.3.618] - 2022-12-17
 ### Added
 - [Hardwares/NAS/WDMYCLOUD](Hardwares/NAS/WDMYCLOUD.md)
 - [Hardwares/NAS](Hardwares/NAS/README.md)
+### Changed
+- [Dev/Version-control](Dev/Version-control/README.md)
+- [Dev/Version-control/GIT resources](Dev/Version-control/GIT%20resources.md)
 
 ## [0.3.613] - 2022-12-16
 ### Changed
@@ -26,7 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.598] - 2022-12-15
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.597] - 2022-12-14
 ### Changed
@@ -36,7 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 - [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
 
 ## [0.3.591] - 2022-12-12
@@ -54,11 +57,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/GitHub Copilot/Resources](Dev/GitHub%20Copilot/Resources.md)
 - [Dev/MS dotNET/dotNET resources](Dev/MS%20dotNET/dotNET%20resources.md)
 - [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.580] - 2022-12-06
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.579] - 2022-11-15
 ### Changed
@@ -112,7 +115,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.556] - 2022-09-04
 ### Changed
 - [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.549] - 2022-09-02
 ### Added
@@ -122,7 +125,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Dev/C# ASP and Blazor/Performance](Dev/C%23%20ASP%20and%20Blazor/Performance.md)
 ### Changed
-- [Dev/Version control/Git resources](Dev/Version%20control/Git%20resources.md)
+- [Dev/Version-control/Git resources](Dev/Version-control/Git%20resources.md)
 
 ## [0.3.545] - 2022-08-16
 ### Added
@@ -175,7 +178,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.524] - 2022-07-20
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 - [Linux/Networks/Networks troubleshooting](Linux/Networks/Networks%20troubleshooting.md)
 
 ## [0.3.522] - 2022-07-18
@@ -221,8 +224,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.499] - 2022-06-17
 ### Changed
-- [Dev/Version control/Git readme helpers](Dev/Version%20control/Git%20readme%20helpers.md)
-- [Dev/Version control/Git resources](Dev/Version%20control/Git%20resources.md)
+- [Dev/Version-control/Git readme helpers](Dev/Version-control/Git%20readme%20helpers.md)
+- [Dev/Version-control/Git resources](Dev/Version-control/Git%20resources.md)
 - [README](README.md)
 
 ## [0.3.495] - 2022-06-16
@@ -268,8 +271,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.446] - 2022-05-30
 ### Changed
 - [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
-- [Dev/Version control/GIT cheatsheet [Rus]](Dev/Version%20control/README.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/README.md)
+- [Dev/Version-control/GIT cheatsheet [Rus]](Dev/Version-control/README.md)
 - [Linux/Backups](Linux/Backups/README.md)
 - [Linux/Backups/Backups resources](Linux/Backups/README.md)
 
@@ -286,14 +289,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.435] - 2022-05-25
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
-- [Dev/Version control/Gitup cheatsheet](Dev/Version%20control/README.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/README.md)
+- [Dev/Version-control/Gitup cheatsheet](Dev/Version-control/README.md)
 
 ## [0.3.433] - 2022-05-24
 ### Changed
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
-- [Dev/Version control/Gitup cheatsheet](Dev/Version%20control/README.md)
-- [Dev/Version control/GIT resources](Dev/Version%20control/README.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/README.md)
+- [Dev/Version-control/Gitup cheatsheet](Dev/Version-control/README.md)
+- [Dev/Version-control/GIT resources](Dev/Version-control/README.md)
 
 ## [0.3.430] - 2022-05-23
 ### Changed
@@ -301,7 +304,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.419] - 2022-05-18
 ### Added
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/README.md)
 - [Linux/Linux resources](Linux/README.md)
 - [Windows/Updates/Disable Windows Insider Program Settings](Windows/Updates/README.md)
 - [Windows/Updates/Windows updates blacklist](Windows/Updates/README.md)
@@ -312,8 +315,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.414] - 2022-05-16
 ### Added
-- [Dev/Version control/GIT cheatsheet [Rus]](Dev/Version%20control/README.md)
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/README.md)
+- [Dev/Version-control/GIT cheatsheet [Rus]](Dev/Version-control/README.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/README.md)
 - [Linux/Desktops/Gnome](Linux/Desktops/Gnome/README.md)
 - [Linux/Desktops/Gnome/Gnome apps](Linux/Desktops/Gnome/README.md)
 - [Linux/OS](Linux/OS/README.md)
@@ -331,7 +334,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Windows/Cmd/Sc.md](Windows/Cmd/README.md)
 - [Dev/Databases/Scripts/Constraints foreign key](Dev/Databases/Scripts/README.md)
 ### Changed
-- [Dev/Version control](Dev/Version%20control/README.md)
+- [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.393] - 2022-04-27
 ### Changed
@@ -339,7 +342,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.392] - 2022-04-25
 ### Changed
-- [Dev/Version control](Dev/Version%20control/README.md)
+- [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.390] - 2022-04-21
 ### Changed
@@ -354,7 +357,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.353] - 2022-04-12
 ### Changed
 - [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
-- [Dev/Version control/GIT cheatsheet](Dev/Version%20control/GIT%20cheatsheet.md)
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.348] - 2022-04-06
 ### Changed
@@ -378,7 +381,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.341] - 2022-03-28
 ### Changed
-- [Dev/Version control](Dev/Version%20control/README.md)
+- [Dev/Version-control](Dev/Version-control/README.md)
 - [Linux/Desktops](Linux/Desktops/README.md)
 - [Linux/Games](Linux/Games/README.md)
 - [Linux/Networks](Linux/Networks/README.md)
@@ -388,7 +391,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.325] - 2022-03-25
 ### Changed
 - [Dev/Databases/Scripts](Dev/Databases/README.md)
-- [Dev/Version control](Dev/Version%20control/README.md)
+- [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.315] - 2022-03-24
 ### Changed
@@ -493,7 +496,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev/NuGet packages
 - Dev/Python
 - Dev/Testing
-- Dev/Version control
+- Dev/Version-control
 - Dev/Virtual machine
 - Dev/XAML
 - Dev
@@ -520,7 +523,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - [Dev/C#](Dev/C%23/README.md)\
 - [Dev](Dev/README.md)
-- Dev/Version control/README.md
+- Dev/Version-control/README.md
 - Dev/OOP principles [Rus].md
 - [Linux](Linux/README.md)
 - Windows/README.md
@@ -885,13 +888,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.133] - 2020-12-23
 ### Renamed
-- Dev/Version control/GIT cheatsheet.txt
-- Dev/Version control/GIT cheatsheet.txt-ru
-- Dev/Version control/GIT dev app creating manual.txt
-- Dev/Version control/GIT resources.txt
+- Dev/Version-control/GIT cheatsheet.txt
+- Dev/Version-control/GIT cheatsheet.txt-ru
+- Dev/Version-control/GIT dev app creating manual.txt
+- Dev/Version-control/GIT resources.txt
 ### Added
-- Dev/Version control/SVN cheatsheet.txt
-- Dev/Version control/SVN resources.txt
+- Dev/Version-control/SVN cheatsheet.txt
+- Dev/Version-control/SVN resources.txt
 
 ## [0.2.128] - 2020-12-18
 ### Renamed
@@ -907,12 +910,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.123] - 2020-12-16
 ### Renamed
-- Dev/Git renamed to Dev/Version control
+- Dev/Git renamed to Dev/Version-control
 ### Changed
-- Dev/Version control/Git.txt
-- Dev/Version control/Git.txt-ru
+- Dev/Version-control/Git.txt
+- Dev/Version-control/Git.txt-ru
 ### Added
-- Dev/Version control/Git resources.txt
+- Dev/Version-control/Git resources.txt
 
 ## [0.2.119] - 2020-12-14
 ### Changed
