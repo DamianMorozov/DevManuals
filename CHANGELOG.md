@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.621] - 2022-12-17
+## [0.3.622] - 2022-12-17
 ### Added
 - [Dev/JetBrains/JetBrains resources](Dev/JetBrains/JetBrains%20resources.md)
 - [Dev/JetBrains](Dev/JetBrains/README.md)
@@ -14,8 +14,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Hardwares/NAS](Hardwares/NAS/README.md)
 ### Changed
 - [.gitignore](.gitignore)
-- [Dev/Version-control](Dev/Version-control/README.md)
 - [Dev/Version-control/GIT resources](Dev/Version-control/GIT%20resources.md)
+- [Dev/Version-control/GIT unprotect](Dev/Version-control/GIT unprotect.md)
+- [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.613] - 2022-12-16
 ### Changed
