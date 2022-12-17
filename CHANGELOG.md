@@ -6,8 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.618] - 2022-12-17
+## [0.3.620] - 2022-12-17
 ### Added
+- [Dev/JetBrains/JetBrains resources](Dev/JetBrains/JetBrains%20resources.md)
+- [Dev/JetBrains](Dev/JetBrains/README.md)
 - [Hardwares/NAS/WDMYCLOUD](Hardwares/NAS/WDMYCLOUD.md)
 - [Hardwares/NAS](Hardwares/NAS/README.md)
 ### Changed

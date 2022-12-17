@@ -4,8 +4,8 @@
 
 ## Sections
 - [Android](Android/README.md)
-- [C#](C%23/README.md)
 - [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
+- [C#](C%23/README.md)
 - [Communications](Communications/README.md)
 - [Cross-platform](Cross-platform/README.md)
 - [DataBases](DataBases/README.md)
@@ -18,6 +18,7 @@
 - [GUI](GUI/README.md)
 - [HTML](HTML/README.md)
 - [JavaScript](JavaScript/README.md)
+- [JetBrains](JetBrains/README.md)
 - [MS Excel](MS%20Excel/README.md)
 - [MS VB](MS%20VB/README.md)
 - [MS Visual Studio](MS%20Visual%20Studio/README.md)
@@ -25,7 +26,7 @@
 - [NuGet packages](NuGet%20packages/README.md)
 - [Python](Python/README.md)
 - [Testing](Testing/README.md)
-- [Version control](Version%20control/README.md)
+- [Version-control](Version-control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
 - [XAML](XAML/README.md)
 
