@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.615] - 2022-12-17
+### Added
+- [Hardwares/NAS/WDMYCLOUD](Hardwares/NAS/WDMYCLOUD.md)
+- [Hardwares/NAS](Hardwares/NAS/README.md)
+
 ## [0.3.613] - 2022-12-16
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
