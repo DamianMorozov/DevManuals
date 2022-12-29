@@ -307,3 +307,11 @@ git stash list                                    	## view list of stashes
 git stash apply stash@{0}                         	## apply the backup stash
 git stash drop                                    	## drop the backup stash
 ```
+
+## Merge conflicts
+```
+git merge --quit
+git reset .
+git checkout .
+git clean -fd
+```

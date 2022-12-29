@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.625] - 2022-12-29
+### Changed
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
+
 ## [0.3.624] - 2022-12-17
 ### Added
 - [Dev/JetBrains/JetBrains resources](Dev/JetBrains/JetBrains%20resources.md)
@@ -17,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - [.gitignore](.gitignore)
 - [Dev/Version-control/GIT resources](Dev/Version-control/GIT%20resources.md)
-- [Dev/Version-control/GIT unprotect](Dev/Version-control/GIT unprotect.md)
+- [Dev/Version-control/GIT unprotect](Dev/Version-control/GIT%20unprotect.md)
 - [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.613] - 2022-12-16
