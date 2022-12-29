@@ -11,6 +11,7 @@
 - [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
 - [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
+- [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
 - [TGit](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TGit)
 - [TSVN](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TSVN)
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
