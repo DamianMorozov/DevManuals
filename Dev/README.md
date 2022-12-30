@@ -14,6 +14,7 @@
 - [Docker](Docker/README.md)
 - [DotNET](DotNET/README.md)
 - [GitHub Copilot](GitHub%20Copilot/README.md)
+- [GitHub repos](GitHub%20repos/README.md)
 - [Go](Go/README.md)
 - [GUI](GUI/README.md)
 - [HTML](HTML/README.md)
