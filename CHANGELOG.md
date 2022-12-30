@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.627] - 2022-12-30
+## [0.3.628] - 2022-12-30
 ### Added
 - [Dev/GitHub repos](Dev/GitHub%20repos/README.md)
+- [Dev/GitHub repos/GitHub NET Foundation](Dev/GitHub%20repos/GitHub%20NET%20Foundation.md)
 
 ## [0.3.626] - 2022-12-29
 ### Changed
