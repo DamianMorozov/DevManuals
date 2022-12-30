@@ -26,7 +26,7 @@
 - [Network](Network/README.md)
 - [NuGet packages](NuGet%20packages/README.md)
 - [Python](Python/README.md)
-- [Testing](Testing/README.md)
+- [QA](QA/README.md)
 - [Version-control](Version-control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
 - [XAML](XAML/README.md)

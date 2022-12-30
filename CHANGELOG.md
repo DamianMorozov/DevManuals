@@ -6,10 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.628] - 2022-12-30
+## [0.3.629] - 2022-12-30
 ### Added
 - [Dev/GitHub repos](Dev/GitHub%20repos/README.md)
 - [Dev/GitHub repos/GitHub NET Foundation](Dev/GitHub%20repos/GitHub%20NET%20Foundation.md)
+### Changed
+- [Dev/QA](Dev/QA/README.md)
 
 ## [0.3.626] - 2022-12-29
 ### Changed
@@ -49,11 +51,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.597] - 2022-12-14
 ### Changed
-- [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
+- [Dev/QA/Test resources](Dev/QA/Test%20resources.md)
 
 ## [0.3.595] - 2022-12-13
 ### Added
-- [Dev/Testing/Test resources](Dev/Testing/Test%20resources.md)
+- [Dev/QA/Test resources](Dev/QA/Test%20resources.md)
 ### Changed
 - [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 - [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)
@@ -511,7 +513,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev/Network
 - Dev/NuGet packages
 - Dev/Python
-- Dev/Testing
+- Dev/QA
 - Dev/Version-control
 - Dev/Virtual machine
 - Dev/XAML
@@ -563,7 +565,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 - Dev/Network/README.md
 - Dev/Python/README.md
-- Dev/Testing/README.md
+- Dev/QA/README.md
 - Dev/Virtual machine/README.md
 - Dev/XAML/README.md
 - Dev/Dev tools.md
@@ -1087,11 +1089,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.58] - 2020-06-21
 ### Added
-- Dev/Testing/Tests.txt-ru
+- Dev/QA/Tests.txt-ru
 ### Changed
 - Dev/Git/Dev app creating manual.txt
 - Dev/Git/Git.txt-ru
-- Dev/Testing/How to test non-public methods in .NET.txt-ru
+- Dev/QA/How to test non-public methods in .NET.txt-ru
 - Dev/XAML/2018. WPF Development Cookbook.txt
 
 ## [0.2.53] - 2020-06-04
@@ -1129,7 +1131,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.44] - 2020-04-01
 ### Changed
-- Dev/Testing/NUnit.txt
+- Dev/QA/NUnit.txt
 
 ## [0.2.43] - 2020-03-13
 ### Changed
@@ -1529,8 +1531,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dev/Nuget/NUnit.txt
 - Dev/Nuget/ValueTuple.txt
 - Dev/SQL/13 вопросов перед внесением изменений в работу SQL Server.txt
-- Dev/Testing/How to test non-public methods in .NET.txt
-- Dev/Testing/2017. Разработка обслуживаемых программ.txt
+- Dev/QA/How to test non-public methods in .NET.txt
+- Dev/QA/2017. Разработка обслуживаемых программ.txt
 ### Changed
 - Books -> Dev
 
