@@ -1,10 +1,13 @@
-# GitHub Copilot resources
+# GitHub resources
 
 - [Back to the Home](../../README.md)
 - [Back to the Dev](../README.md)
 - [Back to the section](README.md)
 
-## Items
+## Links
+- [GitHub Actions](https://github.com/features/actions)
+
+# GitHub Copilot links
 - [GitHub Copilot Home](https://github.com/features/copilot/)
 - [GitHub Copilot Docs](https://github.com/github/copilot-docs)
 - [GitHub Copilot for Visual Studio documentation](https://github.com/github/copilot-docs/tree/main/docs/visualstudio)
