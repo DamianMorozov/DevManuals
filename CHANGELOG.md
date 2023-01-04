@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.635] - 2023-01-04
+### Changed
+- [LICENSE](LICENSE.md)
+
 ## [0.3.629] - 2022-12-30
 ### Added
 - [Dev/GitHub repos](Dev/GitHub%20repos/README.md)
