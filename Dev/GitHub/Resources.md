@@ -13,3 +13,7 @@
 - [GitHub Copilot for Visual Studio documentation](https://github.com/github/copilot-docs/tree/main/docs/visualstudio)
 - [Getting Started with GitHub Copilot in Visual Studio](https://github.com/github/copilot-docs/blob/main/docs/visualstudio/gettingstarted.md)
 - [Hey, GitHub](https://githubnext.com/projects/hey-github/)
+
+# Telegram
+- [Telegram.BotAPI for NET](https://github.com/Eptagone/Telegram.BotAPI)
+- [WTelegramClient - Telegram Client API library written 100% in C# and .NET](https://github.com/wiz0u/WTelegramClient)
