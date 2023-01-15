@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.641] - 2023-01-15
+### Added
+- [Dev/DataBases/SQL-Scripts/TABLES/Indexes](Dev/DataBases/SQL-Scripts/TABLES/Indexes.sql)
+
 ## [0.3.640] - 2023-01-13
 ### Added
 - [Dev/ChatGPT](Dev/ChatGPT/README.md)

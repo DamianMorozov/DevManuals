@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# SQL Server Management Studio Solution File, Format Version 18.00
+# SQL Server Management Studio Solution File, Format Version 19.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SSIS", "SSIS", "{F12634BB-14B1-4D26-9B2A-C29684684D84}"
@@ -43,6 +43,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TABLES", "TABLES", "{D155CD
 		Tables\Finding duplicate values.sql = Tables\Finding duplicate values.sql
 		Tables\Foreign keys. Match.sql = Tables\Foreign keys. Match.sql
 		Tables\Foreign keys.sql = Tables\Foreign keys.sql
+		TABLES\Indexes.sql = TABLES\Indexes.sql
 		Tables\README.md = Tables\README.md
 		Tables\Tables and rows.sql = Tables\Tables and rows.sql
 		Tables\Tables and sizes.sql = Tables\Tables and sizes.sql
@@ -72,7 +73,7 @@ Global
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0BFB01C-6422-48BB-9CBB-9E673218A3D8}.Default|Default.ActiveCfg = Default
+		{05EC5DE6-7856-4F86-89FD-75217A97DF0B}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

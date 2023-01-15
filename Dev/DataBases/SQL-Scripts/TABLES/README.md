@@ -14,5 +14,6 @@
 - [Finding duplicate values.sql](Finding%20duplicate%20values.sql)
 - [Foreign keys. Match.sql](Foreign%20keys.%20Match.sql)
 - [Foreign keys.sql](Foreign%20keys.sql)
+- [Indexes.sql](Indexes.sql)
 - [Tables and rows.sql](Tables%20and%20rows.sql)
 - [Tables and sizes.sql](Tables%20and%20sizes.sql)
