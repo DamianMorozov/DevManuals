@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.643] - 2023-01-22
+### Added
+- [Dev/DataBases/ORM](Dev/DataBases/ORM/README.md)
+- [Dev/DataBases/ORM/DevExpress XPO ORM](Dev/DataBases/ORM/DevExpress%20XPO%20ORM.md)
+
 ## [0.3.641] - 2023-01-15
 ### Added
 - [Dev/DataBases/SQL-Scripts/TABLES/Indexes](Dev/DataBases/SQL-Scripts/TABLES/Indexes.sql)
