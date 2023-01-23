@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.647] - 2023-01-23
+### Added
+- [Dev/ML](Dev/ML/README.md)
+- [Dev/ML/Stable Diffusion](Dev/ML/Stable%20Diffusion/README.md)
+- [Dev/ML/Stable Diffusion/Stable Diffusion prompts](Dev/ML/Stable%20Diffusion/Stable%20Diffusion%20prompts.md)
+- [Dev/ML/Stable Diffusion/Stable Diffusion resources](Dev/ML/Stable%20Diffusion/Stable%20Diffusion%20resources.md)
+
 ## [0.3.643] - 2023-01-22
 ### Added
 - [Dev/DataBases/ORM](Dev/DataBases/ORM/README.md)
