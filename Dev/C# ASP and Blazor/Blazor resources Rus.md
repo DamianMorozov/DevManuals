@@ -1,4 +1,4 @@
-# Resources [Rus]
+# Blazor resources Rus
 
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)
