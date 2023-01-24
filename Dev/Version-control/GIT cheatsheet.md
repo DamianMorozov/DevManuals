@@ -19,22 +19,30 @@ git diff
 git diff --staged
 ```
 
+## Global alias
+```
+git config --global alias.br "branch"
+git config --global alias.bra "branch -a -vv"
+git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
+git config --global alias.ci "commit"
+git config --global alias.cis "commit -S"
+git config --global alias.cism "commit -S -m"
+git config --global alias.co "checkout"
+git config --global alias.hist "log --oneline --decorate --graph --all"
+git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
+git config --global alias.hist3 "log --pretty=format:\"%h - %an, %ar : %s\""
+git config --global alias.hist4 "log --pretty=oneline"
+git config --global alias.last "log -1 HEAD"
+git config --global alias.st "status"
+git config --global alias.unstage "reset HEAD --"
+git config --global alias.visual "!gitk"
+```
+
 ## Global config
 ```
 git config --global --list
 git config --global --unset user.email
 git config --global --unset user.name
-git config --global alias.br branch
-git config --global alias.bra "branch -a -vv"
-git config --global alias.branchm "!git branch -m $2 $3 && git push $1 :$2 $3 -u #"
-git config --global alias.ci commit
-git config --global alias.co checkout
-git config --global alias.hist "log --oneline --decorate --graph --all"
-git config --global alias.hist2 "log --graph --pretty=format:\"%C(yellow)%h%Creset%C(cyan)%C(bold)%d%Creset %C(cyan)(%cr)%Creset %C(green)%ce%Creset %s\""
-git config --global alias.last "log -1 HEAD"
-git config --global alias.st status
-git config --global alias.unstage "reset HEAD --"
-git config --global alias.visual "!gitk"
 git config --global color.ui auto
 git config --global core.editor [editor]
 git config --global credential.helper cache
@@ -96,6 +104,7 @@ git reset											##
 git reset [commit/tag]								## 
 git reset [file]									## 
 git reset HEAD [file]								## 
+reset HEAD --[file]									## unstage file
 git reset --soft HEAD^								## 
 git reset --hard									## 
 git reset --hard HEAD^								## 
@@ -314,4 +323,9 @@ git merge --quit
 git reset .
 git checkout .
 git clean -fd
+```
+
+## SSH sign
+```
+git verify-commit -v <hash1>						## print commit contents
 ```
