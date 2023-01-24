@@ -18,7 +18,15 @@ start-ssh-agent.cmd
 
 ## Testing your SSH connection at cmd
 ```
-ssh-add path/to/ssh/private/key
+ssh-add path_to_add_ssh/private_key
+ssh-add -D path_to_remove_ssh/private_key
+ssh -T git@github.com
+```
+
+## Copy SSH file to another PC
+```
+copy path_to_remove_ssh/private_key into c:\Users\user\.ssh\
+ssh-add path_to_add_ssh/private_key
 ssh -T git@github.com
 ```
 
