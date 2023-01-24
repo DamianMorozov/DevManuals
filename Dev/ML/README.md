@@ -4,4 +4,5 @@
 - [Back to the Dev page](../README.md)
 
 ## Sections
+- [ChatGPT](ChatGPT/README.md)
 - [Stable Diffusion](Stable%20Diffusion/README.md)
