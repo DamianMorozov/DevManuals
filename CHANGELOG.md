@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.654] - 2023-01-24
+## [0.3.655] - 2023-01-24
 ### Changed
 - [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
 - [Dev/C# ASP and Blazor/Blazor resources](Dev/C%23%20ASP%20and%20Blazor/Blazor%20resources.md)
@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Dev/ML/ChatGPT](Dev/ML/ChatGPT/README.md)
 - [Dev/ML/ChatGPT/ChatGPT resources](Dev/ML/ChatGPT/ChatGPT%20resources.md)
+- [Dev/ML/GitHub/GitHub SSH keys](Dev/GitHub/GitHub%20SSH%20keys.md)
 
 ## [0.3.647] - 2023-01-23
 ### Added
