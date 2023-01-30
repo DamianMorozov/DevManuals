@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.658] - 2023-01-30
+### Changed
+### Changed
+- [Dev/QA/QA resources](Dev/QA/QA%20resources.md)
+
 ## [0.3.657] - 2023-01-24
 ### Changed
 - [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
@@ -91,11 +96,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.597] - 2022-12-14
 ### Changed
-- [Dev/QA/Test resources](Dev/QA/Test%20resources.md)
+- [Dev/QA/QA resources](Dev/QA/QA%20resources.md)
 
 ## [0.3.595] - 2022-12-13
 ### Added
-- [Dev/QA/Test resources](Dev/QA/Test%20resources.md)
+- [Dev/QA/QA resources](Dev/QA/QA%20resources.md)
 ### Changed
 - [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 - [Hardwares/Servers/Server configurators](Hardwares/Servers/Server%20configurators.md)

@@ -1,4 +1,7 @@
-# Test resources
+# QA resources
+
+## Links
+- [Practical Debugging for .NET Developers](https://practicaldebugging.net/)
 
 ## NUnit resources
 - [Unit testing C# with NUnit and .NET Core](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit)
