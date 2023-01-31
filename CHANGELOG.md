@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.660] - 2023-01-31
+## [0.3.661] - 2023-01-31
 ### Added
 - [Dev/DataBases/DataSets](Dev/DataBases/DataSets/README.md)
 - [Dev/DataBases/DataSets/AdventureWorks](Dev/DataBases/DataSets/AdventureWorks.md)
+- [Dev/C#/Asynchronous file access](Dev/C%23/Asynchronous%20file%20access.md)
 
 ## [0.3.658] - 2023-01-30
 ### Changed
