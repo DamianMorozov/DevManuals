@@ -6,8 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.660] - 2023-01-31
+### Added
+- [Dev/DataBases/DataSets](Dev/DataBases/DataSets/README.md)
+- [Dev/DataBases/DataSets/AdventureWorks](Dev/DataBases/DataSets/AdventureWorks.md)
+
 ## [0.3.658] - 2023-01-30
-### Changed
 ### Changed
 - [Dev/QA/QA resources](Dev/QA/QA%20resources.md)
 
@@ -80,7 +84,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.613] - 2022-12-16
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
-- [Dev/Databases/SQL-Scripts](Dev/Databases/SQL-Scripts/README.md)
+- [Dev/DataBases/SQL-Scripts](Dev/DataBases/SQL-Scripts/README.md)
 - [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
 - [Hardwares](Hardwares/README.md)
 ### Added
@@ -152,9 +156,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.570] - 2022-09-28
 ### Added
-- [Dev/Databases/Scripts/BASES/DEAD_LOCKS](Dev/Databases/Scripts/BASES/DEAD_LOCKS.sql)
+- [Dev/DataBases/Scripts/BASES/DEAD_LOCKS](Dev/DataBases/Scripts/BASES/DEAD_LOCKS.sql)
 ### Changed
-- [Dev/Databases/Scripts](Dev/Databases/Scripts/README.md)
+- [Dev/DataBases/Scripts](Dev/DataBases/Scripts/README.md)
 
 ## [0.3.567] - 2022-09-16
 ### Changed
@@ -192,7 +196,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.545] - 2022-08-16
 ### Added
-- [Dev/Databases/Scripts/Functions/Select functions](Dev/Databases/Scripts/Functions/Select%20functions.sql)
+- [Dev/DataBases/Scripts/Functions/Select functions](Dev/DataBases/Scripts/Functions/Select%20functions.sql)
 
 ## [0.3.544] - 2022-08-15
 ### Changed
@@ -204,7 +208,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.542] - 2022-07-29
 ### Changed
-- [Dev/Databases/Databases resources](Dev/Databases/Databases%20resources.md)
+- [Dev/DataBases/Databases resources](Dev/DataBases/Databases%20resources.md)
 - [Dev/Visual Studio/Project properties](Dev/Visual%20Studio/Project%20properties.md)
 
 ## [0.3.540] - 2022-07-27
@@ -215,10 +219,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
 ### Added
-- [Dev/Databases/Lib resources](Dev/Databases/Lib%20resources.md)
-- [Dev/Databases/Lost sa password](Dev/Databases/Lost%20sa%20password.md)
-- [Dev/Databases/Questions before making changes to SQL Server](Dev/Databases/Questions%20before%20making%20changes%20to%20SQL%20Server.md)
-- [Dev/Databases/Questions before making changes to SQL Server [Rus]](Dev/Databases/Questions%20before%20making%20changes%20to%20SQL%20Server%20[Rus].md)
+- [Dev/DataBases/Lib resources](Dev/DataBases/Lib%20resources.md)
+- [Dev/DataBases/Lost sa password](Dev/DataBases/Lost%20sa%20password.md)
+- [Dev/DataBases/Questions before making changes to SQL Server](Dev/DataBases/Questions%20before%20making%20changes%20to%20SQL%20Server.md)
+- [Dev/DataBases/Questions before making changes to SQL Server [Rus]](Dev/DataBases/Questions%20before%20making%20changes%20to%20SQL%20Server%20[Rus].md)
 
 ## [0.3.534] - 2022-07-25
 ### Changed
@@ -282,7 +286,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.502] - 2022-07-04
 ### Changed
-- [Dev/Databases/Scripts/Tables](Dev/Databases/Scripts/Tables/README.md)
+- [Dev/DataBases/Scripts/Tables](Dev/DataBases/Scripts/Tables/README.md)
 - [Dev/GitHub Copilot/Resources](Dev/GitHub%20Copilot/Resources.md)
 
 ## [0.3.499] - 2022-06-17
@@ -293,7 +297,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.495] - 2022-06-16
 ### Added
-- [Dev/Databases/Scripts/Selects](Dev/Databases/Scripts/Selects/README.md)
+- [Dev/DataBases/Scripts/Selects](Dev/DataBases/Scripts/Selects/README.md)
 - [Dev/MS dotNET/MAUI](Dev/MS%20dotNET/MAUI/README.md)
 
 ## [0.3.487] - 2022-06-14
@@ -323,8 +327,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.472] - 2022-06-01
 ### Added
-- [Dev/Databases/Scripts/Tables/Constraints primary key](Dev/Databases/Scripts/README.md)
-- [Dev/Databases/Scripts/SSMS Cheet sheet](Dev/Databases/README.md)
+- [Dev/DataBases/Scripts/Tables/Constraints primary key](Dev/DataBases/Scripts/README.md)
+- [Dev/DataBases/Scripts/SSMS Cheet sheet](Dev/DataBases/README.md)
 
 ## [0.3.470] - 2022-05-31
 ### Changed
@@ -395,13 +399,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Windows/Cmd/Net use.md](Windows/Cmd/README.md)
 - [Windows/Cmd/Sc.md](Windows/Cmd/README.md)
-- [Dev/Databases/Scripts/Constraints foreign key](Dev/Databases/Scripts/README.md)
+- [Dev/DataBases/Scripts/Constraints foreign key](Dev/DataBases/Scripts/README.md)
 ### Changed
 - [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.393] - 2022-04-27
 ### Changed
-- [Dev/Databases/Scripts](Dev/Databases/Scripts/README.md)
+- [Dev/DataBases/Scripts](Dev/DataBases/Scripts/README.md)
 
 ## [0.3.392] - 2022-04-25
 ### Changed
@@ -415,7 +419,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.361] - 2022-04-13
 ### Changed
-- [Dev/Databases/Scripts](Dev/Databases/Scripts/README.md)
+- [Dev/DataBases/Scripts](Dev/DataBases/Scripts/README.md)
 
 ## [0.3.353] - 2022-04-12
 ### Changed
@@ -424,7 +428,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.348] - 2022-04-06
 ### Changed
-- [Dev/Databases/Scripts/Tables](Dev/Databases/Scripts/Tables/README.md)
+- [Dev/DataBases/Scripts/Tables](Dev/DataBases/Scripts/Tables/README.md)
 
 ## [0.3.345] - 2022-04-01
 ### Changed
@@ -436,11 +440,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.343] - 2022-03-30
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.342] - 2022-03-29
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.341] - 2022-03-28
 ### Changed
@@ -453,7 +457,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.325] - 2022-03-25
 ### Changed
-- [Dev/Databases/Scripts](Dev/Databases/README.md)
+- [Dev/DataBases/Scripts](Dev/DataBases/README.md)
 - [Dev/Version-control](Dev/Version-control/README.md)
 
 ## [0.3.315] - 2022-03-24
@@ -472,55 +476,55 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.273] - 2022-03-21
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.271] - 2022-03-18
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.270] - 2022-03-16
 ### Added
 - [.gitignore](.gitignore)
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.258] - 2022-03-15
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.257] - 2022-03-14
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 - [Dev/MS Visual Studio](Dev/MS%20Visual%20Studio/README.md)
 
 ## [0.3.252] - 2022-03-11
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.251] - 2022-03-10
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.250] - 2022-03-09
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.237] - 2022-03-05
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.236] - 2022-03-04
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.235] - 2022-03-03
 ### Changed
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.231] - 2022-03-02
 ### Changed
 - Dev
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 
 ## [0.3.225] - 2022-03-01
 ### Changed
@@ -546,7 +550,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - [Dev/Android](Dev/Android/README.md)
 - [Dev/C#](Dev/C%23/README.md) ASP and Blazor
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 - [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev/Diagrams
 - Dev/Docker
@@ -597,7 +601,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Dev/Android](Dev/Android/README.md)
 - [Dev/C#](Dev/C%23/README.md)
-- [Dev/Database](Dev/Databases/README.md)
+- [Dev/Database](Dev/DataBases/README.md)
 - [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev/Diagrams/README.md
 - Dev/Docker/README.md
@@ -740,7 +744,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.201] - 2021-12-02
 ### Changed
-- Dev/Databases/Scripts/Tables/Tables and sizes.sql
+- Dev/DataBases/Scripts/Tables/Tables and sizes.sql
 ### Added
 - Windows/Software/Windows Terminal.md
 
@@ -773,22 +777,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.191] - 2021-10-21
 ### Changed
-- Dev/Databases/Scripts/Parsers/Get field as string.sql
-- Dev/Databases/Scripts/Parsers/Parse int value from string.sql
+- Dev/DataBases/Scripts/Parsers/Get field as string.sql
+- Dev/DataBases/Scripts/Parsers/Parse int value from string.sql
 
 ## [0.2.190] - 2021-10-20
 ### Added
-- Dev/Databases/Scripts/Tables/Parse int value from string.sql
+- Dev/DataBases/Scripts/Tables/Parse int value from string.sql
 
 ## [0.2.189] - 2021-09-24
 ### Added
-- Dev/Databases/Scripts/Tables/Get field as string.sql
+- Dev/DataBases/Scripts/Tables/Get field as string.sql
 
 ## [0.2.188] - 2021-09-06
 ### Changed
 - Dev/C#/Data types mapping.md
 - Dev/Diagrams/2006. Say it with charts complete toolkit.txt-ru
-- Dev/Databases/Scripts/Tables/GUID varbinary.sql
+- Dev/DataBases/Scripts/Tables/GUID varbinary.sql
 - Dev/GUI/WPF Access controls from threads.md
 - Dev/GUI/WPF metanit in Russian.md
 - Dev/GUI/WPF XAML Enum.md
@@ -809,8 +813,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.176] - 2021-08-26
 ### Added
-- Dev/Databases/Finding duplicate values.sql
-- Dev/Databases/SqlLocalDB.md
+- Dev/DataBases/Finding duplicate values.sql
+- Dev/DataBases/SqlLocalDB.md
 
 ## [0.2.174] - 2021-08-25
 ### Changed
@@ -832,25 +836,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.169] - 2021-08-04
 ### Added
-- Dev/Databases/Scripts/Tables/Filegroups and objects.sql
+- Dev/DataBases/Scripts/Tables/Filegroups and objects.sql
 
 ## [0.2.168] - 2021-07-27
 ### Added
-- Dev/Databases/Scripts/Tables/Foreign keys.sql
-- Dev/Databases/Scripts/Tables/Foreign keys. Match.sql
+- Dev/DataBases/Scripts/Tables/Foreign keys.sql
+- Dev/DataBases/Scripts/Tables/Foreign keys. Match.sql
 
 ## [0.2.166] - 2021-07-21
 ### Added
-- Dev/Databases/Scripts/Tables/json_value.sql
+- Dev/DataBases/Scripts/Tables/json_value.sql
 
 ## [0.2.165] - 2021-07-20
 ### Added
-- Dev/Databases/Scripts/Tables/XML parse to table fields.sql
+- Dev/DataBases/Scripts/Tables/XML parse to table fields.sql
 
 ## [0.2.164] - 2021-07-08
 ### Added
-- Dev/Databases/Scripts/Bases/DB usage space on FS.sql
-- Dev/Databases/Scripts/Tables/Tables and sizes.sql
+- Dev/DataBases/Scripts/Bases/DB usage space on FS.sql
+- Dev/DataBases/Scripts/Tables/Tables and sizes.sql
 
 ## [0.2.162] - 2021-06-30
 ### Added
@@ -866,15 +870,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.159] - 2021-05-27
 ### Added
-- Dev/Databases/Scripts/Select Hex as Guid.sql
+- Dev/DataBases/Scripts/Select Hex as Guid.sql
 
 ## [0.2.158] - 2021-04-19
 ### Changed
-- Dev/Databases/Scripts/*
+- Dev/DataBases/Scripts/*
 
 ## [0.2.157] - 2021-04-09
 ### Added
-- Dev/Databases/Scripts/Select last changed goods.sql
+- Dev/DataBases/Scripts/Select last changed goods.sql
 
 ## [0.2.156] - 2021-03-26
 ### Added
@@ -890,25 +894,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.153] - 2021-03-01
 ### Added
-- Dev/Databases/Scripts/Service Broker.sql
-- Dev/Databases/Database tools.txt
+- Dev/DataBases/Scripts/Service Broker.sql
+- Dev/DataBases/Database tools.txt
 - Windows/Settings/Group policy.txt
 
 ## [0.2.150] - 2021-02-16
 ### Added
-- Dev/Databases/CQRS resources.txt
+- Dev/DataBases/CQRS resources.txt
 
 ## [0.2.149] - 2021-02-05
 ### Added
-- Dev/Databases/Scripts/GUID with NULL.sql
+- Dev/DataBases/Scripts/GUID with NULL.sql
 
 ## [0.2.148] - 2021-02-04
 ### Added
-- Dev/Databases/Scripts/MD5.sql
+- Dev/DataBases/Scripts/MD5.sql
 
 ## [0.2.147] - 2021-02-03
 ### Changed
-- Dev/Databases/NHibernate resources.txt
+- Dev/DataBases/NHibernate resources.txt
 
 ## [0.2.146] - 2021-01-08
 ### Changed
@@ -916,7 +920,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.145] - 2021-01-05
 ### Changed
-- Dev/Databases/NHibernate resources.txt
+- Dev/DataBases/NHibernate resources.txt
 - Dev/JavaScript/JavaScript resources.txt
 
 ## [0.2.143] - 2020-12-30
@@ -963,7 +967,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Renamed
 - Dev/SQL renamed to Dev/Database
 ### Added
-- Dev/Databases/NHibernate resources.txt
+- Dev/DataBases/NHibernate resources.txt
 
 ## [0.2.126] - 2020-12-17
 ### Changed
