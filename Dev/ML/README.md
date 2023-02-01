@@ -5,4 +5,5 @@
 
 ## Sections
 - [ChatGPT](ChatGPT/README.md)
+- [LaMDA](LaMDA/README.md)
 - [Stable Diffusion](Stable%20Diffusion/README.md)

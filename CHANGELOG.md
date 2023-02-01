@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.663] - 2023-02-01
+### Added
+- [Dev/ML/LaMDA](Dev/ML/LaMDA/README.md)
+- [Dev/ML/LaMDA/LaMDA resources](Dev/ML/LaMDA/LaMDA%20resources.md)
+
 ## [0.3.661] - 2023-01-31
 ### Added
 - [Dev/DataBases/DataSets](Dev/DataBases/DataSets/README.md)
