@@ -5,6 +5,7 @@
 - [Back to the section](README.md)
 
 ## Visual Studio 2022 setup
+- [ChatGPT](https://marketplace.visualstudio.com/items?itemName=ChatGpt.chatgpt)
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
