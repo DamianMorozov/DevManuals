@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.666] - 2023-02-02
+### Added
+- [Dev/Networks/Web app monitoring](Dev/Networks/Web%20app%20monitoring.md)
+
 ## [0.3.665] - 2023-02-01
 ### Added
 - [Dev/ML/LaMDA](Dev/ML/LaMDA/README.md)
