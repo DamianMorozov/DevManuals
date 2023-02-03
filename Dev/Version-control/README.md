@@ -4,6 +4,9 @@
 - [Back to the Dev page](../README.md)
 - [Back to the Version-control page](README.md)
 
+## Sections
+- [GitHub new repo](GitHub%20new%20repo/README.md)
+
 ## Items
 - [GIT cheatsheet [Rus]](GIT%20cheatsheet%20[Rus].md)
 - [GIT cheatsheet](GIT%20cheatsheet.md)

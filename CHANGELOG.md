@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.673] - 2023-02-03
+## [0.3.675] - 2023-02-03
 ### Changed
 - [Dev/Version-control](Dev/Version-control/README.md)
+### Added
+- [Dev/Version-control/GitHub new repo](Dev/Version-control/GitHub%20new%20repo/README.md)
+- [Dev/Version-control/GitHub new repo/CONTRIBUTING](Dev/Version-control/GitHub%20new%20repo/CONTRIBUTING.md)
 
 ## [0.3.666] - 2023-02-02
 ### Added
