@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.673] - 2023-02-03
+### Changed
+- [Dev/Version-control](Dev/Version-control/README.md)
+
 ## [0.3.666] - 2023-02-02
 ### Added
 - [Dev/Networks/Web app monitoring](Dev/Networks/Web%20app%20monitoring.md)

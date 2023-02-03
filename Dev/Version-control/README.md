@@ -1,7 +1,8 @@
-# Version control
+# Version-control
 
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)
+- [Back to the Version-control page](README.md)
 
 ## Items
 - [GIT cheatsheet [Rus]](GIT%20cheatsheet%20[Rus].md)
@@ -9,7 +10,11 @@
 - [GIT dev app creating manual](GIT%20dev%20app%20creating%20manual.md)
 - [Git readme helpers](Git%20readme%20helpers.md)
 - [GIT resources](GIT%20resources.md)
-- [GIT%20unprotect](GIT unprotect.md)
+- [GIT unprotect](GIT%20unprotect.md)
+- [GitHub Copilot and Resharper](GitHub%20Copilot%20and%20Resharper.md)
+- [GitHub NET Foundation](GitHub%20NET%20Foundation.md)
+- [GitHub resources](GitHub%20resources.md)
+- [GitHub SSH keys](GitHub%20SSH%20keys.md)
 - [Gitup cheatsheet](Gitup%20cheatsheet.md)
 - [SVN cheatsheet [Rus]](SVN%20cheatsheet%20[Rus].md)
 - [SVN cheatsheet](SVN%20cheatsheet.md)

@@ -34,6 +34,8 @@ git config --global alias.hist3 "log --pretty=format:\"%h - %an, %ar : %s\""
 git config --global alias.hist4 "log --pretty=oneline"
 git config --global alias.last "log -1 HEAD"
 git config --global alias.st "status"
+git config --global alias.sta "!git branch -a -vv && git status"
+git config --global alias.stad "!git add . && git branch -a -vv && git status"
 git config --global alias.unstage "reset HEAD --"
 git config --global alias.visual "!gitk"
 ```
