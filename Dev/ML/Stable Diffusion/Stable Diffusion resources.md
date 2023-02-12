@@ -25,9 +25,17 @@
 cd ../stable-diffusion-webui
 `
 
-## Errors
+## Error
 - [Cannot activate python venv, aborting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/1120)
 should not return any errors: `python3 -c 'import venv'`
 should populate the directory: `python3 -m venv venv/`
 run: `bash ./webui-user.sh` or `bash ./webui.sh`
 To create a public link, set `share=True` in `launch()`: `bash ./webui.sh --share`
+
+## Error
+- [RuntimeError: Cannot add middleware after an application has started](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7749)
+```
+python3 -m pip install --upgrade pip
+pip uninstall fastapi
+pip install fastapi==0.90.1
+```
