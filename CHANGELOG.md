@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.678] - 2023-02-13
+### Added
+- [Linux/Virtualization](Linux/Virtualization/README.md)
+- [Linux/Virtualization/Virtualization resources](Linux/Virtualization/Virtualization%20resources.md)
+
 ## [0.3.676] - 2023-02-12
 ### Changed
 - [Dev/ML/Stable Diffusion/Stable Diffusion resources](Dev/ML/Stable%20Diffusion/Stable%20Diffusion%20resources.md)
