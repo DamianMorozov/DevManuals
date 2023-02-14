@@ -3,6 +3,6 @@
 - [Back to the Home page](../README.md)
 
 ## Sections
-- [HDD](HDD/README.md)
+- [Drives](Drives/README.md)
 - [NAS](NAS/README.md)
 - [Servers](Servers/README.md)

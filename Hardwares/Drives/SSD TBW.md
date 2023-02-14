@@ -34,6 +34,7 @@ Samsung    | M2   | 970 EVO Plus    |   250 GB |  150 TB
 Samsung    | M2   | 970 EVO Plus    |   500 GB |  300 TB
 Samsung    | M2   | 970 EVO Plus    |     1 TB |  600 TB
 Samsung    | M2   | 970 EVO Plus    |     2 TB | 1200 TB
+Samsung    | M2   | 980 PRO         |     2 TB | 1200 TB
 Samsung    | SATA | 980             |   500 GB |  300 TB
 WD Green   | SATA | WDS240G2G0A     |   250 GB |   80 TB
 WD Green   | NVME | SN350           |     1 TB |   80 TB

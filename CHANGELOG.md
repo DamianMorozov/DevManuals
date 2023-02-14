@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.679] - 2023-02-14
+### Changed
+- [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
+
 ## [0.3.678] - 2023-02-13
 ### Added
 - [Linux/Virtualization](Linux/Virtualization/README.md)
@@ -245,7 +249,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.539] - 2022-07-26
 ### Changed
-- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
+- [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
 ### Added
 - [Dev/DataBases/Lib resources](Dev/DataBases/Lib%20resources.md)
 - [Dev/DataBases/Lost sa password](Dev/DataBases/Lost%20sa%20password.md)
@@ -278,7 +282,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.522] - 2022-07-18
 ### Changed
-- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
+- [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
 
 ## [0.3.521] - 2022-07-15
 ### Changed
@@ -287,7 +291,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Hardwares](Hardwares/README.md)
 - [Hardwares/HDD](Hardwares/HDD/README.md)
-- [Hardwares/HDD/SSD TBW](Hardwares/HDD/SSD%20TBW.md)
+- [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
 
 ## [0.3.514] - 2022-07-14
 ### Changed
