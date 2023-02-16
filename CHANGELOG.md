@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.680] - 2023-02-16
+### Changed
+- [Dev/Docker/Docker resources](Dev/Docker/Docker%20resources.md)
+
 ## [0.3.679] - 2023-02-14
 ### Changed
 - [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
@@ -585,7 +589,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/Database](Dev/DataBases/README.md)
 - [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev/Diagrams
-- Dev/Docker
+- [Dev/Docker](Dev/Docker/README.md)
 - Dev/Go
 - Dev/GUI
 - Dev/JavaScript
@@ -636,7 +640,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Dev/Database](Dev/DataBases/README.md)
 - [Dev/Design patterns](Dev/Design%20patterns/README.md)
 - Dev/Diagrams/README.md
-- Dev/Docker/README.md
+- [Dev/Docker](Dev/Docker/README.md)
 - [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
 - Dev/Go/README.md
 - Dev/GUI/README.md
@@ -791,7 +795,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.197] - 2021-11-08
 ### Changed
 - Windows/Software/Winget.md
-- Dev/Docker/Docker.md
+- [Dev/Docker](Dev/Docker/README.md)
 ### Added
 - Dev/Docker/Docker quick start.md
 
@@ -862,7 +866,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.171] - 2021-08-16
 ### Changed
-- Dev/Docker/Docker.txt
+- [Dev/Docker](Dev/Docker/README.md)
 ### Added
 - Dev/Docker/Bitnami Redmine.txt
 
@@ -1643,6 +1647,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.14] - 2019-04-02
 ### Added
 - Dev/Changelog.txt
-- Dev/Docker.txt
+- [Dev/Docker](Dev/Docker/README.md)
 - Dev/Git.txt
 - Dev/Readme.txt
