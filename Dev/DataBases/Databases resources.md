@@ -17,3 +17,6 @@
 
 ## SQLite repositories
 - [SQLite-net](https://github.com/praeclarum/sqlite-net)
+
+## Utilities
+- [sqlcmd Utility](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility)

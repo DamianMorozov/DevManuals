@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.680] - 2023-02-16
+## [0.3.681] - 2023-02-16
 ### Changed
+- [Dev/DataBases/Databases resources](Dev/DataBases/Databases%20resources.md)
 - [Dev/Docker/Docker resources](Dev/Docker/Docker%20resources.md)
 
 ## [0.3.679] - 2023-02-14
