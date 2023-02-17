@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.682] - 2023-02-17
+### Changed
+- [Dev/MS Visual Studio/Extensions](Dev/MS%20Visual%20Studio/Extensions.md)
+
 ## [0.3.681] - 2023-02-16
 ### Changed
 - [Dev/DataBases/Databases resources](Dev/DataBases/Databases%20resources.md)

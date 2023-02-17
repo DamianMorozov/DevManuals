@@ -17,6 +17,7 @@
 - [TSVN](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TSVN)
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+- [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
 
 ## Visual Studio 2022 deprecated setup
 - [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
