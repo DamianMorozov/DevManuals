@@ -1,16 +1,15 @@
 # MS SQL data types
 
-[Data types (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
-
+- [Data types (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 
 ## Exact numerics
 [bigint, int, smallint, tinyint](https://docs.microsoft.com/en-us/sql/t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql)
   Exact-number data types that use integer data.
-  Data type	  Range	                                                                    Storage
-  bigint	    -2^63 (-9,223,372,036,854,775,808) to 2^63-1 (9,223,372,036,854,775,807)	8 Bytes
-  int	        -2^31 (-2,147,483,648) to 2^31-1 (2,147,483,647)	                        4 Bytes
-  smallint	  -2^15 (-32,768) to 2^15-1 (32,767)	                                      2 Bytes
+  Data type	  	Range	                                                                    Storage
   tinyint	    0 to 255	                                                                1 Byte
+  smallint		-2^15 (-32,768) to 2^15-1 (32,767)	                                      	2 Bytes
+  int	        -2^31 (-2,147,483,648) to 2^31-1 (2,147,483,647)	                        4 Bytes
+  bigint	    -2^63 (-9,223,372,036,854,775,808) to 2^63-1 (9,223,372,036,854,775,807)	8 Bytes
 [decimal, numeric](https://docs.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql)
   Numeric data types that have fixed precision and scale. Decimal and numeric are synonyms and can be used interchangeably.
   decimal[ (p[ ,s] )] and numeric[ (p[ ,s] )]
@@ -23,10 +22,10 @@
   An integer data type that can take a value of 1, 0, or NULL.
 [smallmoney, money](https://docs.microsoft.com/en-us/sql/t-sql/data-types/money-and-smallmoney-transact-sql)
   Data types that represent monetary or currency values.
-  Data type	  Range	                                                                                         Storage
-  money	      -922,337,203,685,477.5808 to 922,337,203,685,477.5807 (-922,337,203,685,477.58
-              to 922,337,203,685,477.58 for Informatica. Informatica only supports two decimals, not four.)	 8 bytes
-  smallmoney	- 214,748.3648 to 214,748.3647	                                                               4 bytes
+  Data type	  	Range																							Storage
+  money	      	-922,337,203,685,477.5808 to 922,337,203,685,477.5807 (-922,337,203,685,477.58
+				to 922,337,203,685,477.58 for Informatica. Informatica only supports two decimals, not four.)	8 bytes
+  smallmoney	- 214,748.3648 to 214,748.3647																	4 bytes
 
 ## Approximate numerics
 [float, real](https://docs.microsoft.com/en-us/sql/t-sql/data-types/float-and-real-transact-sql)
