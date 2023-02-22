@@ -6,9 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.684] - 2023-02-22
+## [0.3.685] - 2023-02-22
 ### Changed
 - [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
+### Added
+- [Dev/ML/ML resources](Dev/ML/ML%20resources.md)
 
 ## [0.3.683] - 2023-02-20
 ### Changed
