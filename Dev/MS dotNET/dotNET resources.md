@@ -1,4 +1,8 @@
-# dotNET resources
+# MS dotNET resources
+
+- [Back to the Home page](../../README.md)
+- [Back to the Dev page](../README.md)
+- [Back to the section page](README.md)
 
 ## Links
 - [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
@@ -20,3 +24,6 @@
 - [VisualStudio on twitch.tv](https://www.twitch.tv/VisualStudio/)
 - [What is the .NET SDK?](https://docs.microsoft.com/en-us/dotnet/core/sdk)
 - [What's new in .NET 6](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6)
+
+## Projects
+- [LinkDotNet.StringBuilder](https://github.com/linkdotnet/StringBuilder)

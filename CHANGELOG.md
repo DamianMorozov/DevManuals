@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.684] - 2023-02-22
+### Changed
+- [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
+
 ## [0.3.683] - 2023-02-20
 ### Changed
 - [Dev/DataBases/MS SQL data types](Dev/DataBases/MS%20SQL%20data%20types.md)
