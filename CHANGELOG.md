@@ -6,13 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.689] - 2023-02-26
+## [0.3.700] - 2023-02-26
 ### Changed
-- [Dev/Docker/Docker Bitnami Redmine](Dev/Docker/Docker%20Bitnami%20Redmine.md)
+- [Dev/Docker/Docker cheatsheet](Dev/Docker/Docker%20cheatsheet.md)
 - [Dev/Docker/Docker quick start](Dev/Docker/Docker%20quick%20start.md)
+- [Dev/Docker/Docker software Bitnami Redmine](Dev/Docker/Docker%20software%20Bitnami%20Redmine.md)
 - [Dev/Docker](Dev/Docker/README.md)
 ### Added
 - [Dev/Docker/Docker install on Ubuntu](Dev/Docker/Docker%20install%20on%20Ubuntu.md)
+- [Dev/Docker/Docker software linuxserver qbittorrent](Dev/Docker/Docker%20software%20linuxserver%20qbittorrent.md)
+- [Dev/Docker/Docker software linuxserver jellyfin](Dev/Docker/Docker%20software%20linuxserver%20jellyfin.md)
+- [Dev/Docker/Docker software linuxserver qbittorrent](Dev/Docker/Docker%20software%20linuxserver%20qbittorrent.md)
+- [Dev/Docker/Docker software portainer portainer-ce](Dev/Docker/Docker%20software%20portainer%20portainer-ce.md)
+- [Dev/Docker/Docker software universalmediaserver ums](Dev/Docker/Docker%20software%20universalmediaserver%20ums.md)
 
 ## [0.3.685] - 2023-02-22
 ### Changed
