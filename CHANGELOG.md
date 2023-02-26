@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.689] - 2023-02-26
+### Changed
+- [Dev/Docker/Bitnami Redmine](Dev/Docker/Bitnami%20Redmine.md)
+- [Dev/Docker/Docker quick start](Dev/Docker/Docker%20quick%20start.md)
+- [Dev/Docker](Dev/Docker/README.md)
+### Added
+- [Dev/Docker/Docker install on Ubuntu](Dev/Docker/Docker%20install%20on%20Ubuntu.md)
+
 ## [0.3.685] - 2023-02-22
 ### Changed
 - [Dev/MS dotNET](Dev/MS%20dotNET/README.md)
