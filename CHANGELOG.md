@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.689] - 2023-02-26
 ### Changed
-- [Dev/Docker/Bitnami Redmine](Dev/Docker/Bitnami%20Redmine.md)
+- [Dev/Docker/Docker Bitnami Redmine](Dev/Docker/Docker%20Bitnami%20Redmine.md)
 - [Dev/Docker/Docker quick start](Dev/Docker/Docker%20quick%20start.md)
 - [Dev/Docker](Dev/Docker/README.md)
 ### Added
