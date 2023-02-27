@@ -8,6 +8,7 @@
 - [The Industry-Leading Container Runtime](https://www.docker.com/community-edition/ "docker.com")
 - [How and why to use Docker (Rus)](https://guides.hexlet.io/docker/ "guides.hexlet.io")
 - [Docker Getting Started Tutorial](https://github.com/docker/getting-started "github.com")
+- [Docker Training Course for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/ "kodekloud.com")
 
 ## Management
 - [portainer.io(https://www.portainer.io/)
