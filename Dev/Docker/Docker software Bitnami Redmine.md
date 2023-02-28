@@ -8,7 +8,7 @@
 - [hub.docker.com](https://hub.docker.com/r/bitnami/redmine/)
 
 
-Docker Pull Command
+## Docker Pull Command
 ```
 docker pull bitnami/redmine
 ```

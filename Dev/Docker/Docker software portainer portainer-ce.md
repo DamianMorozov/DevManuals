@@ -7,7 +7,7 @@
 ## Links
 - [portainer/portainer-ce](https://hub.docker.com/r/portainer/portainer-ce)
 
-Docker commands
+## Docker commands
 ```
 docker pull portainer/portainer-ce
 docker volume create portainer_data
@@ -19,5 +19,4 @@ docker run -d \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -v portainer_data:/data \
   portainer/portainer-ce:latest
-sudo ufw allow 9443
 ```

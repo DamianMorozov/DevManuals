@@ -8,7 +8,7 @@
 - [linuxserver/qbittorrent](https://hub.docker.com/r/linuxserver/qbittorrent)
 - [Support](https://support.universalmediaserver.com/books/installation/page/docker)
 
-Docker commands
+## Docker commands
 ```
 docker pull universalmediaserver/ums
 docker run -d \
@@ -19,8 +19,4 @@ docker run -d \
   --restart unless-stopped \
   --mount type=bind,source=/mnt/<location>,target=/mnt/<location> \
   universalmediaserver/ums:latest
-sudo ufw allow 1044
-sudo ufw allow 5001
-sudo ufw allow 9001
-sudo ufw allow 9002
 ```

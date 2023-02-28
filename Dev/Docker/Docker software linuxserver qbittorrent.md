@@ -7,7 +7,7 @@
 ## Links
 - [linuxserver/qbittorrent](https://hub.docker.com/r/linuxserver/qbittorrent)
 
-Docker commands
+## Docker commands
 ```
 docker pull linuxserver/qbittorrent
 docker run -d \
@@ -23,11 +23,9 @@ docker run -d \
   -v /mnt/net_media:/mnt/net_media \
   --mount type=bind,source=/mnt/<location>,target=/mnt/<location> \
   linuxserver/qbittorrent:latest
-sudo ufw allow 6881
-sudo ufw allow 8090
 ```
 
-Default access
+## Default access
 ```
 admin : adminadmin
 ```

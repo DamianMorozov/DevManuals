@@ -7,7 +7,7 @@
 ## Links
 - [linuxserver/jellyfin](https://hub.docker.com/r/linuxserver/jellyfin)
 
-Docker commands
+## Docker commands
 ```
 docker pull linuxserver/jellyfin
 docker run -d \
@@ -26,8 +26,4 @@ docker run -d \
   --restart unless-stopped \
   --mount type=bind,source=/mnt/<location>,target=/mnt/<location> \
   lscr.io/linuxserver/jellyfin:latest
-sudo ufw allow 1900
-sudo ufw allow 7359
-sudo ufw allow 8096
-sudo ufw allow 8920
 ```
