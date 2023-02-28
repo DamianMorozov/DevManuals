@@ -20,6 +20,7 @@ docker container ls --all					# list all containers
 docker container rm <container>				# remove the container
 docker rm <container>						# remove the container
 docker container stats						# view a live stream of container(s) resource usage statistics
+docker stats								# view a live stream of container(s) resource usage statistics
 docker container stop <container>			# stop running container
 docker stop <container>						# stop running container
 docker container inspect <container>		# view detailed information on one or more container
@@ -45,6 +46,7 @@ docker network ls							# view networks
 docker network create <network_name> 		# create user-defined network
 docker network create <network_name> --driver bridge --subnet 182.18.0.0/16		# create network with driver and subnet
 docker network rm <network_name>			# remove user-defined network
+docker network inspect <network_name>		# view detailed information on one or more networks
 ```
 
 ## Logs
