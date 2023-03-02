@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.712] - 2023-03-02
+### Changed
+- [Windows/Updates](Windows/Updates/README.md)
+### Added
+- [Windows/Updates/Windows updates](Windows/Updates/Windows%20updates.md)
+
 ## [0.3.710] - 2023-02-28
 ### Changed
 - [Dev/Docker](Dev/Docker/README.md)

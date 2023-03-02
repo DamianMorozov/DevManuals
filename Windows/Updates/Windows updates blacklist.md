@@ -1,4 +1,10 @@
 # Windows 10 updates blacklist
+
+- [Back to the Home page](../../README.md)
+- [Back to the Windows page](../README.md)
+- [Back to the README page](README.md)
+
+## List
 - KB5013943
 
 # Windows 10 uninstall updates

@@ -1,5 +1,9 @@
 # Disable Windows Insider Program Settings
 
+- [Back to the Home page](../../README.md)
+- [Back to the Windows page](../README.md)
+- [Back to the README page](README.md)
+
 ## Method 1.
 Command Prompt: `gpedit`
 Open the Local Group Policy Editor and browse to: `Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds`.
