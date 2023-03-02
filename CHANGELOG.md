@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.712] - 2023-03-02
+## [0.3.713] - 2023-03-02
 ### Changed
 - [Windows/Updates](Windows/Updates/README.md)
 ### Added
