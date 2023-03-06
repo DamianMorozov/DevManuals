@@ -27,3 +27,6 @@ Tools → Options → Text Editor → All Languages → Scroll Bars
 ## File Scoped Namespaces
 Tools → Options → Text Editor → C# → Code Style → General
 → Code block preferences: Namespace declarations: File scoped & Warning
+
+## New Lines
+Tools → Options → Text Editor → C# → Code Style → Formatting → New Lines
