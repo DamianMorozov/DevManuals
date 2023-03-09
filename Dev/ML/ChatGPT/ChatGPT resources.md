@@ -9,6 +9,7 @@
 - [Talk with ChatGPT with +130 Languages](https://chat.pawan.krd/)
 - [Pawan Osman on Github](https://github.com/PawanOsman)
 - [ChatGPT.NET](https://github.com/linkdotnet/ChatGPT.NET)
+- [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 
 ## Global links
 - [openai.com](https://openai.com/)
