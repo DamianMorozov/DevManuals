@@ -6,10 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.717] - 2023-03-10
+## [0.3.719] - 2023-03-10
 ### Added
 - [Dev/Docs](Dev/Docs/README.md)
 - [Dev/Docs/Docs resources](Dev/Docs/Docs%20resources.md)
+- [Dev/Media](Dev/Media/README.md)
+- [Dev/Media/Media resources](Dev/Media/Media%20resources.md)
 
 ## [0.3.715] - 2023-03-09
 ### Changed
