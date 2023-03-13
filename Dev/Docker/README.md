@@ -12,4 +12,6 @@
 - [Docker software linuxserver jellyfin](Docker%20software%20linuxserver%20jellyfin.md)
 - [Docker software linuxserver qbittorrent](Docker%20software%20linuxserver%20qbittorrent.md)
 - [Docker software portainer portainer-ce](Docker%20software%20portainer%20portainer-ce.md)
+- [Docker software postfixadmin](Docker%20software%20postfixadmin.md)
+- [Docker software ubuntu bind9](Docker%20software%20ubuntu%20bind9.md)
 - [Docker software universalmediaserver ums](Docker%20software%20universalmediaserver%20ums.md)
