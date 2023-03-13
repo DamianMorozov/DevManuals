@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.720] - 2023-03-13
+### Changed
+- [Dev/ML/ChatGPT/ChatGPT resources](Dev/ML/ChatGPT/ChatGPT%20resources.md)
+
 ## [0.3.719] - 2023-03-10
 ### Added
 - [Dev/Docs](Dev/Docs/README.md)
