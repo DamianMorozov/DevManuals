@@ -25,6 +25,9 @@
 cd ../stable-diffusion-webui
 `
 
+## Extensions for webui
+- [Rembg - Removes backgrounds from pictures](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
+
 ## Error
 - [Cannot activate python venv, aborting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/1120)
 should not return any errors: `python3 -c 'import venv'`

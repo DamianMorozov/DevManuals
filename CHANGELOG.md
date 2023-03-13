@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.722] - 2023-03-13
+## [0.3.723] - 2023-03-13
 ### Changed
 - [Dev/ML/ChatGPT/ChatGPT resources](Dev/ML/ChatGPT/ChatGPT%20resources.md)
+- [Dev/ML/Stable Diffusion/Stable Diffusion prompts](Dev/ML/Stable%20Diffusion/Stable%20Diffusion%20prompts.md)
 - [Dev/Docker](Dev/Docker/README.md)
 ### Added
 - [Dev/Docker/Docker software postfixadmin](Dev/Docker/Docker%20software%20postfixadmin.md)
