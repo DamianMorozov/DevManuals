@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.724] - 2023-03-15
+## [0.3.725] - 2023-03-15
 ### Changed
 - [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
+- [Dev/ML/ChatGPT/ChatGPT resources](Dev/ML/ChatGPT/ChatGPT%20resources.md)
 
 ## [0.3.723] - 2023-03-13
 ### Changed

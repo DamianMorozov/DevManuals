@@ -11,6 +11,7 @@
 - [ChatGPT.NET](https://github.com/linkdotnet/ChatGPT.NET)
 - [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
 ## Global links
 - [openai.com](https://openai.com/)
