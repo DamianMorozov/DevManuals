@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.727] - 2023-03-16
+### Added
+- [Dev/Version-control/GitHub Actions](Dev/Version-control/GitHub%20Actions.md)
+
 ## [0.3.726] - 2023-03-15
 ### Changed
 - [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)

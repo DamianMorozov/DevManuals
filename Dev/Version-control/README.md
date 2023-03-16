@@ -14,6 +14,7 @@
 - [Git readme helpers](Git%20readme%20helpers.md)
 - [GIT resources](GIT%20resources.md)
 - [GIT unprotect](GIT%20unprotect.md)
+- [GitHub Actions](GitHub%20Actions.md)
 - [GitHub Copilot and Resharper](GitHub%20Copilot%20and%20Resharper.md)
 - [GitHub NET Foundation](GitHub%20NET%20Foundation.md)
 - [GitHub resources](GitHub%20resources.md)
