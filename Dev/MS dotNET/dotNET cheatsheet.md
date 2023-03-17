@@ -1,4 +1,4 @@
-# MS dotNET quick help
+# MS dotNET cheatsheet
 
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)
@@ -15,7 +15,7 @@ dotnet --list-sdks			## Display the installed SDKs
 dotnet add package			## Adds a package reference to a project file
 dotnet add reference		## Adds project-to-project (P2P) references
 dotnet build				## Builds a project and all of its dependencies
-dotnet build-server
+dotnet build-server			## 
 dotnet build-server shutdown [--msbuild] [--razor] [--vbcscompiler]
 dotnet build-server shutdown [-h|--help]
 dotnet build-server [-h|--help]
@@ -26,10 +26,11 @@ dotnet list reference		## Lists project-to-project references
 dotnet migrate				## Migrates a Preview 2 .NET Core project to a .NET Core SDK 1.0 project
 dotnet msbuild				## Builds a project and all of its dependencies
 dotnet new					## Creates a new project, configuration file, or solution based on the specified template
-dotnet new --help
-dotnet new --list        
-dotnet new -i Microsoft.DotNet.Web.ItemTemplates::3.1.9  -- Installs a source or a template pack
-dotnet new <TEMPLATE>
+dotnet new --help			## 
+dotnet new --list        	## 
+dotnet new -i Microsoft.DotNet.Web.ItemTemplates::3.1.9	## Installs a source or a template pack
+dotnet new --install BlazorWithIdentity.Template		## Installs a source or a template pack
+dotnet new <TEMPLATE>		## 
 dotnet nuget delete			## Deletes or unlists a package from the server
 dotnet nuget locals			## Clears or lists local NuGet resources
 dotnet nuget push			## Pushes a package to the server and publishes it
