@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.735] - 2023-03-23
+## [0.3.737] - 2023-03-23
 ### Changed
 - [Dev/Version-control/GitHub resources](Dev/Version-control/GitHub%20resources.md)
 ### Added
 - [Dev/MS/dotNET](Dev/MS/dotNET/README.md)
+- [Dev/MS/dotNET/MS resources](Dev/MS/MS%20resources.md)
 ### Removed
 - [Dev/MS dotNET]
 
