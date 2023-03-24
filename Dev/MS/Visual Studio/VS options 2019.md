@@ -1,7 +1,7 @@
 # Options Visual Studio 2019
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 https://habr.com/ru/company/microsoft/blog/447124/

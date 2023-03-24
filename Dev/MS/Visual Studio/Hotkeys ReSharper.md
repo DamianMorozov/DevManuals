@@ -1,7 +1,7 @@
 # Hotkeys Resharper
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 https://www.jetbrains.com/help/resharper/2016.3/Reference__Keyboard_Shortcuts.html

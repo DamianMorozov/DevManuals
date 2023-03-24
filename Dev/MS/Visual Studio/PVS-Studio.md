@@ -1,7 +1,7 @@
 # PVS-Studio
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 ## Open source license

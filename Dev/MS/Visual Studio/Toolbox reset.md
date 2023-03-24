@@ -1,7 +1,7 @@
 # Toolbox reset
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 http://a-kicker-n.blogspot.ru/2010/01/restore-missing-controls-in-visual.html

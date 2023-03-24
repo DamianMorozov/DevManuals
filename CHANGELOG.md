@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.760] - 2023-03-24
+### Changed
+- [Dev/MS/Visual Studio](Dev/MS/Visual%20Studio/README.md)
+- [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
+### Removed
+- [Dev/MS Visual Studio]
+
 ## [0.3.737] - 2023-03-23
 ### Changed
 - [Dev/Version-control/GitHub resources](Dev/Version-control/GitHub%20resources.md)

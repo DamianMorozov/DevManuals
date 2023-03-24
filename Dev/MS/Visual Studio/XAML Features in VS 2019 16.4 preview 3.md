@@ -1,7 +1,7 @@
 # XAML Features in Visual Studio
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 https://www.youtube.com/watch?v=yI9OyA4ZM2E

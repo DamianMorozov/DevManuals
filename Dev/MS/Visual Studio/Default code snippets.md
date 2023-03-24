@@ -1,7 +1,7 @@
 # Default code snippets
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
 https://docs.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets

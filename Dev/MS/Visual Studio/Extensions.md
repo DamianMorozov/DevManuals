@@ -1,11 +1,10 @@
 # Visual Studio Extensions
 
-- [Back to the Home](../../README.md)
-- [Back to the Dev](../README.md)
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
-## Visual Studio 2022 setup
-- [ChatGPT](https://marketplace.visualstudio.com/items?itemName=ChatGpt.chatgpt)
+## Visual Studio 2022 Extensions 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
@@ -18,6 +17,10 @@
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
+## Visual Studio 2022 Extensions ChatGPT
+- [AskChatGPT](https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT)
+- [ChatGPT - Iguana Technology s.r.o.](https://marketplace.visualstudio.com/items?itemName=IguanaTechnology.ChatGPT)
+- [Visual chatGPT Studio](https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio)
 
 ## Visual Studio 2022 deprecated setup
 - [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
