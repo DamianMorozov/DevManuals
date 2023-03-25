@@ -8,4 +8,5 @@
 - [Communications](Network/Communications.md)
 - [Files synchronization](Network/Files%20synchronization.md)
 - [Firewalls](Network/Firewalls.md)
+- [Networks speed](Networks%20speed.md)
 - [Networks troubleshooting](Networks%20troubleshooting.md)
