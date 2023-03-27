@@ -17,6 +17,7 @@
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
+- [Visual-Studio-Translator](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1462295.Visual-Studio-Translator)
 ## Visual Studio 2022 Extensions ChatGPT
 - [AskChatGPT](https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT)
 - [ChatGPT - Iguana Technology s.r.o.](https://marketplace.visualstudio.com/items?itemName=IguanaTechnology.ChatGPT)

@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.762] - 2023-03-27
+### Changed
+- [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
+
 ## [0.3.761] - 2023-03-25
 ### Added
 - [Linux/Networks/Networks speed](Linux/Networks/Networks%20speed.md)
