@@ -12,6 +12,8 @@
 ## Version 22H2 (OS build 19045)
 ```
 Servicing option	Availability date	Build	KB article
+General Availability Channel	2023-03-21	19045.2788	KB5023773
+General Availability Channel	2023-03-14	19045.2728	KB5023696
 General Availability Channel	2023-02-21	19045.2673	KB5022906
 General Availability Channel	2023-02-14	19045.2604	KB5022834
 General Availability Channel	2023-01-19	19045.2546	KB5019275

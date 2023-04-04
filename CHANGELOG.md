@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.763] - 2023-04-04
+### Changed
+- [Windows/Updates/Windows updates](Windows/Updates/Windows%20updates.md)
+
 ## [0.3.762] - 2023-03-27
 ### Changed
 - [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
