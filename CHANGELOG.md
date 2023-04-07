@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.767] - 2023-04-07
+### Changed
+- [Dev/QA](Dev/QA/README.md)
+
 ## [0.3.764] - 2023-04-06
 ### Changed
 - [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)

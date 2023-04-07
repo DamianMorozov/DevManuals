@@ -2,6 +2,12 @@
 
 ## Links
 - [Practical Debugging for .NET Developers](https://practicaldebugging.net/)
+- [Test Guild](https://testguild.com/)
+- [infoq.com](https://infoq.com/)
+- [techbeacon.com](https://techbeacon.com/)
+- [Unit Testing Principles, Practices, and Patterns](https://livebook.manning.com/book/unit-testing/)
+- [Unit Testing course](https://unittestingcourse.com/)
+- [Complete Guide to Unit Testing](https://enterprisecraftsmanship.com/)
 
 ## NUnit resources
 - [Unit testing C# with NUnit and .NET Core](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit)
