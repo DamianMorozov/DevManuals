@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.768] - 2023-04-12
+### Changed
+- [Dev/MS dotNET/dotNET cheatsheet](Dev/MS%20dotNET/dotNET%20cheatsheet.md)
+
 ## [0.3.767] - 2023-04-07
 ### Changed
 - [Dev/QA](Dev/QA/README.md)

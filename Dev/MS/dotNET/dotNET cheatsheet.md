@@ -60,4 +60,5 @@ dotnet tool update			## Updates the specified .NET Core Global Tool on your mach
 dotnet watch run			## Enable hot reloading during development so the app automatically restarts when a file is changed
 dotnet workload restore		## Installs workloads needed for a project or a solution
 dotnet-vstest				## Runs tests from the specified files
+dotnet-core-uninstall remove --all-previews-but-latest --sdk	## remove all preview versions
 ```
