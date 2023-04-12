@@ -25,7 +25,7 @@
 - [MS VB](MS%20VB/README.md)
 - [MS Visual Studio](MS%20Visual%20Studio/README.md)
 - [Network](Network/README.md)
-- [NuGet packages](NuGet%20packages/README.md)
+- [NuGet-packages](NuGet-packages/README.md)
 - [Python](Python/README.md)
 - [QA](QA/README.md)
 - [Version-control](Version-control/README.md)

@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.768] - 2023-04-12
 ### Changed
+- [Dev/NuGet-packages](Dev/NuGet-packages/README.md)
 - [Dev/MS dotNET/dotNET cheatsheet](Dev/MS%20dotNET/dotNET%20cheatsheet.md)
 
 ## [0.3.767] - 2023-04-07
@@ -56,7 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.726] - 2023-03-15
 ### Changed
-- [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
+- [Dev/NuGet-packages/NuGet resources](Dev/NuGet-packages/NuGet%20resources.md)
 - [Dev/ML/ChatGPT/ChatGPT resources](Dev/ML/ChatGPT/ChatGPT%20resources.md)
 - [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
 
@@ -243,7 +244,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Changed
 - [Dev/C#/Serialization](Dev/C%23/Serialization.md)
 - [Dev/DataBases/SQL-Scripts](Dev/DataBases/SQL-Scripts/README.md)
-- [Dev/NuGet packages/NuGet resources](Dev/NuGet%20packages/NuGet%20resources.md)
+- [Dev/NuGet-packages/NuGet resources](Dev/NuGet-packages/NuGet%20resources.md)
 - [Hardwares](Hardwares/README.md)
 ### Added
 - [Dev/C#/SQLite](Dev/C%23/SQLite.md)
@@ -481,7 +482,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.473] - 2022-06-02
 ### Added
-- [Dev/NuGet packages/NuGet resources](Dev/NuGet packages/README.md)
+- [Dev/NuGet-packages/NuGet resources](Dev/NuGet-packages/README.md)
 
 ## [0.3.472] - 2022-06-01
 ### Added
@@ -624,7 +625,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.303] - 2022-03-23
 ### Changed
-- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
+- [Dev/NuGet-packages](Dev/NuGet%20packages/README.md)
 - [CHANGELOG](CHANGELOG.md)
 - [LICENSE](LICENSE.md)
 
@@ -718,7 +719,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Dev/MS Excel
 - Dev/MS VB
 - Dev/Network
-- Dev/NuGet packages
+- Dev/NuGet-packages
 - Dev/Python
 - Dev/QA
 - Dev/Version-control
@@ -742,7 +743,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.147] - 2022-02-16
 ### Changed
-- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
+- [Dev/NuGet-packages](Dev/NuGet%20packages/README.md)
 
 ## [0.3.145] - 2022-02-11
 ### Changed
@@ -791,8 +792,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - [README](README.md)
 - [Dev](Dev/README.md)
 - Dev/NuGet/README.md
-### NuGet packages
-- [Dev/NuGet packages](Dev/NuGet%20packages/README.md)
+### NuGet-packages
+- [Dev/NuGet-packages](Dev/NuGet%20packages/README.md)
 
 ## [0.3.072] - 2022-02-02
 ### Changed
