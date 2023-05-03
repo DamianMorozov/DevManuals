@@ -1,4 +1,4 @@
-# C# ASP and Blazor
+# ASP.NET
 
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)

@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.770] - 2023-05-03
+## [0.3.772] - 2023-05-03
 ### Changed
 - [Dev/MS/dotNET/dotNET cheatsheet](Dev/MS/dotNET/dotNET%20cheatsheet.md)
 - [Dev/MS/dotNET/dotNET resources](Dev/MS/dotNET/dotNET%20resources.md)
+### Moved
+- [Dev/CSharp](Dev/CSharp/README.md)
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
 
 ## [0.3.768] - 2023-04-12
 ### Changed
@@ -181,9 +184,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.657] - 2023-01-24
 ### Changed
-- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
-- [Dev/C# ASP and Blazor/Blazor resources](Dev/C%23%20ASP%20and%20Blazor/Blazor%20resources.md)
-- [Dev/C# ASP and Blazor/Blazor resources Rus](Dev/C%23%20ASP%20and%20Blazor/Blazor%20resources%20Rus.md)
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
+- [Dev/CSharp/ASP.NET/Blazor resources](Dev/CSharp/ASP.NET/Blazor%20resources.md)
+- [Dev/CSharp/ASP.NET/Blazor resources Rus](Dev/CSharp/ASP.NET/Blazor%20resources%20Rus.md)
 - [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 ### Added
 - [Dev/ML/ChatGPT](Dev/ML/ChatGPT/README.md)
@@ -350,11 +353,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.549] - 2022-09-02
 ### Added
-- [Dev/C# ASP and Blazor/Fix errors](Dev/C%23%20ASP%20and%20Blazor/Fix%20errors.md)
+- [Dev/CSharp/ASP.NET/Fix errors](Dev/CSharp/ASP.NET/Fix%20errors.md)
 
 ## [0.3.547] - 2022-08-24
 ### Added
-- [Dev/C# ASP and Blazor/Performance](Dev/C%23%20ASP%20and%20Blazor/Performance.md)
+- [Dev/CSharp/ASP.NET/Performance](Dev/CSharp/ASP.NET/Performance.md)
 ### Changed
 - [Dev/Version-control/Git resources](Dev/Version-control/Git%20resources.md)
 
@@ -390,7 +393,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.534] - 2022-07-25
 ### Changed
-- [Dev/C# ASP and Blazor/Radzen components](Dev/C%23%20ASP%20and%20Blazor/Radzen%20components.md)
+- [Dev/CSharp/ASP.NET/Radzen components](Dev/CSharp/ASP.NET/Radzen%20components.md)
 
 ## [0.3.533] - 2022-07-22
 ### Changed
@@ -587,7 +590,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.353] - 2022-04-12
 ### Changed
-- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
 - [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
 
 ## [0.3.348] - 2022-04-06
@@ -596,7 +599,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.345] - 2022-04-01
 ### Changed
-- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
 
 ## [0.3.344] - 2022-03-31
 ### Changed
@@ -626,7 +629,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.3.315] - 2022-03-24
 ### Changed
-- [Dev/C# ASP and Blazor](Dev/C%23%20ASP%20and%20Blazor/README.md)
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
 
 ## [0.3.303] - 2022-03-23
 ### Changed

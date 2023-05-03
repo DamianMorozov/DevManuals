@@ -4,8 +4,7 @@
 
 ## Sections
 - [Android](Android/README.md)
-- [C# ASP and Blazor](C%23%20ASP%20and%20Blazor/README.md)
-- [C#](C%23/README.md)
+- [CSharp](CSharp/README.md)
 - [ChatGPT](ChatGPT/README.md)
 - [Communications](Communications/README.md)
 - [Cross-platform](Cross-platform/README.md)
