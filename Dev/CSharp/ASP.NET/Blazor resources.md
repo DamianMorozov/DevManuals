@@ -26,6 +26,7 @@
 - [Mud Blazor Components on github](https://github.com/MudBlazor/MudBlazor/)
 - [Radzen Blazor Components](https://blazor.radzen.com/)
 - [Radzen Blazor Components on github](https://github.com/radzenhq/radzen-blazor)
+- [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents)
 
 ## Library
 ```

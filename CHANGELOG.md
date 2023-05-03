@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.772] - 2023-05-03
+## [0.3.773] - 2023-05-03
 ### Changed
 - [Dev/MS/dotNET/dotNET cheatsheet](Dev/MS/dotNET/dotNET%20cheatsheet.md)
 - [Dev/MS/dotNET/dotNET resources](Dev/MS/dotNET/dotNET%20resources.md)
+- [Dev/CSharp/ASP.NET/Blazor resources](Dev/CSharp/ASP.NET/Blazor%20resources.md)
 ### Moved
 - [Dev/CSharp](Dev/CSharp/README.md)
 - [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
