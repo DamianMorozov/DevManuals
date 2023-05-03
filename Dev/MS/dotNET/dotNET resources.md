@@ -26,4 +26,6 @@
 - [What's new in .NET 6](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6)
 
 ## Projects
+- [dotnet-core-uninstall](https://github.com/dotnet/cli-lab)
+- [.NET uninstall tool docs](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool)
 - [LinkDotNet.StringBuilder](https://github.com/linkdotnet/StringBuilder)

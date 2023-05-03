@@ -7,6 +7,7 @@
 ## Links
 - [dotNET Link](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet)
 
+## Commands
 ```
 dotnet --help				## Display help
 dotnet --info				## Display .NET Core information
@@ -60,5 +61,21 @@ dotnet tool update			## Updates the specified .NET Core Global Tool on your mach
 dotnet watch run			## Enable hot reloading during development so the app automatically restarts when a file is changed
 dotnet workload restore		## Installs workloads needed for a project or a solution
 dotnet-vstest				## Runs tests from the specified files
-dotnet-core-uninstall remove --all-previews-but-latest --sdk	## remove all preview versions
+```
+
+## Commands `dotnet-core-uninstall`
+- [.NET uninstall tool docs](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool)
+```
+dotnet-core-uninstall list											## view list
+dotnet-core-uninstall dry-run										## try command
+dotnet-core-uninstall dry-run --all-lower-patches --runtime			## 
+dotnet-core-uninstall dry-run --all-previews-but-latest --sdk		## 
+dotnet-core-uninstall whatif										## try command
+dotnet-core-uninstall whatif --all-below 2.2.301 --sdk
+dotnet-core-uninstall remove --all-previews-but-latest --aspnet-runtime
+dotnet-core-uninstall remove --all-previews-but-latest --hosting-bundle
+dotnet-core-uninstall remove --all-previews-but-latest --runtime
+dotnet-core-uninstall remove --all-previews-but-latest --sdk		## remove all preview versions without latest
+dotnet-core-uninstall remove --all-previews							## remove all preview versions
+dotnet-core-uninstall remove --all-but-latest						## remove all preview versions
 ```
