@@ -18,6 +18,8 @@
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
 - [Visual-Studio-Translator](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1462295.Visual-Studio-Translator)
+- [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
+
 ## Visual Studio 2022 Extensions ChatGPT
 - [AskChatGPT](https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT)
 - [ChatGPT - Iguana Technology s.r.o.](https://marketplace.visualstudio.com/items?itemName=IguanaTechnology.ChatGPT)

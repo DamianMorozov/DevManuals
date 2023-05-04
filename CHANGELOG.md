@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.774] - 2023-05-04
+## [0.3.775] - 2023-05-04
 ### Changed
 - [Dev/QA/QA resources](Dev/QA/QA%20resources.md)
+- [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
 
 ## [0.3.773] - 2023-05-03
 ### Changed
