@@ -21,3 +21,6 @@
 - [bUnit home](https://bunit.dev/)
 - [bUnit getting started](https://bunit.dev/docs/getting-started/index.html)
 - [bUnit github](https://github.com/bUnit-dev/)
+
+## ReSharper resources
+- [Dynamic Program Analysis (DPA)](https://www.jetbrains.com/help/resharper/Dynamic_Program_Analysis.html)
