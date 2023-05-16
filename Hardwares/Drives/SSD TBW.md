@@ -20,6 +20,8 @@ AMD Radeon | SATA | R5SL512G        |   512 GB |  150 TB |            |         
 Crucial    | M.2  | CT500P5PSSD8    |   500 GB |  300 TB |  6600 MB/s |   4000 MB/s |      |             | 2280 | Limited 5-year |
 Crucial    | M.2  | CT1000P5PSSD8   |     1 TB |  600 TB |  6600 MB/s |   5000 MB/s |      |             | 2280 | Limited 5-year |
 Crucial    | M.2  | CT2000P5PSSD8   |     2 TB | 1200 TB |  6600 MB/s |   5000 MB/s |      |             | 2280 | Limited 5-year |
+Crucial    | M.2  | SDCRP3P			|     2 TB |  440 TB |  5000 MB/s |   4200 MB/s |      |             | 2280 | Limited 5-year |
+Crucial    | M.2  | SDCRP3			|     2 TB |  440 TB |  3500 MB/s |   3000 MB/s |      |             | 2280 | Limited 5-year |
 Crucial    | SATA | CT1000MX500SSD1 |     1 TB |  360 TB |            |             |      |             |      |                |
 Crucial    | SATA | CT2000MX500SSD1 |     2 TB |  700 TB |   560 MB/s |    510 MB/s | TLC  |             |      | Limited 5-year |
 Crucial    | SATA | CT4000MX500SSD1 |     4 TB | 1000 TB |   560 MB/s |    510 MB/s | TLC  |             |      | Limited 5-year |
