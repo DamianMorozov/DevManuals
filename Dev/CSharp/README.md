@@ -5,6 +5,7 @@
 
 ## Sections
 - [ASP.NET](ASP.NET/README.md)
+- [XAML](XAML/README.md)
 
 ## Items
 - [6 lesser-known features of C# .NET that you should be using](6%20lesser-known%20features%20of%20C%23%20.NET%20that%20you%20should%20be%20using.md)

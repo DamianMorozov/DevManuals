@@ -1,7 +1,7 @@
 # ASP.NET
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
+- [Back to the Home page](../../../README.md)
+- [Back to the Dev page](../../README.md)
 
 ## Items
 - [ASP.NET Core Blazor hosting models](ASP.NET%20Core%20Blazor%20hosting%20models.md)

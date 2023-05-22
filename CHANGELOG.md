@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.778] - 2023-05-22
+### Changed
+- [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
+### Added
+- [Dev/CSharp/XAML](Dev/CSharp/XAML/README.md)
+
 ## [0.3.776] - 2023-05-16
 ### Changed
 - [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
