@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.779] - 2023-05-26
+### Changed
+- [Windows/Updates/Windows updates](Windows/Updates/Windows%20updates.md)
+
 ## [0.3.778] - 2023-05-22
 ### Changed
 - [Dev/CSharp/ASP.NET](Dev/CSharp/ASP.NET/README.md)
