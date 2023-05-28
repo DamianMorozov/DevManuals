@@ -14,6 +14,7 @@
 - [Tips for good prompts](https://stable-diffusion-art.com/how-to-come-up-with-good-prompts-for-ai-image-generation/)
 - [Generative AI Library](https://library.phygital.plus/)
 - [DrawAnyOne.ai](https://drawanyone.ai/)
+- [Learn Prompting](https://learnprompting.org/)
 
 ## Code Edit for less powerful computers
 ```

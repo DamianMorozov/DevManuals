@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.780] - 2023-05-28
+### Changed
+- [Dev/ML/Stable Diffusion](Dev/ML/Stable Diffusion/Stable%20Diffusion%20resources.md)
+
 ## [0.3.779] - 2023-05-26
 ### Changed
 - [Windows/Updates/Windows updates](Windows/Updates/Windows%20updates.md)
