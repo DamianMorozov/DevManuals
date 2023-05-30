@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.782] - 2023-05-30
+### Added
+- [Windows/Security](Windows/Security/README.md)
+
 ## [0.3.781] - 2023-05-29
 ### Changed
 - [Hardwares/Drives](Hardwares/Drives/SSD%20TBW.md)
