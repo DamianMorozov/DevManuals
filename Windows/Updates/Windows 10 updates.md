@@ -1,4 +1,4 @@
-# Windows updates
+# Windows 10 updates
 
 - [Back to the Home page](../../README.md)
 - [Back to the Windows page](../README.md)
