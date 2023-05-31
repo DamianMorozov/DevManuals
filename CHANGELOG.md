@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.786] - 2023-05-31
+## [0.3.787] - 2023-05-31
 ### Changed
 - [Windows/Security](Windows/Security/README.md)
+### Added
+- [Windows/Security/System files](Windows/Security/Event%20Logs.md)
+- [Windows/Security/System files](Windows/Security/System%20files.md)
 
 ## [0.3.785] - 2023-05-30
 ### Added
