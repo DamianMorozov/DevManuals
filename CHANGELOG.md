@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.786] - 2023-05-31
+### Changed
+- [Windows/Security](Windows/Security/README.md)
+
 ## [0.3.785] - 2023-05-30
 ### Added
 - [Windows/Security](Windows/Security/README.md)
