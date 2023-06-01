@@ -32,3 +32,5 @@
 
 ## Git services
 - [gogs - painless self-hosted Git service](https://github.com/gogs/gogs)
+- [GitBook](https://gitbook.com/)
+- [GitBook Docs](https://docs.gitbook.com/)

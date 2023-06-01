@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.788] - 2023-06-01
+### Changed
+- [Dev/Version-control/GIT resources](Dev/Version-control/GIT%20resources.md)
+
 ## [0.3.787] - 2023-05-31
 ### Changed
 - [Windows/Security](Windows/Security/README.md)
