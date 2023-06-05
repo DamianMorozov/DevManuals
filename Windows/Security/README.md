@@ -4,6 +4,7 @@
 - [Back to the Windows page](../README.md)
 
 ## Items
+- [Audit](Audit.md)
 - [Event Logs](Event%20Logs.md)
 - [msedgewebview2](msedgewebview2.md)
 - [Shared folders](Shared%20folders.md)
