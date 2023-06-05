@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.789] - 2023-06-05
+## [0.3.790] - 2023-06-05
+### Changed
+- [Dev/Networks/Syncthing](Dev/Networks/Syncthing.md)
 ### Added
 - [Windows/Security/msedgewebview2](Windows/Security/msedgewebview2.md)
 

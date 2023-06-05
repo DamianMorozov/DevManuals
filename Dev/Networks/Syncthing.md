@@ -11,3 +11,8 @@
 ```
 sc create Syncthing type=own start=auto binPath="...\syncthing.exe --no-console --no-browser" DisplayName="Syncthing"
 ```
+
+## Manual run
+```
+"C:\Program Files\Syncthing\syncthing.exe" --no-console --no-browser
+```
