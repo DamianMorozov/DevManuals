@@ -5,5 +5,6 @@
 
 ## Items
 - [Event Logs](Event%20Logs.md)
+- [msedgewebview2](msedgewebview2.md)
 - [Shared folders](Shared%20folders.md)
 - [System files](System%20files.md)

@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.789] - 2023-06-05
+### Added
+- [Windows/Security/msedgewebview2](Windows/Security/msedgewebview2.md)
+
 ## [0.3.788] - 2023-06-01
 ### Changed
 - [Dev/Version-control/GIT resources](Dev/Version-control/GIT%20resources.md)
@@ -14,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Changed
 - [Windows/Security](Windows/Security/README.md)
 ### Added
-- [Windows/Security/System files](Windows/Security/Event%20Logs.md)
+- [Windows/Security/Event Logs](Windows/Security/Event%20Logs.md)
 - [Windows/Security/System files](Windows/Security/System%20files.md)
 
 ## [0.3.785] - 2023-05-30
