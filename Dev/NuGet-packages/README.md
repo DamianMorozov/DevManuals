@@ -11,5 +11,6 @@
 - [NHibernate](NHibernate.md)
 - [Ninject](Ninject.md)
 - [Nuget CLI](Nuget%20CLI.md)
+- [NuGet Hardwares](NuGet%20Hardwares.md)
 - [NuGet resources](NuGet%20resources.md)
 - [ValueTuple](ValueTuple.md)
