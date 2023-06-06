@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.795] - 2023-06-06
+## [0.3.796] - 2023-06-06
 ### Changed
 - [Windows/Updates/Windows server updates](Windows/Updates/Windows%20server%20updates.md)
 - [Windows/Security/Network](Windows/Security/Network.md)
+- [Windows/Security/Shared folders](Windows/Security/Shared%20folders.md)
 ### Added
 - [Windows/Security/User password](Windows/Security/User%20password.md)
 - [Dev/NuGet-packages/NuGet Hardwares](Dev/NuGet-packages/NuGet%20Hardwares.md)
