@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.796] - 2023-06-06
+## [0.3.797] - 2023-06-06
 ### Changed
 - [Windows/Updates/Windows server updates](Windows/Updates/Windows%20server%20updates.md)
 - [Windows/Security/Network](Windows/Security/Network.md)
