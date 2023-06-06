@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.792] - 2023-06-06
+## [0.3.793] - 2023-06-06
+### Changed
+- [Windows/Updates/Windows server updates](Windows/Updates/Windows%20server%20updates.md)
 ### Added
 - [Windows/Security/User password](Windows/Security/User%20password.md)
 
