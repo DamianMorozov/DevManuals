@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.792] - 2023-06-06
+### Added
+- [Windows/Security/User password](Windows/Security/User%20password.md)
+
 ## [0.3.791] - 2023-06-05
 ### Changed
 - [Dev/Networks/Syncthing](Dev/Networks/Syncthing.md)
