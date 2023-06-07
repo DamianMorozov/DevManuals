@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.798] - 2023-06-07
+## [0.3.799] - 2023-06-07
+### Changed
+- [Dev/Python/Python](Dev/Python/Python.md)
 ### Added
 - [Windows/Security/RSAT](Windows/Security/RSAT.md)
 

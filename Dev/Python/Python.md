@@ -1,8 +1,15 @@
-====================================================================================================
-https://www.python.org/
-====================================================================================================
-help('string')  -- help prompt
-modules         -- list of available modules
-keywords        -- list of the Python keywords
-symbols         -- list of the punctuation symbols
-topics          -- list of available topics
+# Python
+
+- [Python.org](https://python.org/)
+
+## Helpers
+```
+python --help									## print help
+python --help-env								## print help about Python environment variables and exit
+python --help-xoptions							## print help about implementation-specific -X options and exit
+python --help-all								## print complete help information and exit
+python -m venv venv source venv/bin/activate	## create and activate a Python virtual environment named "venv" for the current project
+python -m pip install --upgrade pip				## pip reads the file and installs all the packages listed in it, along with their dependencies
+pip install -r requirements.txt
+python run.py
+```
