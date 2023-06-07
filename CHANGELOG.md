@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.798] - 2023-06-07
+### Added
+- [Windows/Security/RSAT](Windows/Security/RSAT.md)
+
 ## [0.3.797] - 2023-06-06
 ### Changed
 - [Windows/Updates/Windows server updates](Windows/Updates/Windows%20server%20updates.md)
