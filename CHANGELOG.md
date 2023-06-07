@@ -6,9 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.799] - 2023-06-07
+## [0.3.817] - 2023-06-07
 ### Changed
 - [Dev/Python/Python](Dev/Python/Python.md)
+### Moved
+- [Dev/Frameworks/Electron](Dev/Frameworks/Electron/README.md)
+- [Dev/Frameworks/MAUI](Dev/Frameworks/MAUI/README.md)
+- [Dev/Frameworks/Uno Platform](Dev/Frameworks/Uno%20Platform/README.md)
+- [Dev/Frameworks/WinUI](Dev/Frameworks/WinUI/README.md)
+- [Dev/Frameworks/WPF](Dev/Frameworks/WPF/README.md)
 ### Added
 - [Windows/Security/RSAT](Windows/Security/RSAT.md)
 

@@ -1,7 +1,6 @@
-# Uno platform resources in English
---------
+# Uno platform resources
 
-## Sites
+## Links
 - [Pixel-Perfect Multi-Platform Applications with C# and WinUI](https://platform.uno/ "platform.uno")
 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-1.html "platform.uno/docs")
 - [How It Works](https://platform.uno/how-it-works/ "platform.uno/how-it-works")
