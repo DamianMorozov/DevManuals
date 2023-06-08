@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.818] - 2023-06-08
+### Added
+- [Dev/Python/Python](Dev/Python/Python.md)
+
 ## [0.3.817] - 2023-06-07
 ### Changed
 - [Dev/Python/Python](Dev/Python/Python.md)
