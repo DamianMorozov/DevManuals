@@ -26,6 +26,8 @@
 - [C# resources](C%23%20resources.md)
 - [C# versions](C%23%20versions.md)
 - [Count of digits](Count%20of%20digits.md)
+- [CSharp Localization CodingSeb](CSharp%20Localization%20CodingSeb.md)
+- [CSharp Localization EnumLanguage](CSharp%20Localization%20EnumLanguage.md)
 - [DateTime helpers](DateTime%20helpers.md)
 - [Exceptions](Exceptions.md)
 - [Fix errors](Fix%20errors.md)
