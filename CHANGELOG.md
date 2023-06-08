@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.820] - 2023-06-08
+## [0.3.821] - 2023-06-08
 ### Added
 - [Dev/CSharp/CSharp Localization CodingSeb](Dev/CSharp/CSharp%20Localization%20CodingSeb.md)
 - [Dev/CSharp/CSharp Localization EnumLanguage](Dev/CSharp/CSharp%20Localization%20EnumLanguage.md)
