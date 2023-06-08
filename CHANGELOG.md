@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.821] - 2023-06-08
+## [0.3.822] - 2023-06-08
+## Changed
+- [Windows/Security/Shared folders](Windows/Security/Shared%20folders.md)
 ### Added
 - [Dev/CSharp/CSharp Localization CodingSeb](Dev/CSharp/CSharp%20Localization%20CodingSeb.md)
 - [Dev/CSharp/CSharp Localization EnumLanguage](Dev/CSharp/CSharp%20Localization%20EnumLanguage.md)

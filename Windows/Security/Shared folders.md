@@ -5,8 +5,14 @@
 net share
 net share Admin$ /delete
 net share C$ /delete
+net share IPC$ /unlimited
 wmic path Win32_Share
 wmic path Win32_Share delete
+```
+
+## Registry
+```
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Shares
 ```
 
 ## Disable auto share for workstation
