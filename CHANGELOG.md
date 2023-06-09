@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.823] - 2023-06-09
+## Added
+- [Windows/Security/Event Logs audit codes](Windows/Security/Event%20Logs%20audit%20codes.md)
+
 ## [0.3.822] - 2023-06-08
 ## Changed
 - [Windows/Security/Shared folders](Windows/Security/Shared%20folders.md)
