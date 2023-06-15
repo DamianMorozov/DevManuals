@@ -1,6 +1,7 @@
 # Python
 
 - [Python.org](https://python.org/)
+- [Configure your local Python dev environment for Azure](https://learn.microsoft.com/en-us/azure/developer/python/configure-local-development-environment)
 
 ## Helpers
 ```
@@ -14,10 +15,10 @@ pip install -r requirements.txt
 python run.py
 ```
 
-## Quick start
+## Configure your local Python dev environment for Azure
 ```
-python -m venv venv
-source venv/bin/activate
+python -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 python run.py
 ```
