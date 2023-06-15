@@ -13,3 +13,11 @@ python -m pip install --upgrade pip				## pip reads the file and installs all th
 pip install -r requirements.txt
 python run.py
 ```
+
+## Quick start
+```
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python run.py
+```

@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.824] - 2023-06-15
+## Changed
+- [Dev/Python/Python](Dev/Python/Python.md)
+
+- [Windows/Security/Event Logs audit codes](Windows/Security/Event%20Logs%20audit%20codes.md)
 ## [0.3.823] - 2023-06-09
 ## Added
 - [Windows/Security/Event Logs audit codes](Windows/Security/Event%20Logs%20audit%20codes.md)
