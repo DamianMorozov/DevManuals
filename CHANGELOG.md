@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.825] - 2023-06-23
+## Changed
+- [Dev/DataBases/Database tools](Dev/DataBases/Database%20tools.md)
+
 ## [0.3.824] - 2023-06-15
 ## Changed
 - [Dev/Python/Python](Dev/Python/Python.md)
