@@ -12,7 +12,6 @@
 - [Arrays](Arrays.md)
 - [AsyncCallback](AsyncCallback.md)
 - [Asynchronous file access](Asynchronous%20file%20access.md)
-- [Avalonia](Avalonia.md)
 - [C# 2 what news [Rus]](C%23%202%20what%20news%20[Rus].md)
 - [C# 3 what news [Rus]](C%23%203%20what%20news%20[Rus].md)
 - [C# 4 what news [Rus]](C%23%204%20what%20news%20[Rus].md)

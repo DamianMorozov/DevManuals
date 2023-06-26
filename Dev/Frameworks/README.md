@@ -4,6 +4,7 @@
 - [Back to the Dev page](../README.md)
 
 ## Sections
+- [Avalonia](Avalonia/README.md)
 - [Electron](Electron/README.md)
 - [MAUI](MAUI/README.md)
 - [Uno Platform](Uno Platform/README.md)
