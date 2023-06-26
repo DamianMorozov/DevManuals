@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.826] - 2023-06-26
+## [0.3.827] - 2023-06-26
+### Moved
+- [Dev/Frameworks/WPF](Dev/Frameworks/WPF/README.md)
 ## Added
 - [Dev/Technology stack](Dev/Technology%20stack.md)
 
