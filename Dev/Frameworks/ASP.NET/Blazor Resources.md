@@ -1,4 +1,4 @@
-# Blazor resources
+# Blazor Resources
 
 - [Back to the Home page](../../README.md)
 - [Back to the Dev page](../README.md)
@@ -27,6 +27,11 @@
 - [Radzen Blazor Components](https://blazor.radzen.com/)
 - [Radzen Blazor Components on github](https://github.com/radzenhq/radzen-blazor)
 - [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents)
+
+## Blazor NuGet-packages
+- [Blazor-Validation](https://github.com/mrpmorris/blazor-validation)
+- [Morris.Blazor.Validation](https://www.nuget.org/packages/Morris.Blazor.Validation/)
+- [Morris.Blazor.FluentValidation](https://www.nuget.org/packages/Morris.Blazor.FluentValidation/)
 
 ## Library
 ```
