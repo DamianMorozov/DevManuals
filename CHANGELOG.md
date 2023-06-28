@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.845] - 2023-06-28
+### Added
+- [Dev/SSL](Dev/SSL/README.md)
+- [Dev/SSL/SSL resources](Dev/SSL/SSL%20resources.md)
+
 ## [0.3.843] - 2023-06-26
 ### Moved
 - [Dev/Frameworks/ASP.NET](Dev/Frameworks/ASP.NET/README.md)
