@@ -1,12 +1,13 @@
 # Windows Subsystem for Linux
 
-[Install WSL](https://docs.microsoft.com/en-US/windows/wsl/install-win10 "docs.microsoft.com")
+- [Back to the Home page](../../README.md)
+- [Back to the Windows page](../README.md)
+- [Back to the README page](README.md)
 
-[Troubleshooting Windows Subsystem for Linux](https://docs.microsoft.com/en-US/windows/wsl/troubleshooting "docs.microsoft.com")
-
-[How do I know what version of WSL I have?](https://linuxhint.com/check-wsl-version/ "linuxhint.com")
-
-[Install your Linux distribution of choice](https://aka.ms/wslstore "aka.ms")
+- [Install WSL](https://docs.microsoft.com/en-US/windows/wsl/install-win10)
+- [Troubleshooting Windows Subsystem for Linux](https://docs.microsoft.com/en-US/windows/wsl/troubleshooting)
+- [How do I know what version of WSL I have?](https://linuxhint.com/check-wsl-version/)
+- [Install your Linux distribution of choice](https://aka.ms/wslstore)
 
 
 ## Install (PowerShell)

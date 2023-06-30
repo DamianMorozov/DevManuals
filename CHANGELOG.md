@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.850] - 2023-06-30
+## Changed
+- [Windows/WSL](Windows/WSL/README.md)
+
 ## [0.3.845] - 2023-06-28
 ### Added
 - [Dev/SSL](Dev/SSL/README.md)
