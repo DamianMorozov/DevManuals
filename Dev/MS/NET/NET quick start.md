@@ -1,4 +1,4 @@
-# MS dotNET quick start
+# NET quick start
 
 - [Back to the Home page](../../../README.md)
 - [Back to the Dev page](../../README.md)
