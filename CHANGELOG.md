@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.857] - 2023-07-03
+## [0.3.858] - 2023-07-03
 ## Changed
 - [Dev/MS/NET](Dev/MS/NET/README.md)
+- [Dev/JavaScript/Node.js](Dev/JavaScript/Node.js.md)
 - [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
 
 ## [0.3.850] - 2023-06-30
