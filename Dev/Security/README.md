@@ -5,4 +5,4 @@
 - [Back to the Frameworks page](../README.md)
 
 ## Items
-- [Avalonia Resources](Avalonia%20Resources.md)
+- [Security Resources](Security%20Resources.md)
