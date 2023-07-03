@@ -6,14 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.858] - 2023-07-03
-## Changed
+## [0.3.860] - 2023-07-03
+### Changed
 - [Dev/MS/NET](Dev/MS/NET/README.md)
 - [Dev/JavaScript/Node.js](Dev/JavaScript/Node.js.md)
 - [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
+### Added
+- [Dev/Security](Dev/Security/README.md)
+- [Dev/Security/Security Resources](Dev/Security/Security%20Resources.md)
 
 ## [0.3.850] - 2023-06-30
-## Changed
+### Changed
 - [Windows/WSL](Windows/WSL/README.md)
 
 ## [0.3.845] - 2023-06-28
@@ -26,24 +29,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - [Dev/Frameworks/ASP.NET](Dev/Frameworks/ASP.NET/README.md)
 - [Dev/Frameworks/Avalonia](Dev/Frameworks/Avalonia/README.md)
 - [Dev/Frameworks/WPF](Dev/Frameworks/WPF/README.md)
-## Added
+### Added
 - [Dev/Technology stack](Dev/Technology%20stack.md)
 
 ## [0.3.825] - 2023-06-23
-## Changed
+### Changed
 - [Dev/DataBases/Database tools](Dev/DataBases/Database%20tools.md)
 
 ## [0.3.824] - 2023-06-15
-## Changed
+### Changed
 - [Dev/Python/Python](Dev/Python/Python.md)
 
 - [Windows/Security/Event Logs audit codes](Windows/Security/Event%20Logs%20audit%20codes.md)
 ## [0.3.823] - 2023-06-09
-## Added
+### Added
 - [Windows/Security/Event Logs audit codes](Windows/Security/Event%20Logs%20audit%20codes.md)
 
 ## [0.3.822] - 2023-06-08
-## Changed
+### Changed
 - [Windows/Security/Shared folders](Windows/Security/Shared%20folders.md)
 ### Added
 - [Dev/CSharp/CSharp Localization CodingSeb](Dev/CSharp/CSharp%20Localization%20CodingSeb.md)

@@ -4,9 +4,9 @@
 
 ## Sections
 - [Android](Android/README.md)
+- [CSharp](CSharp/README.md)
 - [ChatGPT](ChatGPT/README.md)
 - [Communications](Communications/README.md)
-- [CSharp](CSharp/README.md)
 - [DataBases](DataBases/README.md)
 - [Design patterns](Design%20patterns/README.md)
 - [Diagrams](Diagrams/README.md)
@@ -26,6 +26,7 @@
 - [NuGet-packages](NuGet-packages/README.md)
 - [Python](Python/README.md)
 - [QA](QA/README.md)
+- [Security](Security/README.md)
 - [Version-control](Version-control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
 - [XAML](XAML/README.md)
