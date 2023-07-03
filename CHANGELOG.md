@@ -6,12 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.860] - 2023-07-03
+## [0.3.862] - 2023-07-03
 ### Changed
 - [Dev/MS/NET](Dev/MS/NET/README.md)
 - [Dev/JavaScript/Node.js](Dev/JavaScript/Node.js.md)
 - [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
 ### Added
+- [Dev/Open Source](Dev/Open%20Source/README.md)
+- [Dev/Open Source/Open Source Resources](Dev/Open Source/Open%20Source%20Resources.md)
 - [Dev/Security](Dev/Security/README.md)
 - [Dev/Security/Security Resources](Dev/Security/Security%20Resources.md)
 
