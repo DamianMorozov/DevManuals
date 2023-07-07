@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.864] - 2023-07-07
+## [0.3.865] - 2023-07-07
 ### Added
+- [Dev/CSharp/ICloneable](Dev/CSharp/ICloneable.md)
 - [Dev/Incredibuild](Dev/Incredibuild/README.md)
 - [Dev/Incredibuild/Incredibuild resources](Dev/Incredibuild/Incredibuild%20resources.md)
 

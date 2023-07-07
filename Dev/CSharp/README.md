@@ -27,6 +27,7 @@
 - [Exceptions](Exceptions.md)
 - [Fix errors](Fix%20errors.md)
 - [Foreach enum ProcessWindowStyle](Foreach%20enum%20ProcessWindowStyle.md)
+- [ICloneable](ICloneable.md)
 - [IDisposable](IDisposable.md)
 - [Interface [Rus]](Interface%20[Rus].md)
 - [Lib. 2016 Rus. Bible C #](Lib.%202016%20Rus.%20Bible%20C%20%23.md)
