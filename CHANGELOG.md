@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.866] - 2023-07-13
+### Added
+- [Dev/Version-control/GitHub Personal Access Token](Dev/Version-control/GitHub%20Personal%20Access%20Token.md)
+
 ## [0.3.865] - 2023-07-07
 ### Added
 - [Dev/CSharp/ICloneable](Dev/CSharp/ICloneable.md)
