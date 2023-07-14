@@ -6,8 +6,8 @@
 
 ## Visual Studio 2022 Extensions
 - [Avalonia for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
-- [Avalonia Toolkit](https://marketplace.visualstudio.com/items?itemName=rabbitism.AvaloniaToolkit)
 - [Avalonia Template Studio](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.TemplateStudioForAvalonia)
+- [Avalonia Toolkit](https://marketplace.visualstudio.com/items?itemName=rabbitism.AvaloniaToolkit)
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
@@ -18,14 +18,15 @@
 - [Microsoft Reporting Services Projects 2022](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio2022)
 - [Microsoft Visual Studio Installer Projects 2022](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2022InstallerProjects)
 - [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
+- [Snyk Security](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner-vs-2022)
+- [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
 - [SQL Server Integration Services Projects 2022](https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices)
 - [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
-- [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
 - [TGit](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TGit)
 - [TSVN](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.TSVN)
-- [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
 - [Visual-Studio-Translator](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1462295.Visual-Studio-Translator)
+- [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 
 ## Visual Studio 2022 Extensions ChatGPT

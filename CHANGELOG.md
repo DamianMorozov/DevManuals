@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.867] - 2023-07-14
+### Changed
+- [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
+
 ## [0.3.866] - 2023-07-13
 ### Added
 - [Dev/Version-control/GitHub Personal Access Token](Dev/Version-control/GitHub%20Personal%20Access%20Token.md)
