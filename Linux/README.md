@@ -3,10 +3,15 @@
 - [Back to the Home page](../README.md)
 
 ## Sections
+- [Backups](Backups/README.md)
 - [Desktops](Desktops/README.md)
 - [Games](Games/README.md)
+- [Hardwares](Hardwares/README.md)
 - [Networks](Networks/README.md)
+- [OS](OS/README.md)
+- [Package managers](Package managers/README.md)
 - [Systems](Systems/README.md)
+- [Virtualization](Virtualization/README.md)
 
 ## Items
 - [Backup](Backup.md)
@@ -18,9 +23,6 @@
 - [Develop Lazarus](Develop%20Lazarus.md)
 - [Develop MonoDevelop](Develop%20MonoDevelop.md)
 - [Develop SquirrelSQL](Develop%20SquirrelSQL.md)
-- [Hardware all](Hardware%20all.md)
-- [Hardware hdd](Hardware%20hdd.md)
-- [Hardware videocard](Hardware%20videocard.md)
 - [Library. 2020 Eng. Mastering Ubuntu Server.md](Lib.%202020%20Eng.%20Mastering%20Ubuntu%20Server.md)
 - [Linux resources](Linux%20resources.md)
 - [OS BusyBox](OS%20BusyBox.md)

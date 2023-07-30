@@ -1,2 +1,0 @@
-$ sudo lshw -C display
-

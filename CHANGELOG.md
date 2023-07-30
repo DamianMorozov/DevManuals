@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.870] - 2023-07-30
+### Changed
+- [Linux/Hardwares](Linux/Hardwares/README.md)
+
 ## [0.3.867] - 2023-07-14
 ### Changed
 - [Dev/MS/Visual Studio/Extensions](Dev/MS/Visual%20Studio/Extensions.md)
