@@ -4,13 +4,14 @@
 - [Back to the Dev](../../README.md)
 - [Back to the section](README.md)
 
-Environment > Keyboard
-https://msdn.microsoft.com/ru-ru/library/da5kh0wa.aspx
-Tools > Code Snippets Manager
-https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2017
-====================================================================================================
+## Links
+- [Default Keyboard Shortcuts in Visual Studio 2015](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/ide/default-keyboard-shortcuts-in-visual-studio)
+- [Walkthrough: Create a code snippet in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet)
+- [15 Tips to Boost Your Productivity in Visual Studio](https://www.youtube.com/watch?v=o4kkRqzHDvw)
+- [Keyboard shortcuts in Visual Studio 2022](https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio)
+- [Printable shortcut cheatsheet 2022](https://visualstudio.microsoft.com/keyboard-shortcuts.pdf)
 
-View
+## View
 ------------------------------------------------------+---------------------------------------------
 View.SolutionExplorer                                 | Ctrl+Alt+L
 ------------------------------------------------------+---------------------------------------------
@@ -36,12 +37,6 @@ Edit.MoveSelectedLinesDown                            | Alt+Down
 View.ViewDesigner                                     | Shift+F7
 View.Fullscreen                                       | Shift+Alt+Enter
 ------------------------------------------------------+---------------------------------------------
-TestExplorer
-------------------------------------------------------+---------------------------------------------
-Окно обозревателя тестов                              | Ctrl+E, Ctrl+T
-Развернуть все тесты                                  | Ctrl + Стрелка вправо
-Свернуть все тесты                                    | Ctrl + Стрелка влево
-------------------------------------------------------+---------------------------------------------
 
 Assignable Keyboard Shortcuts
 ------------------------------------------------------+---------------------------------------------
@@ -57,9 +52,7 @@ Surround Selection v1.0.12.vsix
 SurroundSelectionWith.Braces                          | Ctrl+K, 9
 ------------------------------------------------------+---------------------------------------------
 
-------------------------------------------------------+---------------------------------------------
-Visual Studio 2019
-------------------------------------------------------+---------------------------------------------
+## Visual Studio 2019
 Team.Git.Pull                                         | Ctrl+Shift+P
 Git pull for Solution                                 | Ctrl+K, Ctrl+Z
 Configure Code Cleanup                                | Ctrl+K, Ctrl+Q
@@ -69,11 +62,8 @@ View.TfsTeamExplorer                                  | Ctrl+\, Ct+M
 Go To Next Issue in File                              | Alt+PgDn
 Go To Previous Issue in File                          | Alt+PgUp
 Find All References                                   | Shift+F12
-------------------------------------------------------+---------------------------------------------
 
-------------------------------------------------------+---------------------------------------------
-IntelliSense
-------------------------------------------------------+---------------------------------------------
+## IntelliSense
 List members                                          | Ctrl+J
 Parameter info                                        | Ctrl+Shift+Space
 Quick info                                            | Ctrl+K, Ctrl+I
@@ -81,11 +71,8 @@ Complete word                                         | Ctrl+Space
 Toggle completion mode                                | Ctrl+Alt+Space
 Surround with                                         | Ctrl+K, Ctrl+S
 Insert snippet                                        | Ctrl+K, Ctrl+X
-------------------------------------------------------+---------------------------------------------
 
-------------------------------------------------------+---------------------------------------------
-Debug
-------------------------------------------------------+---------------------------------------------
+## Debug
 AddWatch                                              | Shift+Alt+F9
 ApplyCodeChanges                                      | Alt+F10
 AttachtoProcess                                       | Ctrl+Alt+P
@@ -108,4 +95,22 @@ Locals                                                | Ctrl+Alt+V, L
 Locals.Search                                         | Ctrl+E
 Modules                                               | Ctrl+Alt+U
 QuickWatch                                            | Shift+F9
-------------------------------------------------------+---------------------------------------------
+
+# Tests
+TestExplorer				Ctrl+E, T
+Folding tests				Ctrl + <-
+Unfolding tests				Ctrl + ->
+
+## Tips to Boost Your Productivity in Visual Studio
+Feature Search 				Ctrl+Q
+Peek Definition				Alt+F12
+Go To Last Edit Location	Ctrl+Shift+Backspace
+Navigate backwards/forwards	Ctrl+- or Ctrl+Shift+-
+Switch Tabs					Ctrl+Tab
+Editor Menu					Alt+`
+Sticky Scroll				New Feature
+Full Screen					Alt+Shift+Enter
+Quick Action				Ctrl+.
+Multi-Select				Ctrl+Alt+Select
+Jump to new the line		Shift+Enter
+Code Cleanup				Ctrl+K, Ctrl+E
