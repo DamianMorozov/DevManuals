@@ -35,6 +35,12 @@ General Availability Channel	2022-10-18	19045.2130
 ## Version 21H2 (OS build 19044)
 ```
 Servicing option	Availability date	Build	KB article
+LTSC • General Availability Channel	2023-07-11	19044.3208	KB5028166
+LTSC • General Availability Channel	2023-06-13	19044.3086	KB5027215
+LTSC • General Availability Channel	2023-05-09	19044.2965	KB5026361
+LTSC • General Availability Channel	2023-04-11	19044.2846	KB5025221
+LTSC • General Availability Channel	2023-03-21	19044.2788	KB5023773
+LTSC • General Availability Channel	2023-03-14	19044.2728	KB5023696
 LTSC • General Availability Channel	2023-02-21	19044.2673	KB5022906
 LTSC • General Availability Channel	2023-02-14	19044.2604	KB5022834
 LTSC • General Availability Channel	2023-01-19	19044.2546	KB5019275
