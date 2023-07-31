@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.872] - 2023-07-31
+## [0.3.874] - 2023-07-31
 ### Changed
 - [Windows/Updates/Windows 10 updates](Windows/Updates/Windows%2010%20updates.md)
 - [Linux/Hardwares/Hardwares HDD](Linux/Hardwares/Hardwares%20HDD.md)
+### Added
+- [Dev/Frameworks/React](Dev/Frameworks/React/README.md)
+- [Dev/Frameworks/React/React resources](Dev/Frameworks/React/React%20resources.md)
 
 ## [0.3.870] - 2023-07-30
 ### Changed

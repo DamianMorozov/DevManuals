@@ -8,6 +8,7 @@
 - [Avalonia](Avalonia/README.md)
 - [Electron](Electron/README.md)
 - [MAUI](MAUI/README.md)
+- [React](React/README.md)
 - [Uno Platform](Uno Platform/README.md)
 - [WinUI](WinUI/README.md)
 - [WPF](WPF/README.md)
