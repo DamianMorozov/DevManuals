@@ -6,6 +6,7 @@
 ## Sections
 - [ASP.NET](ASP.NET/README.md)
 - [Avalonia](Avalonia/README.md)
+- [BenchmarkDotNet](BenchmarkDotNet/README.md)
 - [Electron](Electron/README.md)
 - [MAUI](MAUI/README.md)
 - [React](React/README.md)
