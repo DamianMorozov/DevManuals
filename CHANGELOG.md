@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.879] - 2023-08-04
+### Added
+- [Windows/Security/Antiviruses](Windows/Security/Antiviruses.md)
+
 ## [0.3.878] - 2023-07-31
 ### Changed
 - [Windows/Updates/Windows 10 updates](Windows/Updates/Windows%2010%20updates.md)
