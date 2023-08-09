@@ -4,14 +4,15 @@
 
 ## Sections
 - [Android](Android/README.md)
-- [CSharp](CSharp/README.md)
 - [ChatGPT](ChatGPT/README.md)
 - [Communications](Communications/README.md)
+- [CSharp](CSharp/README.md)
 - [DataBases](DataBases/README.md)
 - [Design patterns](Design%20patterns/README.md)
 - [Diagrams](Diagrams/README.md)
 - [Docker](Docker/README.md)
 - [DotNET](DotNET/README.md)
+- [dotNET](dotNET/README.md)
 - [Frameworks](Frameworks/README.md)
 - [GitHub Copilot](GitHub%20Copilot/README.md)
 - [GitHub repos](GitHub%20repos/README.md)
@@ -21,7 +22,6 @@
 - [JetBrains](JetBrains/README.md)
 - [MS Excel](MS%20Excel/README.md)
 - [MS VB](MS%20VB/README.md)
-- [MS Visual Studio](MS%20Visual%20Studio/README.md)
 - [Network](Network/README.md)
 - [NuGet-packages](NuGet-packages/README.md)
 - [Python](Python/README.md)
@@ -29,6 +29,7 @@
 - [Security](Security/README.md)
 - [Version-control](Version-control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
+- [Visual Studio](Visual%20Studio/README.md)
 - [XAML](XAML/README.md)
 
 ## Items
@@ -52,6 +53,7 @@
 - [Licenses](Licenses.md)
 - [Markdown-cheat-sheet](Markdown-cheat-sheet.md)
 - [Markdown](Markdown.md)
+- [MS resources](MS%20resources.md)
 - [OOP principles [Rus]](OOP%20principles%20[Rus].md)
 - [Readme](Readme.md)
 - [SOLID](SOLID.md)

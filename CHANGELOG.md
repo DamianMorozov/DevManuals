@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.882] - 2023-08-09
+### Changed
+- [Dev/dotNET](Dev/dotNET/README.md)
+- [Dev/MS/Visual Studio](Dev/MS/Visual Studio/README.md)
+- [Dev/MS resources](Dev/MS%20resources.md)
+
 ## [0.3.879] - 2023-08-04
 ### Added
 - [Windows/Security/Antiviruses](Windows/Security/Antiviruses.md)
