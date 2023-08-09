@@ -1,7 +1,7 @@
 # MS Visual Studio
 
-- [Back to the Home](../../../README.md)
-- [Back to the Dev](../../README.md)
+- [Back to the Home](../../README.md)
+- [Back to the Dev](../README.md)
 
 ## Items
 - [Attributes](Attributes.md)
