@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.883] - 2023-08-11
+### Changed
+- [Dev/Frameworks/BenchmarkDotNet/BenchmarkDotNet resources](Dev/Frameworks/BenchmarkDotNet/BenchmarkDotNet%20resources.md)
+
 ## [0.3.882] - 2023-08-09
 ### Changed
 - [Dev/dotNET](Dev/dotNET/README.md)
