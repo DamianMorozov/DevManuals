@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.885] - 2023-08-14
+## [0.3.886] - 2023-08-14
 ### Changed
 - [Windows/Security/Antiviruses](Windows/Security/Antiviruses.md)
 ### Added
