@@ -8,6 +8,7 @@
 - [Avalonia for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)
 - [Avalonia Template Studio](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.TemplateStudioForAvalonia)
 - [Avalonia Toolkit](https://marketplace.visualstudio.com/items?itemName=rabbitism.AvaloniaToolkit)
+- [Benchmark Templates](https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates)
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)

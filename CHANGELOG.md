@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.886] - 2023-08-14
+## [0.3.887] - 2023-08-14
 ### Changed
 - [Windows/Security/Antiviruses](Windows/Security/Antiviruses.md)
+- [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
 ### Added
 - [Dev/Frameworks/Benchmarks/BenchmarkDotNet cheatsheet](Dev/Frameworks/Benchmarks/BenchmarkDotNet%20cheatsheet.md)
 
