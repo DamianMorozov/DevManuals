@@ -29,3 +29,10 @@
 - [dotnet-core-uninstall](https://github.com/dotnet/cli-lab)
 - [.NET uninstall tool docs](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool)
 - [LinkDotNet.StringBuilder](https://github.com/linkdotnet/StringBuilder)
+
+## Build it with .NET
+- [Build it with .NET](https://dotnet.microsoft.com/en-us/)
+- [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [.NET Multi-platform App UI](https://dotnet.microsoft.com/en-us/apps/maui)
+- [.NET cloud applications](https://dotnet.microsoft.com/en-us/apps/cloud)
+- [Microservices with .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/microservices)
