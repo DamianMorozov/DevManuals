@@ -114,3 +114,6 @@ Quick Action				Ctrl+.
 Multi-Select				Ctrl+Alt+Select
 Jump to new the line		Shift+Enter
 Code Cleanup				Ctrl+K, Ctrl+E
+
+# Tasks
+Task List					Ctrl+\,T (View > Task List)
