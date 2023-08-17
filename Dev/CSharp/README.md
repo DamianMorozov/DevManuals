@@ -24,7 +24,7 @@
 - [CSharp versions](CSharp20versions.md)
 - [DateTime helpers](DateTime%20helpers.md)
 - [Exceptions](Exceptions.md)
-- [Fix errors](Fix%20errors.md)
+- [CSharp troubleshooting](CSharp%20troubleshooting.md)
 - [Foreach enum ProcessWindowStyle](Foreach%20enum%20ProcessWindowStyle.md)
 - [ICloneable](ICloneable.md)
 - [IDisposable](IDisposable.md)

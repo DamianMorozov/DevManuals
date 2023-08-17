@@ -1,4 +1,4 @@
-# Fix errors
+# CSharp troubleshooting
 
 ## The SSL connection could not be established
 *.cs
@@ -49,4 +49,19 @@ sqlConnectionStringBuilder["TrustServerCertificate"] = jsonSettings.Sql.TrustSer
 #nullable enable
 	private DataModel? _data;
 #nullable disable
+```
+
+## jitDebugging fix error for Debug config
+Create the file `machine.config` in `WindowsFormsApp` directory
+```
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.windows.forms jitDebugging="false" />
+</configuration>
+```
+Set the next properties
+```
+Build action:	AdditionalFiles
+Copy to Output:	Copy if newer
+File Name:		machine.config
 ```

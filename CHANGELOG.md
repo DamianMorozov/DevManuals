@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.901] - 2023-08-17
+## [0.3.902] - 2023-08-17
 ### Changed
 - [Dev/Visual Studio/Hotkeys VS](Dev/Visual%20Studio/Hotkeys%20VS.md)
+- [Dev/CSharp/CSharp troubleshooting](Dev/CSharp/CSharp%20troubleshooting.md)
 
 ## [0.3.900] - 2023-08-16
 ### Changed
