@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.904] - 2023-08-23
+### Added
+- [Dev/Frameworks/LINQ](Dev/Frameworks/LINQ/README.md)
+- [Dev/Frameworks/LINQ/LINQ resources](Dev/Frameworks/LINQ/LINQ%20resources.md)
+
 ## [0.3.902] - 2023-08-17
 ### Changed
 - [Dev/Visual Studio/Hotkeys VS](Dev/Visual%20Studio/Hotkeys%20VS.md)
