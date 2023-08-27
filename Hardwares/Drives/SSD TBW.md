@@ -43,6 +43,7 @@ Samsung    | M.2    | 980 PRO         |     1 TB |  600 TB |  7000 MB/s |   5000
 Samsung    | M.2    | 970 EVO Plus    |     2 TB | 1200 TB |            |             |      |             |      |                |
 Samsung    | M.2    | 980 PRO         |     2 TB | 1200 TB |  7000 MB/s |   5000 MB/s | TLC  | MZ-V8P2T0BW | 2280 |                |
 Samsung    | M.2    | 980 PRO         |     2 TB | 1200 TB |  7000 MB/s |   5100 MB/s | TLC  | MZ-V8P2T0CW | 2280 |                |
+Samsung    | M.2    | 990 PRO         |     1 TB |  600 TB |  7450 MB/s |   6900 MB/s | TLC  | MZ-V9P1T0BW | 2280 |                |
 Samsung    | M.2    | 990 PRO         |     2 TB | 1200 TB |  7450 MB/s |   6900 MB/s | TLC  | MZ-V9P2T0BW | 2280 |                |
 Samsung    | SATA   | 860 EVO         |     2 TB | 1200 TB |            |             |      |             |      |                |
 Samsung    | SATA   | 860 EVO         |     4 TB | 2400 TB |            |             |      |             |      |                |

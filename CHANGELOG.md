@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.905] - 2023-08-27
+### Changed
+- [Hardwares/Drives/SSD TBW](Hardwares/Drives/SSD%20TBW.md)
+
 ## [0.3.904] - 2023-08-23
 ### Added
 - [Dev/Frameworks/LINQ](Dev/Frameworks/LINQ/README.md)
