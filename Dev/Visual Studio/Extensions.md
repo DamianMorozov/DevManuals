@@ -29,6 +29,8 @@
 - [Visual-Studio-Translator](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1462295.Visual-Studio-Translator)
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
+- [SonarLint for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022)
+- [VSSonarExtension2022](https://marketplace.visualstudio.com/items?itemName=JorgeManuelEstevesdaCosta.VSSonarQubeExtension2012)
 
 ## Visual Studio 2022 Extensions ChatGPT
 - [AskChatGPT](https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT)

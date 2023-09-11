@@ -11,3 +11,5 @@
 - [StyleCop](https://github.com/StyleCop/StyleCop)
 - [PVS-Studio](https://pvs-studio.com/)
 - [CodeIt.Right](https://submain.com/codeit.right/)
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+- [SonarLint for Visual Studio](https://github.com/SonarSource/sonarlint-visualstudio)
