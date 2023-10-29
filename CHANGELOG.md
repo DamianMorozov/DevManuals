@@ -6,12 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.913] - 2023-10-29
+## [0.3.914] - 2023-10-29
 ### Added
 - [Dev/DataBases/EFCore](Dev/DataBases/EFCore/README.md)
 - [Dev/DataBases/EFCore/Dev EFCore resources rus](Dev/DataBases/EFCore/Dev%20EFCore%20resources%20rus.md)
 - [Dev/DataBases/EFCore/Dev EFCore resources](Dev/DataBases/EFCore/Dev%20EFCore%20resources.md)
 - [Dev/DataBases/EFCore/Dev EFCore usage](Dev/DataBases/EFCore/Dev%20EFCore%20usage.md)
+### Updated
+- [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
 
 ## [0.3.909] - 2023-09-11
 ### Updated
