@@ -20,8 +20,10 @@
 
 ## Youtube links
 - [One LINQ Extension Method You NEED To Know For Cleaner EF Core Queries](https://www.youtube.com/watch?v=YYgRdMW9Omo)
+- [Entity Framework Community Standup - Sept 16th 2020 - What's New with Migrations in EF Core 5.0](https://www.youtube.com/watch?v=mSsGERmrhnE)
 
 ## Tools & Extensions
+- [Entity Framework Core tools reference](https://learn.microsoft.com/en-us/ef/core/cli/)
 - [EF Core Tools & Extensions](https://learn.microsoft.com/en-us/ef/core/extensions/)
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
 - [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools/wiki)

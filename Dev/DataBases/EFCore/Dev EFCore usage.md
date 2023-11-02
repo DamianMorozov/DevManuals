@@ -149,3 +149,21 @@ public Book UpdateBook(ChangePubDateDto dto)
     return book;
 }
 ```
+
+## Migrations
+Install: 			`dotnet tool install --global dotnet-ef`
+Update:				`dotnet tool update --global dotnet-ef`
+Add NuGet:			`dotnet add package Microsoft.EntityFrameworkCore.Design`
+Verify :			`dotnet ef`
+Environment:		`dotnet ef database update -- --environment Production`
+Drop DB:			`dotnet ef database drop`
+Update DB:			`dotnet ef database update <migration_name> <connection_string>`
+Info:				`dotnet ef dbcontext info`
+List of types:		`dotnet ef dbcontext list`
+Compile:			`dotnet ef dbcontext optimize`
+Add migration:		`dotnet ef migrations add`
+Create exe:			`dotnet ef migrations bundle`
+Check changes:		`dotnet ef migrations has-pending-model-changes`
+List of migrations:	`dotnet ef migrations list`
+Remove migration:	`dotnet ef migrations remove`
+Generate script:	`dotnet ef migrations script <migration_name>`

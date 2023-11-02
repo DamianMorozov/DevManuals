@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.917] - 2023-11-02
+### Changed
+- [Dev/DataBases/EFCore/Dev EFCore resources](Dev/DataBases/EFCore/Dev%20EFCore%20resources.md)
+- [Dev/DataBases/EFCore/Dev EFCore usage](Dev/DataBases/EFCore/Dev%20EFCore%20usage.md)
+
 ## [0.3.915] - 2023-10-31
 ### Changed
 - [Dev/DataBases/EFCore/Dev EFCore resources](Dev/DataBases/EFCore/Dev%20EFCore%20resources.md)
