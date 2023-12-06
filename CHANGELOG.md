@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.918] - 2023-12-06
+### Changed
+- [Dev/dotNET/dotNET resources](Dev/dotNET/dotNET%20resources.md)
+
 ## [0.3.917] - 2023-11-02
 ### Changed
 - [Dev/DataBases/EFCore/Dev EFCore resources](Dev/DataBases/EFCore/Dev%20EFCore%20resources.md)
