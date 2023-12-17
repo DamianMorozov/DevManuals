@@ -1,5 +1,21 @@
 # Docker cheatsheet
 
+## Common
+```
+docker run									# Create and run a new container from an image
+docker exec									# Execute a command in a running container
+docker ps									# List containers
+docker build								# Build an image from a Dockerfile
+docker pull									# Download an image from a registry
+docker push									# Upload an image to a registry
+docker images								# List images
+docker login								# Log in to a registry
+docker logout								# Log out from a registry
+docker search								# Search Docker Hub for images
+docker version								# Show the Docker version information
+docker info									# Display system-wide information
+```
+
 ## Images
 ```
 docker pull <image>							# download the image
@@ -11,11 +27,10 @@ docker rmi <image>							# remove the image
 ## Containers
 ```
 docker run <image>							# download the image, create and start the container
-docker run -d \
-  --name <container> \
-  --mount source=/mnt/share,target=/mnt/share \
-  <image>:latest							# run the container in background, set name, add mount directory
-docker run <image> sleep 5					# run the container for 5 seconds and then go to sleep
+docker run -d --name <container> --mount source=/mnt/share,target=/mnt/share <image>:latest
+											# run the container in background, set name, add mount directory
+docker run -d busybox sleep 5				# run the busybox in background and wait 5 seconds
+docker run <image> sleep 5					# run the container and wait 5 seconds
 docker run <image>:<tag>					# run the container with tag
 docker run -it <container> /bin/bash		# to get an interactive shell
 docker ps									# list running containers
@@ -28,6 +43,7 @@ docker rm <container_name>					# remove the container by name
 docker container stats						# view a live stream of container(s) resource usage statistics
 docker stats								# view a live stream of container(s) resource usage statistics
 docker container stop <container>			# stop running container
+docker start <container>					# strat container
 docker stop <container>						# stop running container
 docker container inspect <container>		# view detailed information on one or more container
 docker inspect <container>					# view detailed information on one or more container
@@ -67,5 +83,6 @@ docker logs -f <container>					# to debug the container
 ```
 docker exec <container> <command>			# exec the command into the container
 docker exec <container> cat /etc/hosts		# example of exec the command into the container
-docker exec -it <container> /bin/bash		# to get an interactive shell
+docker exec -it <container> /bin/bash		# interactive shell
+docker exec -it <container> sh				# interactive shell
 ```

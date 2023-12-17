@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.919] - 2023-12-17
+### Changed
+- [Dev/Docker/Docker cheatsheet](Dev/Docker/Docker%20cheatsheet.md)
+
 ## [0.3.918] - 2023-12-06
 ### Changed
 - [Dev/dotNET/dotNET resources](Dev/dotNET/dotNET%20resources.md)
