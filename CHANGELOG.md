@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.920] - 2023-12-20
+### Changed
+- [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
+
 ## [0.3.919] - 2023-12-17
 ### Changed
 - [Dev/Docker/Docker cheatsheet](Dev/Docker/Docker%20cheatsheet.md)

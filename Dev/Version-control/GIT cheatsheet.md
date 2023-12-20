@@ -327,6 +327,14 @@ git checkout .
 git clean -fd
 ```
 
+## Cherry-pick
+```
+git cherry-pick <hash2>								## copy commit with apply commit
+git cherry-pick <hash2> --no-commit					## copy commit without apply commit
+git cherry-pick <hash2> --edit						## copy commit with edit message
+git cherry-pick <hash2> -x							## copy commit with message "(cherry picked from commit …​)"
+```
+
 ## SSH sign
 ```
 git verify-commit -v <hash1>						## print commit contents
