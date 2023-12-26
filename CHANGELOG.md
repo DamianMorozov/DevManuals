@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.922] - 2023-12-26
+### Added
+- [Dev/ASCII](Dev/ASCII/README.md)
+- [Dev/ASCII/ASCII](Dev/ASCII/ASCII.md)
+
 ## [0.3.920] - 2023-12-20
 ### Changed
 - [Dev/Version-control/GIT cheatsheet](Dev/Version-control/GIT%20cheatsheet.md)
