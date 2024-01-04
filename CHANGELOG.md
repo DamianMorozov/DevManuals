@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.927] - 2024-01-04
+### Added
+- [Dev/JavaScript/Dev JS Node.js](Dev/JavaScript/Dev%20JS%20Node.js.md)
+- [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
+- [Dev/JavaScript/Dev JS resources](Dev/JavaScript/Dev%20JS%20resources.md)
+### Changed
+- [Dev/JavaScript](Dev/JavaScript/README.md)
+
 ## [0.3.922] - 2023-12-26
 ### Added
 - [Dev/ASCII](Dev/ASCII/README.md)
