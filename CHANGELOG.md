@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.933] - 2024-01-14
+### Added
+- [Dev/JavaScript/Dev JS React MUI](Dev/JavaScript/Dev%20JS%20React MUI.md)
+- [Dev/JavaScript/Dev JS data types](Dev/JavaScript/Dev%20JS%20data%20types.md)
+- [Dev/JavaScript/Dev JS nvm](Dev/JavaScript/Dev%20JS%20nvm.md)
+### Changed
+- [Dev/JavaScript/README](Dev/JavaScript/README.md)
+- [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
+
 ## [0.3.927] - 2024-01-04
 ### Added
 - [Dev/JavaScript/Dev JS Node.js](Dev/JavaScript/Dev%20JS%20Node.js.md)
