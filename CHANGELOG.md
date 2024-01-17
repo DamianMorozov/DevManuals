@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.935] - 2024-01-17
+### Changed
+- [Dev/DataBases/SSMS settings](Dev/DataBases/SSMS%20settings.md)
+- [Dev/JavaScript/Dev JS nvm](Dev/JavaScript/Dev%20JS%20nvm.md)
+
 ## [0.3.933] - 2024-01-14
 ### Added
 - [Dev/JavaScript/Dev JS React MUI](Dev/JavaScript/Dev%20JS%20React MUI.md)

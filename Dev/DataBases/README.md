@@ -33,4 +33,4 @@
 - [Questions before making changes to SQL Server [Rus]](Questions%20before%20making%20changes%20to%20SQL%20Server%20[Rus].md)
 - [Setup versions](Setup%20versions.md)
 - [SqlLocalDB](SqlLocalDB.md)
-- [SSMS Cheet sheet](SSMS%20Cheet%20sheet.md)
+- [SSMS settings](SSMS%20settings.md)
