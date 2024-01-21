@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.937] - 2024-01-21
+## [0.3.938] - 2024-01-21
 ### Changed
 - [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
 ### Added
 - [Dev/JavaScript/Dev JS Babel](Dev/JavaScript/Dev%20JS%20Babel.md)
+- [Windows/Command Prompt/Windows Console UTF-8 fix](Windows/Command Prompt/Windows%20Console%20UTF-8%20fix.reg)
 
 ## [0.3.935] - 2024-01-17
 ### Changed

@@ -21,3 +21,4 @@
 - [Shutdown after 15 minutes](Shutdown%20after%2015%20minutes.cmd)
 - [Shutdown after 60 minutes](Shutdown%20after%2060%20minutes.cmd)
 - [Shutdown now](Shutdown%20now.cmd)
+- [Windows Console UTF-8 fix.reg](Windows Console UTF-8 fix.reg)
