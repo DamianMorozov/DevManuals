@@ -12,6 +12,8 @@
 - [MUI React - Overview](https://mui.com/material-ui/getting-started/)
 - [MUI React - Installation](https://mui.com/material-ui/getting-started/installation/)
 - [MUI React - Usage](https://mui.com/material-ui/getting-started/usage/)
+- [React](https://react.dev/)
+- [Babel JS](https://babeljs.io/)
 
 ## Kirupa Chinnathambi
 - [Kirupa ](https://www.kirupa.com/)
@@ -30,3 +32,11 @@
 ### Kirupa Chinnathambi Videos
 - [Kirupa Youtube](https://www.youtube.com/@kirupa)
 - [Kirupa Youtube](https://www.youtube.com/channel/UCZCQ3LXtU3IUzMBQBqN69KQ)
+
+## Quick start
+```
+npm install -g create-react-app
+npx create-react-app app-test
+cd app-test
+npm start
+```

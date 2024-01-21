@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.937] - 2024-01-21
+### Changed
+- [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
+### Added
+- [Dev/JavaScript/Dev JS Babel](Dev/JavaScript/Dev%20JS%20Babel.md)
+
 ## [0.3.935] - 2024-01-17
 ### Changed
 - [Dev/DataBases/SSMS settings](Dev/DataBases/SSMS%20settings.md)
