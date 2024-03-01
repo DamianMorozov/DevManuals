@@ -12,6 +12,8 @@
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [Collapse Level](https://marketplace.visualstudio.com/items?itemName=mwilski.CollapseLevel)
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+- [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+- [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer)
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 - [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
@@ -20,6 +22,7 @@
 - [Microsoft Visual Studio Installer Projects 2022](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2022InstallerProjects)
 - [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
 - [Snyk Security](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner-vs-2022)
+- [SonarLint for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022)
 - [Source Server Browser Power Tool 2022](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftSourceServerBrowserPowerTool2022)
 - [SQL Server Integration Services Projects 2022](https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices)
 - [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
@@ -28,10 +31,8 @@
 - [Version Changer 2022](https://marketplace.visualstudio.com/items?itemName=Newky2k.VersionChanger2022)
 - [Visual-Studio-Translator](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1462295.Visual-Studio-Translator)
 - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
-- [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
-- [SonarLint for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022)
 - [VSSonarExtension2022](https://marketplace.visualstudio.com/items?itemName=JorgeManuelEstevesdaCosta.VSSonarQubeExtension2012)
-- [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+- [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 
 ## Visual Studio 2022 Extensions ChatGPT
 - [AskChatGPT](https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT)

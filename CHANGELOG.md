@@ -6,16 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.939] - 2024-03-01
+## [0.3.940] - 2024-03-01
 ### Added
 - [Dev/CSharp/CLR via CSharp](Dev/CSharp/CLR%20via%20CSharp.md)
+### Changed
+- [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
 
 ## [0.3.938] - 2024-01-21
-### Changed
-- [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
 ### Added
 - [Dev/JavaScript/Dev JS Babel](Dev/JavaScript/Dev%20JS%20Babel.md)
 - [Windows/Command Prompt/Windows Console UTF-8 fix](Windows/Command Prompt/Windows%20Console%20UTF-8%20fix.reg)
+### Changed
+- [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
 
 ## [0.3.935] - 2024-01-17
 ### Changed
