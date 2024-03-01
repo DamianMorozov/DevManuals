@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.939] - 2024-03-01
+### Added
+- [Dev/CSharp/CLR via CSharp](Dev/CSharp/CLR%20via%20CSharp.md)
+
 ## [0.3.938] - 2024-01-21
 ### Changed
 - [Dev/JavaScript/Dev JS React](Dev/JavaScript/Dev%20JS%20React.md)
