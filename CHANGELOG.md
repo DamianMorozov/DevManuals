@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.3.940] - 2024-03-01
+## [0.3.942] - 2024-03-05
+### Changed
+- [Dev/CSharp](Dev/CSharp/README.md)
+- [Dev/CSharp/Dev CLR via CSharp](Dev/CSharp/Dev%20CLR%20via%20CSharp.md)
+
+## [0.3.950] - 2024-03-01
 ### Added
-- [Dev/CSharp/CLR via CSharp](Dev/CSharp/CLR%20via%20CSharp.md)
+- [Dev/CSharp/Dev CLR via CSharp](Dev/CSharp/Dev%20CLR%20via%20CSharp.md)
 ### Changed
 - [Dev/Visual Studio/Extensions](Dev/Visual%20Studio/Extensions.md)
 
