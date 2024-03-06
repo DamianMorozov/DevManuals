@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.943] - 2024-03-06
+### Changed
+- [LICENSE](LICENSE.md)
+
 ## [0.3.942] - 2024-03-05
 ### Changed
 - [Dev/CSharp](Dev/CSharp/README.md)
