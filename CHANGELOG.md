@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.948] - 2024-04-11
+### Changed
+- [Dev/CSharp](Dev/CSharp/README.md)
+
 ## [0.3.945] - 2024-03-25
 ### Changed
 - [Dev/Visual Studio](Dev/Visual%20Studio/README.md)
