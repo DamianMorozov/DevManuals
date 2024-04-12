@@ -4,15 +4,15 @@
 
 ## Sections
 - [Android](Android/README.md)
+- [CSharp](CSharp/README.md)
 - [ChatGPT](ChatGPT/README.md)
 - [Communications](Communications/README.md)
-- [CSharp](CSharp/README.md)
 - [DataBases](DataBases/README.md)
 - [Design patterns](Design%20patterns/README.md)
 - [Diagrams](Diagrams/README.md)
 - [Docker](Docker/README.md)
-- [dotNET](dotNET/README.md)
 - [Frameworks](Frameworks/README.md)
+- [GIT](GIT/README.md)
 - [GitHub Copilot](GitHub%20Copilot/README.md)
 - [GitHub repos](GitHub%20repos/README.md)
 - [Go](Go/README.md)
@@ -25,11 +25,12 @@
 - [NuGet](NuGet/README.md)
 - [Python](Python/README.md)
 - [QA](QA/README.md)
+- [SVN](SVN/README.md)
 - [Security](Security/README.md)
-- [Version-control](Version-control/README.md)
 - [Virtual machine](Virtual%20machine/README.md)
 - [Visual Studio](Visual%20Studio/README.md)
 - [XAML](XAML/README.md)
+- [dotNET](dotNET/README.md)
 
 ## Items
 - [10 Questions Product Managers [Rus]](10%20Questions%20Product%20Managers%20[Rus].md)

@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Changed
 - [Dev/NuGet](Dev/NuGet/README.md)
 - [Dev/GIT](Dev/GIT/README.md)
+- [Dev/SVN](Dev/SVN/README.md)
 
 ## [0.3.948] - 2024-04-11
 ### Changed
