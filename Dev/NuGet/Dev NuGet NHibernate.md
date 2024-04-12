@@ -1,4 +1,4 @@
-# NHibernate
+# Dev NuGet NHibernate
 
 - [NHibernate](https://github.com/nhibernate/nhibernate-core)
 - [FluentNHibernate](https://github.com/nhibernate/fluent-nhibernate)

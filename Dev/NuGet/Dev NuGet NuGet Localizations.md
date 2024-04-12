@@ -1,4 +1,4 @@
-# NuGet Localizations
+# Dev NuGet Localizations
 
 ## Links for CodingSeb
 - [codingseb/Localization](https://github.com/codingseb/Localization)

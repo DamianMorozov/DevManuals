@@ -1,6 +1,7 @@
-# Nuget CLI
-Create a package using the nuget.exe CLI
-https://docs.microsoft.com/en-us/nuget/create-packages/creating-a-package
+# Dev NuGet Nuget CLI
+
+## Links
+- [Create a package using the nuget.exe CLI](https://docs.microsoft.com/en-us/nuget/create-packages/creating-a-package)
 
 1. Sign in at [https://www.nuget.org/].
 2. Download available NuGet distribution from [https://www.nuget.org/downloads].
