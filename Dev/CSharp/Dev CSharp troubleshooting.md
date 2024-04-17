@@ -1,5 +1,9 @@
 # CSharp troubleshooting
 
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 ## The SSL connection could not be established
 *.cs
 ```

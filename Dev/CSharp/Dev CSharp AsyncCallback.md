@@ -1,5 +1,9 @@
-﻿--------------------------------------------------------------------------------------------------------------
-Control.BeginInvoke (Delegate, Object[])
+﻿# Dev C# Control.BeginInvoke (Delegate, Object[])
+
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 https://msdn.microsoft.com/ru-ru/library/a06c0dc2(v=vs.110).aspx
 --------------------------------------------------------------------------------------------------------------
 foreach (var item in ribbonControl.Items)

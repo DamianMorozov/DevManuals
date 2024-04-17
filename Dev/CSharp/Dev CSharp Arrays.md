@@ -1,5 +1,8 @@
-Arrays. Get length
-------------------
+# Dev C# Arrays. Get length
+
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
 
 // 1. For 1 dimensional array
 int[] listItems = new int[] {2,4,8};

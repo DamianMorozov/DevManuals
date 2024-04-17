@@ -1,5 +1,9 @@
 # CSharp Localization CodingSeb
 
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 ## Links
 - [codingseb/Localization](https://github.com/codingseb/Localization)
 

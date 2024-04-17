@@ -1,5 +1,9 @@
 # IDisposable
 
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 ## Links
 - [What is "managed code"?](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)
 - [Cleaning up unmanaged resources](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)

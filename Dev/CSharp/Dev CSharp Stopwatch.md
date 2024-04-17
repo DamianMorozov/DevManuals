@@ -1,5 +1,9 @@
 # Stopwatch
 
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 ## Properties
 Elapsed - returns the total elapsed time.
 ElapsedMilliseconds - returns the total elapsed time in milliseconds.

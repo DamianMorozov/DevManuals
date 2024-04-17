@@ -1,7 +1,10 @@
-====================================================================================================
-6 lesser-known features of C# .NET that you should be using
+# Dev C# 6 lesser-known features of C# .NET that you should be using
+
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 https://chrisstclair.co.uk/6-lesser-known-features-of-c-net-that-you-should-be-using/
-====================================================================================================
 // 1. Use Stopwatch instead DateTime.
 var sleeps = new List<int>();
 for (var i = 1; i < 10; i++)

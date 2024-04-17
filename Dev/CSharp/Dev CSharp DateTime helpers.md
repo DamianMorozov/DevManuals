@@ -1,6 +1,10 @@
-====================================================================================================
-DateTime helpers
-====================================================================================================
+# DateTime helpers
+
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
+```
 public string FormatSeconds(double secs, bool showHours, bool showMinutes, bool showSeconds, bool showMilliseconds)
 {
     TimeSpan t = TimeSpan.FromSeconds(secs);
@@ -22,7 +26,7 @@ public string FormatSeconds(double secs, bool showHours, bool showMinutes, bool 
                     strSeconds,
                     strMilliseconds);
 }
-----------------------------------------------------------------------------------------------------
+
 // Get DateTime from unix long.
 public DateTime GetDt(long unixDate)
 {
@@ -30,4 +34,4 @@ public DateTime GetDt(long unixDate)
     dt = dt.AddSeconds(unixDate).ToLocalTime();
 	return dt;
 }
-----------------------------------------------------------------------------------------------------
+```

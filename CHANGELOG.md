@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [0.4.010] - 2024-04-17
+### Changed
+- [Dev/CSharp](Dev/CSharp/README.md)
 
 ## [0.3.960] - 2024-04-12
 ### Changed

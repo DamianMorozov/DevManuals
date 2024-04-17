@@ -1,5 +1,9 @@
 # Classification of errors according to M. Flyonov's version
 
+- [Back to the Home](../../../README.md)
+- [Back to the Dev](../../README.md)
+- [Back to the section](README.md)
+
 1. errors in working with computer resources required by the program
   - memory capacity
   - storage failure
