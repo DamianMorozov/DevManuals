@@ -58,3 +58,4 @@
 - [Readme](Readme.md)
 - [SOLID](SOLID.md)
 - [Technology stack](Technology%20stack.md)
+- [Windows SDK](Windows%20SDK.md)

@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.013] - 2024-07-12
+### Changed
+- [Dev/Windows SDK](Dev/Windows%20SDK.md)
+
 ## [0.4.012] - 2024-06-30
 ### Changed
 - [Dev/GIT/Dev Git GitHub SSH keys](Dev/GIT/Dev%20Git%20GitHub%20SSH%20keys.md)
