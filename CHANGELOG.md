@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.014] - 2025-03-02
+### Changed
+- [Dev/DataBases/SSMS settings](Dev/DataBases/SSMS%20settings.md)
+
 ## [0.4.013] - 2024-07-12
 ### Changed
 - [Dev/Windows SDK](Dev/Windows%20SDK.md)
