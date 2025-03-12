@@ -4,9 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [0.4.015] - 2025-03-12
+## [0.4.016] - 2025-03-12
 ### Changed
-- [Dev/Docker/Docker resources](Dev/Docker/Docker%20resources.md)
+- Dev/Docker/Docker resources
+- Dev/GIT/Dev Git resources
 
 ## [0.4.014] - 2025-03-02
 ### Changed

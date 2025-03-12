@@ -16,6 +16,7 @@
 - [Git Commit Best Practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [GitHub Docs](https://docs.github.com/en)
+- [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Git Russian resources
 - [Make GitHub profile](https://techrocks.ru/2020/08/21/github-profile-readme/)
