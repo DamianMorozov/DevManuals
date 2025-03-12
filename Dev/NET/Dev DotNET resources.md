@@ -5,9 +5,14 @@
 - [Back to the section page](README.md)
 
 ## Links
+- [Milan Jovanović | youtube.com](https://www.youtube.com/@MilanJovanovicTech)
+- [milanjovanovic.tech](https://www.milanjovanovic.tech/)
+- [ByteByteGo | youtube.com](https://www.youtube.com/@ByteByteGo)
+- [ByteByteGo.com](https://bytebytego.com/)
 - [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 - [.NET Conf 2022](https://dotnetconf.net/)
 - [.NET Home](https://github.com/dotnet/core)
+- [.NET Build. Test. Deploy.](https://dotnet.microsoft.com)
 - [.NET Live TV](https://dotnet.microsoft.com/live/)
 - [.NET Multi-platform App UI](https://dotnet.microsoft.com/en-us/apps/maui)
 - [.NET Release Notes](https://github.com/dotnet/core/tree/main/release-notes/)
