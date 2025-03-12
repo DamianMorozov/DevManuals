@@ -9,6 +9,7 @@
 - [How and why to use Docker (Rus)](https://guides.hexlet.io/docker/ "guides.hexlet.io")
 - [Docker Getting Started Tutorial](https://github.com/docker/getting-started "github.com")
 - [Docker Training Course for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/ "kodekloud.com")
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
 
 ## Management
 - [portainer.io(https://www.portainer.io/)
