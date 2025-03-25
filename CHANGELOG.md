@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.031] - 2025-03-25
+### Changed
+- Dev/NET/Dev DotNET resources
+
 ## [0.4.030] - 2025-03-12
 ### Changed
 - Dev/Docker/Docker resources

@@ -9,6 +9,8 @@
 - [milanjovanovic.tech](https://www.milanjovanovic.tech/)
 - [ByteByteGo | youtube.com](https://www.youtube.com/@ByteByteGo)
 - [ByteByteGo.com](https://bytebytego.com/)
+- [Kevin Bost | youtube.com](https://www.youtube.com/@Kitokeboo)
+- [Zoran Horvat | youtube.com](https://www.youtube.com/@zoran-horvat)
 - [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 - [.NET Conf 2022](https://dotnetconf.net/)
 - [.NET Home](https://github.com/dotnet/core)
