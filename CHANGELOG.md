@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.010] - 2025-08-17
+### Added
+- Dev/Architecture/Dev Architecture SOLID
+
 ## [0.4.031] - 2025-03-25
 ### Changed
 - Dev/NET/Dev DotNET resources
