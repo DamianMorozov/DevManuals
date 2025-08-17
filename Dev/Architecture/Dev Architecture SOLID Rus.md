@@ -1,4 +1,4 @@
-# 🧠 SOLID Principles Cheat Shee
+# 🧠 Шпаргалка принципов SOLID
 
 
 ## ✅ Общая идея
