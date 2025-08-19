@@ -1,22 +1,32 @@
 # Windows 10 updates blacklist
 
-- [Back to the Home page](../../README.md)
-- [Back to the Windows page](../README.md)
-- [Back to the README page](README.md)
-
-## List
-- KB5013943
-
-# Windows 10 uninstall updates
+## Команды для поиска и удаления обновления
 ```
-wusa /uninstall /kb:5013943
+wmic qfe get HotFixID | find "KB5063878"
+dism /online /get-packages | findstr KB5063878
+wusa /uninstall /kb:5063878 /quiet /norestart
 ```
 
-# Windows 11 updates blacklist
-- KB5014019  
-- [Windows 11 preview update KB5014019 breaks Trend Micro Ransomware Protection](https://borncity.com/win/2022/05/27/windows-11-trend-micro-ransomware-protection-macht-rger-mit-preview-update-kb5014019/)
+## Команды для проверки дисков
+```
+chkdsk C: /f /r
+```
 
-# Windows 11 uninstall updates
+KB-номер | Версия Windows | Причина удаления (в прошлом) | 
+KB5001330 | Win10 20H2/21H1 | Снижение FPS в играх, сбои печати | 
+KB5000842 | Win10 20H2 | Проблемы с производительностью, синие экраны | 
+KB5025885 | Win10 | Некорректная работа сетевых подключений | 
+KB5012643 | Win11 21H2 | Ошибки в работе Safe Mode с Boot | 
+KB5013943 | Win11 | BSOD, ошибки загрузки ОС
+KB5014019 | Win11 | Неполное исправление багов .NET Framework
+KB5027231 | Win11 22H2 | Петли перезагрузки на части устройств | 
+KB5063878 | Win11 24H2 | Вывод из строя HDD/SSD
+
+## Создать точку восстановления
 ```
-wusa /uninstall /kb:5014019
+Enable-ComputerRestore -Drive "C:"
+Checkpoint-Computer -Description "Before removing KB" -RestorePointType MODIFY_SETTINGS
 ```
+
+## 🖥 PowerShell-скрипт для удаления конкретных KB: `.\Remove-KBs.ps1`
+Разреши выполнение скриптов командой: `Set-ExecutionPolicy RemoteSigned`

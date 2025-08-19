@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.030] - 2025-08-19
+### Added
+- Windows/Updates/Remove-KBs.ps1
+### Changed
+- Windows/Updates/Windows updates blacklist
+
 ## [0.4.020] - 2025-08-17
 ### Added
 - Dev/Architecture/Dev Architecture Clean Architecture applications
