@@ -28,5 +28,5 @@ Enable-ComputerRestore -Drive "C:"
 Checkpoint-Computer -Description "Before removing KB" -RestorePointType MODIFY_SETTINGS
 ```
 
-## 🖥 PowerShell-скрипт для удаления конкретных KB: `.\Remove-KBs.ps1`
+## 🖥 PowerShell-скрипт для удаления конкретных KB: `.\Remove-and-hide-KBs.ps1`
 Разреши выполнение скриптов командой: `Set-ExecutionPolicy RemoteSigned`
