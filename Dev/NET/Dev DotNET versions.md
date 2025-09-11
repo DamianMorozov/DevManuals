@@ -1,9 +1,6 @@
-# dotNET versions
+# Dev DotNET versions
 
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the section page](README.md)
-
+## Links
 - [What's new in .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 - [What's new in .NET 7](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7)
 - [What's new in .NET 6](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6)

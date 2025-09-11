@@ -4,7 +4,9 @@
 - [Back to the Dev page](../README.md)
 
 ## Items
-- [dotNET cheatsheet](NET%20cheatsheet.md)
-- [dotNET quick start](NET%20quick%20start.md)
-- [dotNET resources](NET%20resources.md)
-- [dotNET run version](NET%20run%20version.md)
+- [Dev DotNET cheatsheet](Dev%20DotNET%20cheatsheet.md)
+- [Dev DotNET quick start](Dev%20DotNET%20quick%20start.md)
+- [Dev DotNET resources](Dev%20DotNET%20resources.md)
+- [Dev DotNET run version](Dev%20DotNET%20run%20version.md)
+- [Dev DotNET versions Rus](Dev%20DotNET%20versions%20Rus.md)
+- [Dev DotNET versions](Dev%20DotNET%20versions.md)

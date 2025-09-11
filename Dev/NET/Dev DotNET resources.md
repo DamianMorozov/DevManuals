@@ -1,8 +1,4 @@
-# dotNET resources
-
-- [Back to the Home page](../../README.md)
-- [Back to the Dev page](../README.md)
-- [Back to the section page](README.md)
+# Dev DotNET resources
 
 ## Links
 - [Milan Jovanović | youtube.com](https://www.youtube.com/@MilanJovanovicTech)

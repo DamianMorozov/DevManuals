@@ -4,11 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [0.4.030] - 2025-08-19
+## [0.4.100] - 2025-09-11
+### Changed
+- Dev/NET
 ### Added
-- Windows/Updates/Remove-and-hide-KBs.ps1
+- Dev/NET/Dev DotNET versions Rus
+
+## [0.4.030] - 2025-08-19
 ### Changed
 - Windows/Updates/Windows updates blacklist
+### Added
+- Windows/Updates/Remove-and-hide-KBs.ps1
 
 ## [0.4.020] - 2025-08-17
 ### Added
