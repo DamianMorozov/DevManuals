@@ -30,3 +30,7 @@ Checkpoint-Computer -Description "Before removing KB" -RestorePointType MODIFY_S
 
 ## 🖥 PowerShell-скрипт для удаления конкретных KB: `.\Remove-and-hide-KBs.ps1`
 Разреши выполнение скриптов командой: `Set-ExecutionPolicy RemoteSigned`
+
+## Show or Hide Updates
+https://download.microsoft.com/download/f/2/2/f22d5fdb-59cd-4275-8c95-1be17bf70b21/wushowhide.diagcab
+Hide updates - KB5063878 - Далее

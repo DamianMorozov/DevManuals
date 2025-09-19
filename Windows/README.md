@@ -16,5 +16,6 @@
 - [Networks](Networks.md)
 - [PID](PID.md)
 - [Systems](Systems.md)
+- [Windows 11 install](Windows%2011%20install.md)
 - [Windows Terminal](Windows%20Terminal.md)
 - [Winget](Winget.md)

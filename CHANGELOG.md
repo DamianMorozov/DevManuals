@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.102] - 2025-09-19
+### Changed
+- Windows/Updates/Windows updates blacklist
+### Added
+- Windows/Windows 11 install
+
 ## [0.4.100] - 2025-09-11
 ### Changed
 - Dev/NET
