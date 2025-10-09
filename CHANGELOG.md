@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.4.106] - 2025-10-09
+### Added
+- Dev/Architecture/Dev Architecture DRY Rus
+- Dev/Architecture/Dev Architecture KISS Rus
+- Dev/Architecture/Dev Architecture YAGNI Rus
+### Changed
+- Dev/Architecture/Dev Architecture SOLID Rus
+
 ## [0.4.102] - 2025-09-19
 ### Changed
 - Windows/Updates/Windows updates blacklist
